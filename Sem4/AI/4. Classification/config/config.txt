@@ -1,0 +1,4 @@
+3
+num_iter:100000
+learning_rate:0.1
+epoch_feedback:4000
