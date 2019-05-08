@@ -1,0 +1,11 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'Lab11'
+include 'film_core'
+findProject(':film_core')?.name = 'core'
+include 'film_web'
+findProject(':film_web')?.name = 'web'
+
