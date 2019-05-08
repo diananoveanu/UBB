@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="User Data Source -" uuid="85b5d666-7823-49cf-a84a-9221090a48c4">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="UNKNOWN" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+    </data-source>
+  </component>
+</project>

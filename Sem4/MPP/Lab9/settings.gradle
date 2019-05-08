@@ -1,0 +1,6 @@
+rootProject.name = 'Films'
+include 'core'
+include 'web_folder'
+include 'client'
+include 'web'
+

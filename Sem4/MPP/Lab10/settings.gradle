@@ -1,0 +1,4 @@
+rootProject.name = 'Lab_10'
+include 'films_core'
+include 'films_web'
+

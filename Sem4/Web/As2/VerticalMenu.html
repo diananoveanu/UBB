@@ -1,0 +1,92 @@
+<!-- Write a web page which should contain a vertical menu. 
+The menu should be displayed in the left side of the page and should contain at least 5 items 
+(displayed vertically, one on top of each other) and each item should be expanded on the right 
+side to a group of at least 5 commands. -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .vertical-menu {
+            width: 200px;
+        }
+        .vertical-menu a {
+            background-color: #eee;
+            color: black;
+            display: block;
+            padding: 12px;
+            text-decoration: none;
+            position: relative;
+        }
+
+        .vertical-menu a:hover {
+            background-color: lavender;
+        }
+
+        .vertical-menu a.active {
+            background-color: pink;
+            color: indigo;
+        }
+        .submenu{
+            position: absolute;
+            left:100%;
+            background:rosybrown;
+            width:300px;
+            display: none;            
+        }
+        a:hover .submenu{
+            display: initial;
+        }
+    </style>
+</head>
+<body>
+<div class="vertical-menu">
+    <a href="#" class="active">My favourite things</a>
+    <a href="#">Raindrops on roses
+        <div class="submenu">
+            <div class="submenu-item">And whiskers on kittens</div>
+            <div class="submenu-item">Bright copper kettles</div>
+            <div class="submenu-item">And warm woolen mittens</div>
+            <div class="submenu-item">Brown paper packages tied up with strings</div>
+            <div class="submenu-item">These are a few of my favorite things</div>
+        </div>
+    </a>
+    <a href="#">Cream-colored ponies
+        <div class="submenu">
+            <div class="submenu-item">And crisp apple strudels</div>
+            <div class="submenu-item">Doorbells and sleigh bells</div>
+            <div class="submenu-item">And schnitzel with noodles</div>
+            <div class="submenu-item">Wild geese that fly with the moon on their wings</div>
+            <div class="submenu-item">These are a few of my favorite things</div>
+        </div>
+    </a>
+    <a href="#">Girls in white dresses
+         <div class="submenu">
+            <div class="submenu-item">With blue satin sashes</div>
+            <div class="submenu-item">Snowflakes that stay on my nose </div>
+            <div class="submenu-item">And eyelashes</div>
+            <div class="submenu-item">Silver-white winters that melt into springs</div>
+            <div class="submenu-item">These are a few of my favorite things</div>
+        </div>
+    </a>
+    <a href="#">When the dog bites
+        <div class="submenu">
+            <div class="submenu-item">When the bee stings</div>
+            <div class="submenu-item">When I'm feeling sad </div>
+            <div class="submenu-item">I simply remember</div>
+            <div class="submenu-item">My favorite things</div>
+            <div class="submenu-item">And then I don't feel so bad</div>
+        </div>
+    </a>
+    <a href="#">Raindrops on roses
+        <div class="submenu">
+            <div class="submenu-item">And whiskers on kittens</div>
+            <div class="submenu-item">Bright copper kettles</div>
+            <div class="submenu-item">And warm woolen mittens</div>
+            <div class="submenu-item">Brown paper packages tied up with strings</div>
+            <div class="submenu-item">These are a few of my favorite things</div>
+        </div>
+    </a>
+</div>
+</body>

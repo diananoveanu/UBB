@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    @font-face {
+      font-family: Merriweather Light;
+      src: url("merriweather/Merriweather-Light.otf") format("opentype");
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Merriweather Light', serif;
+    }
+
+    .topnav {
+      display: flex;
+      overflow: hidden;
+      width: 100%;
+    }
+
+    .topnav-centered {
+      display: flex;
+      justify-content: flex-end;
+      padding-right: 100px;
+      background-color: #313c3c;
+      width: 1200px;
+    }
+
+    .topnav-centered a {
+      display: inline-flex;
+      width: 100%;
+      margin-right: 0;
+      padding: 14px;
+    }
+
+    .topnav .search-container {
+      display: inline-flex;
+      width: 280px;
+      flex-direction: row-reverse;
+      height: 41px;
+      background: black;
+    }
+
+    .topnav>div {
+      list-style-image: none;
+      list-style-type: none;
+      text-align: center;
+      text-rendering: optimizeLegibility;
+      height: 41px;
+    }
+
+    .topnav input[type=text] {
+      display: inline-flex;
+      align-self: flex-end;
+      border: none;
+      background: black;
+      width: 200px;
+      font-family: "Merriweather Light", "Times New Roman", serif;
+      font-size: 14.399999618530273px;
+      font-style: normal;
+      font-variant-caps: normal;
+      font-weight: normal;
+      height: 40px;
+      letter-spacing: normal;
+      line-height: 18px;
+    }
+
+    .topnav .search-container button {
+      align-self: left;
+      display: inline-flex;
+      justify-content: left;
+      background: black;
+      color: white;
+      height: 41px;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: lighter;
+    }
+
+    .topnav>div>div>a {
+      text-decoration: none;
+      color: white;
+      font-family: "Merriweather Light", Arial, sans-serif;
+      font-size: 13.600000381469727px;
+      font-style: normal;
+      font-weight: bolder;
+    }
+
+
+    /* Second nav bar*/
+
+    .second-nav {
+      display: flex;
+      width: 100%;
+      height: 92px;
+      background: #F3F3F1;
+    }
+
+    .left-nav-up {
+      display: flex;
+      height: 50px;
+      width: 522px;
+      background: white;
+      font-family: "Merriweather Light", "Times New Roman", serif;
+      font-size: 19.200000762939453px;
+      font-style: normal;
+      font-weight: 300;
+      height: 49.71875px;
+      line-height: 19px;
+    }
+
+    .harvard-heading {
+      width: 246px;
+      height: 92px;
+      background: white;
+      z-index: 1000;
+      overflow: visible;
+    }
+
+    .harvard-heading>img {
+      width: 90%;
+      padding-top: 20px;
+      padding-left: 23px;
+      overflow: visible;
+
+    }
+
+    .right-nav-up {
+      flex-direction: row;
+      display: flex;
+      height: 50px;
+      width: 522px;
+      background: white;
+      font-family: "Merriweather Light", "Times New Roman", serif;
+      font-size: 19.200000762939453px;
+      font-weight: 300;
+      height: 49.71875px;
+      line-height: 19px;
+    }
+
+    .second-nav>div>div>div {
+      width: 240px;
+      height: 50px;
+      text-align: center;
+      padding-top: 15px;
+    }
+
+    .second-nav>div>div>div>a {
+      color: rgb(165, 28, 48);
+      font-weight: 300;
+      height: 49.71875px;
+      line-height: 19px;
+      text-decoration: none;
+    }
+
+    .second-nav>div>span {
+      display: inline-flex;
+      text-align: center;
+      width: 240px;
+      height: 50px;
+
+    }
+
+    .second-nav>div>span>div {
+      text-align: center;
+      display: inline-flex;
+      padding-top: 10px;
+    }
+
+    .second-nav>div>span>div>a {
+      color: rgb(165, 28, 48);
+      width: 240px;
+      text-decoration: none;
+    }
+
+
+    /* Actual page*/
+
+    .imag {
+      width: 100%;
+      height: 300px;
+    }
+
+    .vertical-menu>div>div>a {
+      display: flex;
+      font-family: "Merriweather Sans Regular", Arial, sans-serif;
+      width: 300px;
+      margin-bottom: .5em;
+      font-style: normal;
+      font-weight: 400;
+      height: 24px;
+      font-size: 1em;
+      line-height: 1.75em;
+      text-decoration: none;
+      color: #a51c30;
+      margin-left: 110px;
+
+    }
+
+    .vertical-menu>div>div>p {
+      font-size: 1em;
+      line-height: 1.75em;
+      max-width: 720px;
+      line-height: 30px;
+      font-style: normal;
+      font-weight: 300;
+      text-rendering: optimizeLegibility;
+      justify-content: space-around;
+      margin-top: -20px;
+    }
+
+    .vertical-menu>div {
+      display: flex;
+    }
+
+    li {
+      display: inline;
+      text-decoration: none;
+    }
+
+    h1 {
+      color: #414141;
+      margin: 100px;
+      margin-top: 100px;
+      font-size: 40px;
+      font-weight: 300;
+      text-rendering: optimizeLegibility
+    }
+
+    .arrow-down {
+      margin-left: 523px;
+      align-self: center;
+      width: 0;
+      height: 0;
+      border-left: 123px solid transparent;
+      border-right: 123px solid transparent;
+      position: absolute;
+      border-top: 80px solid white;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="topnav">
+    <div class="topnav-centered">
+      <div><a href="#">Faculty</a></div>
+      <div><a href="#">Staff</a></div>
+      <div><a href="#">Students</a></div>
+      <div><a href="#">Alumni</a></div>
+      <div><a href="#">Parents</a></div>
+      <div><a href="#">Visitors</a></div>
+      <div><a href="#">Media</a></div>
+    </div>
+    <div class="search-container">
+      <form action="/action_page.php">
+        <button type="submit"><i class="fa fa-search"></i></button>
+        <input type="text" placeholder="What can we help you find?">
+      </form>
+    </div>
+  </div>
+  <div class="second-nav">
+    <div class="left-nav">
+      <div class="left-nav-up">
+        <div><a href="#">About Harvard</a></div>
+        <div><a href="#">Admission & Aid</a></div>
+      </div>
+      <span class="left-nav-down">
+        <div><a href="#">Gazette News</a></div>
+        <div><a href="#">Events</a></div>
+      </span>
+
+    </div>
+    <div class="harvard-heading">
+      <img src="harvard-logo.png">
+    </div>
+    <div class="right-nav">
+      <div class="right-nav-up">
+        <div><a href="#">Schools</a></div>
+        <div><a href="#">On Campus</a></div>
+      </div>
+      <span class="right-nav-down">
+        <div><a href="#">Visit</a></div>
+        <div><a href="#">Give</a></div>
+      </span>
+    </div>
+
+  </div>
+
+
+  <div class="imag">
+    <div class="arrow-down">
+    </div>
+    <img src="banner.jpg">
+  </div>
+  <div>
+    <h1>About Harvard</h1>
+  </div>
+  <div class="vertical-menu">
+    <div class="paragraf">
+      <div>
+        <a href="#">Harvard at a Glance</a>
+        <a href="#">Harvard's President</a>
+        <a href="#">Harvard's Leadership</a>
+        <a href="#">Academic Experience</a>
+      </div>
+      <div>
+        <p>Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders in
+          many disciplines who make a difference globally. The University, which is based in Cambridge and Boston,
+          Massachusetts, has an enrollment of over 20,000 degree candidates, including undergraduate, graduate, and
+          professional students. Harvard has more than 360,000 alumni around the world.</p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

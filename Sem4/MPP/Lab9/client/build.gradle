@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'cezia'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.11
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile project(':web')
+
+    compile group: 'org.springframework', name: 'spring-web', version: "$springVersion"
+
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: "$jacksonDatabindVersion"
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: "$jacksonDatabindVersion"
+}
+
+mainClassName='client.ClientApp'

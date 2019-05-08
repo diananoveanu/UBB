@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Verdana, sans-serif;
+        }
+
+        .mySlides {
+            display: none;
+        }
+
+        img {
+            vertical-align: middle;
+        }
+
+        .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            margin: auto;
+        }
+
+        .text {
+            color: #f2f2f2;
+            font-size: 20px;
+            padding: 8px 12px;
+            position: absolute;
+            bottom: 8px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .numbertext {
+            color: #f2f2f2;
+            font-size: 12px;
+            padding: 8px 12px;
+            position: absolute;
+            top: 0;
+        }
+
+        .dot {
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+
+        .active {
+            background-color: #717171;
+        }
+
+        .fade {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes fade {
+            from {
+                opacity: .4
+            }
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes fade {
+            from {
+                opacity: .4
+            }
+            to {
+                opacity: 1
+            }
+        }
+
+        /* On smaller screens, decrease text size */
+        @media only screen and (max-width: 300px) {
+            .text {
+                font-size: 11px
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Art Gallery</h2>
+    <div class="slideshow-container">
+        <div class="mySlides fade">
+            <div class="numbertext">1 / 6</div>
+            <img src="tipatul.jpg" style="width:100%">
+            <div class="text">The Scream, Edvard Munch, 1893</div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">2 / 6</div>
+            <img src="venus.jpg" style="width:100%">
+            <div class="text">The Birth of Venus, Boticelli, 1485</div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">3 / 6</div>
+            <img src="dante.jpg" style="width:100%">
+            <div class="text">Dante and Virgil in Hell, William-Adolphe Bouguereau, 1850</div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">4 / 6</div>
+            <img src="sistine.jpg" style="width:100%">
+            <div class="text">The Creation of Adam (Sistine Chapel), Michelangelo, 1552 </div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">5 / 6</div>
+            <img src="hamangia.jpg" style="width:100%">
+            <div class="text">The Thinker, Auguste Rodin, 1880</div>
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">6 / 6</div>
+            <img src="earring.jpg" style="width:100%">
+            <div class="text">Girl with a Pearl Earring, Vermeer, 1665</div>
+        </div>
+    </div>
+    <br>
+
+    <div style="text-align:center">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+    </div>
+    <button class="controls" id="pause">Pause</button>
+
+    <input type="checkbox" id="myCheck">Replay Slideshow
+    <select name="time" id="mySelect">
+        <option value="1000">1</option>
+        <option value="2000">2</option>
+        <option value="3000">3</option>
+        <option value="4000">4</option>
+        <option value="5000">5</option>
+        <option value="6000">6</option>
+      </select>
+
+    <script>
+        var slideIndex = 0;
+        var playing = true;
+        var pauseButton = document.getElementById('pause');
+        var time=document.getElementById("mySelect");
+        var changeTime = time.options[time.selectedIndex].value;
+        showSlides();
+
+        function showSlides() {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("dot");
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slideIndex++;
+
+            pauseButton.onclick = function () {
+            if (playing) { 
+                clearTimeout(changeTime);
+                playing=false; 
+                pauseButton.innerHTML="Play";
+                }
+            else { 
+                setTimeout(showSlides,changeTime);
+                playing=true; 
+                pauseButton.innerHTML="Pause";}
+            };
+
+
+            var replay = document.getElementById("myCheck").checked;
+            if (slideIndex > slides.length && replay == true) { slideIndex = 1 }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+            var time=document.getElementById("mySelect");
+            if(playing) {
+            changeTime = time.options[time.selectedIndex].value;
+            setTimeout(showSlides, changeTime);}
+        }       
+    </script>
+</body>

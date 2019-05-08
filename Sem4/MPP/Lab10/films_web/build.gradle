@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+    id 'war'
+}
+
+group 'cezia'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = JavaVersion.VERSION_11
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':films_core')
+
+    compile group: 'org.springframework', name: 'spring-webmvc', version: "$springVersion"
+
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: "$jacksonDatabindVersion"
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: "$jacksonDatabindVersion"
+
+    compile group: 'javax.servlet', name: 'javax.servlet-api', version: "$javaxServeletApiVersion"
+    compile group: 'org.projectlombok', name: 'lombok', version: "$lombokVersion"
+}

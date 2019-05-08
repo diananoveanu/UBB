@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    @font-face {
+    font-family: Merriweather Light;
+    src: url("merriweather/Merriweather-Light.otf") format("opentype");
+}
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather Light', serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:#313c3c;
+  max-height: 30px;
+}
+.ceva {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  float:right;
+}
+
+.topnav div {
+  color:white;
+  text-align: center;
+  padding-right: 15px;
+  text-decoration: none;
+  font-size: 10px; 
+  max-size:100px;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-right: 0px;
+  font-size: 10px;
+  background-color: black;
+}
+
+@media screen and (max-width: 800px) {
+  .topnav a, .topnav input[type=text] {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .topnav input[type=text] {
+    border: 1px solid white; 
+    display: inline-block; 
+    margin-right: 0;
+  }
+}
+.main-nav {
+background: #fff;
+position: relative;
+}
+.imag {
+  clip: rect(0, 100px, 200px, 0);
+}
+.topnav > div > div > a {
+    text-decoration: none;
+    color: inherit;
+    font-family: inherit;
+    font-weight: bold;
+}
+
+.vertical-menu > div > div > a {
+  display: block;
+margin-bottom: .5em;
+overflow: hidden;
+font-family: "Merriweather Sans Regular", Arial, sans-serif;
+
+font-style: normal;
+font-weight: 400;
+height: 24px;
+font-size: 1em;
+line-height: 1.75em;
+padding: 0;
+
+text-decoration: none;
+color:#a51c30;
+margin-left: 100px;
+padding-right: 200px;
+}
+
+.vertical-menu > div > div > p {
+  font-size: 1em;
+line-height: 1.75em;
+padding: 0;
+  max-width: 720px;
+  line-height: 30px;
+font-style: normal;
+font-weight: 300;
+text-rendering: optimizeLegibility;
+justify-content: space-around;
+margin-top: -20px;
+}
+
+.vertical-menu >div {
+  display: flex;
+}
+.fa-search {
+    background-color: black;
+    z-index: 100;
+    float:right;
+}
+.search{
+    max-height: 35px;
+    background-color: black;
+    display: inline-block;
+    margin-right: -15px;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  text-decoration: none;
+}
+h1{
+  color: #414141;
+  margin: 100px;
+  margin-top: 50px;
+  text-rendering: optimizeLegibility
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <div class = "ceva">
+      <div><a href="#">Faculty</a></div>
+      <div><a href="#">Staff</a></div>
+      <div><a href="#">Students</a></div>
+      <div><a href="#">Alumni</a></div>
+      <div><a href="#">Parents</a></div>
+      <div><a href="#">Visitors</a></div>
+      <div><a href="#">Media</a></div>
+      <div>
+        <div class="search"><i class="fa fa-search"></i></div>
+        <input type="text" placeholder="What can we help you find?">
+      </div>
+  </div>
+</div>
+<div class="secondnav">
+  <div class="left">
+    
+  </div>
+</div>
+<ul>
+  <li><a href="#home">About Harvard</a></li>
+  <li><a href="#news">Admission & Aid</a></li>
+  <li><a href="#contact">Schools</a></li>
+  <li><a href="#about">On Campus</a></li>
+</ul>
+<div class="imag">
+  <img width="100%" height="300" src="banner.jpg">
+</div>
+<div>
+  <h1>About Harvard</h1>
+</div>
+
+<div class="vertical-menu">
+  <div class="paragraf">
+  <div>
+    <a href="#">Harvard at a Glance</a>
+    <a href="#">Harvard's President</a>
+    <a href="#">Harvard's Leadership</a>
+    <a href="#">Academic Experience</a>
+  </div>
+  <div>
+    <p>Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference globally. The University, which is based in Cambridge and Boston, Massachusetts, has an enrollment of over 20,000 degree candidates, including undergraduate, graduate, and professional students. Harvard has more than 360,000 alumni around the world.</p>
+  </div>
+  </div>
+</div>
+
+</body>
+</html>

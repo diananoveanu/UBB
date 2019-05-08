@@ -1,0 +1,53 @@
+
+
+<!-- 3. Write a web page which should contain in a table person images. 
+The table should be formatted using a style sheet. 
+When the mouse is over a person image a div containing information about that person should pop-up. -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+      body {
+        background-image: url("pastel.jpg");
+      }
+      div {
+        display: none;
+        background-color: powderblue;
+      }    
+      span:hover + div {
+        display: block;
+      }
+      img {         
+        width: 200px;
+        height: 200px;
+      }
+    </style>
+</head>
+
+<h2>This is a table. A table containing people.  </h2>
+<p>These people are my friends. Try to move your mouse around 'em.</p>
+
+<table>
+  <td>
+    <span><img src="ale.jpg"/></span>
+    <div>Alexandra Nistor. <br>Best friend in the whole wide world. <br>Superpower: can make you feel better in 0.9 sec at any given time. <br>Weakness: needles & Alexandru Resiga</div>
+  </td>
+  <td>
+    <span><img src="naiman.jpg"/></span>
+     <div>Aleeeex Naimaaaan<br>Computer God, Metal Superfan & Loving Friend <br>Superpower: can find anything on stackoverflow (super search), including things that don't exist yet.<br>Weakness: coloured socks.</div>
+  </td>
+  <td>
+    <span><img src="razvi.jpg"/></span>
+    <div>Razvi Morea<br>The Frentender<br>Superpower: can drive with no hands.<br>Weakness: meat.</div>
+  </td>
+  <td>
+    <span><img src="cristi.jpg"/></span><div>The Skiier <br>Superpower: can shut up at any time and any place.<br>Weakness: restante.</div>
+  </td>
+  <td>
+    <span><img src="cezar.jpg"/></span>
+    <div>Cezzzzzar<br>Offended<br>Superpower: can destroy anyone with his jokes<br>Weakness: helpless without glasses.</div>
+  </td>
+
+</table>
+</body>
