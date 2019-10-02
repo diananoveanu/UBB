@@ -1,20 +1,33 @@
 package com.ubb.controller;
 
+import com.ubb.model.Array;
+import com.ubb.model.ObjectInter;
 import com.ubb.repository.Repository;
 
-import java.util.ArrayList;
 
-public class Controller<T> {
+public class Controller {
+    private Repository repository;
 
-    private Repository<T> repository;
-
-    public Controller(Repository<T> r) {
-        this.repository = r;
+    public Controller(Repository r) {
+        repository = r;
     }
 
-    public ArrayList<T> getAll() {
-        return repository.getObjects();
+    public Array getAllOver() {
+        Array objs = repository.getObjects();
+        Array answer = new Array();
+        for (int i = 0; i < objs.getSize(); i++) {
+            if ((Integer) objs.getObjects()[i].getWeight() > 200) {
+                answer.add(objs.getObjects()[i]);
+            }
+        }
+        return answer;
     }
 
-    //TODO implement other methods when requirements are giver
+    public void add(ObjectInter obj) {
+        try {
+            repository.add(obj);
+        } catch (RuntimeException e) {
+            System.out.println(e.getMessage());
+        }
+    }
 }

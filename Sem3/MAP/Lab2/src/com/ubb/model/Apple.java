@@ -1,11 +1,42 @@
 package com.ubb.model;
 
-public class Apple implements Object {
-    public Integer getWeight() {
-        return null;
+public class Apple implements ObjectInter<Integer, Integer, String> {
+    private Integer id;
+    private Integer weight;
+    private static String type = "Apple";
+    public Apple(Integer i, Integer w){
+        this.id = i;
+        this.weight = w;
     }
 
-    public String getObjClass() {
-        return null;
+
+    @Override
+    public Integer getWeight() {
+        return weight;
+    }
+
+    @Override
+    public String getType() {
+        return type;
+    }
+
+    @Override
+    public Integer getId() {
+        return id;
+    }
+
+    @Override
+    public void setId(Integer i) {
+        id = i;
+    }
+
+    @Override
+    public void setType(Integer w) {
+        weight = w;
+    }
+
+    @Override
+    public void setWeight(String t) {
+        type = t;
     }
 }

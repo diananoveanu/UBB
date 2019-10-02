@@ -1,5 +1,6 @@
 import domain.Account;
 import domain.Log;
+import domain.Multithread;
 import domain.Transaction;
 import utils.Helper;
 
@@ -24,6 +25,11 @@ public class main {
         List<Account> accList = Helper.generateAccounts(10);
         logMap = getLogMap(accList);
         ArrayList<Transaction> transactions;
-
+        int n = 8; // Number of threads
+        for (int i=0; i<8; i++)
+        {
+            Thread object = new Thread(new Multithread());
+            object.start();
+        }
     }
 }
