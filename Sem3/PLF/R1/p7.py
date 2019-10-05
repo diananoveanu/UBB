@@ -22,5 +22,5 @@ def inters_two_sets(s1, s2):
     if is_empty(s1):
         return Lista()
     if exists(s2, get_first(s1)):
-        return add_first(inters_two_sets(get_rest(s1), s2), get_first(s1)) #TODO
+        return add_first(inters_two_sets(get_rest(s1), s2), get_first(s1))
     return inters_two_sets(get_rest(s1), s2)

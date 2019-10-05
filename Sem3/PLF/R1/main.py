@@ -36,7 +36,7 @@ def main():
     # 7a
     # print(lists_equal(creareLista(), creareLista()))
     # 7b
-    tipar(inters_two_sets(creareLista(), creareLista()))
+    tipar(inters_two_sets(list_to_set(creareLista()), list_to_set(creareLista())))
 
 
 main()
