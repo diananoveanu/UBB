@@ -16,7 +16,7 @@ public class Controller {
         Array objs = repository.getObjects();
         Array answer = new Array();
         for (int i = 0; i < objs.getSize(); i++) {
-            if ((Integer) objs.getObjects()[i].getWeight() > 200) {
+            if ((Integer) objs.getObjects()[i].getWeight() > 3) {
                 answer.add(objs.getObjects()[i]);
             }
         }

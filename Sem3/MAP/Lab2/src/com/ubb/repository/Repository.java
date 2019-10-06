@@ -8,19 +8,19 @@ import com.ubb.model.ObjectInter;
 public class Repository {
     private Array objects;
 
-    public Repository(){
+    public Repository() {
         objects = new Array();
     }
 
     public void add(ObjectInter obj) throws DuplicateException {
-        for (int i = 0; i< objects.getSize(); i++)
-            if (objects.getObjects()[i].getId().equals(obj.getId())){
+        for (int i = 0; i < objects.getSize(); i++)
+            if (objects.getObjects()[i].getId().equals(obj.getId())) {
                 throw new DuplicateException("Object not unique!");
             }
         objects.add(obj);
     }
 
-    public void delete(ObjectInter obj){
+    public void delete(ObjectInter obj) {
         objects.delete(obj);
     }
 
@@ -29,7 +29,7 @@ public class Repository {
         return objects.getSize();
     }
 
-    public Array getObjects(){
+    public Array getObjects() {
         return objects;
     }
 }

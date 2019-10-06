@@ -1,14 +1,14 @@
 package com.ubb.model;
 
-public class Apple implements ObjectInter<Integer, Integer, String> {
+public class Porc implements ObjectInter<Integer, Integer, String> {
     private Integer id;
     private Integer weight;
-    private static String type = "Apple";
-    public Apple(Integer i, Integer w){
-        this.id = i;
-        this.weight = w;
-    }
+    private static String type = "Porc";
 
+    public Porc(Integer i, Integer w) {
+        id = i;
+        weight = w;
+    }
 
     @Override
     public Integer getWeight() {

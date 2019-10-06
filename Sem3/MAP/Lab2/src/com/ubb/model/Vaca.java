@@ -1,9 +1,14 @@
 package com.ubb.model;
 
-public class Book implements ObjectInter<Integer, Integer, String> {
+public class Vaca implements ObjectInter<Integer, Integer, String> {
     private Integer id;
     private Integer weight;
-    private static String type = "Book";
+    private static String type = "Vaca";
+
+    public Vaca(Integer i, Integer w) {
+        this.id = i;
+        this.weight = w;
+    }
 
 
     @Override

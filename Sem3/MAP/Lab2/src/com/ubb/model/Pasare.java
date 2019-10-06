@@ -1,10 +1,14 @@
 package com.ubb.model;
 
-public class Cake implements ObjectInter<Integer, Integer, String> {
+public class Pasare implements ObjectInter<Integer, Integer, String> {
     private Integer id;
     private Integer weight;
-    private static String type = "Cake";
+    private static String type = "Pasare";
 
+    public Pasare(Integer i, Integer w) {
+        id = i;
+        weight = w;
+    }
 
     @Override
     public Integer getWeight() {
