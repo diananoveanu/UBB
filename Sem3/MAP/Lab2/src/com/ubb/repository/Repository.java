@@ -24,7 +24,6 @@ public class Repository {
         objects.delete(obj);
     }
 
-
     public int size() {
         return objects.getSize();
     }

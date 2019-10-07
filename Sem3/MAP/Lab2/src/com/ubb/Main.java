@@ -14,7 +14,6 @@ public class Main {
         Repository repository = new Repository();
         Controller controller = new Controller(repository);
 
-
         controller.add(new Vaca(1, 30));
         controller.add(new Vaca(2, 55));
         controller.add(new Vaca(3, 400));
@@ -23,11 +22,10 @@ public class Main {
         controller.add(new Pasare(12, 4));
         controller.add(new Porc(22, 4));
 
-        Array over200 = controller.getAllOver();
+        Array over3 = controller.getAllOver();
 
-        for (int i = 0; i < over200.getSize(); i++) {
-            System.out.println(over200.getObjects()[i].getType());
+        for (int i = 0; i < over3.getSize(); i++) {
+            System.out.println(over3.getObjects()[i].getType());
         }
-
     }
 }
