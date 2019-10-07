@@ -6,6 +6,7 @@ from p4 import has_even_nb_el, delete_all_occur
 from p5 import insert_el_pos, gcd_list
 from p6 import add_elem_end, add_two_lists
 from p7 import lists_equal, inters_two_sets
+from p13 import eliminateAllOccur, testInclusion
 
 
 def main():
@@ -36,7 +37,12 @@ def main():
     # 7a
     # print(lists_equal(creareLista(), creareLista()))
     # 7b
-    tipar(inters_two_sets(list_to_set(creareLista()), list_to_set(creareLista())))
+    # tipar(inters_two_sets(list_to_set(creareLista()), list_to_set(creareLista())))
+    # 13b
+
+    # tipar(eliminateAllOccur(creareLista(), 2))
+
+    print(testInclusion(creareLista(), creareLista()))
 
 
 main()
