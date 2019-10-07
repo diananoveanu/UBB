@@ -1,8 +1,9 @@
 package com.ubb.domain;
 
-import com.ubb.adt.MyIDictionary;
-import com.ubb.adt.MyIList;
-import com.ubb.adt.MyIStack;
+import com.ubb.adt.dict.MyIDictionary;
+import com.ubb.adt.list.MyIList;
+import com.ubb.adt.stack.MyIStack;
+import com.ubb.domain.statements.IStmt;
 
 public class PrgState {
     MyIStack<IStmt> exeStack;
@@ -49,4 +50,10 @@ public class PrgState {
     public void setOriginalProgram(IStmt originalProgram) {
         this.originalProgram = originalProgram;
     }
+
+    @Override
+    public String toString(){
+        return "";
+    }
+
 }
