@@ -2,13 +2,13 @@ package domain;
 
 public class Transaction {
     private String tid;
-    private String ac1id;
-    private String ac2id;
+    private Integer ac1id;
+    private Integer ac2id;
     private String timestamp;
     private Double amount;
     private Boolean type;
 
-    public Transaction(String tid, String ac1id, String ac2id, String timestamp, Double amount, Boolean type) {
+    public Transaction(String tid, Integer ac1id, Integer ac2id, String timestamp, Double amount, Boolean type) {
         this.tid = tid;
         this.ac1id = ac1id;
         this.ac2id = ac2id;
@@ -20,19 +20,19 @@ public class Transaction {
     public Transaction() {
     }
 
-    public String getAc1id() {
+    public Integer getAc1id() {
         return ac1id;
     }
 
-    public void setAc1id(String ac1id) {
+    public void setAc1id(Integer ac1id) {
         this.ac1id = ac1id;
     }
 
-    public String getAc2id() {
+    public Integer getAc2id() {
         return ac2id;
     }
 
-    public void setAc2id(String ac2id) {
+    public void setAc2id(Integer ac2id) {
         this.ac2id = ac2id;
     }
 

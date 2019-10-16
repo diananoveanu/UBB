@@ -18,10 +18,10 @@ import java.util.List;
 
 public class Account {
     private String name;
-    private String id;
+    private Integer id;
     private Double balance;
 
-    public Account(String name, String id, Double balance) {
+    public Account(String name, Integer id, Double balance) {
         this.name = name;
         this.id = id;
         this.balance = balance;
@@ -33,7 +33,7 @@ public class Account {
         this.name = name;
     }
 
-    public void setId(String id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -41,7 +41,7 @@ public class Account {
         return name;
     }
 
-    public String getId() {
+    public Integer getId() {
         return id;
     }
 

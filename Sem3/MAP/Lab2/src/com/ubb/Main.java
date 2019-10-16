@@ -17,7 +17,7 @@ public class Main {
         controller.add(new Vaca(1, 30));
         controller.add(new Vaca(2, 55));
         controller.add(new Vaca(3, 400));
-        controller.add(new Porc(4, 2));
+        controller.add(new Porc(4, 4));
         controller.add(new Pasare(5, 1));
         controller.add(new Pasare(12, 4));
         controller.add(new Porc(22, 4));
@@ -25,7 +25,7 @@ public class Main {
         Array over3 = controller.getAllOver();
 
         for (int i = 0; i < over3.getSize(); i++) {
-            System.out.println(over3.getObjects()[i].getType());
+            System.out.println(over3.getObjects()[i].getId());
         }
     }
 }

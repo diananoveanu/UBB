@@ -7,10 +7,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Log {
-    private String aId;
+    private Integer aId;
     private List<Record> records = new ArrayList<>();
 
-    public Log(String aId) {
+    public Log(Integer aId) {
         this.aId = aId;
     }
 
