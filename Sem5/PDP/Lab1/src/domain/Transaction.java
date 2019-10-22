@@ -1,14 +1,14 @@
 package domain;
 
 public class Transaction {
-    private String tid;
+    private Integer tid;
     private Integer ac1id;
     private Integer ac2id;
     private String timestamp;
     private Double amount;
     private Boolean type;
 
-    public Transaction(String tid, Integer ac1id, Integer ac2id, String timestamp, Double amount, Boolean type) {
+    public Transaction(Integer tid, Integer ac1id, Integer ac2id, String timestamp, Double amount, Boolean type) {
         this.tid = tid;
         this.ac1id = ac1id;
         this.ac2id = ac2id;
@@ -60,11 +60,11 @@ public class Transaction {
         this.type = type;
     }
 
-    public String getTid() {
+    public Integer getTid() {
         return tid;
     }
 
-    public void setTid(String tid) {
+    public void setTid(Integer tid) {
         this.tid = tid;
     }
 

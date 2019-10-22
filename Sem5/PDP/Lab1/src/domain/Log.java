@@ -1,13 +1,11 @@
 package domain;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 public class Log {
     private Integer aId;
+    private Integer serialNum;
     private List<Record> records = new ArrayList<>();
 
     public Log(Integer aId) {
@@ -15,7 +13,7 @@ public class Log {
     }
 
     public void addRecord(Record r) {
-       records.add(r);
+        records.add(r);
     }
 
     public List<Record> getRecords() {

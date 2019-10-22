@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/diananoveanu/UBB/Sem5/PDP/Lab2/main.cpp
+iostream
+-
+ctime
+-
+chrono
+-
+vector
+-
+thread
+-
+

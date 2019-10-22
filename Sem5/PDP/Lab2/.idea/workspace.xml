@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Lab2" targetName="Lab2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56dfe361-2cf6-4feb-902d-cd8f4dd728b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Sem3/PLF/LabWork1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals/ContentView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity Meals/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity MealsTests/Charity_MealsTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile/Charity Meals/Charity MealsTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mobile/MobileCourse" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mobile/MobileCourse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Multithread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Multithread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Record.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Record.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/out/production/Lab1/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/out/production/Lab1/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/out/production/Lab1/utils/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/out/production/Lab1/utils/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/src/domain/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/domain/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/src/domain/Multithread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/domain/Multithread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/src/domain/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/domain/Record.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/src/domain/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/domain/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/src/utils/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/utils/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-idea-2019-diananoveanu" beforeDir="false" afterPath="$PROJECT_DIR$/../../project-idea-2019-diananoveanu" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SWSAZCJldHeb4v4P4DD1hTjvcl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../UBB/Sem5/PDP/Lab2" />
+      <recent name="$PROJECT_DIR$/../UBB/Sem5/PDP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab2" TARGET_NAME="Lab2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab2" RUN_TARGET_NAME="Lab2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56dfe361-2cf6-4feb-902d-cd8f4dd728b6" name="Default Changelist" comment="" />
+      <created>1571677715845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571677715845</updated>
+      <workItem from="1571677718874" duration="98000" />
+      <workItem from="1571677896109" duration="274000" />
+      <workItem from="1571678189980" duration="22000" />
+      <workItem from="1571678231596" duration="42000" />
+      <workItem from="1571678327066" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -26,5 +26,9 @@ public class Record {
         this.transaction = transaction;
     }
 
+    @Override
+    public String toString(){
+        return "ID: " + this.id + "\n" + this.transaction;
+    }
 
 }

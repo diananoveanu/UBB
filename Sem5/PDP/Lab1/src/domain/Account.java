@@ -12,10 +12,6 @@ From time to time, as well as at the end of the program, a consistency check sha
 It shall verify that the amount of money in each account corresponds with the operations records associated to that account,
 and also that all operations on each account appear also in the logs of the source or destination of the transfer. * */
 
-import utils.RandomString;
-
-import java.util.List;
-
 public class Account {
     private String name;
     private Integer id;
@@ -26,8 +22,6 @@ public class Account {
         this.id = id;
         this.balance = balance;
     }
-
-
 
     public void setName(String name) {
         this.name = name;
@@ -53,7 +47,7 @@ public class Account {
         this.balance = balance;
     }
 
-    public String toString(){
+    public String toString() {
         return "Name: " + this.name + "\n" + "AccId: " + this.id + "\n" + "Balance: " + this.balance + "\n";
     }
 }
