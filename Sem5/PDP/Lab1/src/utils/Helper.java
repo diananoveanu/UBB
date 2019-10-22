@@ -41,6 +41,7 @@ public class Helper {
     }
 
     public static HashMap<Integer, Transaction> generateTransactions(int numTransactions, HashMap<Integer, Account> accLst){
+        // function to generate a specified number of transactions
         HashMap<Integer, Transaction> trans = new HashMap<>();
         for(int i = 0; i < numTransactions; i++){
             while (true){
@@ -56,6 +57,7 @@ public class Helper {
     }
 
     public static Transaction generateRandomTransaction(HashMap<Integer, Account> accLst){
+        // function to generate a single transaction
         List<Integer> accounts = new ArrayList<>(accLst.keySet());
         Random rand = new Random();
         Integer randomAcc1 = accounts.get(rand.nextInt(accounts.size()));

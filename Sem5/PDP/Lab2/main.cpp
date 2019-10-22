@@ -40,7 +40,7 @@ void printMatrix(const vector<vector<int>> &matrix) {
 void matrixMulParallel(int tNum, vector<vector<int>> *A, vector<vector<int>> *B,
                        vector<vector<int>> *C, int n, int step) {
 
-    int line = tNum / n;
+    int line = tNum / n; // thread id / dimension of matrix
     int col = tNum % n;
 
     while (line < n) {
