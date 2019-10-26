@@ -1,0 +1,6 @@
+framework module Pods_ShareAMeal {
+  umbrella header "Pods-ShareAMeal-umbrella.h"
+
+  export *
+  module * { export * }
+}

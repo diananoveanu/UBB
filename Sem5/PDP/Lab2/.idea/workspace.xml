@@ -14,12 +14,7 @@
     <list default="true" id="56dfe361-2cf6-4feb-902d-cd8f4dd728b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../Mobile/MobileCourse" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mobile/MobileCourse" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mobile/MyFirstApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mobile/MyFirstApp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Multithread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/out/production/Lab1/domain/Multithread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab1/out/production/Lab1/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/out/production/Lab1/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab1/src/domain/Multithread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/domain/Multithread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab1/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +83,7 @@
       <workItem from="1571678189980" duration="22000" />
       <workItem from="1571678231596" duration="42000" />
       <workItem from="1571678327066" duration="11000" />
-      <workItem from="1571756190481" duration="1719000" />
+      <workItem from="1571756190481" duration="1897000" />
     </task>
     <servers />
   </component>
