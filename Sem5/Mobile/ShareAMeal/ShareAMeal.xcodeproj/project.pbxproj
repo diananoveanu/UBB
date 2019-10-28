@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		615035F4351F2D05DEE9FA76 /* Pods_ShareAMealTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA9409E9E801A354BA1F6D4F /* Pods_ShareAMealTests.framework */; };
 		8F0464612364C10D008E0F3C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0464602364C10D008E0F3C /* Constants.swift */; };
+		8F15D623236732BD0025B513 /* AddMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F15D622236732BD0025B513 /* AddMenuViewController.swift */; };
 		8F5DD5352364B45000717C71 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8F5DD5342364B45000717C71 /* GoogleService-Info.plist */; };
 		8F5DD5382364B54F00717C71 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5DD5362364B54F00717C71 /* LogInViewController.swift */; };
 		8F5DD53C2364B56700717C71 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5DD53A2364B56700717C71 /* SignUpViewController.swift */; };
@@ -39,6 +40,7 @@
 		7667620B1B843CCAA9148300 /* Pods-ShareAMealTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShareAMealTests.release.xcconfig"; path = "Target Support Files/Pods-ShareAMealTests/Pods-ShareAMealTests.release.xcconfig"; sourceTree = "<group>"; };
 		887655830556ADA6362DFB2F /* Pods_ShareAMeal.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShareAMeal.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F0464602364C10D008E0F3C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		8F15D622236732BD0025B513 /* AddMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMenuViewController.swift; sourceTree = "<group>"; };
 		8F5DD5342364B45000717C71 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8F5DD5362364B54F00717C71 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		8F5DD53A2364B56700717C71 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				8F5DD53A2364B56700717C71 /* SignUpViewController.swift */,
 				8F5DD53E2364B57500717C71 /* HomeViewController.swift */,
 				8FEBE1EB2364B1CC009BFC26 /* ViewController.swift */,
+				8F15D622236732BD0025B513 /* AddMenuViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -334,6 +337,7 @@
 				8F5DD5382364B54F00717C71 /* LogInViewController.swift in Sources */,
 				8FEBE1EC2364B1CC009BFC26 /* ViewController.swift in Sources */,
 				8FEBE1E82364B1CC009BFC26 /* AppDelegate.swift in Sources */,
+				8F15D623236732BD0025B513 /* AddMenuViewController.swift in Sources */,
 				8FEBE1EA2364B1CC009BFC26 /* SceneDelegate.swift in Sources */,
 				8F0464612364C10D008E0F3C /* Constants.swift in Sources */,
 				8F5DD53C2364B56700717C71 /* SignUpViewController.swift in Sources */,
