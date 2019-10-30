@@ -10,13 +10,20 @@ import UIKit
 
 class CRUDViewController: UIViewController {
 
+    @IBOutlet weak var firstCourse: UITextField!
+    @IBOutlet weak var secondCourse: UITextField!
+    @IBOutlet weak var quantity: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func saveButtonTapped(_ sender: Any) {
+        navigationController?.popViewController(animated: true)
+    }
+    
     /*
     // MARK: - Navigation
 

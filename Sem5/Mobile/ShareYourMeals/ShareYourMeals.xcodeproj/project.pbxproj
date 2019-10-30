@@ -17,6 +17,7 @@
 		8F15D64B236783250025B513 /* ShareYourMealsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F15D64A236783250025B513 /* ShareYourMealsTests.swift */; };
 		8F15D656236786F60025B513 /* MenuListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F15D655236786F60025B513 /* MenuListViewController.swift */; };
 		8F15D6582367870D0025B513 /* CRUDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F15D6572367870D0025B513 /* CRUDViewController.swift */; };
+		8F15D65A23679D530025B513 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F15D65923679D530025B513 /* DataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8F15D64C236783250025B513 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F15D655236786F60025B513 /* MenuListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuListViewController.swift; sourceTree = "<group>"; };
 		8F15D6572367870D0025B513 /* CRUDViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CRUDViewController.swift; sourceTree = "<group>"; };
+		8F15D65923679D530025B513 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				8F15D632236783230025B513 /* SceneDelegate.swift */,
 				8F15D634236783230025B513 /* ViewController.swift */,
 				8F15D636236783230025B513 /* Main.storyboard */,
+				8F15D65923679D530025B513 /* DataManager.swift */,
 				8F15D63C236783240025B513 /* Assets.xcassets */,
 				8F15D63E236783240025B513 /* LaunchScreen.storyboard */,
 				8F15D641236783250025B513 /* Info.plist */,
@@ -212,6 +215,7 @@
 				8F15D6582367870D0025B513 /* CRUDViewController.swift in Sources */,
 				8F15D635236783230025B513 /* ViewController.swift in Sources */,
 				8F15D631236783230025B513 /* AppDelegate.swift in Sources */,
+				8F15D65A23679D530025B513 /* DataManager.swift in Sources */,
 				8F15D633236783230025B513 /* SceneDelegate.swift in Sources */,
 				8F15D63B236783230025B513 /* ShareYourMeals.xcdatamodeld in Sources */,
 				8F15D656236786F60025B513 /* MenuListViewController.swift in Sources */,
