@@ -19,7 +19,7 @@ public class PrintStatement implements IStatement {
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
         try {
-            state.addOut(expression.eval(state.getSymTable()));
+            state.addOut(expression.evaluate(state.getSymTable()));
         } catch (GenericException e) {
             throw new GenericException(e.getMessage());
         }

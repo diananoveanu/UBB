@@ -8,11 +8,15 @@ import com.ubb.domain.expressions.Expression;
 import com.ubb.domain.type.Type;
 import com.ubb.domain.value.Value;
 
-//TODO finish this shit
 
 public class AssignStatement implements IStatement {
     private String id;
     private Expression expression;
+
+    public AssignStatement(String id, Expression exp){
+        this.id = id;
+        this.expression = exp;
+    }
 
     @Override
     public String toString() {
@@ -21,11 +25,10 @@ public class AssignStatement implements IStatement {
 
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
-        MyIStack<IStatement> executionStack = state.getExeStack();
         MyIDictionary<String, Value> symbolTable = state.getSymTable();
-        if (symbolTable.isDefined(id)) {
+        if (symbolTable.containsKey(id)) {
             Value value = expression.evaluate(symbolTable);
-            Type typeId = (symbolTable.lookup(id)).getType();
+            Type typeId = (symbolTable.get(id)).getType();
             if ((value.getType()).equals(typeId)) {
                 symbolTable.put(id, value);
             } else {

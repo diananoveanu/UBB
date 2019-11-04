@@ -1,10 +1,15 @@
 package com.ubb.domain;
 
+import com.ubb.adt.dictionary.MyDictionary;
 import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.adt.list.MyIList;
+import com.ubb.adt.list.MyList;
 import com.ubb.adt.stack.MyIStack;
+import com.ubb.adt.stack.MyStack;
 import com.ubb.domain.statements.IStatement;
 import com.ubb.domain.value.Value;
+
+import java.util.ArrayList;
 
 public class ProgramState {
     MyIStack<IStatement> exeStack;
@@ -19,6 +24,16 @@ public class ProgramState {
         this.originalProgram = originalProgram;
         exeStack.push(originalProgram);
     }
+
+    public ProgramState(IStatement originalProgram){
+        exeStack = new MyStack<>();
+        symTable = new MyDictionary<>();
+        out = new MyList<>();
+        this.originalProgram = originalProgram;
+        exeStack.push(originalProgram);
+    }
+
+
 
     public MyIStack<IStatement> getExeStack() {
         return exeStack;

@@ -5,12 +5,13 @@ import com.ubb.controller.Controller;
 import com.ubb.domain.exceptions.InputException;
 import com.ubb.domain.statements.IStatement;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 public class Console {
 
-    private Controller ctrl;
-    private MyList<IStatement> statements;
+    private static Controller ctrl;
+    private static MyList<IStatement> statements;
 
     public Console(Controller ctrl, MyList<IStatement> statements) {
         this.ctrl = ctrl;
@@ -24,7 +25,7 @@ public class Console {
         System.out.println("-1: Exit.");
     }
 
-    private int getInteger(Scanner scanner) throws InputException {
+    private static int getInteger(Scanner scanner) throws InputException {
         try {
             return Integer.parseInt((scanner.nextLine()));
         } catch (NumberFormatException e) {
@@ -39,23 +40,20 @@ public class Console {
                 menu();
                 System.out.print("Choose one oprion: ");
                 int option = -1;
-//                try {
-//                    option = getInteger(scanner);
-//                    if (option == -1) break;
-//                    if (option < statements.size()) {?
-//
-////                try {
-////                    //ctrl.setProgram(new ProgramState(statements.get(option)));
-////                    ctrl.allSteps();
-////                } catch (InterruptedException | ToyLanguageInterpreterException | IOException e) {
-////                    e.printStackTrace();
-////                }
-//                    }
-//                } catch (Exception e) {
-//                    System.out.print(e.getMessage());
+                try {
+                    option = getInteger(scanner);
+                    if (option == -1) break;
+                    if (option < statements.size()) {
+
+                        //ctrl.setProgram(new ProgramState(statements.get(option)));
+                        ctrl.allStep();
+                    }
+                } catch (Exception e) {
+                    System.out.print(e.getMessage());
+                }
             }
+            scanner.close();
         }
-//        scanner.close();
     }
 }
 
