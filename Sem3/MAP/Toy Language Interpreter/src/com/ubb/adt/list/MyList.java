@@ -15,7 +15,7 @@ public class MyList<T> implements MyIList<T> {
     }
 
     @Override
-    public void delete(T elem){
+    public void delete(T elem) {
 
     }
 
@@ -45,7 +45,7 @@ public class MyList<T> implements MyIList<T> {
     }
 
     @Override
-    public T[] getAll(){
+    public T[] getAll() {
         return null;
     }
 }

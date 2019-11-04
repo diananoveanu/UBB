@@ -53,7 +53,8 @@ class Analizor:
         patt_const = self.__check_if_const(elem)  # if it's constant
         if patt_const is True:
             self.__ct_table.add(sum(map(ord, elem)), elem)
-            self.__fip.append([self.__predef_table['CONST'], sum(map(ord, elem))])  # put the constant in the constant table
+            self.__fip.append(
+                [self.__predef_table['CONST'], sum(map(ord, elem))])  # put the constant in the constant table
             return True
         return False
 
@@ -75,6 +76,7 @@ class Analizor:
     """
     Getters
     """
+
     def get_predef_table(self):
         return self.__predef_table
 

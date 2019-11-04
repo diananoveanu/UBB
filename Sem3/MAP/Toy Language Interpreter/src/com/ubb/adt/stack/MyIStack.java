@@ -6,5 +6,4 @@ public interface MyIStack<T> {
     void push(T v);
 
     Boolean isEmpty();
-
 }

@@ -1,7 +1,8 @@
 package com.ubb.domain.expressions;
 
 import com.ubb.adt.dict.MyIDictionary;
+import com.ubb.domain.value.Value;
 
-public abstract class Exp {
-    abstract Integer eval(MyIDictionary<String, Integer> tbl);
+interface Exp {
+    Value eval(MyIDictionary<String, Value> tbl);
 }
