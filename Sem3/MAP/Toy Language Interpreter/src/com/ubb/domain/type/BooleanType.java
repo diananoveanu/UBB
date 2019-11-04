@@ -1,6 +1,6 @@
 package com.ubb.domain.type;
 
-public class BoolType implements Type {
+public class BooleanType implements Type {
     @Override
     public boolean equals(Object another) {
         //TODO

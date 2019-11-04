@@ -1,9 +1,9 @@
 package com.ubb.domain.value;
 
-import com.ubb.domain.type.BoolType;
+import com.ubb.domain.type.BooleanType;
 import com.ubb.domain.type.Type;
 
-public class BoolValue implements Value {
+public class BooleanValue implements Value {
     @Override
     public String toString() {
         return ""; //TODO
@@ -11,6 +11,6 @@ public class BoolValue implements Value {
 
     @Override
     public Type getType() {
-        return new BoolType();
+        return new BooleanType();
     }
 }

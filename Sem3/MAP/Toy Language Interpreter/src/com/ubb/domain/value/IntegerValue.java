@@ -1,12 +1,12 @@
 package com.ubb.domain.value;
 
-import com.ubb.domain.type.IntType;
+import com.ubb.domain.type.IntegerType;
 import com.ubb.domain.type.Type;
 
-public class IntValue implements Value {
+public class IntegerValue implements Value {
     int val;
 
-    public IntValue(int v) {
+    public IntegerValue(int v) {
         val = v;
     }
 
@@ -21,6 +21,6 @@ public class IntValue implements Value {
 
     @Override
     public Type getType() {
-        return new IntType();
+        return new IntegerType();
     }
 }

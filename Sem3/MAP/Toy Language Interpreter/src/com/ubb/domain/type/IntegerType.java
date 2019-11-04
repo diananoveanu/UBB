@@ -1,9 +1,9 @@
 package com.ubb.domain.type;
 
-public class IntType implements Type {
+public class IntegerType implements Type {
 
     public boolean equals(Object another) {
-        if (another instanceof IntType) return true;
+        if (another instanceof IntegerType) return true;
         else
             return false;
     }
