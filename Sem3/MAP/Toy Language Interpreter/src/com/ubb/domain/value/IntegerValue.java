@@ -16,7 +16,7 @@ public class IntegerValue implements Value {
 
     @Override
     public String toString() {
-        return ""; //TODO
+        return "" + val;
     }
 
     @Override

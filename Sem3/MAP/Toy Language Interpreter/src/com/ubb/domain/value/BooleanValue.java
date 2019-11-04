@@ -16,7 +16,7 @@ public class BooleanValue implements Value {
 
     @Override
     public String toString() {
-        return ""; //TODO
+        return "" + value;
     }
 
     @Override

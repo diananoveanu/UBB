@@ -18,6 +18,21 @@ public class ArithmeticExpression implements Expression {
     }
 
     @Override
+    public String toString(){
+        String ope = "";
+        if (op == 1) {
+            ope = "+";
+        }else if(op == 2){
+            ope = "-";
+        }else if(op == 3){
+            ope = "*";
+        }else{
+            ope = "/";
+        }
+        return e1.toString() + " " + ope + " " + e2.toString();
+    }
+
+    @Override
     public Value evaluate(MyIDictionary<String, Value> tbl) throws GenericException {
         Value v1, v2;
         v1 = e1.evaluate(tbl);

@@ -22,7 +22,7 @@ public class VariableDeclarationStatement implements IStatement {
 
     @Override
     public String toString() {
-        return type.toString() + " " + id + ";";
+        return type.toString() + " " + id;
     }
 
     @Override
