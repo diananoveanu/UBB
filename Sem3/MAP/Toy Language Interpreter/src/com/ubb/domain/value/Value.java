@@ -9,4 +9,5 @@ Value ::= Number (ConstNumber) | True (ConstTrue) | False (ConstFalse)
 
 public interface Value {
     Type getType();
+    boolean equals(Object another);
 }

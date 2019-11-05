@@ -1,31 +1,31 @@
 package com.ubb.domain.value;
 
-import com.ubb.domain.type.IntegerType;
+import com.ubb.domain.type.StringType;
 import com.ubb.domain.type.Type;
 
-public class IntegerValue implements Value {
-    int val;
+public class StringValue implements Value {
+    String val;
 
-    public IntegerValue(int v) {
+    public StringValue(String v) {
         val = v;
     }
 
-    public int getValue() {
+    public String getValue() {
         return val;
     }
 
     @Override
     public boolean equals(Object another) {
-        return another instanceof IntegerValue;
+        return another instanceof StringValue;
     }
 
     @Override
     public String toString() {
-        return "" + val;
+        return val;
     }
 
     @Override
     public Type getType() {
-        return new IntegerType();
+        return new StringType();
     }
 }

@@ -42,8 +42,8 @@ public class ArithmeticExpression implements Expression {
                 IntegerValue i1 = (IntegerValue) v1;
                 IntegerValue i2 = (IntegerValue) v2;
                 int n1, n2;
-                n1 = i1.getVal();
-                n2 = i2.getVal();
+                n1 = i1.getValue();
+                n2 = i2.getValue();
                 if (op == 1) return new IntegerValue(n1 + n2);
                 if (op == 2) return new IntegerValue(n1 - n2);
                 if (op == 3) return new IntegerValue(n1 * n2);

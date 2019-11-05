@@ -1,21 +1,21 @@
 package com.ubb.domain.type;
 
-import com.ubb.domain.value.IntegerValue;
+import com.ubb.domain.value.StringValue;
 import com.ubb.domain.value.Value;
 
-public class IntegerType implements Type {
+public class StringType implements Type {
     @Override
     public boolean equals(Object another) {
-        return another instanceof IntegerType;
+        return another instanceof StringType;
     }
 
     @Override
     public Value defaultValue() {
-        return new IntegerValue(0);
+        return new StringValue("");
     }
 
     @Override
     public String toString() {
-        return "int";
+        return "string";
     }
 }

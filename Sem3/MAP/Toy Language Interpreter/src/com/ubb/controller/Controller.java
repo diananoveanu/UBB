@@ -19,9 +19,8 @@ public class Controller {
         MyIStack<IStatement> stk = state.getExeStack();
         if (stk.isEmpty()) throw new GenericException("Program state stack is empty");
         IStatement crtStmt = stk.pop();
-        return crtStmt.execute(state);
-        //TODO
 
+        return crtStmt.execute(state);
     }
 
     public void allStep() throws GenericException {
@@ -30,6 +29,13 @@ public class Controller {
         //here you can display the prg state
         while (!prg.getExeStack().isEmpty()) {
             oneStep(prg);
+            try{
+                this.repository.logPrgStateExec(prg);
+            }
+            catch (Exception e){
+                e.printStackTrace();
+                // todo lol
+            }
         }
         //here you can display the pr g state }
     }

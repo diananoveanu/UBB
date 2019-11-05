@@ -15,7 +15,7 @@ public class VariableDeclarationStatement implements IStatement {
     String id;
     Type type;
 
-    public VariableDeclarationStatement(String id, Type t){
+    public VariableDeclarationStatement(String id, Type t) {
         this.id = id;
         this.type = t;
     }
@@ -28,13 +28,13 @@ public class VariableDeclarationStatement implements IStatement {
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
         MyIDictionary<String, Value> symTable = state.getSymTable();
-        if(!symTable.containsKey(id)){
-            if (type instanceof BooleanType){
-                symTable.put(id, new BooleanValue(false));
-            }else if(type instanceof IntegerType){
-                symTable.put(id, new IntegerValue(0));
+        if (!symTable.containsKey(id)) {
+            if (type instanceof BooleanType) {
+                symTable.put(id, type.defaultValue());
+            } else if (type instanceof IntegerType) {
+                symTable.put(id, type.defaultValue());
             }
-        }else{
+        } else {
             throw new VariableAlreadyDeclaredException("Variable already declared!");
         }
         return state;
