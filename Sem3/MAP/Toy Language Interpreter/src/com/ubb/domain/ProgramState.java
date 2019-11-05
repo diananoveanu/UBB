@@ -7,14 +7,17 @@ import com.ubb.adt.list.MyList;
 import com.ubb.adt.stack.MyIStack;
 import com.ubb.adt.stack.MyStack;
 import com.ubb.domain.statements.IStatement;
+import com.ubb.domain.value.StringValue;
 import com.ubb.domain.value.Value;
 
+import java.io.BufferedReader;
 import java.util.ArrayList;
 
 public class ProgramState {
     MyIStack<IStatement> exeStack;
     MyIDictionary<String, Value> symTable;
     MyIList<Value> out;
+    MyIDictionary<StringValue, BufferedReader> fileTable;
     IStatement originalProgram;
 
     public ProgramState(MyIStack<IStatement> exeStack, MyIDictionary<String, Value> symTable, MyIList<Value> out, IStatement originalProgram) {
@@ -31,6 +34,7 @@ public class ProgramState {
         out = new MyList<>();
         this.originalProgram = originalProgram;
         exeStack.push(originalProgram);
+        fileTable = new MyDictionary<>();
     }
 
 
@@ -38,6 +42,8 @@ public class ProgramState {
     public MyIStack<IStatement> getExeStack() {
         return exeStack;
     }
+
+    public void setFileTable(MyIDictionary<StringValue, BufferedReader> newFileTable) {this.fileTable = newFileTable;}
 
     public void setExeStack(MyIStack<IStatement> exeStack) {
         this.exeStack = exeStack;
@@ -73,7 +79,10 @@ public class ProgramState {
 
     @Override
     public String toString() {
-        return "";
+        return this.originalProgram.toString();
     }
 
+    public MyIDictionary<StringValue, BufferedReader> getFileTable() {
+        return this.fileTable;
+    }
 }

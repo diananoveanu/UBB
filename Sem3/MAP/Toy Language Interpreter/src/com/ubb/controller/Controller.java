@@ -6,7 +6,9 @@ import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.statements.IStatement;
 import com.ubb.repository.IRepository;
-import com.ubb.repository.Repository;
+
+import java.io.IOException;
+
 
 public class Controller {
     private IRepository repository;
@@ -23,19 +25,15 @@ public class Controller {
         return crtStmt.execute(state);
     }
 
-    public void allStep() throws GenericException {
+    public void allStep() throws GenericException, IOException {
         ProgramState prg = repository.getCurrentProgram();
         // repo is the controller field of type MyRepoInterface
         //here you can display the prg state
+        this.repository.logPrgStateExec(prg);
         while (!prg.getExeStack().isEmpty()) {
             oneStep(prg);
-            try{
-                this.repository.logPrgStateExec(prg);
-            }
-            catch (Exception e){
-                e.printStackTrace();
-                // todo lol
-            }
+            this.repository.logPrgStateExec(prg);
+
         }
         //here you can display the pr g state }
     }

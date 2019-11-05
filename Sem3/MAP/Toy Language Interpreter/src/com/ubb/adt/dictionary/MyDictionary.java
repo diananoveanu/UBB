@@ -48,7 +48,7 @@ public class MyDictionary<K, V> implements MyIDictionary<K, V> {
     }
 
     @Override
-    public void remove(int id) {
+    public void remove(K id) {
         dict.remove(id);
     }
 

@@ -15,7 +15,7 @@ public interface MyIDictionary<K, V> {
 
     boolean containsKey(K name);
 
-    void remove(int id);
+    void remove(K id);
 
     Collection<V> values();
 
