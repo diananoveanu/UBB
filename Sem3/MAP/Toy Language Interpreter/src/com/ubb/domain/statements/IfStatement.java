@@ -21,8 +21,8 @@ public class IfStatement implements IStatement {
     }
 
     public String toString() {
-        return "(IF(" + expression.toString() + ") THEN(" + thenS.toString()
-                + ")ELSE(" + elseS.toString() + "))";
+        return "if(" + expression.toString() + ") then\t\n\t(" + thenS.toString()
+                + ");\nelse\n\t(" + elseS.toString() + ")";
     }
 
     public ProgramState execute(ProgramState state) throws GenericException {

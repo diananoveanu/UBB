@@ -79,7 +79,12 @@ public class ProgramState {
 
     @Override
     public String toString() {
-        return this.originalProgram.toString();
+        return "#######################################################\n" +
+                "===== EXE STACK =====\n" + exeStack.toString() +"\n" +
+                "===== SYM TABLE =====\n" + symTable.toString() +"\n" +
+                "===== OUT TABLE =====\n" + out.toString() + "\n" +
+                "===== FILE TABLE =====\n" + fileTable.toString() +"\n" +
+                "#######################################################\n\n";
     }
 
     public MyIDictionary<StringValue, BufferedReader> getFileTable() {

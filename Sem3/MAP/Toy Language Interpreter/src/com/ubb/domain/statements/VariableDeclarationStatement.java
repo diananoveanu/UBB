@@ -6,6 +6,7 @@ import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.exceptions.VariableAlreadyDeclaredException;
 import com.ubb.domain.type.BooleanType;
 import com.ubb.domain.type.IntegerType;
+import com.ubb.domain.type.StringType;
 import com.ubb.domain.type.Type;
 import com.ubb.domain.value.BooleanValue;
 import com.ubb.domain.value.IntegerValue;
@@ -32,6 +33,8 @@ public class VariableDeclarationStatement implements IStatement {
             if (type instanceof BooleanType) {
                 symTable.put(id, type.defaultValue());
             } else if (type instanceof IntegerType) {
+                symTable.put(id, type.defaultValue());
+            } else if (type instanceof StringType){
                 symTable.put(id, type.defaultValue());
             }
         } else {

@@ -15,7 +15,7 @@ public class CompoundStatement implements IStatement {
 
     @Override
     public String toString() {
-        return  first.toString() + ";" + second.toString();
+        return  first.toString() + ";\n" + second.toString();
     }
 
     @Override

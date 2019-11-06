@@ -32,14 +32,15 @@ public class Controller {
         this.repository.logPrgStateExec(prg);
         while (!prg.getExeStack().isEmpty()) {
             oneStep(prg);
-            this.repository.logPrgStateExec(prg);
-
+            this.repository.logPrgStateExec(this.repository.getCurrentProgram());
         }
         //here you can display the pr g state }
     }
 
 
-    void displayProgramState() {
-        //TODO
+
+    public void printPrg() {
+        ProgramState prg = repository.getCurrentProgram();
+        System.out.println(prg);
     }
 }

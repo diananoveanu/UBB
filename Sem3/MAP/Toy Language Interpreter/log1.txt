@@ -1,1 +1,1603 @@
-bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(v)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(file)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);openFile(log2.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)bool a;int v;a=true;(IF(a) THEN(v=2)ELSE(v=3));openFile(log1.txt);close(log1.txt)
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5ae9a829}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@50c87b21}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=false}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
+===== SYM TABLE =====
+{a=false}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=false, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
+===== SYM TABLE =====
+{a=false, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=true, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
+===== SYM TABLE =====
+{a=true, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
+===== SYM TABLE =====
+{a=true, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=true, v=3}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(test.in, v);
+print( v ), openFile(test.in)]
+===== SYM TABLE =====
+{a=true, v=3}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=true, v=3}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( v ), readFile(test.in, v)]
+===== SYM TABLE =====
+{a=true, v=3}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( v )]
+===== SYM TABLE =====
+{a=true, v=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{a=true, v=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{a=true, v=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
