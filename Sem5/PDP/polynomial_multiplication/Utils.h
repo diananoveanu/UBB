@@ -1,0 +1,14 @@
+//
+// Created by Diana  on 11/6/19.
+//
+
+#ifndef POLYNOMIAL_MULTIPLICATION_UTILS_H
+#define POLYNOMIAL_MULTIPLICATION_UTILS_H
+
+
+class Utils {
+
+};
+
+
+#endif //POLYNOMIAL_MULTIPLICATION_UTILS_H
