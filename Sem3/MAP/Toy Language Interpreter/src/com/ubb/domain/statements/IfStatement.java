@@ -1,7 +1,6 @@
 package com.ubb.domain.statements;
 
 import com.ubb.adt.stack.MyIStack;
-import com.ubb.adt.stack.MyStack;
 import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.expressions.Expression;
@@ -29,15 +28,15 @@ public class IfStatement implements IStatement {
         MyIStack<IStatement> stack = state.getExeStack();
         Value value;
         value = expression.evaluate(state.getSymTable());
-        if(value.getType().equals(new BooleanType())){
-            BooleanValue val = (BooleanValue)value;
+        if (value.getType().equals(new BooleanType())) {
+            BooleanValue val = (BooleanValue) value;
             boolean result = val.getValue();
-            if(result){
+            if (result) {
                 stack.push(thenS);
-            }else{
+            } else {
                 stack.push(elseS);
             }
-        }else{
+        } else {
             throw new GenericException("The expression is not a boolean!");
         }
         return state;

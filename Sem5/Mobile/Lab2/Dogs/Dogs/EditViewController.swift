@@ -3,28 +3,39 @@
 //  Dogs
 //
 //  Created by Diana  on 11/10/19.
-//  Copyright © 2019 steve. All rights reserved.
 //
 
 import UIKit
 
 class EditViewController: UIViewController {
-
+    
+    var dataManager: DataManager!
+    
+    @IBOutlet weak var quantityTextField: UITextField!
+    
+    @IBOutlet weak var oldQuantityLabel: UILabel!
+    @IBOutlet weak var itemsLabel: UILabel!
+    
+    var items = ""
+    var quantity: Int? = 0
+    var meal: Meal?
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        guard let quant = self.meal?.quantity,
+            let quantityInt = Int?(Int(quant)) else { return }
+        itemsLabel.text = self.meal?.items
+        oldQuantityLabel.text = String(quantityInt)
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    @IBAction func doneTapped(_ sender: Any) {
+        guard let quant = quantityTextField.text,
+            let quantityInt = Int16(quant) else { return }
+        self.dataManager.update(meal: meal!, quantity: quantityInt)
+        navigationController?.popViewController(animated: true)
     }
-    */
-
+    
+    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+        view.endEditing(true)
+        super.touchesBegan(touches, with: event)
+    }
 }

@@ -15,7 +15,7 @@ import java.io.IOException;
 public class CloseRFile implements IStatement {
     private Expression exp;
 
-    public CloseRFile(Expression exp){
+    public CloseRFile(Expression exp) {
         this.exp = exp;
     }
 
@@ -23,13 +23,13 @@ public class CloseRFile implements IStatement {
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
         Value val = exp.evaluate(state.getSymTable());
-        if(val.getType().equals(new StringType())){
-            StringValue stringValue = (StringValue)val;
+        if (val.getType().equals(new StringType())) {
+            StringValue stringValue = (StringValue) val;
             MyIDictionary<StringValue, BufferedReader> fileTable = state.getFileTable();
 
-            if(!fileTable.containsKey(stringValue)){
+            if (!fileTable.containsKey(stringValue)) {
                 throw new GenericException("There is no file opened with that name!");
-            }else{
+            } else {
                 BufferedReader b = fileTable.get(stringValue);
                 try {
                     b.close();
@@ -38,14 +38,14 @@ public class CloseRFile implements IStatement {
                 }
                 fileTable.remove(stringValue);
             }
-        }else{
+        } else {
             throw new GenericException("Expression is not string type!");
         }
         return state;
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         return "close(" + exp.toString() + ")";
     }
 }

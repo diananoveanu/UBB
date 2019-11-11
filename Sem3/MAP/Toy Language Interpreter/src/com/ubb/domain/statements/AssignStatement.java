@@ -13,7 +13,7 @@ public class AssignStatement implements IStatement {
     private String id;
     private Expression expression;
 
-    public AssignStatement(String id, Expression exp){
+    public AssignStatement(String id, Expression exp) {
         this.id = id;
         this.expression = exp;
     }

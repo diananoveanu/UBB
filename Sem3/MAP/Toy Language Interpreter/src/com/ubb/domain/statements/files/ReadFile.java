@@ -18,7 +18,7 @@ public class ReadFile implements IStatement {
     private Expression path;
     private String varName;
 
-    public ReadFile(Expression exp, String var){
+    public ReadFile(Expression exp, String var) {
         this.path = exp;
         this.varName = var;
     }
@@ -34,37 +34,37 @@ public class ReadFile implements IStatement {
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
         MyIDictionary<String, Value> symTable = state.getSymTable();
-        if(symTable.containsKey(varName)){
-           Value val = symTable.get(varName);
-           if(val.getType().equals(new IntegerType())){
-               Value pathVal = path.evaluate(symTable);
-               if(pathVal.getType().equals(new StringType())){
+        if (symTable.containsKey(varName)) {
+            Value val = symTable.get(varName);
+            if (val.getType().equals(new IntegerType())) {
+                Value pathVal = path.evaluate(symTable);
+                if (pathVal.getType().equals(new StringType())) {
 
-                    if(state.getFileTable().containsKey((StringValue) pathVal)){
+                    if (state.getFileTable().containsKey((StringValue) pathVal)) {
                         BufferedReader b = state.getFileTable().get((StringValue) pathVal);
                         try {
                             String line = b.readLine();
-                            if(line == null){
+                            if (line == null) {
                                 state.getSymTable().put(varName, new IntegerValue(0));
-                            }else{
+                            } else {
                                 state.getSymTable().put(varName, new IntegerValue(Integer.parseInt(line)));
                             }
-                            state.getFileTable().put((StringValue)pathVal, b);
+                            state.getFileTable().put((StringValue) pathVal, b);
                         } catch (IOException e) {
                             e.printStackTrace();
                         }
 
-                    }else{
+                    } else {
                         throw new GenericException("There is no file in fileTable with that name!");
                     }
-               }else{
-                   throw new GenericException("Path variable is not a string type!");
-               }
+                } else {
+                    throw new GenericException("Path variable is not a string type!");
+                }
 
-           }else{
-               throw new GenericException("Variable is not an integer!");
-           }
-        }else{
+            } else {
+                throw new GenericException("Variable is not an integer!");
+            }
+        } else {
             throw new GenericException("Variable is not declared");
         }
         return state;
@@ -72,7 +72,7 @@ public class ReadFile implements IStatement {
 
 
     @Override
-    public String toString(){
-        return "readFile(" + path.toString() +", " + varName + ")";
+    public String toString() {
+        return "readFile(" + path.toString() + ", " + varName + ")";
     }
 }

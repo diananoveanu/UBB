@@ -62,12 +62,12 @@
 		AA30DA5C20F647C4001D718F /* Dogs */ = {
 			isa = PBXGroup;
 			children = (
-				8F69C33B2377826B003467B7 /* EditViewController.swift */,
-				AA30DA5D20F647C4001D718F /* AppDelegate.swift */,
-				AA30DA7620F65139001D718F /* MainViewController.swift */,
 				AA30DA7820F65148001D718F /* AddViewController.swift */,
-				AA30DA7A20F65519001D718F /* DataManager.swift */,
+				8F69C33B2377826B003467B7 /* EditViewController.swift */,
+				AA30DA7620F65139001D718F /* MainViewController.swift */,
 				AA30DA6120F647C4001D718F /* Main.storyboard */,
+				AA30DA7A20F65519001D718F /* DataManager.swift */,
+				AA30DA5D20F647C4001D718F /* AppDelegate.swift */,
 				AA30DA6720F647C5001D718F /* Assets.xcassets */,
 				AA30DA6920F647C5001D718F /* LaunchScreen.storyboard */,
 				AA30DA6C20F647C5001D718F /* Info.plist */,

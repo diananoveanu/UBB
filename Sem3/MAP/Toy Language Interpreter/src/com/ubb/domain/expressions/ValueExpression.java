@@ -7,7 +7,7 @@ import com.ubb.domain.value.Value;
 public class ValueExpression implements Expression {
     Value value;
 
-    public ValueExpression(Value val){
+    public ValueExpression(Value val) {
         this.value = val;
     }
 

@@ -11,7 +11,7 @@ public class LogicExpression implements Expression {
     Expression e2;
     int op; //1-^, 2-|
 
-    public LogicExpression(Expression e1, Expression e2, int op){
+    public LogicExpression(Expression e1, Expression e2, int op) {
         this.e1 = e1;
         this.e2 = e2;
         this.op = op;
@@ -21,23 +21,23 @@ public class LogicExpression implements Expression {
     public Value evaluate(MyIDictionary<String, Value> tbl) throws GenericException {
         Value v1, v2;
         v1 = e1.evaluate(tbl);
-        if(v1.getType().equals(new BooleanType())){
+        if (v1.getType().equals(new BooleanType())) {
             v2 = e2.evaluate(tbl);
-            if(v2.getType().equals(new BooleanType())){
+            if (v2.getType().equals(new BooleanType())) {
                 BooleanValue b1 = (BooleanValue) v1;
                 BooleanValue b2 = (BooleanValue) v2;
                 boolean n1, n2;
                 n1 = b1.getValue();
                 n2 = b2.getValue();
-                if(op == 1){
+                if (op == 1) {
                     return new BooleanValue(n1 & n2);
-                }else if(op == 2){
+                } else if (op == 2) {
                     return new BooleanValue(n1 | n2);
                 }
-            }else{
+            } else {
                 throw new GenericException("Second operand is not a boolean!");
             }
-        }else{
+        } else {
             throw new GenericException("First operand is not a boolean!");
         }
         return null;
@@ -46,12 +46,11 @@ public class LogicExpression implements Expression {
     @Override
     public String toString() {
         String ope = "";
-        if(op == 1){
+        if (op == 1) {
             ope = "^";
-        }else if(op == 2){
+        } else if (op == 2) {
             ope = "|";
         }
-
         return e1.toString() + " " + ope + " " + e2.toString();
     }
 }

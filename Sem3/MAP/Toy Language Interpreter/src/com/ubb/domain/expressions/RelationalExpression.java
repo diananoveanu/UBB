@@ -12,7 +12,7 @@ public class RelationalExpression implements Expression {
     Expression exp2;
     int rel; //1 <, //2 <=, 3 ==, 4 !=, 5 >, 6 >=
 
-    public RelationalExpression(Expression ex1, Expression ex2, int rel){
+    public RelationalExpression(Expression ex1, Expression ex2, int rel) {
         this.exp1 = ex1;
         this.exp2 = ex2;
         this.rel = rel;
@@ -31,9 +31,9 @@ public class RelationalExpression implements Expression {
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         String relOp = "";
-        switch (rel){
+        switch (rel) {
             case 1:
                 relOp = "<";
                 break;

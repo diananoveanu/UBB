@@ -6,8 +6,14 @@
 #define POLYNOMIAL_MULTIPLICATION_UTILS_H
 
 
-class Utils {
+#include <vector>
 
+class Utils {
+public:
+    static std::vector<int> vectorToPoly(std::vector<int>& poly){
+        std::reverse(poly.begin(), poly.end());
+        return poly;
+    }
 };
 
 

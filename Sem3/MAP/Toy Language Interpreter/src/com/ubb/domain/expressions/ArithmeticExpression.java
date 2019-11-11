@@ -18,15 +18,15 @@ public class ArithmeticExpression implements Expression {
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         String ope = "";
         if (op == 1) {
             ope = "+";
-        }else if(op == 2){
+        } else if (op == 2) {
             ope = "-";
-        }else if(op == 3){
+        } else if (op == 3) {
             ope = "*";
-        }else{
+        } else {
             ope = "/";
         }
         return e1.toString() + " " + ope + " " + e2.toString();
