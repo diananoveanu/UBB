@@ -1,1 +1,6 @@
-.DS_Store
+**/venv
+**/.idea
+**/.DS_Store
+**/bin
+**/obj
+**/node_modules

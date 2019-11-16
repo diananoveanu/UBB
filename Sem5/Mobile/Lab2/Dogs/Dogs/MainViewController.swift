@@ -43,7 +43,6 @@ class MainViewController: UIViewController {
 
 
 extension MainViewController: UITableViewDelegate, UITableViewDataSource {
-    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int  {
         return dataManager.mealCount()
     }
@@ -56,7 +55,7 @@ extension MainViewController: UITableViewDelegate, UITableViewDataSource {
         // fetch data
         let meal = dataManager.meal(at: indexPath)
         // display data
-        
+        cell.contentView.backgroundColor = #colorLiteral(red: 0.859064579, green: 0.8289134502, blue: 0.9530699849, alpha: 1)
         cell.textLabel?.text = meal.items
         return cell
     }

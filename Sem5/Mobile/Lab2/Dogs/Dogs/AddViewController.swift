@@ -4,11 +4,14 @@ import UIKit
 class AddViewController: UIViewController {
     @IBOutlet weak var nameTextField: UITextField!
     @IBOutlet weak var ageTextField: UITextField!
-    
+
     var dataManager: DataManager!
     
     override func viewDidLoad() {
         super.viewDidLoad()
+
+        nameTextField.textColor = UIColor.darkGray
+        ageTextField.textColor = UIColor.darkGray
     }
     
     @IBAction func saveTapped(_ sender: UIBarButtonItem) {
