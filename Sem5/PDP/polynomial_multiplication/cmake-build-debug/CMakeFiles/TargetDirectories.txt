@@ -1,3 +1,0 @@
-/Users/diananoveanu/UBB/Sem5/PDP/polynomial_multiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/diananoveanu/UBB/Sem5/PDP/polynomial_multiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/diananoveanu/UBB/Sem5/PDP/polynomial_multiplication/cmake-build-debug/CMakeFiles/polynomial_multiplication.dir
