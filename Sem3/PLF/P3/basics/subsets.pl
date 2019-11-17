@@ -26,3 +26,17 @@ find_len_subsets([H|T],K,[H|R]):-
     K2 is K-1,
     K > 0,
     find_len_subsets(T,K2,R).
+
+
+% subsets that have the sum equal to a given sum
+% subsets(L, K, R), L - list, K - integer
+% Flux (i, i, o)
+combSum(_,0,[]).
+combSum([_|T],K,R):-
+    K>0,
+    combSum(T,K,R).
+combSum([H|T],K,[H|R]):-
+    K2 is K-H,
+    K2 >=0,
+    combSum(T,K2,R).
+
