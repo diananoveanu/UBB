@@ -236,3 +236,230 @@ print( v )]
 {test.in=java.io.BufferedReader@1e88b3c}
 #######################################################
 
+#######################################################
+===== EXE STACK =====
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=false}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
+===== SYM TABLE =====
+{a=false}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=false, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
+===== SYM TABLE =====
+{a=false, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=true, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
+===== SYM TABLE =====
+{a=true, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
+===== SYM TABLE =====
+{a=true, v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(test.in);
+readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=true, v=3}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(test.in, v);
+print( v ), openFile(test.in)]
+===== SYM TABLE =====
+{a=true, v=3}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(test.in, v);
+print( v )]
+===== SYM TABLE =====
+{a=true, v=3}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( v ), readFile(test.in, v)]
+===== SYM TABLE =====
+{a=true, v=3}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( v )]
+===== SYM TABLE =====
+{a=true, v=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{a=true, v=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@1e88b3c}
+#######################################################
+
