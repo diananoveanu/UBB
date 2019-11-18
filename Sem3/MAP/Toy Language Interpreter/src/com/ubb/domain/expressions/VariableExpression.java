@@ -13,7 +13,7 @@ public class VariableExpression implements Expression {
     }
 
     @Override
-    public Value evaluate(MyIDictionary<String, Value> symbolTable) throws GenericException {
+    public Value evaluate(MyIDictionary<String, Value> symbolTable, MyIDictionary<Integer, Value> heap) throws GenericException {
         return symbolTable.get(this.name);
     }
 

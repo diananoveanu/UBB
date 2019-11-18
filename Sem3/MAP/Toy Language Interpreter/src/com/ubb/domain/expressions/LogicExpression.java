@@ -18,11 +18,11 @@ public class LogicExpression implements Expression {
     }
 
     @Override
-    public Value evaluate(MyIDictionary<String, Value> tbl) throws GenericException {
+    public Value evaluate(MyIDictionary<String, Value> tbl, MyIDictionary<Integer, Value> heap) throws GenericException {
         Value v1, v2;
-        v1 = e1.evaluate(tbl);
+        v1 = e1.evaluate(tbl, heap);
         if (v1.getType().equals(new BooleanType())) {
-            v2 = e2.evaluate(tbl);
+            v2 = e2.evaluate(tbl, heap);
             if (v2.getType().equals(new BooleanType())) {
                 BooleanValue b1 = (BooleanValue) v1;
                 BooleanValue b2 = (BooleanValue) v2;

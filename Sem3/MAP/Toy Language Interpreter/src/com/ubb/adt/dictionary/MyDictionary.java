@@ -72,6 +72,12 @@ public class MyDictionary<K, V> implements MyIDictionary<K, V> {
         return dict.entrySet();
     }
 
+    @Override
+    public Set<Map.Entry<K, V>> getContent(){
+        return dict.entrySet();
+    }
+
+    @Override
     public void setContent(Set<Map.Entry<K, V>> set) {
         dict.clear();
         for (Map.Entry<K, V> entry : set) {

@@ -4,10 +4,7 @@ import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.exceptions.VariableAlreadyDeclaredException;
-import com.ubb.domain.type.BooleanType;
-import com.ubb.domain.type.IntegerType;
-import com.ubb.domain.type.StringType;
-import com.ubb.domain.type.Type;
+import com.ubb.domain.type.*;
 import com.ubb.domain.value.Value;
 
 public class VariableDeclarationStatement implements IStatement {
@@ -33,6 +30,8 @@ public class VariableDeclarationStatement implements IStatement {
             } else if (type instanceof IntegerType) {
                 symTable.put(id, type.defaultValue());
             } else if (type instanceof StringType) {
+                symTable.put(id, type.defaultValue());
+            } else if (type instanceof RefType){
                 symTable.put(id, type.defaultValue());
             }
         } else {

@@ -15,9 +15,16 @@ public class MyList<T> implements MyIList<T> {
     }
 
     @Override
-    public void delete(T elem) {
-
+    public Boolean containsValue(T elem) {
+        return list.contains(elem);
     }
+
+    @Override
+    public void delete(T elem) {
+        list.remove(elem);
+    }
+
+
 
     @Override
     public void add(T elem) {

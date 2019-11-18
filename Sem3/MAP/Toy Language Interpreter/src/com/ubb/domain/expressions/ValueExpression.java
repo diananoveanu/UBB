@@ -12,7 +12,7 @@ public class ValueExpression implements Expression {
     }
 
     @Override
-    public Value evaluate(MyIDictionary<String, Value> tbl) throws GenericException {
+    public Value evaluate(MyIDictionary<String, Value> tbl, MyIDictionary<Integer, Value> heap) throws GenericException {
         return value;
     }
 

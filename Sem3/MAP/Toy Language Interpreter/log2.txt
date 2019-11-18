@@ -1,11 +1,4185 @@
 #######################################################
 ===== EXE STACK =====
-[]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
 ===== OUT TABLE =====
 [19]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@1e88b3c}
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@4f7d0008}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@736e9adb}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@5eb5c224}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=19}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{test.in=java.io.BufferedReader@2b05039f}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=20}
+===== OUT TABLE =====
+[19, 20]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
 #######################################################
 

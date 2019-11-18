@@ -27,7 +27,7 @@ public class IfStatement implements IStatement {
     public ProgramState execute(ProgramState state) throws GenericException {
         MyIStack<IStatement> stack = state.getExeStack();
         Value value;
-        value = expression.evaluate(state.getSymTable());
+        value = expression.evaluate(state.getSymTable(), state.getHeap());
         if (value.getType().equals(new BooleanType())) {
             BooleanValue val = (BooleanValue) value;
             boolean result = val.getValue();

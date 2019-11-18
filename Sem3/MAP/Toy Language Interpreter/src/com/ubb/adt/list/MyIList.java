@@ -14,4 +14,6 @@ public interface MyIList<T> {
     void removeAll();
 
     Integer size();
+
+    Boolean containsValue(T elem);
 }

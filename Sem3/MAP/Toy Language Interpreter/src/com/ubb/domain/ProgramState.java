@@ -18,12 +18,15 @@ public class ProgramState {
     MyIList<Value> out;
     MyIDictionary<StringValue, BufferedReader> fileTable;
     IStatement originalProgram;
+    MyIDictionary<Integer, Value> heap;
 
-    public ProgramState(MyIStack<IStatement> exeStack, MyIDictionary<String, Value> symTable, MyIList<Value> out, IStatement originalProgram) {
+    public ProgramState(MyIStack<IStatement> exeStack, MyIDictionary<String, Value> symTable, MyIList<Value> out,
+                        MyIDictionary<StringValue, BufferedReader> fileTable, IStatement originalProgram) {
         this.exeStack = exeStack;
         this.symTable = symTable;
         this.out = out;
         this.originalProgram = originalProgram;
+        this.fileTable = fileTable;
         exeStack.push(originalProgram);
     }
 
@@ -34,6 +37,7 @@ public class ProgramState {
         this.originalProgram = originalProgram;
         exeStack.push(originalProgram);
         fileTable = new MyDictionary<>();
+        heap = new MyDictionary<>();
     }
 
 
@@ -41,6 +45,8 @@ public class ProgramState {
     public MyIStack<IStatement> getExeStack() {
         return exeStack;
     }
+
+    public void setHeap(MyIDictionary<Integer, Value> newHeap) {this.heap = newHeap;}
 
     public void setFileTable(MyIDictionary<StringValue, BufferedReader> newFileTable) {this.fileTable = newFileTable;}
 
@@ -72,6 +78,8 @@ public class ProgramState {
         return originalProgram;
     }
 
+    public MyIDictionary<Integer, Value> getHeap() {return heap;}
+
     public void setOriginalProgram(IStatement originalProgram) {
         this.originalProgram = originalProgram;
     }
@@ -83,6 +91,7 @@ public class ProgramState {
                 "===== SYM TABLE =====\n" + symTable.toString() +"\n" +
                 "===== OUT TABLE =====\n" + out.toString() + "\n" +
                 "===== FILE TABLE =====\n" + fileTable.toString() +"\n" +
+                "===== HEAP =====\n" + heap.toString()+ "\n" +
                 "#######################################################\n\n";
     }
 

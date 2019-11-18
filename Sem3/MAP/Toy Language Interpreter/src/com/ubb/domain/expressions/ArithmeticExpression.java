@@ -6,6 +6,8 @@ import com.ubb.domain.type.IntegerType;
 import com.ubb.domain.value.IntegerValue;
 import com.ubb.domain.value.Value;
 
+import java.net.IDN;
+
 public class ArithmeticExpression implements Expression {
     Expression e1;
     Expression e2;
@@ -33,11 +35,11 @@ public class ArithmeticExpression implements Expression {
     }
 
     @Override
-    public Value evaluate(MyIDictionary<String, Value> tbl) throws GenericException {
+    public Value evaluate(MyIDictionary<String, Value> tbl, MyIDictionary<Integer, Value> heap) throws GenericException {
         Value v1, v2;
-        v1 = e1.evaluate(tbl);
+        v1 = e1.evaluate(tbl, heap);
         if (v1.getType().equals(new IntegerType())) {
-            v2 = e2.evaluate(tbl);
+            v2 = e2.evaluate(tbl, heap);
             if (v2.getType().equals(new IntegerType())) {
                 IntegerValue i1 = (IntegerValue) v1;
                 IntegerValue i2 = (IntegerValue) v2;

@@ -17,6 +17,8 @@ public interface MyIDictionary<K, V> {
 
     void remove(K id);
 
+    public Set<Map.Entry<K, V>> getContent();
+
     Collection<V> values();
 
     boolean containsValue(V element);

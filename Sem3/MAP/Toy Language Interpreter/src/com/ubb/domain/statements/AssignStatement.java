@@ -27,7 +27,7 @@ public class AssignStatement implements IStatement {
     public ProgramState execute(ProgramState state) throws GenericException {
         MyIDictionary<String, Value> symbolTable = state.getSymTable();
         if (symbolTable.containsKey(id)) {
-            Value value = expression.evaluate(symbolTable);
+            Value value = expression.evaluate(symbolTable, state.getHeap());
             Type typeId = (symbolTable.get(id)).getType();
             if ((value.getType()).equals(typeId)) {
                 symbolTable.put(id, value);

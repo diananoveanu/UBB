@@ -22,7 +22,7 @@ public class CloseRFile implements IStatement {
 
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
-        Value val = exp.evaluate(state.getSymTable());
+        Value val = exp.evaluate(state.getSymTable(), state.getHeap());
         if (val.getType().equals(new StringType())) {
             StringValue stringValue = (StringValue) val;
             MyIDictionary<StringValue, BufferedReader> fileTable = state.getFileTable();

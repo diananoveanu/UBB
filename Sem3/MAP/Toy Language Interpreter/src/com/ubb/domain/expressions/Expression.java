@@ -5,5 +5,5 @@ import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.value.Value;
 
 public interface Expression {
-    Value evaluate(MyIDictionary<String, Value> tbl) throws GenericException;
+    Value evaluate(MyIDictionary<String, Value> tbl, MyIDictionary<Integer, Value> heap) throws GenericException;
 }

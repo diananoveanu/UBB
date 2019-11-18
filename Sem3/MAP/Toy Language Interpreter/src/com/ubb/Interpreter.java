@@ -3,15 +3,14 @@ package com.ubb;
 import com.ubb.controller.Controller;
 import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
-import com.ubb.domain.expressions.RelationalExpression;
-import com.ubb.domain.expressions.ValueExpression;
-import com.ubb.domain.expressions.VariableExpression;
+import com.ubb.domain.expressions.*;
 import com.ubb.domain.statements.*;
 import com.ubb.domain.statements.files.CloseRFile;
 import com.ubb.domain.statements.files.OpenRFile;
 import com.ubb.domain.statements.files.ReadFile;
 import com.ubb.domain.type.BooleanType;
 import com.ubb.domain.type.IntegerType;
+import com.ubb.domain.type.RefType;
 import com.ubb.domain.type.StringType;
 import com.ubb.domain.value.BooleanValue;
 import com.ubb.domain.value.IntegerValue;
@@ -65,23 +64,108 @@ public class Interpreter {
                 )
         );
 
+        //Ref int v;new(v,20);Ref Ref int a; new(a,v);print(v);print(a)
+        IStatement ex3 = new CompoundStatement(
+                new VariableDeclarationStatement("v", new RefType(new IntegerType())),
+                new CompoundStatement(
+                        new HeapAllocationStatement("v", new ValueExpression(new IntegerValue(20))),
+                        new CompoundStatement(
+                                new VariableDeclarationStatement("a", new RefType(new RefType(new IntegerType()))),
+                                new CompoundStatement(
+                                        new HeapAllocationStatement("a", new VariableExpression("v")),
+                                        new CompoundStatement(
+                                                new PrintStatement(new VariableExpression("v")),
+                                                new PrintStatement(new VariableExpression("a"))
+                                        )
+                                )
+                        )
+                )
+        );
+
+
+        //Ref int v;new(v,20);Ref Ref int a; new(a,v);print(rH(v));print(rH(rH(a))+5)
+        IStatement ex4 = new CompoundStatement(
+                new VariableDeclarationStatement("v", new RefType(new IntegerType())),
+                new CompoundStatement(
+                        new HeapAllocationStatement("v", new ValueExpression(new IntegerValue(20))),
+                        new CompoundStatement(
+                                new VariableDeclarationStatement("a", new RefType(new RefType(new IntegerType()))),
+                                new CompoundStatement(
+                                        new HeapAllocationStatement("a", new VariableExpression("v")),
+                                        new CompoundStatement(
+                                                new PrintStatement(new ReadHeapExpression(new VariableExpression("v"))),
+                                                new PrintStatement(new ArithmeticExpression(new ReadHeapExpression(new ReadHeapExpression(new VariableExpression("a"))), new ValueExpression(new IntegerValue(5)), 1))
+                                        )
+                                )
+                        )
+                )
+        );
+
+
+        //Ref int v;new(v,20);print(rH(v)); wH(v,30);print(rH(v)+5);
+        IStatement ex5 = new CompoundStatement(
+                new VariableDeclarationStatement("v", new RefType(new IntegerType())),
+                new CompoundStatement(
+                        new HeapAllocationStatement("v", new ValueExpression(new IntegerValue(20))),
+                        new CompoundStatement(
+                                new PrintStatement(new ReadHeapExpression(new VariableExpression("v"))),
+                                new CompoundStatement(
+                                        new WriteHeapStatement("v", new ValueExpression(new IntegerValue(30))),
+                                        new PrintStatement(new ReadHeapExpression(new VariableExpression("v")))
+                                )
+                        )
+                )
+        );
+
+        //int v; v=4; (while (v>0) print(v);v=v-1);print(v)
+        IStatement ex6 = new CompoundStatement(
+                new VariableDeclarationStatement("v", new IntegerType()),
+                new CompoundStatement(
+                        new AssignStatement("v", new ValueExpression(new IntegerValue(4))),
+                        new CompoundStatement(
+                                new WhileStatement(new RelationalExpression(new VariableExpression("v"), new ValueExpression(new IntegerValue(0)), 5),
+                                        new CompoundStatement(new PrintStatement(new VariableExpression("v")),
+                                                new AssignStatement("v", new ArithmeticExpression(new VariableExpression("v"), new ValueExpression(new IntegerValue(-1)), 1)))),
+                                new PrintStatement(new VariableExpression("v"))
+                        )
+                )
+        );
 
         List<ProgramState> prg1 = new ArrayList<>();
         List<ProgramState> prg2 = new ArrayList<>();
+        List<ProgramState> prg3 = new ArrayList<>();
+        List<ProgramState> prg4 = new ArrayList<>();
+        List<ProgramState> prg5 = new ArrayList<>();
+        List<ProgramState> prg6 = new ArrayList<>();
+
         prg1.add(new ProgramState(ex1));
         prg2.add(new ProgramState(ex2));
+        prg3.add(new ProgramState(ex3));
+        prg4.add(new ProgramState(ex4));
+        prg5.add(new ProgramState(ex5));
+        prg6.add(new ProgramState(ex6));
+
         IRepository repo1 = new Repository(prg1, "log1.txt");
         Controller ctrl1 = new Controller(repo1);
-        IRepository repo2 = new Repository(prg1, "log2.txt");
+        IRepository repo2 = new Repository(prg2, "log2.txt");
         Controller ctrl2 = new Controller(repo2);
-        ctrl1.allStep();
-        ctrl2.allStep();
-
+        IRepository repo3 = new Repository(prg3, "log3.txt");
+        Controller ctrl3 = new Controller(repo3);
+        IRepository repo4 = new Repository(prg4, "log4.txt");
+        Controller ctrl4 = new Controller(repo4);
+        IRepository repo5 = new Repository(prg5, "log5.txt");
+        Controller ctrl5 = new Controller(repo5);
+        IRepository repo6 = new Repository(prg6, "log6.txt");
+        Controller ctrl6 = new Controller(repo6);
 
         TextMenu menu = new TextMenu();
         menu.addCommand(new ExitCommand("0", "exit"));
         menu.addCommand(new RunExampleCommand("1", "\n" + ex1.toString(), ctrl1));
-        menu.addCommand(new RunExampleCommand("2", "\n" + ex2.toString(), ctrl1));
+        menu.addCommand(new RunExampleCommand("2", "\n" + ex2.toString(), ctrl2));
+        menu.addCommand(new RunExampleCommand("3", "\n" + ex3.toString(), ctrl3));
+        menu.addCommand(new RunExampleCommand("4", "\n" + ex4.toString(), ctrl4));
+        menu.addCommand(new RunExampleCommand("5", "\n" + ex5.toString(), ctrl5));
+        menu.addCommand(new RunExampleCommand("6", "\n" + ex6.toString(), ctrl6));
         menu.show();
     }
 }

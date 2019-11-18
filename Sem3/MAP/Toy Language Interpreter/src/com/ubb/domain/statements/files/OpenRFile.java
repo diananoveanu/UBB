@@ -22,7 +22,7 @@ public class OpenRFile implements IStatement {
 
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
-        Value val = exp.evaluate(state.getSymTable());
+        Value val = exp.evaluate(state.getSymTable(), state.getHeap());
         if (val.getType().equals(new StringType())) {
             String path = ((StringValue) val).getValue();
             try {

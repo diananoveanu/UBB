@@ -37,7 +37,7 @@ public class ReadFile implements IStatement {
         if (symTable.containsKey(varName)) {
             Value val = symTable.get(varName);
             if (val.getType().equals(new IntegerType())) {
-                Value pathVal = path.evaluate(symTable);
+                Value pathVal = path.evaluate(symTable, state.getHeap());
                 if (pathVal.getType().equals(new StringType())) {
 
                     if (state.getFileTable().containsKey((StringValue) pathVal)) {
