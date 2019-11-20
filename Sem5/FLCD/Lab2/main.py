@@ -1,11 +1,13 @@
-from utils import read_fa_from_file
+import os
 
-path_to_fa = '/Users/diananoveanu/UBB/Sem5/FLCD/Lab2/fa_input.txt'
+from utils import read_grammar_from_file, read_grammar_from_keyboard, make_finite_automata_from_grammar, make_grammar_from_finite_automata
 
-fa = read_fa_from_file(path_to_fa)
+local_path = 'grammar.txt'
 
-print(fa.get_alphabet())
-print(fa.get_states())
-print(fa.get_final_states())
-print(fa.get_transitions())
-print(fa.get_start_state())
+PATH_TO_GRAMMAR = os.path.join(os.getcwd(), local_path)
+
+grammar = read_grammar_from_file(PATH_TO_GRAMMAR)
+
+fa_from_grammar = make_finite_automata_from_grammar(grammar)
+
+print(make_grammar_from_finite_automata(fa_from_grammar))
