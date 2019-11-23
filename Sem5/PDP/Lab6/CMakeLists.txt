@@ -9,7 +9,6 @@ add_executable(polynomial_multiplication
         main.cpp
         Polynomial.cpp
         Polynomial.h
-        Utils.cpp
         Utils.h
         PolyMul.cpp
         Polynomial.h

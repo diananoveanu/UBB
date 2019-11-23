@@ -4,6 +4,7 @@ import com.ubb.domain.value.BooleanValue;
 import com.ubb.domain.value.Value;
 
 public class BooleanType implements Type {
+
     @Override
     public boolean equals(Object another) {
         return another instanceof BooleanType;

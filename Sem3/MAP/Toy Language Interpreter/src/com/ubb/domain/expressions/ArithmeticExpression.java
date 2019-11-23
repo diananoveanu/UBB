@@ -58,30 +58,4 @@ public class ArithmeticExpression implements Expression {
             throw new GenericException("first operand is not an integer");
         return null;
     }
-
-
-    public Expression getE1() {
-        return e1;
-    }
-
-    public void setE1(Expression e1) {
-        this.e1 = e1;
-    }
-
-    public Expression getE2() {
-        return e2;
-    }
-
-    public void setE2(Expression e2) {
-        this.e2 = e2;
-    }
-
-    public int getOp() {
-        return op;
-    }
-
-    public void setOp(int op) {
-        this.op = op;
-    }
-
 }

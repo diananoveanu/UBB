@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNum.cpp
-iostream
--
-BigNum.h
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNum.h
-
 /Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNum.h
 vector
 -
@@ -21,44 +15,6 @@ algorithm
 -
 ostream
 -
-
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNumParal.cpp
-BigNumParal.h
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNumParal.h
-BigNum.h
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNum.h
-thread
--
-iostream
--
-
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNumParal.h
-vector
--
-BigNum.h
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNum.h
-
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/Helper.h
-vector
--
-string
--
-
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/main.cpp
-iostream
--
-vector
--
-chrono
--
-BigNum.h
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNum.h
-BigNumParal.h
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/BigNumParal.h
-Helper.h
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/Helper.h
-numberProd.h
-/Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/numberProd.h
 
 /Users/diananoveanu/UBB/Sem5/PDP/Lab6Bonus/numberDiff.h
 vector

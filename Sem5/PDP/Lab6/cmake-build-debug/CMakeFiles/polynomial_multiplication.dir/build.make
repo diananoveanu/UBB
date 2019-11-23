@@ -83,22 +83,9 @@ CMakeFiles/polynomial_multiplication.dir/Polynomial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/polynomial_multiplication.dir/Polynomial.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/diananoveanu/UBB/Sem5/PDP/Lab6/Polynomial.cpp -o CMakeFiles/polynomial_multiplication.dir/Polynomial.cpp.s
 
-CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o: CMakeFiles/polynomial_multiplication.dir/flags.make
-CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o: ../Utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/diananoveanu/UBB/Sem5/PDP/Lab6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o -c /Users/diananoveanu/UBB/Sem5/PDP/Lab6/Utils.cpp
-
-CMakeFiles/polynomial_multiplication.dir/Utils.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/polynomial_multiplication.dir/Utils.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/diananoveanu/UBB/Sem5/PDP/Lab6/Utils.cpp > CMakeFiles/polynomial_multiplication.dir/Utils.cpp.i
-
-CMakeFiles/polynomial_multiplication.dir/Utils.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/polynomial_multiplication.dir/Utils.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/diananoveanu/UBB/Sem5/PDP/Lab6/Utils.cpp -o CMakeFiles/polynomial_multiplication.dir/Utils.cpp.s
-
 CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.o: CMakeFiles/polynomial_multiplication.dir/flags.make
 CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.o: ../PolyMul.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/diananoveanu/UBB/Sem5/PDP/Lab6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/diananoveanu/UBB/Sem5/PDP/Lab6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.o -c /Users/diananoveanu/UBB/Sem5/PDP/Lab6/PolyMul.cpp
 
 CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.i: cmake_force
@@ -111,7 +98,7 @@ CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.s: cmake_force
 
 CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.o: CMakeFiles/polynomial_multiplication.dir/flags.make
 CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.o: ../NumberDiff.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/diananoveanu/UBB/Sem5/PDP/Lab6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/diananoveanu/UBB/Sem5/PDP/Lab6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.o -c /Users/diananoveanu/UBB/Sem5/PDP/Lab6/NumberDiff.cpp
 
 CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.i: cmake_force
@@ -126,7 +113,6 @@ CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.s: cmake_force
 polynomial_multiplication_OBJECTS = \
 "CMakeFiles/polynomial_multiplication.dir/main.cpp.o" \
 "CMakeFiles/polynomial_multiplication.dir/Polynomial.cpp.o" \
-"CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o" \
 "CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.o" \
 "CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.o"
 
@@ -135,12 +121,11 @@ polynomial_multiplication_EXTERNAL_OBJECTS =
 
 polynomial_multiplication: CMakeFiles/polynomial_multiplication.dir/main.cpp.o
 polynomial_multiplication: CMakeFiles/polynomial_multiplication.dir/Polynomial.cpp.o
-polynomial_multiplication: CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o
 polynomial_multiplication: CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.o
 polynomial_multiplication: CMakeFiles/polynomial_multiplication.dir/NumberDiff.cpp.o
 polynomial_multiplication: CMakeFiles/polynomial_multiplication.dir/build.make
 polynomial_multiplication: CMakeFiles/polynomial_multiplication.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/diananoveanu/UBB/Sem5/PDP/Lab6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable polynomial_multiplication"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/diananoveanu/UBB/Sem5/PDP/Lab6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable polynomial_multiplication"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/polynomial_multiplication.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

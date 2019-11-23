@@ -7,7 +7,7 @@
 #include <mutex>
 #include "numberDiff.h"
 
-//-----------------------------------  Karatsuba approach following
+//----Karatsuba approach following
 /**
  *      Computes the product sequentially.
  * @param a : first operand of product
@@ -165,7 +165,7 @@ void numberProdKaratsubaAux(vector<int> *a, int startA, int stopA, vector<int> *
 
 
 /**
- *  Multiplying two numbers using the karatsuba approach. THe method calls a auxiliary method with more parameters,
+ * Multiplying two numbers using the Karatsuba approach. The method calls a auxiliary method with more parameters,
  * then copies the result.
  * @param a
  * @param b
@@ -186,9 +186,7 @@ void numberProdKaratsuba(vector<int> *a, vector<int> *b, vector<int> *result, in
 }
 
 void numberProdParallel(vector<int> *a, vector<int> *b, vector<int> *result, int threads, bool debug) {
-    //   numberProdParallelSlow(a,b,result,threads,debug);
     numberProdKaratsuba(a, b, result, threads, debug);
-
 }
 
 
@@ -225,7 +223,6 @@ std::vector<int> karatsubaSeq(std::vector<int> A, std::vector<int> B) {
     //Recursively call method on smaller arrays
     auto productLow = karatsubaSeq(aLow, bLow);
     auto productHigh = karatsubaSeq(aHigh, bHigh);
-
     auto productLowHigh = karatsubaSeq(aLowHigh, bLowHigh);
 
     //Construct middle portion of the product

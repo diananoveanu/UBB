@@ -12,10 +12,6 @@ CMakeFiles/polynomial_multiplication.dir/PolyMul.cpp.o: ../Polynomial.h
 CMakeFiles/polynomial_multiplication.dir/Polynomial.cpp.o: ../Polynomial.cpp
 CMakeFiles/polynomial_multiplication.dir/Polynomial.cpp.o: ../Polynomial.h
 
-CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o: ../Polynomial.h
-CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o: ../Utils.cpp
-CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o: ../Utils.h
-
 CMakeFiles/polynomial_multiplication.dir/main.cpp.o: ../PolyMul.h
 CMakeFiles/polynomial_multiplication.dir/main.cpp.o: ../Polynomial.h
 CMakeFiles/polynomial_multiplication.dir/main.cpp.o: ../Utils.h

@@ -204,33 +204,6 @@ Polynomial.cpp.s:
 	$(MAKE) -f CMakeFiles/polynomial_multiplication.dir/build.make CMakeFiles/polynomial_multiplication.dir/Polynomial.cpp.s
 .PHONY : Polynomial.cpp.s
 
-Utils.o: Utils.cpp.o
-
-.PHONY : Utils.o
-
-# target to build an object file
-Utils.cpp.o:
-	$(MAKE) -f CMakeFiles/polynomial_multiplication.dir/build.make CMakeFiles/polynomial_multiplication.dir/Utils.cpp.o
-.PHONY : Utils.cpp.o
-
-Utils.i: Utils.cpp.i
-
-.PHONY : Utils.i
-
-# target to preprocess a source file
-Utils.cpp.i:
-	$(MAKE) -f CMakeFiles/polynomial_multiplication.dir/build.make CMakeFiles/polynomial_multiplication.dir/Utils.cpp.i
-.PHONY : Utils.cpp.i
-
-Utils.s: Utils.cpp.s
-
-.PHONY : Utils.s
-
-# target to generate assembly for a file
-Utils.cpp.s:
-	$(MAKE) -f CMakeFiles/polynomial_multiplication.dir/build.make CMakeFiles/polynomial_multiplication.dir/Utils.cpp.s
-.PHONY : Utils.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -276,9 +249,6 @@ help:
 	@echo "... Polynomial.o"
 	@echo "... Polynomial.i"
 	@echo "... Polynomial.s"
-	@echo "... Utils.o"
-	@echo "... Utils.i"
-	@echo "... Utils.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -100,9 +100,6 @@
 		<Unit filename="/Users/diananoveanu/UBB/Sem5/PDP/Lab6/Polynomial.h">
 			<Option target="polynomial_multiplication"/>
 		</Unit>
-		<Unit filename="/Users/diananoveanu/UBB/Sem5/PDP/Lab6/Utils.cpp">
-			<Option target="polynomial_multiplication"/>
-		</Unit>
 		<Unit filename="/Users/diananoveanu/UBB/Sem5/PDP/Lab6/Utils.h">
 			<Option target="polynomial_multiplication"/>
 		</Unit>
