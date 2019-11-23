@@ -1,0 +1,1 @@
+;a) Write a function to return the product of two vectors.
