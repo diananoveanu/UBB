@@ -3,11 +3,15 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F5B6FC2238B0F9600725D4B /* SqliteDbStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B6FC1238B0F9600725D4B /* SqliteDbStore.swift */; };
 		8F69C33C2377826B003467B7 /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F69C33B2377826B003467B7 /* EditViewController.swift */; };
+		8FF3C0D8238DBFC1004280CF /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF3C0D7238DBFC1004280CF /* Course.swift */; };
+		8FF3C0DA238DC043004280CF /* MealsDb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF3C0D9238DC042004280CF /* MealsDb.swift */; };
+		8FF3C0DD238DC0B2004280CF /* SQLite in Frameworks */ = {isa = PBXBuildFile; productRef = 8FF3C0DC238DC0B2004280CF /* SQLite */; };
 		AA30DA5E20F647C4001D718F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA30DA5D20F647C4001D718F /* AppDelegate.swift */; };
 		AA30DA6320F647C4001D718F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA30DA6120F647C4001D718F /* Main.storyboard */; };
 		AA30DA6620F647C4001D718F /* Meals.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AA30DA6420F647C4001D718F /* Meals.xcdatamodeld */; };
@@ -19,7 +23,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F5B6FC1238B0F9600725D4B /* SqliteDbStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqliteDbStore.swift; sourceTree = "<group>"; };
 		8F69C33B2377826B003467B7 /* EditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
+		8FF3C0D7238DBFC1004280CF /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
+		8FF3C0D9238DC042004280CF /* MealsDb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealsDb.swift; sourceTree = "<group>"; };
 		AA30DA5A20F647C4001D718F /* Dogs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dogs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA30DA5D20F647C4001D718F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AA30DA6220F647C4001D718F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -37,6 +44,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FF3C0DD238DC0B2004280CF /* SQLite in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +80,9 @@
 				AA30DA6920F647C5001D718F /* LaunchScreen.storyboard */,
 				AA30DA6C20F647C5001D718F /* Info.plist */,
 				AA30DA6420F647C4001D718F /* Meals.xcdatamodeld */,
+				8F5B6FC1238B0F9600725D4B /* SqliteDbStore.swift */,
+				8FF3C0D7238DBFC1004280CF /* Course.swift */,
+				8FF3C0D9238DC042004280CF /* MealsDb.swift */,
 			);
 			path = Dogs;
 			sourceTree = "<group>";
@@ -92,6 +103,9 @@
 			dependencies = (
 			);
 			name = Dogs;
+			packageProductDependencies = (
+				8FF3C0DC238DC0B2004280CF /* SQLite */,
+			);
 			productName = Dogs;
 			productReference = AA30DA5A20F647C4001D718F /* Dogs.app */;
 			productType = "com.apple.product-type.application";
@@ -121,6 +135,9 @@
 				Base,
 			);
 			mainGroup = AA30DA5120F647C4001D718F;
+			packageReferences = (
+				8FF3C0DB238DC0B2004280CF /* XCRemoteSwiftPackageReference "SQLite.swift" */,
+			);
 			productRefGroup = AA30DA5B20F647C4001D718F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -148,11 +165,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FF3C0D8238DBFC1004280CF /* Course.swift in Sources */,
 				AA30DA7720F65139001D718F /* MainViewController.swift in Sources */,
 				AA30DA7B20F65519001D718F /* DataManager.swift in Sources */,
+				8F5B6FC2238B0F9600725D4B /* SqliteDbStore.swift in Sources */,
 				8F69C33C2377826B003467B7 /* EditViewController.swift in Sources */,
 				AA30DA6620F647C4001D718F /* Meals.xcdatamodeld in Sources */,
 				AA30DA7920F65148001D718F /* AddViewController.swift in Sources */,
+				8FF3C0DA238DC043004280CF /* MealsDb.swift in Sources */,
 				AA30DA5E20F647C4001D718F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -353,6 +373,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8FF3C0DB238DC0B2004280CF /* XCRemoteSwiftPackageReference "SQLite.swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/stephencelis/SQLite.swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.12.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8FF3C0DC238DC0B2004280CF /* SQLite */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8FF3C0DB238DC0B2004280CF /* XCRemoteSwiftPackageReference "SQLite.swift" */;
+			productName = SQLite;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		AA30DA6420F647C4001D718F /* Meals.xcdatamodeld */ = {

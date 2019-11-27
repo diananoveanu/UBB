@@ -1,6 +1,7 @@
 
 import UIKit
 import CoreData
+import SQLite3
 
 class DataManager: NSObject {
     
@@ -23,12 +24,18 @@ class DataManager: NSObject {
         return result
     }
     
+    private func fetchMeals()-> [Course]{
+        let courses = MealsDB.instance.getMeals()
+        return courses
+    }
+    
     private func fetchWithSort()-> [Meal] {
-        
+
         let fetchRequest = NSFetchRequest<Meal>(entityName: Key.meal)
         let sortDescriptor = NSSortDescriptor(key: "quantity", ascending: true)
         fetchRequest.sortDescriptors = [sortDescriptor]
         let meals = try! context.fetch(fetchRequest)
+        
         return meals
     }
     

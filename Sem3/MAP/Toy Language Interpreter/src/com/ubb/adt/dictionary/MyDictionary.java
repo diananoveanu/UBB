@@ -1,6 +1,5 @@
 package com.ubb.adt.dictionary;
 
-
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
@@ -73,7 +72,7 @@ public class MyDictionary<K, V> implements MyIDictionary<K, V> {
     }
 
     @Override
-    public Set<Map.Entry<K, V>> getContent(){
+    public Set<Map.Entry<K, V>> getContent() {
         return dict.entrySet();
     }
 

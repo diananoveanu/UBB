@@ -6,6 +6,7 @@ class MainViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     
     var dataManager: DataManager!
+    
     internal func onUserAction(data: Int)
     {
         print("Data received:")
@@ -16,7 +17,7 @@ class MainViewController: UIViewController {
         self.navigationController?.navigationBar.barTintColor = #colorLiteral(red: 0.859064579, green: 0.8289134502, blue: 0.9530699849, alpha: 1)
         self.navigationController?.navigationBar.shadowImage = UIImage()
         self.tableView.backgroundColor = #colorLiteral(red: 0.859064579, green: 0.8289134502, blue: 0.9530699849, alpha: 1)
-        
+
         func tableView(tableView: UITableView, willDisplayCell cell: UITableViewCell, forRowAtIndexPath indexPath: NSIndexPath) {
             cell.backgroundColor = UIColor.clear
         }
@@ -64,7 +65,9 @@ extension MainViewController: UITableViewDelegate, UITableViewDataSource {
         if editingStyle == UITableViewCell.EditingStyle.delete {
             let meal = self.dataManager.meal(at: indexPath)
             self.dataManager.delete(meal: meal)
+            _ = MealsDB.instance.deleteMeal(mId: Int64(meal.quantity))
             tableView.deleteRows(at: [indexPath], with: UITableView.RowAnimation.automatic)
+            
         }
     }
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {

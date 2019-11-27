@@ -12,7 +12,7 @@ public class WriteHeapStatement implements IStatement {
     private String varName;
     private Expression exp;
 
-    public WriteHeapStatement(String varName, Expression exp){
+    public WriteHeapStatement(String varName, Expression exp) {
         this.varName = varName;
         this.exp = exp;
     }
@@ -21,32 +21,32 @@ public class WriteHeapStatement implements IStatement {
     public ProgramState execute(ProgramState state) throws GenericException {
         MyIDictionary<String, Value> symTabel = state.getSymTable();
         MyIDictionary<Integer, Value> heap = state.getHeap();
-        if(symTabel.containsKey(varName)){
+        if (symTabel.containsKey(varName)) {
             Value fromSymTable = symTabel.get(varName);
-            if(fromSymTable.getType() instanceof RefType){
-                RefValue ref = (RefValue)fromSymTable;
-                if(heap.containsKey(ref.getAddress())){
+            if (fromSymTable.getType() instanceof RefType) {
+                RefValue ref = (RefValue) fromSymTable;
+                if (heap.containsKey(ref.getAddress())) {
                     Value evalExp = exp.evaluate(symTabel, heap);
-                    if(evalExp.getType().equals(((RefType)ref.getType()).getInner())){
+                    if (evalExp.getType().equals(((RefType) ref.getType()).getInner())) {
                         heap.put(ref.getAddress(), evalExp);
                         return state;
-                    }else{
+                    } else {
                         //System.out.println("=========== " + evalExp.getType() + " ======= " + ref.getType());
                         throw new GenericException("Types don't match!");
                     }
-                }else{
-                    throw  new GenericException(ref.getAddress() + " is not a valid address in heap!");
+                } else {
+                    throw new GenericException(ref.getAddress() + " is not a valid address in heap!");
                 }
-            } else{
+            } else {
                 throw new GenericException(varName + " is not of type Ref");
             }
-        }else{
+        } else {
             throw new GenericException(varName + " is not declared");
         }
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         return "wH(" + varName + ", " + exp.toString() + ")";
     }
 }

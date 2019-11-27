@@ -18,6 +18,9 @@ class AddViewController: UIViewController {
         guard let items = nameTextField.text,
             let age = ageTextField.text,
             let ageInt = Int16(age) else { return }
+        
+        _ = MealsDB.instance.addMeal(mId: Int64(ageInt), mealDescr: items, count: Int64(ageInt))
+        
         dataManager.createMeal(with: items, quantity: ageInt)
         navigationController?.popViewController(animated: true)
     }

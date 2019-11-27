@@ -19,6 +19,7 @@ class EditViewController: UIViewController {
     var items = ""
     var quantity: Int? = 0
     var meal: Meal?
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         guard let quant = self.meal?.quantity,
@@ -31,6 +32,8 @@ class EditViewController: UIViewController {
         guard let quant = quantityTextField.text,
             let quantityInt = Int16(quant) else { return }
         self.dataManager.update(meal: meal!, quantity: quantityInt)
+        
+        _ = MealsDB.instance.updateMeal(mId: Int64(meal!.quantity), newMeal: Course(id: Int64(meal!.quantity), mealDescription: meal!.description, mealCount: Int64(quantityInt)))
         navigationController?.popViewController(animated: true)
     }
     
