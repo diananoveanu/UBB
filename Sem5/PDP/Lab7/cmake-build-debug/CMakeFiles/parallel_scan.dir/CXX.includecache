@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/ParallelScan.cpp
-ParallelScan.h
-/Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/ParallelScan.h
-cmath
--
-thread
--
-
 /Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/ParallelScan.h
 vector
 -
+
+/Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/main.cpp
+iostream
+-
+vector
+-
+ParallelScan.h
+/Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/ParallelScan.h
 
