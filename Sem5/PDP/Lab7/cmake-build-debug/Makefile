@@ -48,10 +48,10 @@ RM = "/Users/diananoveanu/Library/Application Support/JetBrains/Toolbox/apps/CLi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/diananoveanu/UBB/Sem5/PDP/parallel_scan
+CMAKE_SOURCE_DIR = /Users/diananoveanu/UBB/Sem5/PDP/Lab7
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/diananoveanu/UBB/Sem5/PDP/Lab7/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/cmake-build-debug/CMakeFiles /Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/diananoveanu/UBB/Sem5/PDP/Lab7/cmake-build-debug/CMakeFiles /Users/diananoveanu/UBB/Sem5/PDP/Lab7/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/diananoveanu/UBB/Sem5/PDP/parallel_scan/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/diananoveanu/UBB/Sem5/PDP/Lab7/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,44 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named parallel_scan
+# Target rules for targets named Lab7
 
 # Build rule for target.
-parallel_scan: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 parallel_scan
-.PHONY : parallel_scan
+Lab7: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Lab7
+.PHONY : Lab7
 
 # fast build rule for target.
-parallel_scan/fast:
-	$(MAKE) -f CMakeFiles/parallel_scan.dir/build.make CMakeFiles/parallel_scan.dir/build
-.PHONY : parallel_scan/fast
-
-ParallelScan.o: ParallelScan.cpp.o
-
-.PHONY : ParallelScan.o
-
-# target to build an object file
-ParallelScan.cpp.o:
-	$(MAKE) -f CMakeFiles/parallel_scan.dir/build.make CMakeFiles/parallel_scan.dir/ParallelScan.cpp.o
-.PHONY : ParallelScan.cpp.o
-
-ParallelScan.i: ParallelScan.cpp.i
-
-.PHONY : ParallelScan.i
-
-# target to preprocess a source file
-ParallelScan.cpp.i:
-	$(MAKE) -f CMakeFiles/parallel_scan.dir/build.make CMakeFiles/parallel_scan.dir/ParallelScan.cpp.i
-.PHONY : ParallelScan.cpp.i
-
-ParallelScan.s: ParallelScan.cpp.s
-
-.PHONY : ParallelScan.s
-
-# target to generate assembly for a file
-ParallelScan.cpp.s:
-	$(MAKE) -f CMakeFiles/parallel_scan.dir/build.make CMakeFiles/parallel_scan.dir/ParallelScan.cpp.s
-.PHONY : ParallelScan.cpp.s
+Lab7/fast:
+	$(MAKE) -f CMakeFiles/Lab7.dir/build.make CMakeFiles/Lab7.dir/build
+.PHONY : Lab7/fast
 
 main.o: main.cpp.o
 
@@ -156,7 +129,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/parallel_scan.dir/build.make CMakeFiles/parallel_scan.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/Lab7.dir/build.make CMakeFiles/Lab7.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -165,7 +138,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/parallel_scan.dir/build.make CMakeFiles/parallel_scan.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/Lab7.dir/build.make CMakeFiles/Lab7.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -174,7 +147,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/parallel_scan.dir/build.make CMakeFiles/parallel_scan.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/Lab7.dir/build.make CMakeFiles/Lab7.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -185,10 +158,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... parallel_scan"
-	@echo "... ParallelScan.o"
-	@echo "... ParallelScan.i"
-	@echo "... ParallelScan.s"
+	@echo "... Lab7"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

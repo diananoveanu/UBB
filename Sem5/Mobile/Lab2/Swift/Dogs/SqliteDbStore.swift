@@ -3,7 +3,7 @@
 //  Dogs
 //
 //  Created by Diana  on 11/24/19.
-//  Copyright © 2019 steve. All rights reserved.
+//  Copyright © 2019 Diana. All rights reserved.
 //
 
 import Foundation
