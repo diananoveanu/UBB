@@ -23,6 +23,7 @@ public class CompoundStatement implements IStatement {
         MyIStack<IStatement> stk = state.getExeStack();
         stk.push(second);
         stk.push(first);
-        return state;
+        //eturn state;
+        return null;
     }
 }

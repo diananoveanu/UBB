@@ -38,7 +38,7 @@ public class OpenRFile implements IStatement {
         } else {
             throw new GenericException("Expression is not a string type!");
         }
-        return state;
+        return null;
     }
 
     @Override

@@ -37,6 +37,7 @@ public class VariableDeclarationStatement implements IStatement {
         } else {
             throw new VariableAlreadyDeclaredException("Variable already declared!");
         }
-        return state;
+        //return state;
+        return null;
     }
 }

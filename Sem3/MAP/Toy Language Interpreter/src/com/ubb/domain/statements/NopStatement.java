@@ -11,6 +11,7 @@ public class NopStatement implements IStatement {
 
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
-        return state;
+        //return state;
+        return null;
     }
 }

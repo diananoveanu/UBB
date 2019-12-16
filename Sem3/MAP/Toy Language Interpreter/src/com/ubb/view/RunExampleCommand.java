@@ -14,7 +14,7 @@ public class RunExampleCommand extends Command {
     public void execute() {
         try {
             controller.allStep();
-            controller.printPrg();
+ //           controller.printPrg();
         } catch (Exception e) { //todo add other exceptions
             e.printStackTrace();
         }

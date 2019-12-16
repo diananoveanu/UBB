@@ -39,7 +39,8 @@ public class IfStatement implements IStatement {
         } else {
             throw new GenericException("The expression is not a boolean!");
         }
-        return state;
+        //return state;
+        return null;
     }
 
 }

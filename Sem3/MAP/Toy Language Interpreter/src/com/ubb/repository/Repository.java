@@ -44,8 +44,14 @@ public class Repository implements IRepository {
     }
 
     @Override
-    public void logPrgStateExec(ProgramState prgState) throws IOException {
-        PrintWriter logFile = new PrintWriter(new BufferedWriter(new FileWriter(this.logFilePath, true)));
+    public void logPrgStateExec(ProgramState prgState) {
+        PrintWriter logFile = null;
+        try {
+            logFile = new PrintWriter(new BufferedWriter(new FileWriter(this.logFilePath, true)));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        assert logFile != null;
         logFile.write(prgState.toString());
         logFile.close();
     }

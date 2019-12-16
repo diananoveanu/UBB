@@ -41,7 +41,7 @@ public class CloseRFile implements IStatement {
         } else {
             throw new GenericException("Expression is not string type!");
         }
-        return state;
+        return null;
     }
 
     @Override

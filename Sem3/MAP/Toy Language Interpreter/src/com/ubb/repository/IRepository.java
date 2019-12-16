@@ -13,5 +13,5 @@ public interface IRepository {
 
     void setProgramStateList(List<ProgramState> programStateList);
 
-    void logPrgStateExec(ProgramState prgState) throws IOException;
+    void logPrgStateExec(ProgramState prgState) ;
 }

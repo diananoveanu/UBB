@@ -6,6 +6,7 @@ import com.ubb.adt.list.MyIList;
 import com.ubb.adt.list.MyList;
 import com.ubb.adt.stack.MyIStack;
 import com.ubb.adt.stack.MyStack;
+import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.statements.IStatement;
 import com.ubb.domain.value.StringValue;
 import com.ubb.domain.value.Value;
@@ -13,21 +14,25 @@ import com.ubb.domain.value.Value;
 import java.io.BufferedReader;
 
 public class ProgramState {
-    MyIStack<IStatement> exeStack;
-    MyIDictionary<String, Value> symTable;
-    MyIList<Value> out;
-    MyIDictionary<StringValue, BufferedReader> fileTable;
-    IStatement originalProgram;
-    MyIDictionary<Integer, Value> heap;
+    private MyIStack<IStatement> exeStack;
+    private MyIDictionary<String, Value> symTable;
+    private MyIList<Value> out;
+    private MyIDictionary<StringValue, BufferedReader> fileTable;
+    private IStatement originalProgram;
+    private MyIDictionary<Integer, Value> heap;
+    private Integer progId = 1;
+
 
     public ProgramState(MyIStack<IStatement> exeStack, MyIDictionary<String, Value> symTable, MyIList<Value> out,
-                        MyIDictionary<StringValue, BufferedReader> fileTable, IStatement originalProgram) {
+                        MyIDictionary<StringValue, BufferedReader> fileTable, MyIDictionary<Integer, Value> heap, IStatement originalProgram, int id) {
         this.exeStack = exeStack;
         this.symTable = symTable;
         this.out = out;
         this.originalProgram = originalProgram;
         this.fileTable = fileTable;
-        exeStack.push(originalProgram);
+        this.heap = heap;
+        this.progId = id;
+        this.exeStack.push(originalProgram);
     }
 
     public ProgramState(IStatement originalProgram){
@@ -38,9 +43,18 @@ public class ProgramState {
         exeStack.push(originalProgram);
         fileTable = new MyDictionary<>();
         heap = new MyDictionary<>();
+        exeStack.push(originalProgram);
     }
 
 
+
+    public synchronized Integer getId(){
+        return progId;
+    }
+
+    public synchronized void setId(Integer newId){
+        this.progId = newId;
+    }
 
     public MyIStack<IStatement> getExeStack() {
         return exeStack;
@@ -84,9 +98,21 @@ public class ProgramState {
         this.originalProgram = originalProgram;
     }
 
+    public Boolean isNotCompleted(){
+        return !this.exeStack.isEmpty();
+    }
+
+    public ProgramState oneStep() throws GenericException {
+        if(exeStack.isEmpty()) throw new GenericException("Exe Stack is empty!");
+
+        IStatement crtStmt = exeStack.pop();
+        return crtStmt.execute(this);
+    }
+
     @Override
     public String toString() {
         return "#######################################################\n" +
+                "===== PROGRAM ID ====\n" + progId + "\n" +
                 "===== EXE STACK =====\n" + exeStack.toString() +"\n" +
                 "===== SYM TABLE =====\n" + symTable.toString() +"\n" +
                 "===== OUT TABLE =====\n" + out.toString() + "\n" +

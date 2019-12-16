@@ -23,6 +23,7 @@ public class PrintStatement implements IStatement {
         } catch (GenericException e) {
             throw new GenericException(e.getMessage());
         }
-        return state;
+        //return state;
+        return null;
     }
 }

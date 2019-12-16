@@ -130,6 +130,41 @@ public class Interpreter {
                         )
                 )
         );
+//        int v;
+//        Ref int a;
+//        v=10;
+//        new(a,22);
+//        fork(wH(a,30);
+//        print(v);
+//        print(rH(a)));
+//        print(v);
+//        print(rH(a))
+        IStatement ex7 = new CompoundStatement(
+                new VariableDeclarationStatement("v", new IntegerType()),
+                new CompoundStatement(
+                        new VariableDeclarationStatement("a", new RefType(new IntegerType())),
+                        new CompoundStatement(
+                                new AssignStatement("v", new ValueExpression(new IntegerValue(10))),
+                                new CompoundStatement(
+                                        new HeapAllocationStatement("a", new ValueExpression(new IntegerValue(22))),
+                                        new CompoundStatement(
+                                                new ForkStatement(new WriteHeapStatement("a", new ValueExpression(new IntegerValue(30)))),
+                                                new CompoundStatement(
+                                                        new PrintStatement(new VariableExpression("v")),
+                                                        new CompoundStatement(
+                                                                new PrintStatement(new ReadHeapExpression(new VariableExpression("a"))),
+                                                                new CompoundStatement(
+                                                                        new PrintStatement(new VariableExpression("v")),
+                                                                        new PrintStatement(new ReadHeapExpression(new VariableExpression("a")))
+                                                                )
+                                                        )
+                                                )
+                                        )
+
+                                )
+                        )
+                )
+        );
 
         List<ProgramState> prg1 = new ArrayList<>();
         List<ProgramState> prg2 = new ArrayList<>();
@@ -137,6 +172,7 @@ public class Interpreter {
         List<ProgramState> prg4 = new ArrayList<>();
         List<ProgramState> prg5 = new ArrayList<>();
         List<ProgramState> prg6 = new ArrayList<>();
+        List<ProgramState> prg7 = new ArrayList<>();
 
         prg1.add(new ProgramState(ex1));
         prg2.add(new ProgramState(ex2));
@@ -144,6 +180,7 @@ public class Interpreter {
         prg4.add(new ProgramState(ex4));
         prg5.add(new ProgramState(ex5));
         prg6.add(new ProgramState(ex6));
+        prg7.add(new ProgramState(ex7));
 
         IRepository repo1 = new Repository(prg1, "log1.txt");
         Controller ctrl1 = new Controller(repo1);
@@ -157,6 +194,8 @@ public class Interpreter {
         Controller ctrl5 = new Controller(repo5);
         IRepository repo6 = new Repository(prg6, "log6.txt");
         Controller ctrl6 = new Controller(repo6);
+        IRepository repo7 = new Repository(prg7, "log7.txt");
+        Controller ctrl7 = new Controller(repo7);
 
         TextMenu menu = new TextMenu();
         menu.addCommand(new ExitCommand("0", "exit"));
@@ -166,6 +205,7 @@ public class Interpreter {
         menu.addCommand(new RunExampleCommand("4", "\n" + ex4.toString(), ctrl4));
         menu.addCommand(new RunExampleCommand("5", "\n" + ex5.toString(), ctrl5));
         menu.addCommand(new RunExampleCommand("6", "\n" + ex6.toString(), ctrl6));
+        menu.addCommand(new RunExampleCommand("7", "\n" + ex7.toString(), ctrl7));
         menu.show();
     }
 }

@@ -37,7 +37,8 @@ public class AssignStatement implements IStatement {
         } else {
             throw new GenericException("the used variable: " + id + " was not declared before");
         }
-        return state;
+        //return state;
+        return null;
     }
 
     public String getId() {

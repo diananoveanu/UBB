@@ -19,7 +19,6 @@ public class HeapAllocationStatement implements IStatement {
         this.expr = expr;
     }
 
-
     @Override
     public ProgramState execute(ProgramState state) throws GenericException {
         MyIDictionary<String, Value> symTable = state.getSymTable();
@@ -27,7 +26,7 @@ public class HeapAllocationStatement implements IStatement {
         if (symTable.containsKey(varName)) {
             Value fromSymTable = symTable.get(varName);
             if (fromSymTable.getType().equals(new RefType(exprValue.getType()))) {
-                RefType ref = (RefType)fromSymTable.getType();
+                RefType ref = (RefType) fromSymTable.getType();
                 if (exprValue.getType().equals(ref.getInner())) {
                     int dim = state.getHeap().size();
                     int key = 1;
@@ -43,7 +42,7 @@ public class HeapAllocationStatement implements IStatement {
                     }
                     state.getHeap().put(key, exprValue);
                     symTable.put(varName, new RefValue(exprValue.getType(), key));
-                    return state;
+                    //return state;
                 } else {
                     throw new GenericException("Types don't match!");
                 }
@@ -53,11 +52,11 @@ public class HeapAllocationStatement implements IStatement {
         } else {
             throw new GenericException(varName + " is not");
         }
-
+        return null;
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         return "new(" + varName + ", " + expr.toString() + ")";
     }
 }

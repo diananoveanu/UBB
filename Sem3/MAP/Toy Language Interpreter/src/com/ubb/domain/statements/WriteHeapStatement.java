@@ -29,7 +29,7 @@ public class WriteHeapStatement implements IStatement {
                     Value evalExp = exp.evaluate(symTabel, heap);
                     if (evalExp.getType().equals(((RefType) ref.getType()).getInner())) {
                         heap.put(ref.getAddress(), evalExp);
-                        return state;
+                        //return state;
                     } else {
                         //System.out.println("=========== " + evalExp.getType() + " ======= " + ref.getType());
                         throw new GenericException("Types don't match!");
@@ -43,6 +43,7 @@ public class WriteHeapStatement implements IStatement {
         } else {
             throw new GenericException(varName + " is not declared");
         }
+        return null;
     }
 
     @Override

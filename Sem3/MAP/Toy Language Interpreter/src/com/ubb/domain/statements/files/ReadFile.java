@@ -67,7 +67,7 @@ public class ReadFile implements IStatement {
         } else {
             throw new GenericException("Variable is not declared");
         }
-        return state;
+        return null;
     }
 
 
