@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8F5B6FC1238B0F9600725D4B /* SqliteDbStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqliteDbStore.swift; sourceTree = "<group>"; };
 		8F69C33B2377826B003467B7 /* EditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
+		8FE3526B239ED47C0060156C /* Dogs 2.xcdatamodel */ = {isa = PBXFileReference; explicitFileType = wrapper.xcdatamodel; path = "Dogs 2.xcdatamodel"; sourceTree = "<group>"; };
 		8FF3C0D7238DBFC1004280CF /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		8FF3C0D9238DC042004280CF /* MealsDb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealsDb.swift; sourceTree = "<group>"; };
 		AA30DA5A20F647C4001D718F /* Dogs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dogs.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -397,6 +398,7 @@
 		AA30DA6420F647C4001D718F /* Meals.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				8FE3526B239ED47C0060156C /* Dogs 2.xcdatamodel */,
 				AA30DA6520F647C4001D718F /* Dogs.xcdatamodel */,
 			);
 			currentVersion = AA30DA6520F647C4001D718F /* Dogs.xcdatamodel */;

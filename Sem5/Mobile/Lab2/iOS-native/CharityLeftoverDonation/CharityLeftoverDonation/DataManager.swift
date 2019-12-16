@@ -1,7 +1,14 @@
+//
+//  DataManager.swift
+//  CharityLeftoverDonation
+//
+//  Created by Diana  on 12/9/19.
+//  Copyright © 2019 Diana . All rights reserved.
+//
 
 import UIKit
 import CoreData
-import SQLite3
+//import SQLite3
 
 class DataManager: NSObject {
     

@@ -15,13 +15,11 @@ class AddViewController: UIViewController {
     }
     
     @IBAction func saveTapped(_ sender: UIBarButtonItem) {
-        guard let items = nameTextField.text,
-            let age = ageTextField.text,
-            let ageInt = Int16(age) else { return }
+        let items = nameTextField.text
+        let age = ageTextField.text        
+//        _ = MealsDB.instance.addMeal(mId: Int64(ageInt), mealDescr: items, count: Int64(ageInt))
         
-        _ = MealsDB.instance.addMeal(mId: Int64(ageInt), mealDescr: items, count: Int64(ageInt))
-        
-        dataManager.createMeal(with: items, quantity: ageInt)
+        dataManager.createMeal(with: items!, quantity: age!)
         navigationController?.popViewController(animated: true)
     }
     

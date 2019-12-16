@@ -65,7 +65,7 @@ extension MainViewController: UITableViewDelegate, UITableViewDataSource {
         if editingStyle == UITableViewCell.EditingStyle.delete {
             let meal = self.dataManager.meal(at: indexPath)
             self.dataManager.delete(meal: meal)
-            _ = MealsDB.instance.deleteMeal(mId: Int64(meal.quantity))
+//            _ = MealsDB.instance.deleteMeal(mId: Int64(meal.id))
             tableView.deleteRows(at: [indexPath], with: UITableView.RowAnimation.automatic)
             
         }

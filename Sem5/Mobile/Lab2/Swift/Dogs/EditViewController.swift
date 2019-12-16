@@ -13,27 +13,22 @@ class EditViewController: UIViewController {
     
     @IBOutlet weak var quantityTextField: UITextField!
     
-    @IBOutlet weak var oldQuantityLabel: UILabel!
-    @IBOutlet weak var itemsLabel: UILabel!
+    @IBOutlet weak var descriptionTextField: UITextField!
     
     var items = ""
-    var quantity: Int? = 0
+    var quantity = ""
     var meal: Meal?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        guard let quant = self.meal?.quantity,
-            let quantityInt = Int?(Int(quant)) else { return }
-        itemsLabel.text = self.meal?.items
-        oldQuantityLabel.text = String(quantityInt)
+        quantityTextField.text = meal!.quantity
+        descriptionTextField.text = meal!.items
     }
     
     @IBAction func doneTapped(_ sender: Any) {
-        guard let quant = quantityTextField.text,
-            let quantityInt = Int16(quant) else { return }
-        self.dataManager.update(meal: meal!, quantity: quantityInt)
+        self.dataManager.update(meal: meal!, quantity: quantityTextField.text!, description: descriptionTextField.text!)
         
-        _ = MealsDB.instance.updateMeal(mId: Int64(meal!.quantity), newMeal: Course(id: Int64(meal!.quantity), mealDescription: meal!.description, mealCount: Int64(quantityInt)))
+//        _ = MealsDB.instance.updateMeal(mId: Int64(meal!.quantity), newMeal: Course(id: Int64(meal!.quantity), mealDescription: meal!.description, mealCount: Int64(quantityInt)))
         navigationController?.popViewController(animated: true)
     }
     
