@@ -25,15 +25,21 @@
         <ListView fx:id="exeStackList" layoutX="797.0" layoutY="380.0" prefHeight="230.0" prefWidth="200.0" />
         <TableView fx:id="symTable" layoutX="538.0" layoutY="380.0" prefHeight="230.0" prefWidth="200.0">
             <columns>
-                <TableColumn prefWidth="75.0" text="C1" />
-                <TableColumn prefWidth="75.0" text="C2" />
+                <TableColumn fx:id="varNameColumn" prefWidth="75.0" text="Var Name" />
+                <TableColumn fx:id="symValueColumn" prefWidth="75.0" text="Value" />
             </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
         </TableView>
         <TableView fx:id="heapTable" layoutX="279.0" layoutY="85.0" prefHeight="230.0" prefWidth="200.0">
             <columns>
-                <TableColumn prefWidth="75.0" text="C1" />
-                <TableColumn prefWidth="75.0" text="C2" />
+                <TableColumn fx:id="addressColumn" prefWidth="75.0" text="Address" />
+                <TableColumn fx:id="heapValueColumn" prefWidth="75.0" text="Value" />
             </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
         </TableView>
         <Text fill="WHITE" layoutX="345.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Heap Table" textAlignment="CENTER" />
         <Text fill="WHITE" layoutX="333.0" layoutY="365.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Program States" textAlignment="CENTER" />

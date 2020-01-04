@@ -6,12 +6,10 @@ import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.value.RefValue;
 import com.ubb.domain.value.Value;
 import com.ubb.repository.IRepository;
+import com.ubb.repository.Repository;
 
 import java.io.IOException;
-import java.util.Collection;
-import java.util.List;
-import java.util.Objects;
-import java.util.Set;
+import java.util.*;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
@@ -24,6 +22,17 @@ public class Controller {
     private ExecutorService executor;
     public Controller(IRepository repository) {
         this.repository = repository;
+
+    }
+
+    public ProgramState getProgram() {
+        return repository.getCurrentProgram();
+    }
+
+    public List<String> getIdentifiers(){
+        List<String> identifiers = new ArrayList<>();
+        repository.getProgramStateList().forEach(x -> identifiers.add(x.getId().toString()));
+        return identifiers;
     }
 
     private Set conservativeGarbageCollector(Collection<Integer> symbolTableValues, MyIDictionary<Integer, Value> heapTable) {
@@ -42,7 +51,7 @@ public class Controller {
     }
 
     @SuppressWarnings("unchecked")
-    private void oneStepForAllProgram(List<ProgramState> states) throws InterruptedException {
+    public void oneStepForAllProgram(List<ProgramState> states) throws InterruptedException {
         states.forEach(prg -> {
             //printThings();
             repository.logPrgStateExec(prg);
@@ -77,6 +86,26 @@ public class Controller {
         });
         states.forEach(p-> repository.logPrgStateExec(p));
         repository.setProgramStateList(states);
+    }
+
+    public void executeOneStep()
+    {
+        executor = Executors.newFixedThreadPool(8);
+        removeCompletedProgram(repository.getProgramStateList());
+        List<ProgramState> programStates = repository.getProgramStateList();
+        if(programStates.size() > 0)
+        {
+            try {
+                oneStepForAllProgram(repository.getProgramStateList());
+            } catch (InterruptedException e) {
+                System.out.println();
+            }
+            programStates.forEach(e -> {
+                repository.logPrgStateExec(e);
+            });
+            removeCompletedProgram(repository.getProgramStateList());
+            executor.shutdownNow();
+        }
     }
 
 

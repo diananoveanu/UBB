@@ -2,25 +2,877 @@
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
 ===== SYM TABLE =====
 {}
 ===== OUT TABLE =====
@@ -35,24 +887,7 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[]
 ===== SYM TABLE =====
 {}
 ===== OUT TABLE =====
@@ -67,26 +902,9 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=false}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -99,25 +917,9 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[]
 ===== SYM TABLE =====
-{a=false}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -130,25 +932,9 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=false, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -161,24 +947,9 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[]
 ===== SYM TABLE =====
-{a=false, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -191,24 +962,9 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -221,23 +977,9 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[]
 ===== SYM TABLE =====
-{a=true, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -250,20 +992,9 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[]
 ===== SYM TABLE =====
-{a=true, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -276,20 +1007,9 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -302,19 +1022,9 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -327,23 +1037,13 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -352,22 +1052,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -376,22 +1067,13 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -400,22 +1082,13 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -424,21 +1097,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -447,21 +1112,13 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -470,20 +1127,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -492,20 +1142,13 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -514,19 +1157,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -535,19 +1172,13 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -556,18 +1187,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -576,15 +1202,13 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -593,15 +1217,13 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -610,14 +1232,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -626,14 +1247,13 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -642,13 +1262,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -657,13 +1277,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=20}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -674,11 +1294,11 @@ print( v )]
 ===== EXE STACK =====
 []
 ===== SYM TABLE =====
-{a=true, v=20}
+{}
 ===== OUT TABLE =====
-[19, 20]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@131276c2}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -687,25 +1307,7 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
 {}
 ===== OUT TABLE =====
@@ -720,24 +1322,7 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[]
 ===== SYM TABLE =====
 {}
 ===== OUT TABLE =====
@@ -752,26 +1337,9 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=false}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -784,25 +1352,9 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[]
 ===== SYM TABLE =====
-{a=false}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -815,25 +1367,9 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=false, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -846,24 +1382,9 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[]
 ===== SYM TABLE =====
-{a=false, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -876,24 +1397,9 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -906,23 +1412,9 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[]
 ===== SYM TABLE =====
-{a=true, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -935,20 +1427,9 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[]
 ===== SYM TABLE =====
-{a=true, v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -961,20 +1442,9 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -987,19 +1457,9 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1012,23 +1472,13 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1037,22 +1487,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1061,22 +1502,13 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1085,22 +1517,13 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1109,21 +1532,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1132,21 +1547,13 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1155,20 +1562,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1177,20 +1577,13 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1199,19 +1592,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1220,19 +1607,13 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1241,18 +1622,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1261,15 +1637,13 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1278,15 +1652,13 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1295,14 +1667,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1311,14 +1682,13 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1327,13 +1697,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1342,13 +1712,29 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1357,13 +1743,28 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=true, v=20}
+{}
 ===== OUT TABLE =====
-[19, 20]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1372,25 +1773,22 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
 {}
 ===== OUT TABLE =====
@@ -1405,24 +1803,22 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
 {}
 ===== OUT TABLE =====
@@ -1437,26 +1833,24 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1469,25 +1863,24 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1500,25 +1893,24 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1531,24 +1923,23 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1561,24 +1952,23 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1591,23 +1981,23 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1620,20 +2010,23 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1646,20 +2039,23 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1672,19 +2068,23 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1697,23 +2097,26 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1722,22 +2125,26 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1746,22 +2153,26 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1770,22 +2181,26 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1794,21 +2209,26 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1817,21 +2237,26 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1840,20 +2265,25 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1862,20 +2292,25 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1884,19 +2319,25 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1905,19 +2346,25 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1926,18 +2373,25 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1946,15 +2400,25 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1963,15 +2427,24 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1980,14 +2453,24 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -1996,14 +2479,24 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2012,13 +2505,24 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2027,13 +2531,24 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2042,13 +2557,24 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19, 20]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2057,27 +2583,19 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2090,26 +2608,19 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2122,26 +2633,19 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2154,27 +2658,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2185,27 +2683,21 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2216,26 +2708,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2246,26 +2733,20 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2276,25 +2757,20 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2305,22 +2781,20 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2331,22 +2805,20 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2357,21 +2829,20 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2382,23 +2853,22 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2407,22 +2877,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2431,22 +2900,21 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2455,22 +2923,21 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2479,21 +2946,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2502,21 +2969,21 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2525,20 +2992,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2547,20 +3015,21 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2569,19 +3038,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2590,19 +3061,21 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2611,18 +3084,20 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2631,15 +3106,20 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2648,15 +3128,20 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2665,14 +3150,20 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2681,14 +3172,20 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2697,13 +3194,20 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2712,13 +3216,19 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2727,13 +3237,19 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19, 20]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -2742,29 +3258,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2775,28 +3279,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2807,28 +3300,17 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2839,27 +3321,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2870,27 +3342,16 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2901,26 +3362,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2931,26 +3382,16 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2961,25 +3402,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -2990,22 +3422,16 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3016,22 +3442,16 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3042,21 +3462,15 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3067,23 +3481,17 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3092,22 +3500,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3116,22 +3519,17 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3140,22 +3538,17 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3164,21 +3557,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3187,21 +3576,16 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3210,20 +3594,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3232,20 +3612,16 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3254,19 +3630,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3275,19 +3648,16 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3296,18 +3666,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3316,15 +3684,15 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3333,15 +3701,15 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3350,14 +3718,15 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3366,14 +3735,15 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3382,13 +3752,15 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3397,13 +3769,15 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3412,13 +3786,14 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19, 20]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@d48229e}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3427,29 +3802,12 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3460,28 +3818,12 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3492,28 +3834,12 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3524,27 +3850,12 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3555,27 +3866,12 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3586,26 +3882,11 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3616,26 +3897,11 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3646,25 +3912,11 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3675,22 +3927,11 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3701,22 +3942,11 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3727,21 +3957,11 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -3752,23 +3972,13 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3777,22 +3987,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3801,22 +4002,29 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3825,22 +4033,28 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3849,21 +4063,28 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3872,21 +4093,28 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=true, v=19}
+{}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3895,20 +4123,28 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3917,20 +4153,28 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3939,19 +4183,28 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3960,19 +4213,27 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -3981,18 +4242,27 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4001,15 +4271,27 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4018,15 +4300,27 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4035,14 +4329,27 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4051,14 +4358,27 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4067,13 +4387,26 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4082,13 +4415,26 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4097,13 +4443,26 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in}
 ===== OUT TABLE =====
-[19, 20]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4112,27 +4471,22 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4145,26 +4499,22 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4177,26 +4527,22 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4209,25 +4555,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4240,25 +4582,21 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4271,24 +4609,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4301,24 +4636,21 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4331,23 +4663,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4360,20 +4690,21 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4386,20 +4717,20 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4412,19 +4743,20 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -4437,23 +4769,24 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4462,22 +4795,24 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4486,22 +4821,24 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4510,22 +4847,24 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4534,21 +4873,23 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4557,21 +4898,23 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4580,20 +4923,23 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4602,20 +4948,23 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4624,19 +4973,23 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4645,19 +4998,23 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4666,18 +5023,22 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4686,15 +5047,22 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4703,15 +5071,22 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4720,14 +5095,22 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4736,14 +5119,22 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4752,13 +5143,22 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4767,13 +5167,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4782,13 +5190,21 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19, 20]
+[0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@4e718207}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -4797,29 +5213,19 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -4830,28 +5236,19 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -4862,28 +5259,19 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
 ===== SYM TABLE =====
-{}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -4894,28 +5282,19 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -4926,28 +5305,19 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -4958,27 +5328,19 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -4989,27 +5351,19 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5020,27 +5374,18 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5051,27 +5396,18 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5082,26 +5418,18 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5112,26 +5440,18 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=false, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5142,26 +5462,18 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5172,26 +5484,18 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5202,25 +5506,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5231,25 +5527,17 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5260,22 +5548,17 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5286,22 +5569,17 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=0}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5312,22 +5590,17 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5338,22 +5611,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5364,21 +5632,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5389,21 +5652,16 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v ), openFile(test.in)]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
@@ -5414,23 +5672,18 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5439,23 +5692,18 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), readFile(test.in, v);
-print( v )]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5464,22 +5712,18 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5488,22 +5732,18 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v ), readFile(test.in, v)]
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5512,22 +5752,17 @@ print( v ), print( v ), readFile(test.in, v)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5536,22 +5771,17 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), print( v )]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5560,22 +5790,17 @@ print( v ), print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5584,22 +5809,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[bool a;
-int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5608,21 +5828,17 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5631,21 +5847,17 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), bool a]
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5654,21 +5866,16 @@ print( v ), bool a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5677,21 +5884,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5700,20 +5902,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5722,20 +5920,16 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), int v]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5744,20 +5938,16 @@ print( v ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5766,20 +5956,16 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[a=true;
-if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5788,19 +5974,15 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5809,19 +5991,15 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v ), a=true]
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5830,19 +6008,15 @@ print( v ), a=true]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5851,19 +6025,15 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[if(2 > 4) then	
-	(v=2);
-else
-	(v=3);
-openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5872,18 +6042,15 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5892,18 +6059,15 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), if(2 > 4) then	
-	(v=2);
-else
-	(v=3)]
+[readFile(varf, varc);
+print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5912,15 +6076,14 @@ else
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5929,15 +6092,14 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v ), v=3]
+[print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=19}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5946,15 +6108,14 @@ print( v ), v=3]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+close(varf), readFile(varf, varc)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5963,15 +6124,14 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[openFile(test.in);
-readFile(test.in, v);
-print( v )]
+[print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5980,14 +6140,14 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -5996,14 +6156,14 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v ), openFile(test.in)]
+[print( varc );
+close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -6012,14 +6172,13 @@ print( v ), openFile(test.in)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -6028,14 +6187,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[readFile(test.in, v);
-print( v )]
+[close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -6044,13 +6202,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[close(varf), print( varc )]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -6059,13 +6217,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v ), readFile(test.in, v)]
+[close(varf)]
 ===== SYM TABLE =====
-{a=true, v=3}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -6074,13 +6232,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[close(varf)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -6089,13 +6247,13 @@ print( v )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v )]
+[close(varf)]
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -6106,11 +6264,11 @@ print( v )]
 ===== EXE STACK =====
 []
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19, 20]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################
@@ -6121,11 +6279,11 @@ print( v )]
 ===== EXE STACK =====
 []
 ===== SYM TABLE =====
-{a=true, v=20}
+{varf=test.in, varc=0}
 ===== OUT TABLE =====
-[19, 20]
+[0, 0, 0, 0]
 ===== FILE TABLE =====
-{test.in=java.io.BufferedReader@3fd7a715}
+{}
 ===== HEAP =====
 {}
 #######################################################

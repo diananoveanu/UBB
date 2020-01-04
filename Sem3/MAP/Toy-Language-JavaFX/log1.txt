@@ -2,23 +2,25 @@
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
 {}
 ===== OUT TABLE =====
@@ -33,22 +35,24 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
 {}
 ===== OUT TABLE =====
@@ -63,24 +67,26 @@ print( rH(a) ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -93,23 +99,26 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{v=0}
+{}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -122,23 +131,26 @@ print( rH(a) ), Ref int a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=false}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -151,22 +163,26 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=false}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -179,22 +195,26 @@ print( rH(a) ), v=10]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=false}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -207,21 +227,25 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=false}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -234,612 +258,494 @@ print( rH(a) ), new(a, 22)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=false}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=false}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=false, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-10
-===== EXE STACK =====
-[wH(a, 30)]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=22}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=false, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) )]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[10]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) ), print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=false, v=0}
 ===== OUT TABLE =====
-[10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) )]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) ), print( v )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=false, v=0}
 ===== OUT TABLE =====
-[10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) )]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=false, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=false, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
-===== SYM TABLE =====
-{a=(2, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{2=22}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-10
-===== EXE STACK =====
-[wH(a, 30)]
-===== SYM TABLE =====
-{a=(2, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{2=22}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) )]
-===== SYM TABLE =====
-{a=(2, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30, 10]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{2=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) ), print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[print( v );
-print( rH(a) )]
-===== SYM TABLE =====
-{a=(2, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{2=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) ), print( v )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-1
-===== EXE STACK =====
-[print( rH(a) )]
-===== SYM TABLE =====
-{a=(2, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{2=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -852,24 +758,20 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -882,24 +784,20 @@ print( rH(a) ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -912,24 +810,20 @@ print( rH(a) ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{v=0}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -942,24 +836,19 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{v=0}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -972,23 +861,19 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{v=0}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1001,23 +886,19 @@ print( rH(a) ), Ref int a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{v=0}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1030,23 +911,19 @@ print( rH(a) ), Ref int a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1059,23 +936,19 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1088,22 +961,19 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1116,22 +986,18 @@ print( rH(a) ), v=10]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1144,22 +1010,18 @@ print( rH(a) ), v=10]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1172,22 +1034,18 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1200,21 +1058,18 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1227,21 +1082,18 @@ print( rH(a) ), new(a, 22)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -1254,106 +1106,96 @@ print( rH(a) ), new(a, 22)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
@@ -1361,40 +1203,22 @@ print( rH(a) ), fork( wH(a, 30) )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-10
-===== EXE STACK =====
-[wH(a, 30)]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=22}
 #######################################################
 
 #######################################################
@@ -1402,40 +1226,22 @@ print( rH(a) )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-10
-===== EXE STACK =====
-[wH(a, 30)]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=22}
 #######################################################
 
 #######################################################
@@ -1443,39 +1249,22 @@ print( rH(a) )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-10
-===== EXE STACK =====
-[]
-===== SYM TABLE =====
-{a=(1, int), v=10}
-===== OUT TABLE =====
-[]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{1=30}
 #######################################################
 
 #######################################################
@@ -1483,24 +1272,22 @@ print( rH(a) ), print( v )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
@@ -1508,24 +1295,22 @@ print( rH(a) ), print( v )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
@@ -1533,950 +1318,1063 @@ print( rH(a) )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) ), print( rH(a) )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) ), print( rH(a) )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) ), print( v )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) ), print( v )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) )]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) )]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
-10
+1
 ===== EXE STACK =====
-[wH(a, 30)]
+[print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
-10
+1
 ===== EXE STACK =====
-[wH(a, 30)]
+[print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+[print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
-10
+1
 ===== EXE STACK =====
 []
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3, 3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+[]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3, 3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) ), print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) ), print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=false}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=false}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) ), print( v )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=false}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) ), print( v )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=false}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=false}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=false}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=false, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=false, v=0}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10, 30]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{}
+{a=false, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2489,24 +2387,24 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{}
+{a=false, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2519,24 +2417,24 @@ print( rH(a) ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{}
+{a=false, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2549,24 +2447,24 @@ print( rH(a) ), int v]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{v=0}
+{a=false, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2579,24 +2477,24 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{v=0}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2609,23 +2507,24 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{v=0}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2638,23 +2537,24 @@ print( rH(a) ), Ref int a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{v=0}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2667,23 +2567,23 @@ print( rH(a) ), Ref int a]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2696,23 +2596,23 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2725,22 +2625,23 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2753,22 +2654,20 @@ print( rH(a) ), v=10]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(0, int), v=0}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2781,22 +2680,20 @@ print( rH(a) ), v=10]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2809,22 +2706,20 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=true, v=0}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2837,21 +2732,20 @@ print( rH(a) )]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2864,21 +2758,20 @@ print( rH(a) ), new(a, 22)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(0, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
@@ -2891,375 +2784,392 @@ print( rH(a) ), new(a, 22)]
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
-10
+1
 ===== EXE STACK =====
-[wH(a, 30)]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
-10
+1
 ===== EXE STACK =====
-[wH(a, 30)]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
-10
+1
 ===== EXE STACK =====
-[]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
 []
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) );
-print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10]
+[]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) ), print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) ), print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) )]
+[bool a;
+int v;
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
@@ -3267,23 +3177,22 @@ print( rH(a) )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( v );
-print( rH(a) )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
@@ -3291,22 +3200,22 @@ print( rH(a) )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) ), print( v )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
@@ -3314,22 +3223,22 @@ print( rH(a) ), print( rH(a) ), print( v )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) ), print( v )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), bool a]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
@@ -3337,22 +3246,22 @@ print( rH(a) ), print( rH(a) ), print( v )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
@@ -3360,22 +3269,22 @@ print( rH(a) ), print( rH(a) )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), print( rH(a) )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
@@ -3383,682 +3292,628 @@ print( rH(a) ), print( rH(a) )]
 1
 ===== EXE STACK =====
 [int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[int v;
-Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), int v]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), int v]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[Ref int a;
-v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[a=true;
+if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), Ref int a]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[v=10;
-new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v ), a=true]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), v=10]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[if(2 > 4) then	
+	(v=2);
+else
+	(v=3);
+openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[new(a, 22);
-fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), new(a, 22)]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), if(2 > 4) then	
+	(v=2);
+else
+	(v=3)]
 ===== SYM TABLE =====
-{a=(1, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{1=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[fork( wH(a, 30) );
-print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v ), v=3]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) ), fork( wH(a, 30) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-10
-===== EXE STACK =====
-[wH(a, 30)]
-===== SYM TABLE =====
-{a=(2, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{2=22}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) );
-print( v );
-print( rH(a) )]
+[openFile(test.in);
+readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=22}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-10
-===== EXE STACK =====
-[wH(a, 30)]
-===== SYM TABLE =====
-{a=(2, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{2=22}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+[readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
-#######################################################
-
-#######################################################
-===== PROGRAM ID ====
-10
-===== EXE STACK =====
-[]
-===== SYM TABLE =====
-{a=(2, int), v=10}
-===== OUT TABLE =====
-[10, 30, 10, 30]
-===== FILE TABLE =====
 {}
-===== HEAP =====
-{2=30}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) ), print( v )]
+[readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) )]
+[readFile(test.in, v);
+print( v ), openFile(test.in)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) );
-print( v );
-print( rH(a) )]
+[readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) ), print( rH(a) )]
+[readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) ), print( rH(a) )]
+[readFile(test.in, v);
+print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) )]
+[print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( v );
-print( rH(a) )]
+[print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) ), print( v )]
+[print( v ), readFile(test.in, v)]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) ), print( v )]
+[print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) )]
+[print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
 ===== PROGRAM ID ====
 1
 ===== EXE STACK =====
-[print( rH(a) )]
+[print( v )]
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10]
+[3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
@@ -4067,13 +3922,13 @@ print( rH(a) )]
 ===== EXE STACK =====
 []
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10, 30]
+[3, 3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 
 #######################################################
@@ -4082,12 +3937,12 @@ print( rH(a) )]
 ===== EXE STACK =====
 []
 ===== SYM TABLE =====
-{a=(2, int), v=10}
+{a=true, v=3}
 ===== OUT TABLE =====
-[10, 30, 10, 30, 10, 30, 10, 30]
+[3, 3]
 ===== FILE TABLE =====
 {}
 ===== HEAP =====
-{2=30}
+{}
 #######################################################
 

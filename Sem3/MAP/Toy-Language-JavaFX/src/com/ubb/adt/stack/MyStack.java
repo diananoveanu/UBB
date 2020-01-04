@@ -1,5 +1,7 @@
 package com.ubb.adt.stack;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Stack;
 
 public class MyStack<T> implements MyIStack<T> {
@@ -7,6 +9,11 @@ public class MyStack<T> implements MyIStack<T> {
 
     public MyStack() {
         stack = new Stack<T>();
+    }
+
+    @Override
+    public List<T> getAll() {
+        return stack;
     }
 
     @Override
