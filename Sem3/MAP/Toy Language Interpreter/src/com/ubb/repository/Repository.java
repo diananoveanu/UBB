@@ -6,22 +6,22 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
+//import java.util.ArrayList;
 import java.util.List;
 
 public class Repository implements IRepository {
     private List<ProgramState> programStateList;
     private String logFilePath;
 
-    public Repository() {
-        programStateList = new ArrayList<>();
-        logFilePath = "";
-    }
-
-    public Repository(String logFilePath) {
-        programStateList = new ArrayList<>();
-        this.logFilePath = logFilePath;
-    }
+//    public Repository() {
+//        programStateList = new ArrayList<>();
+//        logFilePath = "";
+//    }
+//
+//    public Repository(String logFilePath) {
+//        programStateList = new ArrayList<>();
+//        this.logFilePath = logFilePath;
+//    }
 
     public Repository(List<ProgramState> programStateList, String logFilePath) {
         this.programStateList = programStateList;

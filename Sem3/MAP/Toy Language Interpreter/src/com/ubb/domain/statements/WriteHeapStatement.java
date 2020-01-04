@@ -5,6 +5,7 @@ import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.expressions.Expression;
 import com.ubb.domain.type.RefType;
+import com.ubb.domain.type.Type;
 import com.ubb.domain.value.RefValue;
 import com.ubb.domain.value.Value;
 
@@ -44,6 +45,18 @@ public class WriteHeapStatement implements IStatement {
             throw new GenericException(varName + " is not declared");
         }
         return null;
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        Type typeVar = typeEnv.get(varName);
+        Type typeExp = exp.typeCheck(typeEnv);
+        if (new RefType(typeExp).equals(typeVar)) return typeEnv;
+        else {
+            System.out.println(typeExp);
+            System.out.println(typeVar);
+            throw new GenericException("Write heap: left side is not of type ref ");
+        }
     }
 
     @Override

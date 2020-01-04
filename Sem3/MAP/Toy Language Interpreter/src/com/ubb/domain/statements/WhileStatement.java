@@ -6,6 +6,7 @@ import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.expressions.Expression;
 import com.ubb.domain.type.BooleanType;
+import com.ubb.domain.type.Type;
 import com.ubb.domain.value.BooleanValue;
 import com.ubb.domain.value.Value;
 
@@ -41,5 +42,15 @@ public class WhileStatement implements IStatement {
             throw new GenericException("Expresion is not bool!");
         }
         return null;
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        Type typeExp = expr.typeCheck(typeEnv);
+        if (typeExp.equals(new BooleanType())) {
+            statement.typeCheck(typeEnv.cloneDict());
+            return typeEnv;
+        } else
+            throw new GenericException("The condition of WHILE doesn't have the type bool");
     }
 }

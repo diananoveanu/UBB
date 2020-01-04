@@ -2,6 +2,8 @@ package com.ubb.domain.expressions;
 
 import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.domain.exceptions.GenericException;
+import com.ubb.domain.type.RefType;
+import com.ubb.domain.type.Type;
 import com.ubb.domain.value.RefValue;
 import com.ubb.domain.value.Value;
 
@@ -26,6 +28,16 @@ public class ReadHeapExpression implements Expression {
         } else {
             throw new GenericException("Expression is not RefValue");
         }
+    }
+
+    @Override
+    public Type typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        Type typ = exp.typeCheck(typeEnv);
+        if (typ instanceof RefType) {
+            RefType refType = (RefType) typ;
+            return refType.getInner();
+        } else
+            throw new GenericException("the rH argument is not a Ref Type");
     }
 
     @Override

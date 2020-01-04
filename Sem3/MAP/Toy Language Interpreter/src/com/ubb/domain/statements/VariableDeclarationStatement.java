@@ -31,13 +31,18 @@ public class VariableDeclarationStatement implements IStatement {
                 symTable.put(id, type.defaultValue());
             } else if (type instanceof StringType) {
                 symTable.put(id, type.defaultValue());
-            } else if (type instanceof RefType){
+            } else if (type instanceof RefType) {
                 symTable.put(id, type.defaultValue());
             }
         } else {
             throw new VariableAlreadyDeclaredException("Variable already declared!");
         }
-        //return state;
         return null;
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        typeEnv.put(id, type);
+        return typeEnv;
     }
 }

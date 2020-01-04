@@ -5,8 +5,10 @@ import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.expressions.Expression;
 import com.ubb.domain.statements.IStatement;
+import com.ubb.domain.type.BooleanType;
 import com.ubb.domain.type.IntegerType;
 import com.ubb.domain.type.StringType;
+import com.ubb.domain.type.Type;
 import com.ubb.domain.value.IntegerValue;
 import com.ubb.domain.value.StringValue;
 import com.ubb.domain.value.Value;
@@ -68,6 +70,15 @@ public class ReadFile implements IStatement {
             throw new GenericException("Variable is not declared");
         }
         return null;
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        Type typeExp = path.typeCheck(typeEnv);
+        if (typeExp.equals(new StringType())) {
+            return typeEnv;
+        } else
+            throw new GenericException("The PATH is not a string value");
     }
 
 

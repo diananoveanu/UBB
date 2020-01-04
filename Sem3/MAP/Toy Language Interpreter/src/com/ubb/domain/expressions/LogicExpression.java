@@ -3,6 +3,8 @@ package com.ubb.domain.expressions;
 import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.type.BooleanType;
+import com.ubb.domain.type.IntegerType;
+import com.ubb.domain.type.Type;
 import com.ubb.domain.value.BooleanValue;
 import com.ubb.domain.value.Value;
 
@@ -41,6 +43,22 @@ public class LogicExpression implements Expression {
             throw new GenericException("First operand is not a boolean!");
         }
         return null;
+    }
+
+    @Override
+    public Type typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        Type typ1, typ2;
+        typ1 = e1.typeCheck(typeEnv);
+        typ2 = e2.typeCheck(typeEnv);
+        if (typ1.equals(new BooleanType())) {
+            if (typ2.equals(new BooleanType())) {
+                return new BooleanType();
+            } else {
+                throw new GenericException("second operand is not a boolean");
+            }
+        } else {
+            throw new GenericException("first operand is not a boolean");
+        }
     }
 
     @Override

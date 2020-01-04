@@ -1,5 +1,7 @@
 package com.ubb;
 
+import com.ubb.adt.dictionary.MyDictionary;
+import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.controller.Controller;
 import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
@@ -8,10 +10,7 @@ import com.ubb.domain.statements.*;
 import com.ubb.domain.statements.files.CloseRFile;
 import com.ubb.domain.statements.files.OpenRFile;
 import com.ubb.domain.statements.files.ReadFile;
-import com.ubb.domain.type.BooleanType;
-import com.ubb.domain.type.IntegerType;
-import com.ubb.domain.type.RefType;
-import com.ubb.domain.type.StringType;
+import com.ubb.domain.type.*;
 import com.ubb.domain.value.BooleanValue;
 import com.ubb.domain.value.IntegerValue;
 import com.ubb.domain.value.StringValue;
@@ -130,15 +129,7 @@ public class Interpreter {
                         )
                 )
         );
-//        int v;
-//        Ref int a;
-//        v=10;
-//        new(a,22);
-//        fork(wH(a,30);
-//        print(v);
-//        print(rH(a)));
-//        print(v);
-//        print(rH(a))
+//int v; Ref int a; v=10; new(a,22); fork(wH(a,30); print(v); print(rH(a))); print(v); print(rH(a))
         IStatement ex7 = new CompoundStatement(
                 new VariableDeclarationStatement("v", new IntegerType()),
                 new CompoundStatement(
@@ -173,6 +164,22 @@ public class Interpreter {
         List<ProgramState> prg5 = new ArrayList<>();
         List<ProgramState> prg6 = new ArrayList<>();
         List<ProgramState> prg7 = new ArrayList<>();
+
+        MyIDictionary<String, Type> dict1 = new MyDictionary<>();
+        MyIDictionary<String, Type> dict2 = new MyDictionary<>();
+        MyIDictionary<String, Type> dict3 = new MyDictionary<>();
+        MyIDictionary<String, Type> dict4 = new MyDictionary<>();
+        MyIDictionary<String, Type> dict5 = new MyDictionary<>();
+        MyIDictionary<String, Type> dict6 = new MyDictionary<>();
+        MyIDictionary<String, Type> dict7 = new MyDictionary<>();
+
+        ex1.typeCheck(dict1);
+        ex2.typeCheck(dict2);
+        ex3.typeCheck(dict3);
+        ex4.typeCheck(dict4);
+        ex5.typeCheck(dict5);
+        ex6.typeCheck(dict6);
+        ex7.typeCheck(dict7);
 
         prg1.add(new ProgramState(ex1));
         prg2.add(new ProgramState(ex2));

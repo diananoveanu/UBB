@@ -6,6 +6,7 @@ import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.expressions.Expression;
 import com.ubb.domain.statements.IStatement;
 import com.ubb.domain.type.StringType;
+import com.ubb.domain.type.Type;
 import com.ubb.domain.value.StringValue;
 import com.ubb.domain.value.Value;
 
@@ -42,6 +43,15 @@ public class CloseRFile implements IStatement {
             throw new GenericException("Expression is not string type!");
         }
         return null;
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        Type typeExp = exp.typeCheck(typeEnv);
+        if (typeExp.equals(new StringType())) {
+            return typeEnv;
+        } else
+            throw new GenericException("The PATH is not a string value");
     }
 
     @Override

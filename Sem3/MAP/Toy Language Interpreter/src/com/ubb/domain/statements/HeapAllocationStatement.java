@@ -5,6 +5,7 @@ import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.expressions.Expression;
 import com.ubb.domain.type.RefType;
+import com.ubb.domain.type.Type;
 import com.ubb.domain.value.RefValue;
 import com.ubb.domain.value.Value;
 
@@ -53,6 +54,15 @@ public class HeapAllocationStatement implements IStatement {
             throw new GenericException(varName + " is not");
         }
         return null;
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        Type typeVar = typeEnv.get(varName);
+        Type typeExp = expr.typeCheck(typeEnv);
+        if (typeVar.equals(new RefType(typeExp))) return typeEnv;
+        else
+            throw new GenericException("Heap Allocation Statement: right hand side and left hand side have different types.");
     }
 
     @Override

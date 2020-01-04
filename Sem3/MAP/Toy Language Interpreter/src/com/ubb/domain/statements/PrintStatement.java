@@ -1,8 +1,10 @@
 package com.ubb.domain.statements;
 
+import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.expressions.Expression;
+import com.ubb.domain.type.Type;
 
 public class PrintStatement implements IStatement {
     private Expression expression;
@@ -23,7 +25,12 @@ public class PrintStatement implements IStatement {
         } catch (GenericException e) {
             throw new GenericException(e.getMessage());
         }
-        //return state;
         return null;
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        expression.typeCheck(typeEnv);
+        return typeEnv;
     }
 }

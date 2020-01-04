@@ -1,8 +1,10 @@
 package com.ubb.domain.statements;
 
+import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.adt.stack.MyIStack;
 import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
+import com.ubb.domain.type.Type;
 
 public class CompoundStatement implements IStatement {
     private IStatement first;
@@ -23,7 +25,12 @@ public class CompoundStatement implements IStatement {
         MyIStack<IStatement> stk = state.getExeStack();
         stk.push(second);
         stk.push(first);
-        //eturn state;
+
         return null;
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        return second.typeCheck(first.typeCheck(typeEnv));
     }
 }

@@ -1,13 +1,15 @@
 package com.ubb.domain.statements;
 
+import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.adt.stack.MyStack;
 import com.ubb.domain.ProgramState;
 import com.ubb.domain.exceptions.GenericException;
+import com.ubb.domain.type.Type;
 
 public class ForkStatement implements IStatement {
     private IStatement paramStmt;
 
-    public ForkStatement(IStatement paramStmt){
+    public ForkStatement(IStatement paramStmt) {
         this.paramStmt = paramStmt;
     }
 
@@ -18,7 +20,12 @@ public class ForkStatement implements IStatement {
     }
 
     @Override
-    public String toString(){
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        return paramStmt.typeCheck(typeEnv);
+    }
+
+    @Override
+    public String toString() {
         return "fork( " + paramStmt.toString() + " )";
     }
 }

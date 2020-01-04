@@ -2,7 +2,6 @@ package com.ubb.repository;
 
 import com.ubb.domain.ProgramState;
 
-import java.io.IOException;
 import java.util.List;
 
 
@@ -13,5 +12,5 @@ public interface IRepository {
 
     void setProgramStateList(List<ProgramState> programStateList);
 
-    void logPrgStateExec(ProgramState prgState) ;
+    void logPrgStateExec(ProgramState prgState);
 }

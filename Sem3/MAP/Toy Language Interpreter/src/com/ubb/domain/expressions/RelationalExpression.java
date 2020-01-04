@@ -2,7 +2,9 @@ package com.ubb.domain.expressions;
 
 import com.ubb.adt.dictionary.MyIDictionary;
 import com.ubb.domain.exceptions.GenericException;
+import com.ubb.domain.type.BooleanType;
 import com.ubb.domain.type.IntegerType;
+import com.ubb.domain.type.Type;
 import com.ubb.domain.value.BooleanValue;
 import com.ubb.domain.value.IntegerValue;
 import com.ubb.domain.value.Value;
@@ -84,5 +86,21 @@ public class RelationalExpression implements Expression {
         } else
             throw new GenericException("first operand is not an integer");
         return null;
+    }
+
+    @Override
+    public Type typeCheck(MyIDictionary<String, Type> typeEnv) throws GenericException {
+        Type typ1, typ2;
+        typ1 = exp1.typeCheck(typeEnv);
+        typ2 = exp2.typeCheck(typeEnv);
+        if (typ1.equals(new IntegerType())) {
+            if (typ2.equals(new IntegerType())) {
+                return new BooleanType();
+            } else {
+                throw new GenericException("second operand is not an integer");
+            }
+        } else {
+            throw new GenericException("first operand is not an integer");
+        }
     }
 }
