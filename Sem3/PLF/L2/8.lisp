@@ -11,6 +11,7 @@
 (defun get_right_child(tree)
     (cond
         ((null tree) nil)
+        ;; get third element -> caddr; 2nd -> cadr 
         ((listp (caddr tree)) (caddr tree))
         (t nil)
         )
