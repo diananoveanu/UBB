@@ -13,7 +13,6 @@ def read_grammar_from_file(in_file):
         start_sym = line
         line = f_d.readline().strip()
         while line != "":
-            #dc
             segments = line.split('->')
             productions_on_line = segments[1].split('|')
             for prod in productions_on_line:

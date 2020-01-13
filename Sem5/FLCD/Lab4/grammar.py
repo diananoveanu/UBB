@@ -39,7 +39,7 @@ class Grammar:
         return symbol in self.__non_terminals
 
     def __str__(self):
-        # dc
+
         string_prod = ""
         for prod in self.__productions:
             string_prod += str(prod) + "\n"

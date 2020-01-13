@@ -18,7 +18,7 @@ class Production:
     def __str__(self):
         right_str = "["
         for i in range(len(self.get_right_term())):
-            if i != len(self.get_right_term()) - 1: #dc
+            if i != len(self.get_right_term()) - 1:
                 right_str += self.get_right_term()[i] + ", "
             else:
                 right_str += self.get_right_term()[i]
