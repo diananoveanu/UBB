@@ -6,7 +6,6 @@ import com.ubb.domain.exceptions.GenericException;
 import com.ubb.domain.value.RefValue;
 import com.ubb.domain.value.Value;
 import com.ubb.repository.IRepository;
-import com.ubb.repository.Repository;
 
 import java.io.IOException;
 import java.util.*;
@@ -20,6 +19,7 @@ import java.util.stream.Collectors;
 public class Controller {
     private IRepository repository;
     private ExecutorService executor;
+
     public Controller(IRepository repository) {
         this.repository = repository;
 
@@ -29,7 +29,7 @@ public class Controller {
         return repository.getCurrentProgram();
     }
 
-    public List<String> getIdentifiers(){
+    public List<String> getIdentifiers() {
         List<String> identifiers = new ArrayList<>();
         repository.getProgramStateList().forEach(x -> identifiers.add(x.getId().toString()));
         return identifiers;
@@ -58,18 +58,19 @@ public class Controller {
         });
 
         // create futures
-        List<Callable<ProgramState>> callList = states.stream().filter(p->!p.getExeStack().isEmpty())
+        List<Callable<ProgramState>> callList = states.stream().filter(p -> !p.getExeStack().isEmpty())
                 .map((ProgramState p) ->
 
-                        (Callable<ProgramState>)(()->{
-                            try{
-                                return p.oneStep();}
-                            catch (GenericException e){
+                        (Callable<ProgramState>) (() -> {
+                            try {
+                                return p.oneStep();
+                            } catch (GenericException e) {
                                 System.out.println(e.getMessage());
                                 return null;
                             }
                         })
                 ).collect(Collectors.toList());
+
         List<ProgramState> newProgramList = executor.invokeAll(callList).stream()
                 .map(future -> {
                     try {
@@ -79,22 +80,23 @@ public class Controller {
                     }
                     return null;
                 }).filter(Objects::nonNull).collect(Collectors.toList());
+
         states.addAll(newProgramList);
+
         states.forEach(prg -> {
             prg.getHeap().setContent(conservativeGarbageCollector(
                     getAddrFromSymTable(prg.getSymTable().values()), prg.getHeap()));
         });
-        states.forEach(p-> repository.logPrgStateExec(p));
+
+        states.forEach(p -> repository.logPrgStateExec(p));
         repository.setProgramStateList(states);
     }
 
-    public void executeOneStep()
-    {
+    public void executeOneStep() {
         executor = Executors.newFixedThreadPool(8);
         removeCompletedProgram(repository.getProgramStateList());
         List<ProgramState> programStates = repository.getProgramStateList();
-        if(programStates.size() > 0)
-        {
+        if (programStates.size() > 0) {
             try {
                 oneStepForAllProgram(repository.getProgramStateList());
             } catch (InterruptedException e) {
@@ -113,7 +115,7 @@ public class Controller {
         executor = Executors.newFixedThreadPool(2);
         List<ProgramState> states = removeCompletedProgram(repository.getProgramStateList());
         // List<ProgramState> prgList = null;
-        while(states.size() > 0){
+        while (states.size() > 0) {
             oneStepForAllProgram(states);
             states = removeCompletedProgram(repository.getProgramStateList());
         }
@@ -125,8 +127,7 @@ public class Controller {
 
     }
 
-    private List<ProgramState> removeCompletedProgram(List<ProgramState> inProgramList)
-    {
+    private List<ProgramState> removeCompletedProgram(List<ProgramState> inProgramList) {
         return inProgramList
                 .stream()
                 .filter(ProgramState::isNotCompleted)

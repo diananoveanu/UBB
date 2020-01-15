@@ -1283,3 +1283,221 @@ print( a )]
 {3=20, 4=(3, int)}
 #######################################################
 
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a )]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), Ref int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), Ref int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), Ref int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a )]
+===== SYM TABLE =====
+{v=(0, int)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a )]
+===== SYM TABLE =====
+{v=(0, int)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a )]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), Ref int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[Ref int v;
+new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), new(v, 20);
+Ref Ref int a;
+new(a, v);
+print( v );
+print( a ), Ref int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+

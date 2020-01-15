@@ -6288,3 +6288,2831 @@ close(varf)]
 {}
 #######################################################
 
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[string varf;
+varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), string varf]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[varf=test.in;
+openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), varf=test.in]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[openFile(varf);
+int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), openFile(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int varc;
+readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), int varc]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[readFile(varf, varc);
+print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+close(varf), readFile(varf, varc)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[print( varc );
+close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[close(varf), print( varc )]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[close(varf)]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{varf=test.in, varc=0}
+===== OUT TABLE =====
+[0, 0, 0, 0]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+

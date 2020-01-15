@@ -994,3 +994,1857 @@ print( rH(a) ), print( v )]
 {1=30}
 #######################################################
 
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22)]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22)]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22)]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+10
+===== EXE STACK =====
+[wH(a, 30)]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+10
+===== EXE STACK =====
+[wH(a, 30)]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+10
+===== EXE STACK =====
+[wH(a, 30)]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( rH(a) );
+print( v );
+print( rH(a) ), print( v )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=30}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+10
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=30}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( rH(a) );
+print( v );
+print( rH(a) ), print( v )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=30}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+10
+===== EXE STACK =====
+[]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=30}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), int v]
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), Ref int a]
+===== SYM TABLE =====
+{v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), v=10]
+===== SYM TABLE =====
+{a=(0, int), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22)]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22)]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), new(a, 22)]
+===== SYM TABLE =====
+{a=(0, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+
+#######################################################
+===== PROGRAM ID ====
+1
+===== EXE STACK =====
+[int v;
+Ref int a;
+v=10;
+new(a, 22);
+fork( wH(a, 30) );
+print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), print( v );
+print( rH(a) );
+print( v );
+print( rH(a) ), fork( wH(a, 30) )]
+===== SYM TABLE =====
+{a=(1, int), v=10}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== HEAP =====
+{1=22}
+#######################################################
+

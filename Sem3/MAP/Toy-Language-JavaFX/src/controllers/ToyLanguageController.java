@@ -5,10 +5,7 @@ import com.ubb.adt.list.MyIList;
 import com.ubb.adt.stack.MyIStack;
 import com.ubb.controller.Controller;
 import com.ubb.domain.ProgramState;
-import com.ubb.domain.expressions.ValueExpression;
 import com.ubb.domain.statements.IStatement;
-import com.ubb.domain.statements.PrintStatement;
-import com.ubb.domain.value.IntegerValue;
 import com.ubb.domain.value.StringValue;
 import com.ubb.domain.value.Value;
 import dtos.HeapDto;
@@ -22,13 +19,11 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-public class ToyLanguageController{
+public class ToyLanguageController {
     @FXML
     public Button runBtn;
     @FXML
@@ -72,10 +67,10 @@ public class ToyLanguageController{
     private ArrayList<Controller> ctrs;
 
 
-
     public ToyLanguageController() {
 
     }
+
     @FXML
     private void initialize() {
         ctrs = new ArrayList<>();
@@ -87,8 +82,6 @@ public class ToyLanguageController{
             System.out.println("clicked on " + programsList.getSelectionModel().getSelectedIndex());
             initAllWidgets(programsList.getSelectionModel().getSelectedIndex());
         });
-        //Link tables and columns
-        //add data to lists and tables
     }
 
     private void initAllWidgets(int selectedIndex) {
@@ -101,7 +94,6 @@ public class ToyLanguageController{
         initExeStackLst(prgState);
         initPrgStatesLst(ctr);
         initNumProgStates(ctr);
-
     }
 
     private void initNumProgStates(Controller ctr) {
@@ -119,7 +111,7 @@ public class ToyLanguageController{
         List<String> exeStack = new ArrayList<>();
 
         MyIStack<IStatement> exStack = prgState.getExeStack();
-        for(IStatement stmt : exStack.getAll()){
+        for (IStatement stmt : exStack.getAll()) {
             exeStack.add(stmt.toString());
         }
         exeStackList.setItems(FXCollections.observableList(exeStack));
@@ -132,7 +124,7 @@ public class ToyLanguageController{
 
         MyIDictionary<StringValue, BufferedReader> filesState = prgState.getFileTable();
 
-        for(Map.Entry<StringValue, BufferedReader> entry : filesState.getContent()) {
+        for (Map.Entry<StringValue, BufferedReader> entry : filesState.getContent()) {
             filesLst.add(entry.getKey().getValue());
         }
 
@@ -145,7 +137,7 @@ public class ToyLanguageController{
         List<String> outTxt = new ArrayList<>();
 
         MyIList<Value> out = prgState.getOut();
-        for(int i = 0; i<out.size(); i++){
+        for (int i = 0; i < out.size(); i++) {
             outTxt.add(out.getFromIndex(i).toString());
         }
         outList.itemsProperty().bind(outLst);
@@ -155,7 +147,7 @@ public class ToyLanguageController{
     private void initSymTbl(ProgramState prgState) {
         MyIDictionary<String, Value> symTbl = prgState.getSymTable();
         List<SymDto> symDtoList = new ArrayList<>();
-        for(Map.Entry<String, Value> entry : symTbl.getContent()){
+        for (Map.Entry<String, Value> entry : symTbl.getContent()) {
 
             symDtoList.add(new SymDto(entry.getKey(), entry.getValue()));
         }
@@ -166,7 +158,7 @@ public class ToyLanguageController{
     private void initHeapTbl(ProgramState programState) {
         MyIDictionary<Integer, Value> heap = programState.getHeap();
         List<HeapDto> heapDtoList = new ArrayList<>();
-        for(Map.Entry<Integer, Value> entry : heap.getContent()){
+        for (Map.Entry<Integer, Value> entry : heap.getContent()) {
 
             heapDtoList.add(new HeapDto(entry.getKey(), entry.getValue()));
         }
@@ -174,7 +166,7 @@ public class ToyLanguageController{
         heapDtos.set(FXCollections.observableArrayList(heapDtoList));
     }
 
-    private void initList(){
+    private void initList() {
         List<String> prgsTxt = getProgramsText();
         programsList.itemsProperty().bind(programsText);
         programsText.set(FXCollections.observableArrayList(prgsTxt));
@@ -184,7 +176,7 @@ public class ToyLanguageController{
         List<String> progs = new ArrayList<>();
         int cnt = 1;
         System.out.println(ctrs.size());
-        for(Controller ctr : this.ctrs){
+        for (Controller ctr : this.ctrs) {
             progs.add("ID: " + cnt + " " + ctr.getProgram().getExeStack());
             cnt += 1;
         }
@@ -192,13 +184,13 @@ public class ToyLanguageController{
     }
 
 
-    public void addController(Controller ctr){
+    public void addController(Controller ctr) {
         this.ctrs.add(ctr);
     }
 
     public void runOneStepForAll(ActionEvent actionEvent) {
         Integer index = programsList.getSelectionModel().getSelectedIndex();
-        if(index == null){
+        if (index == null) {
             Alert alert = new Alert(Alert.AlertType.ERROR, "The program was not selected", ButtonType.OK);
             alert.showAndWait();
             return;
@@ -206,7 +198,7 @@ public class ToyLanguageController{
         Controller controller = ctrs.get(index);
 
         boolean programStateLeft = controller.getProgram().getExeStack().isEmpty();
-        if(programStateLeft){
+        if (programStateLeft) {
             Alert alert = new Alert(Alert.AlertType.ERROR, "Nothing left to execute", ButtonType.OK);
             alert.showAndWait();
             return;
