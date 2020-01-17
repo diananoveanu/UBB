@@ -6,7 +6,6 @@
      )
 )
  
-
 (print(dotProduct '(3 1 2) '(6 2 1)))
 
 
@@ -50,6 +49,7 @@
 ;; (c) Sort a list without keeping double values.
 
 ;; function to get the length of a list
+
 (defun len(l)
     (cond
         ((null l) 0)
@@ -77,15 +77,15 @@
 ;; wrapper function
 (defun getAfterN(l n)
     (getAfterNAux l n 0)
-    )
+)
  
 
-;; get second half
+;; get first half
 (defun getFirstHalf(l)
     (getFirstN l (truncate (len l) 2))
 )
  
-;; get first half  
+;; get second half  
 (defun getSecondHalf(l)
     (getAfterN l (truncate (len l) 2))
 )
@@ -97,12 +97,12 @@
    ((NULL l) col)
    ((invers_aux (cdr l) (cons (car l) col)))
   )
-  )
+)
  
 ;;; Wrapper function for invers_aux
 (defun invers(l)
   (invers_aux l nil)
-  )
+)
  
 ;;Function for merging two sorted lists
 (defun merge_aux(l a col)
@@ -115,7 +115,7 @@
     ((<=(car a) (car l)) (merge_aux l (cdr a) (cons (car a) col)))
     ((< (car l) (car a)) (merge_aux (cdr l) a (cons (car l) col)))
     )
-  )
+)
  
 ;; Wrapper function for merge_aux
 (defun merge_lists(l a)

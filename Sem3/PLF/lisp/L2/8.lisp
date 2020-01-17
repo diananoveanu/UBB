@@ -2,9 +2,9 @@
 (defun get_left_child(tree)
     (cond
         ((null tree) nil)
-        ((listp (cadr tree)) (cadr tree))
+        ((and (<= 2 (length tree))(listp (cadr tree))) (cadr tree))
         (t nil)
-        )
+    )
 )
  
 ;get right child of a tree
@@ -14,7 +14,7 @@
         ;; get third element -> caddr; 2nd -> cadr 
         ((listp (caddr tree)) (caddr tree))
         (t nil)
-        )
+    )
 )
  
 ;inorder traversal
@@ -24,3 +24,5 @@
         (t (append (inorder_traversal (get_left_child tree)) (list (car tree)) (inorder_traversal (get_right_child tree))))
         )
     )
+
+(print (inorder_traversal '(1 (2 (4) (5 (6))) (3 (7 (8 (9)))))))

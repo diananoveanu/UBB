@@ -3,7 +3,7 @@
 
 (defun maximum (l)
     (cond
-        ((null l) -1)
+        ((null l) -100000)
         ((numberp l) l)
         (t (apply #'max (mapcar #'maximum l)))
     )
