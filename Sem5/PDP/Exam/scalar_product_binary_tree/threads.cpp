@@ -26,6 +26,10 @@ bool hasRightNode(int n, int index) {
     return (node >= 0 && node < n);
 }
 
+//1 2 3 4 2 3 4 5
+//
+//1*2 + 2*3   3*4 + 4*5
+
 
 int scalarProduct(vector<int> a, vector<int> b, int T) {
 
