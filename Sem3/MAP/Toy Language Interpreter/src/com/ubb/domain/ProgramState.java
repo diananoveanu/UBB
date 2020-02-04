@@ -43,7 +43,7 @@ public class ProgramState {
         exeStack.push(originalProgram);
         fileTable = new MyDictionary<>();
         heap = new MyDictionary<>();
-        exeStack.push(originalProgram);
+
     }
 
 

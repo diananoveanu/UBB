@@ -5,7 +5,7 @@
 //  Created by Diana  on 11/10/19.
 //
 
-import Alamofire
+
 import UIKit
 
 
