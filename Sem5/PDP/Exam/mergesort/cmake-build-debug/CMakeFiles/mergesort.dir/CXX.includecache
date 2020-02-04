@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/diananoveanu/UBB/Sem5/PDP/Exam/mergesort/threads.cpp
+iostream
+-
+thread
+-
+vector
+-
+

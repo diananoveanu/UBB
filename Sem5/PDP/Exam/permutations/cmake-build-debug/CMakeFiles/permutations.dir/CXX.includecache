@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/diananoveanu/UBB/Sem5/PDP/Exam/permutations/threads.cpp
+iostream
+-
+fstream
+-
+vector
+-
+thread
+-
+atomic
+-
+

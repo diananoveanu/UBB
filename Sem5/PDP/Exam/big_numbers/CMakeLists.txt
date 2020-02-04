@@ -3,4 +3,4 @@ project(big_numbers)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(big_numbers threads.cpp)
+add_executable(big_numbers threads.cpp mpi.cpp)

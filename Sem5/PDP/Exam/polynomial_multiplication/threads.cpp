@@ -29,7 +29,9 @@ void multiply(vector<int> a, vector<int> b, vector<int> &r, int T) {
                 for (int i = start; i < stop; i++)
                     for (int j = 0; j < b.size(); j++)
                         r[i + j] += a[i] * b[j];
+                        
             });
+
             start = stop;
         }
         for (int i = 0; i < T; i++)

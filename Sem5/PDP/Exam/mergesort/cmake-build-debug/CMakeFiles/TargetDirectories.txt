@@ -1,0 +1,3 @@
+/Users/diananoveanu/UBB/Sem5/PDP/Exam/mergesort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/diananoveanu/UBB/Sem5/PDP/Exam/mergesort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diananoveanu/UBB/Sem5/PDP/Exam/mergesort/cmake-build-debug/CMakeFiles/mergesort.dir

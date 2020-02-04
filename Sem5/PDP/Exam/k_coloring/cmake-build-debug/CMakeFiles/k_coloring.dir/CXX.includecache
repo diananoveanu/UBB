@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/diananoveanu/UBB/Sem5/PDP/Exam/k_coloring/threads.cpp
+iostream
+-
+thread
+-
+vector
+-
+string
+-
+atomic
+-
+mutex
+-
+

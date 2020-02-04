@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/diananoveanu/UBB/Sem5/PDP/Exam/n_queens/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+atomic
+-
+
