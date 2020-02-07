@@ -1,0 +1,12 @@
+{
+  "className": "Request",
+  "fields": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "String"},
+    {"name": "student", "type": "String"},
+
+    {"name": "state", "type": "String"},
+    {"name": "eCost", "type": "int"},
+    {"name": "cost", "type": "int"}
+  ]
+}
