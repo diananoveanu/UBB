@@ -1,10 +1,6 @@
 # UBB
-University Assignments for CompSci in English
+University Assignments for CompSci in English @Babes-Bolyai University of Cluj-Napoca
 
-### First Semester 
-> oops deleted everything at the end of that semester because I was angry `^_^`
-### Second semester
-> same tbh
 ### [Third Semester](https://github.com/diananoveanu/UBB/tree/master/Sem3) 
 
 - [Advanced Methods of Programming](https://github.com/diananoveanu/UBB/tree/master/Sem3/MAP)
