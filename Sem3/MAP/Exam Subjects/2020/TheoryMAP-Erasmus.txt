@@ -1,0 +1,19 @@
+Theory Subjects – 16 January 2020
+
+Work Time: 30min
+Please copy the subjects and then close your laptops.
+
+1.(3p). Compare static vs non-static methods in Java.
+
+
+2.(3p). Given the following collection 
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8,9,10,11,12,14,15,16);
+Using Java functional style (Java streams), 
+please write a program that is doing the following operations in the following order:
+a)eliminates all the numbers which are not multiple of  4;
+b)transform each remaining number into its succesor (eg. 4 is transformed into 5); 
+c)compute the sum modulo 2 of the remaining numbers (eg. (9 +5) mod 2=0)
+d)transform the result into a list
+
+
+3.(3p). What is a Semaphore in Java.

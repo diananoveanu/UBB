@@ -1,0 +1,3213 @@
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a)), Ref Integer a]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a)), Ref Integer a]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a)), Ref Integer a]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{a=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{a=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{a=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a)), new(a, 20)]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{a=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a)), new(a, 20)]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{a=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a)), new(a, 20)]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{a=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))}]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))}]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))}]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), Integer v;
+v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), Integer v;
+v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), Integer v;
+v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, Integer v]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, Integer v]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, Integer v]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), v = 0;
+while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = 0]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = 0]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = 0]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, fork(print(v);
+v = v * rH(a));
+v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=1}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1, fork(print(v);
+v = v * rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }, v = v + 1]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[print(v);
+v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=3}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=3}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a)), while( v < 3 ) { fork(print(v);
+v = v * rH(a));
+v = v + 1 }]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=3}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[v = v * rH(a), print(v)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=3}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=3}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(a))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=3}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[v = v * rH(a)]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=2}
+===== OUT TABLE =====
+[0, 1, 2]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=3}
+===== OUT TABLE =====
+[0, 1, 2, 20]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1, 2, 20]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1, 2, 20]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=40}
+===== OUT TABLE =====
+[0, 1, 2, 20]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=3}
+===== OUT TABLE =====
+[0, 1, 2, 20]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer a;
+new(a, 20);
+for(v=0, v<3, v=v +1)	{fork(print(v);
+v = v * rH(a))};
+print(rH(a))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+1
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=0}
+===== OUT TABLE =====
+[0, 1, 2, 20]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+2
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=20}
+===== OUT TABLE =====
+[0, 1, 2, 20]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+3
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+
+===== SYM TABLE =====
+{a=(1, Integer), v=40}
+===== OUT TABLE =====
+[0, 1, 2, 20]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+print(v);
+v = v * rH(a)
+#######################################################
+

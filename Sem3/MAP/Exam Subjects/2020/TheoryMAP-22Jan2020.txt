@@ -1,0 +1,66 @@
+Theory Subjects – 22 January 2020
+
+
+
+Work Time: 40min
+
+Please copy the subjects and then close your laptops.
+
+Default (1p)
+
+1 (1p). Compare static vs non-static methods in Java.
+
+
+2 (3p). Given the following collection 
+
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8,9,10,11,12,14,15,16);
+
+Using Java functional style (Java streams), 
+
+please write a program that is doing the following operations in the following order:
+
+a)eliminates all the numbers which are not multiple of  4;
+
+b)transform each remaining number into its succesor (eg. 4 is transformed into 5); 
+
+c)compute the sum modulo 2 of the remaining numbers (eg. (9 +5) mod 2=0)
+
+
+
+3 (3p). Given the following four classes in Java:
+
+class A {...}   class B extends A {...}   class C extends A {...}
+
+class Amain{
+
+A  method1(ArrayList<...> list) {  if list.isEmpty() return null; 
+
+                                   else return list.get(1);}
+
+void method2(ArrayList<...>  list) {  list.add(null);}
+
+void method3(){
+
+ArrayList<A> listA=new ArrayList<A>(); listA.add(new A());
+
+ArrayList<B> listB = new ArrayList<B>(); listB.add(new B());
+
+ArrayList<C> listC = new ArrayList<C>(); listC.add(new C());
+
+this.method1(listA); this.method1(listB); this.method1(listC);
+
+this.method2(listA); this.method2(listB); this.method2(listC);
+
+}
+
+}
+
+Compute the most specific signatures for the class Amain methods (method1 and method2) 
+
+such that the entire program is correct. 
+
+If it is not possible to find the types justify your answer.
+
+Discuss line by line the correctness of the above program. 
+
+4 (2p). What is a Semaphore in Java.

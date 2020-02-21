@@ -1,0 +1,35 @@
+Theory Subjects – 24 January 2018
+
+
+
+Work Time: 50min
+
+Please copy the subjects and then close your laptops.
+
+
+
+
+
+1.(3p). Compare interfaces vs. abstract classes in Java.
+
+
+
+2.(3p). Given the following collection 
+
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8,9,10,11,12,14,15);
+
+Using Java functional style (Java streams), 
+
+please write a program that is doing the following operations in the following order:
+
+a)eliminates all the numbers which are not multiple of  3 or  multiple of 7;
+
+b)transform each remaining number into its predecessor (eg. 3 is transformed into 2); 
+
+c)compute the sum modulo 5 of the remaining numbers (eg. (2 +4) mod 5=1)
+
+d)transform the result into a list
+
+
+
+3.(3p). What is an Atomic Variable in Java.

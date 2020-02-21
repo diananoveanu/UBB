@@ -1,0 +1,4761 @@
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v1]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v1]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v1]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v2]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v2]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v2]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v3]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v3]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Ref Integer v3]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Integer cnt]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Integer cnt]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), Integer cnt]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{cnt=0, v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{cnt=0, v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{cnt=0, v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v1, 2)]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{cnt=0, v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v1, 2)]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{cnt=0, v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v1, 2)]
+===== HEAP TABLE =====
+Heap:
+
+===== SYM TABLE =====
+{cnt=0, v1=(0, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v2, 3)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v2, 3)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v2, 3)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(0, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v3, 4)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v3, 4)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), new(v3, 4)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(0, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), newBarrier( cnt, rH(v2) )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), newBarrier( cnt, rH(v2) )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), newBarrier( cnt, rH(v2) )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=0, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3)), fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[awaitBarrier( cnt );
+print(rH(v3)), wH(v2, rH(v2) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[awaitBarrier( cnt );
+print(rH(v3)), wH(v2, rH(v2) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[awaitBarrier( cnt );
+print(rH(v3)), wH(v2, rH(v2) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 3
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[awaitBarrier( cnt );
+print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3)), awaitBarrier( cnt )]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[wH(v1, rH(v1) * 10);
+print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[wH(v2, rH(v2) * 10);
+print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[print(rH(v1)), wH(v1, rH(v1) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[print(rH(v2)), wH(v2, rH(v2) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[print(rH(v1)), wH(v1, rH(v1) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[print(rH(v2)), wH(v2, rH(v2) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[print(rH(v3))]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[print(rH(v1)), wH(v1, rH(v1) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[print(rH(v2)), wH(v2, rH(v2) * 10)]
+===== HEAP TABLE =====
+Heap:
+1 -> 2
+2 -> 30
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[print(rH(v1))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[print(rH(v2))]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4, 20, 300]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4, 20, 300]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4, 20, 300]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+0
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4, 20, 300]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+Ref Integer v1;
+Ref Integer v2;
+Ref Integer v3;
+Integer cnt;
+new(v1, 2);
+new(v2, 3);
+new(v3, 4);
+newBarrier( cnt, rH(v2) );
+fork(awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1)));
+fork(awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2)));
+wH(v2, rH(v2) * 10);
+awaitBarrier( cnt );
+print(rH(v3))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+4
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4, 20, 300]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v1, rH(v1) * 10);
+print(rH(v1))
+#######################################################
+
+#######################################################
+===== PROGRAM ID =====
+5
+===== EXE STACK =====
+[]
+===== HEAP TABLE =====
+Heap:
+1 -> 20
+2 -> 300
+3 -> 4
+
+===== SYM TABLE =====
+{cnt=1, v1=(1, Integer), v2=(2, Integer), v3=(3, Integer)}
+===== OUT TABLE =====
+[4, 20, 300]
+===== FILE TABLE =====
+{}
+===== INITIAL PROGRAM =====
+awaitBarrier( cnt );
+wH(v2, rH(v2) * 10);
+print(rH(v2))
+#######################################################
+
