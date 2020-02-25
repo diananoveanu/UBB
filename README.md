@@ -18,3 +18,12 @@ University Assignments for CompSci in English @Babes-Bolyai University of Cluj-N
 - [Mobile Programming](https://github.com/diananoveanu/UBB/tree/master/Sem5/Mobile)
 - [Parallel and Distributed Programming](https://github.com/diananoveanu/UBB/tree/master/Sem5/PDP)
 - [Formal Languages and Compiler Design](https://github.com/diananoveanu/UBB/tree/master/Sem5/FLCD)
+
+### [Sixth Semester](https://github.com/diananoveanu/UBB/tree/master/Sem6)
+
+*in progress*
+
+- [Systems for Software Validation and Verification](https://github.com/diananoveanu/UBB/tree/master/Sem6/SSVV)
+- [Numerical Calculus](https://github.com/diananoveanu/UBB/tree/master/Sem6/Calculus)
+- [Design Patterns](https://github.com/diananoveanu/UBB/tree/master/Sem6/DP)
+
