@@ -1,0 +1,6 @@
+Tema: 41
+Nota: 10.0
+Predata in saptamana: 3
+Deadline: 4
+Feedback: adsk
+

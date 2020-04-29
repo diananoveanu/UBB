@@ -1,0 +1,5 @@
+serenity/features/search/SearchByKeywordStory.class
+serenity/steps/serenity/EndUserSteps.class
+serenity/features/search/SearchByKeywordStoryDdt.class
+serenity/features/search/package-info.class
+serenity/pages/DictionaryPage.class

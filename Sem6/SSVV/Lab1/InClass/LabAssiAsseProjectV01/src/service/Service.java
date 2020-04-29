@@ -50,13 +50,12 @@ public class Service {
         }
         else {
             int deadline = temaXmlRepo.findOne(idTema).getDeadline();
-
             if (predata - deadline > 2) {
                 valNota =  1;
             } else {
-                valNota =  valNota - 2.5 * (predata - deadline);
+                valNota =  predata > deadline ? valNota - 2.5 * (predata - deadline) : valNota;
             }
-            Nota nota = new Nota(new Pair(idStudent, idTema), valNota, predata, feedback);
+            Nota nota = new Nota(new Pair<>(idStudent, idTema), valNota, predata, feedback);
             Nota result = notaXmlRepo.save(nota);
 
             if (result == null) {
@@ -127,7 +126,7 @@ public class Service {
     }
 
     public void createStudentFile(String idStudent, String idTema) {
-        Nota nota = notaXmlRepo.findOne(new Pair(idStudent, idTema));
+        Nota nota = notaXmlRepo.findOne(new Pair<>(idStudent, idTema));
 
         notaXmlRepo.createFile(nota);
     }

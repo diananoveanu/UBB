@@ -3,22 +3,12 @@ package repository;
 import domain.Nota;
 import domain.Pair;
 import domain.Student;
-import domain.Tema;
-import validation.StudentValidator;
-import validation.TemaValidator;
-import validation.ValidationException;
-import validation.Validator;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
+import validation.StudentValidator;
+import validation.TemaValidator;
+import validation.Validator;
 
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.*;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -56,8 +46,8 @@ public class NotaXMLRepository extends AbstractXMLRepository<Pair<String, String
         String idStudent = notaObj.getID().getObject1();
         StudentValidator sval = new StudentValidator();
         TemaValidator tval = new TemaValidator();
-        StudentFileRepository srepo = new StudentFileRepository(sval, "studenti.txt");
-        TemaFileRepository trepo = new TemaFileRepository(tval, "teme.txt");
+        StudentXMLRepository srepo = new StudentXMLRepository(sval, "studenti.xml");
+        TemaXMLRepository trepo = new TemaXMLRepository(tval, "teme.xml");
 
         Student student = srepo.findOne(idStudent);
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(student.getNume() + ".txt", false))) {
