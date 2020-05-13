@@ -1,0 +1,828 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="ro" lang="ro" class="lang_ro" style="min-height:100%;"><head>
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" type="text/css" href="https://s12emagst.akamaized.net/layout/ro/www/css/assetic/auth_css-997b3b1.css">
+    <script async="" src="https://sc-static.net/scevent.min.js"></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//bat.bing.com/bat.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TKS335"></script><script type="text/javascript">
+        function onWindowLoad(f){"function"==typeof f&&(window.attachEvent?window.attachEvent("onload",f):window.addEventListener("load",f))}
+    </script>
+    <script type="text/javascript" src="//s12emagst.akamaized.net/layout/all/js/emg-dependencies.js"></script>
+
+    <script type="text/javascript">
+        var $111 = jQuery.noConflict();
+    </script>
+
+    <script>!function(){function t(t){c++,i||("e3"==t||c%2==0?e():n()),c>5&&(i=!0)}function n(){try{xhttp=o(),a.push(xhttp),xhttp.open("GET",p+"&c="+d+"&sd="+u,!0),xhttp.send(),xhttp.onreadystatechange=function(){4==this.readyState&&(200==this.status?(i=!0,r()):t())}}catch(n){t()}}function e(){try{var n=document.createElement("img");n.setAttribute("src",p+"&c="+d+"&sd="+u),document.body.appendChild(n),i=!0,r()}catch(n){t()}}function o(){var t;if("undefined"!=typeof XMLHttpRequest)t=new XMLHttpRequest;else{for(var n=5;n>1;n--)try{t=new ActiveXObject("MSXML2.XmlHttp."+n+".0");break}catch(t){}if(t)try{t=new ActiveXObject("Microsoft.XmlHttp")}catch(t){}}return t}function r(){for(var t in a)a[t].abort()}var i=!1,a=[],c=0,u="0",d=18*13,p="/profile_async/FYQBZfsyEv.g4at5-WaVgjRvdlg2aXdnT1REZTVCODROY2l3YUJhNDBtcjhUZXVpcU4zRVF4RFZmL0hpMFdFdk9OTjIwZUhHazlCaXdLL0s2K3dHbHN4TEIvY3QrVUhvczJtbDNIM3FyWWJsRzlwSGtEZ3BjYXNjNUlnbmNFdHQvWFk1R2RscVFuU3Y5a3JSUEFpSy8zNnZFV3V5OEZCbnVOUVBRbFhLaTdFa0RlMk1SbXZlY1loSyt6cFR0MjNubFlxUWJiTXdkNUJ4aDl1NFdlVGtSOGUxSk16ZVZoVm4zaVM3NjkzU2YrMXBRRVdwRWloK0VaUklWQ3M9/o/?r=1589308617";(window.callPhantom||window._phantom)&&(u+="a"),navigator.plugins instanceof PluginArray&&0!=navigator.plugins.length||(u+="b"),""==navigator.languages&&(u+="c"),Function.prototype.bind?Function.prototype.bind.toString().replace(/bind/g,"Error")==Error.toString()?Function.prototype.toString.toString().replace(/toString/g,"Error")==Error.toString()||(u+="f"):u+="e":u+="d",window.attachEvent?window.attachEvent("onload",function(){t("e3")}):window.addEventListener("load",function(){t("e3")}),t("a"),setTimeout(function(){t("x")},150)}();</script><link type="text/css" rel="stylesheet" href="/phstyles/style-5pcpem1f2w.min.css">    <link rel="canonical" href="https://www.emag.ro/">
+
+<link rel="search" href="https://www.emag.ro/opensearch.ro.xml" type="application/opensearchdescription+xml" title="Cautare eMAG.ro">
+
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.emag.ro/">
+
+
+
+                        <meta property="al:ios:url" content="emag://webview?url=/user/login">
+                    <meta property="al:ios:app_store_id" content="935571974">
+                    <meta property="al:ios:app_name" content="eMAG">
+                    <meta property="al:android:url" content="emag://webview?url=/user/login">
+                    <meta property="al:android:app_name" content="eMAG">
+                    <meta property="al:android:package" content="ro.emag.android">
+            
+                        <link rel="alternate" href="android-app://ro.emag.android/emag/webview?url=/user/login">
+                    <link rel="alternate" href="ios-app://935571974/emag/webview?url=/user/login">
+            
+<script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver%2CArray.prototype.findIndex%2CArray.prototype.find%2CPromise%2CElement.prototype.replaceWith"></script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<title>eMAG.ro - Libertate în fiecare zi</title>
+
+<!--[if lt IE 9]>
+<script  type="text/javascript" src="https://s12emagst.akamaized.net/layout/ro/www/js/assetic/ie9-25767c8.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+    var EM = EM || {};
+    EM.dispatcher = document.createElement('div');
+    EM.sapi_endpoint = '//sapi.emag.ro';
+    EM.old_site_endpoint = '';
+    EM.source_id = '7';
+    EM.locale = 'ro';
+    EM.current_url = '';
+    EM.site_url = '';
+    EM.static_url = 'https://s12emagst.akamaized.net/';
+    EM.images_path = '';
+    EM.assets_url = '/ro/images';
+    EM.is_tracking_enabled = null;
+    EM.google_maps_key = "AIzaSyDCmFKoSk0wj9-fN_wOHdSz5OquDfFsRMI";
+    EM.mapbox_key = "pk.eyJ1IjoibmV1LXRlc3QiLCJhIjoiY2pvaGZlcmNyMG40dTNycnd3MzZnYmhhciJ9.TYHEf_2mLmkdSVJ_hCur1Q";
+    EM.switchMappingProvider = 1;
+    EM.pageType = EM.page_type = "login";
+    EM.cookie_domain = 'emag.ro';
+    EM.cookie_domain_extended = ".emag.ro";
+    EM.CDN = EM.static_url.replace("https://", "");
+
+    EM.siteModules = EM.siteModules || {};EM.siteModules["card_token_on_site_enabled"] = "1";EM.siteModules["Cookie_consent_banner"] = true;EM.siteModules["gdpr_log_in_after_accept_dialogue"] = "1";EM.siteModules["user_history"] = true;EM.siteModules["product_assoc_enabled"] = true;EM.siteModules["abtool_enabled"] = true;EM.siteModules["feedback_notification"] = 1;EM.siteModules["products_bought_without_review_module"] = "1";EM.siteModules["GDPR_activate_groups_opt_in"] = 0;EM.siteModules["Save_as_Favorite_pickup_point"] = true;EM.siteModules["Discover_pickup_points_on_map"] = true;EM.siteModules["switch_mapping_service_provider_in_checkout"] = true;EM.siteModules["personal_pickup_ip_location"] = true;EM.siteModules["push_pickup_for_localities"] = true;EM.siteModules["showDeliveryEstimate"] = true;EM.siteModules["GDPR_Cookie_consent_banner_ajax_fallback"] = 1;EM.siteModules["Switch_Checkout_Map"] = true;EM.siteModules["Checkout_Payment_Cash_Alert"] = true;var strCancel = 'Anuleaza';    var changeStr = 'modifica';    var compareMsg = new Array('Poti compara maximum 4 produse!', 'Va rugam sa selectati cel putin 2 produse');
+    var closeStr = 'Inchide';    var static_url = 'https://s12emagst.akamaized.net/layout/ro/';
+    var supermarketMessages =
+    {
+        'qty_chars':'Cantitatea introdusă trebuie<br />să conțină caractere de la 0 la 9',
+        'qty_max':'Cantitatea maximă este',
+        'qty_min':'Cantitatea minimă este',
+        'qty_between':'Cantitatea introdusă trebuie<br />să fie între',
+        'qty_incorrect':'Cantitatea aleasă de tine nu poate fi comandată.<br />Pentru o alegere corectă a cantității<br />te rugăm să folosești butoanele "-" sau "+"',
+        'qty_predefined':'Cantitatea introdusă trebuie să fie una din valorile:<br />',
+        'qty_and':'și',
+        'added_success':'Produsele au fost<br />adăugate în coș',
+        'transport_active':'Livrare prin curier',
+        'transport_inactive':'In curând in zona ta',
+        'pickup_active':'Ridicare din magazin',
+        'pickup_inactive':'Indisponibil'
+    };
+    var EmgAddressUrl = "/user/ajax/editAddressForm";
+</script>
+
+<script type="text/javascript">
+EM = EM || {};
+EM.translations = EM.translations || {};
+EM.translations["Te-ai abonat cu succes la newsletter-ul eMAG. \u00ce\u021bi mul\u021bumim!"] = "Te-ai abonat cu succes la newsletter-ul eMAG. \u00ce\u021bi mul\u021bumim!";
+EM.translations["You have subscribed to our newsletter. Thank you!"] = "Te-ai abonat cu succes la newsletter-ul eMAG. \u00ce\u021bi mul\u021bumim!";
+EM.translations["To sign up, an email address is required"] = "Pentru abonare, adresa de email este necesar\u0103";
+EM.translations["Something went wrong. Please try again later."] = "Ceva nu a functionat. Te rugam sa incerci din nou.";
+EM.translations["This field is required"] = "Acest c\u00e2mp este necesar";
+EM.translations["Invalid email"] = "Email invalid";
+EM.translations["Locality"] = "Localitate";
+EM.translations["Take a moment to update your account"] = "Acord\u0103-i un moment contului t\u0103u";
+EM.translations["Yes, I am over 16"] = "Da, am peste 16 ani";
+EM.translations["I am not 16 yet"] = "Nu am \u00eemplinit 16 ani";
+EM.translations["Confirm your date of birth"] = "Completeaz\u0103 data na\u0219terii";
+EM.translations["In accordance with the new European privacy regulations (GDPR), this information is required in order to keep receiving eMAG offer updates."] = "In accordance with the new European privacy regulations (GDPR), this information is required in order to keep receiving eMAG offer updates.";
+EM.translations["Update your personal information by confirming your age with 1 click. This helps us comply with the new European privacy regulations (GDPR), regulations that eMAG conforms to and duly applies. More details %link%."] = "Update your personal information by confirming your age with 1 click. This helps us comply with the new European privacy regulations (GDPR), regulations that eMAG conforms to and duly applies. More details %link%.";
+EM.translations["Confirm date of birth"] = " \tConfirm\u0103 data na\u0219terii";
+EM.translations["maybe later"] = "confirm\u0103 mai t\u00e2rziu";
+EM.translations["Please help us know you better. Confirm your age with just 1 click so that we may keep you up to date with what's new at eMAG."] = "Te rug\u0103m s\u0103 confirmi v\u00e2rsta ta. E suficient 1 click s\u0103 ne asigur\u0103m c\u0103 ai informa\u021biile actualizate. Doar a\u0219a te putem \u021bine la curent cu ce mai e nou la eMAG.";
+EM.translations["It helps us share our nicest offers and discounts with you."] = "Ne va ajuta s\u0103 \u00ee\u021bi trimitem cele mai potrivite oferte \u0219i reduceri pentru tine.";
+EM.translations["Your date of birth:"] = "Completeaz\u0103 data na\u0219terii:";
+EM.translations["Day"] = "Ziua";
+EM.translations["Month"] = "Luna";
+EM.translations["Year"] = "Anul";
+EM.translations["Select..."] = "Selecteaza...";
+EM.translations["I am over 16"] = "Am peste 16 ani";
+EM.translations["I am under 16"] = "Am sub 16 ani";
+EM.translations["Hello, %username%"] = "Salut, %username%";
+EM.translations["Confirm your age with 1 click"] = "Confirm\u0103 v\u00e2rsta cu 1 click";
+EM.translations["Please help us know you better. We'd like to keep you up to date with what's new at eMAG."] = "Te rug\u0103m s\u0103 alegi o variant\u0103. Doar a\u0219a te putem \u021bine la curent cu ce mai e nou la eMAG.";
+EM.translations["My Orders"] = "Comenzile mele";
+EM.translations["My Cards"] = "Cardurile mele";
+EM.translations["Favorites"] = "Favorite";
+EM.translations["eMAG Card"] = "Card eMAG";
+EM.translations["NEW"] = "NOU";
+EM.translations["Shopping list"] = "List\u0103 Supermarket";
+EM.translations["Vouchers & gift cards"] = "Vouchere & carduri cadou";
+EM.translations["My reviews"] = "Review-urile mele";
+EM.translations["My Warranties"] = "Garantiile mele";
+EM.translations["Return and Service"] = "Retur si service";
+EM.translations["Personal info"] = "Date personale";
+EM.translations["Security settings"] = "Setari siguranta";
+EM.translations["My subscriptions"] = "Abonarile mele";
+EM.translations["Logout"] = "Log out";
+EM.translations["Just by logging in you can find out what's the best price for your favorite products"] = "Intra in contul tau eMAG si ai control complet asupra ofertelor!";
+EM.translations["login"] = "Intra in cont";
+EM.translations["New account"] = "Cont nou";
+EM.translations["Product was added to cart."] = "Produsul a fost adaugat in cos";
+EM.translations["Recently added products:"] = "Produse adaugate recent:";
+EM.translations["Gift"] = "Cadou";
+EM.translations["+Promo Pack"] = "+Pachet";
+EM.translations["Remove item from cart"] = "Sterge produsul din cos";
+EM.translations["TOTAL"] = "TOTAL";
+EM.translations["View cart"] = "Vezi detalii cos";
+EM.translations["You have no products in cart"] = "Nu ai niciun produs \u00een co\u0219";
+EM.translations["Product was removed from cart."] = "Produsul a fost sters din cos";
+EM.translations["Product was added to list."] = "Produsul a fost adaugat in lista";
+EM.translations["Product was added to favorites."] = "Produsul a fost adaugat la Favorite";
+EM.translations["View supermaket list"] = "Vezi lista Supermarket";
+EM.translations["View all favorited items"] = "Vezi toate produsele favorite";
+EM.translations["You have no products in this supermaket list"] = "Nu ai produse in lista de cumparaturi";
+EM.translations["You have no favorite products"] = "Nu ai produse favorite.";
+EM.translations["You must be authenticated in order to add products to the supermaket list."] = "Trebuie sa te autentifici pentru a putea adauga produsul in lista de cumparaturi";
+EM.translations["You must be authenticated in order to add products to favorites."] = "Trebuie sa te autentifici pentru a adauga produsul la Favorite";
+EM.translations["Login"] = "Intra in cont";
+EM.translations["Product was removed from list."] = "Produsul a fost sters din lista";
+EM.translations["Product was removed from favorites."] = "Produsul a fost sters de la Favorite";
+EM.translations["The selected date is invalid."] = "Data selectat\u0103 nu este valid\u0103";
+EM.translations["Open in application"] = "Deschide in aplicatie";
+EM.translations["Service"] = "Service";
+EM.translations["Return"] = "Retur";
+EM.translations["Close"] = "Inchide";
+EM.translations["details"] = "vezi detalii";
+EM.translations["Delete"] = "Sterge";
+EM.translations["Continue"] = "Continua";
+EM.translations["Promotional bundle"] = "Pachet";
+EM.translations["This bundle contains"] = "Acest pachet promotional contine";
+EM.translations["See cart details"] = "Vezi detalii cos";
+EM.translations["Shop the look"] = "Completeaza-ti tinuta";
+EM.translations["Similar books"] = "Iti recomandam si:";
+EM.translations["Compatible accessories:"] = "Alte produse recomandate";
+EM.translations["See all"] = "vezi toate";
+EM.translations["Good choice! <br> Continue your search, we have hundreds of thousands of offers!"] = "Buna alegere! <br> Continua cautarea, avem sute de mii de oferte!";
+EM.translations["Continue shopping"] = "Continua cumparaturile";
+EM.translations["Promo package"] = "Pachet";
+EM.translations["View more"] = "vezi mai multe";
+EM.translations["Select the size"] = "Alege marime";
+EM.translations["Add to cart"] = "Adauga in Cos";
+EM.translations["Added to cart"] = "Adaugat in cos";
+EM.translations["Show details"] = "Vezi detalii";
+EM.translations["Add to list"] = "Lista Supermarket";
+EM.translations["Add to favorites"] = "Adauga la Favorite";
+EM.translations["Remove from list"] = "Sterge din lista";
+EM.translations["Remove from favorites"] = "Adaugat la Favorite";
+EM.translations["Product was added to cart."] = "Produsul a fost adaugat in cos";
+EM.translations["recently added"] = "Ultimele adaugate";
+EM.translations["Zip code"] = "Cod postal";
+EM.translations["Invalid Zip Code"] = "Cod Postal invalid";
+EM.translations["No pick up points available in this location"] = "Nu exista puncte de ridicare disponibile in localitatea selectata";
+EM.translations["Your browser does not support this functionality."] = "Browserul t\u0103u nu suport\u0103 aceast\u0103 func\u021bionalitate.";
+EM.translations["Welcome to Supermarket"] = "Bine ai venit in Supermarket";
+EM.translations["Choose the area in which you want us to deliver your order"] = "Spune-ne unde vrei sa-ti livram comanda";
+EM.translations["Search..."] = "Cauta...";
+EM.translations["Choose"] = "Selecteaza";
+EM.translations["Choose district first"] = "Alege intai judetul";
+EM.translations["Product Categories available in your area"] = "Categorii de produse disponibile in zona aleasa de tine";
+EM.translations["Legend:"] = "Legenda";
+EM.translations["Delivery by courier"] = "Livrare prin curier";
+EM.translations["Pick-up from store"] = "Ridicare din magazin";
+EM.translations["Coming soon"] = "In curand in zona ta";
+EM.translations["Delivery"] = "Modalitate livrare";
+EM.translations["No Delivery"] = "Fara livrare";
+EM.translations["Pickup"] = "Ridicare personala";
+EM.translations["You have already submitted a vendor rating"] = "Ai acordat deja un rating seller-ului";
+EM.translations["Your vendor rating was registred successfully"] = "Rating-ul t\u0103u a fost trimis spre moderare.";
+EM.translations["Something went wrong, try again later"] = "Something went wrong, try again later";
+EM.translations["Resealed"] = "Resigilate";
+EM.translations["non-stop"] = "non-stop";
+EM.translations["Happy with your purchase?"] = "Incantat de ce ti-ai luat?";
+EM.translations["Share your experience with the product, good and bad."] = "Spune-ti parerea, cu bune si cu rele.";
+EM.translations["Add a review"] = "Adauga un Review";
+EM.translations["We use cookies and similar technologies to display site content and improve navigation experience. In %link% section you can find details and management options."] = "Pentru scopuri precum afi\u0219area de con\u021binut personalizat, folosim module cookie sau tehnologii similare. Ap\u0103s\u00e2nd Accept sau navig\u00e2nd pe acest website, e\u0219ti de acord s\u0103 permi\u021bi colectarea de informa\u021bii prin cookie-uri sau tehnologii similare. Afl\u0103 in sectiunea %link% mai multe despre cookie-uri, inclusiv despre posibilitatea retragerii acordului.";
+EM.translations["I understand"] = "Am inteles";
+EM.translations["\/info\/politica-de-utilizare-cookie-uri"] = "\/info\/politica-de-utilizare-cookie-uri";
+EM.translations["Cookie Policy"] = "Politica de Cookies";
+EM.translations["confirm later"] = "mai tarziu";
+EM.translations["This product was added to Favorites in %list_link% list."] = "Produsul a fost adaugat la Favorite, in lista\u00a0%list_link%.";
+EM.translations["The product was added in the %list_link% shopping list."] = "Produsul a fost adaugat in Lista Supermarket %list_link%.";
+EM.translations["Saved for later"] = "Salvate din cos";
+EM.translations["Clients that visited this product also visited"] = "Alti vizitatori au fost interesati si de";
+EM.translations["Save"] = "Salveaza";
+EM.translations["Cancel"] = "Anuleaza";
+EM.translations["Position and resize the picture"] = "Pozitionati si redimensionati imaginea";
+EM.translations["All categories"] = "Recomandarile noastre";
+EM.translations["Accesories for this product"] = "Accesorii pentru";
+EM.translations["Accept cookies"] = "Accept";
+EM.translations["Delete image"] = "Sterge imagine";
+EM.translations["Upload image"] = "Incarca imagine";
+EM.translations["Monday"] = "Luni";
+EM.translations["Tuesday"] = "Marti";
+EM.translations["Wednesday"] = "Miercuri";
+EM.translations["Thursday"] = "Joi";
+EM.translations["Friday"] = "Vineri";
+EM.translations["Saturday"] = "Sambata";
+EM.translations["Sunday"] = "Duminica";
+EM.translations["January"] = "Ianuarie";
+EM.translations["February"] = "Februarie";
+EM.translations["March"] = "Martie";
+EM.translations["April"] = "Aprilie";
+EM.translations["May"] = "Mai";
+EM.translations["June"] = "Iunie";
+EM.translations["July"] = "Iulie";
+EM.translations["August"] = "August";
+EM.translations["September"] = "Septembrie";
+EM.translations["October"] = "Octombrie";
+EM.translations["November"] = "Noiembrie";
+EM.translations["December"] = "Decembrie";
+EM.translations["Uh oh! An error occurred. The request could not be completed!"] = "Uh oh! An error occurred. The request could not be completed!";
+EM.translations["Save your choice"] = "Salveaza-ti optiunea";
+EM.translations["With a simple authentication, you get rid of notification."] = "Cu o simpla autentificare, scapi si de notificare :)";
+EM.translations["This message won\u2019t be displayed anymore, it\u2019s a promise. It only takes a few moments to sign up and after that you will be redirected to this page."] = "Promitem sa nu-ti mai afisam acest mesaj. Dureaza doar cateva secunde sa intri in cont. La final te vom redirectiona in aceasta pagina.";
+EM.translations["Sign in"] = "Intra in cont";
+EM.translations["Get free standard delivery with products sold by %vendor_name%"] = "Beneficiaza de livrare gratuita cu produsele vandute de %vendor_name%";
+EM.translations["gdpr_modal_advertising_tab_text"] = "    <p>Aceste cookie-uri sunt utile in scopul afisarii bannerelor cu cele mai bune promotii, dar mai ales in adaptarea si personalizarea continutului.<\/p>\n    <p>Prin intermediul lor, putem masura eficienta campaniilor publicitare si analiza daca mesajele au ajuns la publicul tinta pentru a reveni cu recomandari si sugestii de cumparare. Cu ajutorul acestor cookie-uri:<\/p>\n    <ul>\n        <li>afli rapid despre promotiile si produsele relevante pentru tine<\/li>\n        <li>beneficiezi de recomandari personalizate pe site, email sau retele de socializare<\/li>\n        <li>conturam un profil al preferintelor tale pentru a-ti oferi continut de calitate.<\/li>\n    <\/ul>\n    <p>%view_more_btn%<\/p>";
+EM.translations["gdpr_modal_functional_tab_text"] = "    <p>Sunt toate esentiale pentru functionarea site-ului si trebuie sa ramana active in sistemul nostru.<\/p>\n    <p>Ele sunt create pentru a raspunde actiunilor tale. Datorita acestor cookie-uri:<\/p>\n    <ul>\n        <li>ai acces la toate sectiunile site-ului si poti intra in contul tau<\/li>\n        <li>alegi setarile de confidentialitate<\/li>\n        <li>plasezi comenzile simplu si in siguranta.<\/li>\n    <\/ul>\n    <p>%view_more_btn%<\/p>";
+EM.translations["gdpr_modal_analysis_tab_text"] = "    <p>Sunt cookie-uri anonime prin care analizam date despre pagini vizualizate, traseul si actiunile utilizatorilor in site.<\/p>\n    <p>Datorita acestor cookie-uri putem evalua rezultatele de trafic online si oferi o experienta mai buna celor care acceseaza eMAG.ro. De asemenea, putem afla ce rata de deschidere au emailurile trimise catre abonati si ce recomandari de produse i-ar ajuta. Cu ajutorul acestor tehnologii:<\/p>\n    <ul>\n        <li>colectam informatii anonime despre cele mai vizitate zone<\/li>\n        <li>analizam interactiunea utilizatorilor cu site-ul si incercam s-o imbunatatim<\/li>\n        <li>urmarim succesul emailurilor trimise abonatilor.<\/li>\n    <\/ul>\n    <p>%view_more_btn%<\/p>";
+EM.translations["gdpr_modal_your_preferences_tab_text"] = "<p>Cookie-uri? Probabil ai mai auzit de ele. Sunt mici fisiere text care permit salvarea setarilor si preferintelor tale atunci cand intri pe un site.<\/p>\n    <p>Le folosim pentru imbuntatirea experientei online si personalizarea continutului pe care ti-l oferim zi de zi. O parte dintre ele sunt obligatorii, cum sunt cele necesare, care ajuta la buna functionare a site-ului. In sectiunea dedicata din acest mesaj, poti selecta cookie-urile pe care le accepti.<\/p>\n    <p>Nu uita ca pe eMAG un cookie te ajuta:<\/p>\n    <ul>\n        <li>sa primesti recomandarile si ofertele potrivite<\/li>\n        <li>sa afli cand scade pretul la produsele tale Favorite<\/li>\n        <li>sa ai o buna experienta de navigare si cumparare online.<\/li>\n    <\/ul>\n    <p>Dezactivarea anumitor cookie-uri poate afecta utilizarea site-ului si a serviciilor noastre.<\/p>";
+EM.translations["Your preferences"] = "Preferintele tale";
+EM.translations["mandatory"] = "necesare";
+EM.translations["partial"] = "partial";
+EM.translations["change settings"] = "administreaza preferintele";
+EM.translations["Accept all"] = "Accept";
+EM.translations["Save preferences"] = "Salveaza preferintele";
+EM.translations["Preference settings"] = "Administreaza preferintele";
+EM.translations["choose option"] = "alege optiune";
+EM.translations["Functional Cookies"] = "Cookie-uri functionale";
+EM.translations["Analytics Cookies"] = "Cookie-uri de analiza";
+EM.translations["Advertising Cookies"] = "Cookie-uri pentru publicitate";
+EM.translations["Yes"] = "Da";
+EM.translations["No"] = "Nu";
+EM.translations["active"] = "active";
+EM.translations["inactive"] = "inactive";
+EM.translations["partially active"] = "partial active";
+EM.translations["Preferences saved"] = "Preferintele au fost salvate.";
+EM.translations["Choose favorite pickup point"] = "Alege punct de ridicare favorit";
+EM.translations["You have chosen %point% as your favorite pickup point"] = "Ai ales ca punct favorit %point%";
+EM.translations["Hey, %point% is right next to you"] = "Hei, %point% este chiar langa tine!";
+EM.translations["Save it as Favorite pickup point and you can use it easily at the next order"] = "Salveaza-l ca punct de ridicare favorit si il vei putea folosi usor la urmatoarea comanda";
+EM.translations["Save %point% as Favorite pickup point"] = "Salveaza %point% ca punct favorit";
+EM.translations["Your favorite point can be used easily at the next order"] = "Il vei putea folosi usor la urmatoarea comanda";
+EM.translations["Save point as favorite pickup point"] = "Salveaza punctul de ridicare ca favorit";
+EM.translations["Do you wish to replace your favorite pickup point %old_point% with %point%?"] = "Vrei sa inlocuiesti punctul de ridicare favorit %old_point% cu %point%?";
+EM.translations["Replace as favorite pickup point"] = "Inlocuieste ca favorit";
+EM.translations["Choose other pickup point"] = "Alege alt punct favorit";
+EM.translations["Minimum donation %amount%"] = "Valoarea minima pentru donatie este %amount% Lei";
+EM.translations["Donation must be between %min_amount% and %max_amount%"] = "Valoarea donatiei trebuie sa fie intre  %min_amount% si %max_amount%";
+EM.translations["Maximum donation %amount%"] = "Maximum donation %amount%";
+EM.translations["The delivery estimate will be available after sending the order."] = "Estimatul de livrare va fi comunicat dupa plasarea comenzii.";
+EM.translations["Choose a pickup point from the list"] = "Alege un punct de ridicare din lista";
+EM.translations["Delivery estimate currently unavailable"] = "Estimat de livrare momentan indisponibil";
+EM.translations["today"] = "Astazi";
+EM.translations["tomorrow"] = "Maine";
+EM.translations["You can pick it up today, after %hour%"] = "incepand de astazi, dupa %hour%";
+EM.translations["You can pick up the product right now"] = "Poti ridica produsul chiar acum";
+EM.translations["You can pick it up tomorrow, after %hour%"] = "Incepand de maine, dupa %hour%";
+EM.translations["You can pick it up starting from %estimate%, after %hour%"] = "incepand de %estimate%, dupa %hour%";
+EM.translations["The map component is optimised for portrait screen orientation, please turn your device vertically."] = "Harta punctelor de livrare este optimizat\u0103 pentru afi\u0219area pe vertical\u0103, rote\u0219te dispozitivul \u00een mod portret.";
+EM.translations["Choose county"] = "Alege judet";
+EM.translations["Searching"] = "Cauta";
+EM.translations["Choose city"] = "Alege localitatea";
+EM.translations["Courier delivery estimate"] = "Estimare de livrare prin curier";
+EM.translations["Choose the region and locality"] = "Alege judetul si localitatea";
+EM.translations["Personal pickup"] = "Ridicare personala";
+EM.translations["Open in Google Maps"] = "Deschide in Google Maps";
+EM.translations["FAVORITE"] = "FAVORIT";
+EM.translations["recommended"] = "recomandat";
+EM.translations["Use this pick-up point"] = "Foloseste acest punct de ridicare";
+EM.translations["Back to the list"] = "Inapoi la lista";
+EM.translations["Save as favorite pickup point"] = "Selecteaza ca favorit";
+EM.translations["Address"] = "Adresa";
+EM.translations["Schedule"] = "Program de lucru";
+EM.translations["Closed"] = "\u00cenchis";
+EM.translations["The product has been successfully removed!"] = "The product has been successfully removed!";
+EM.translations["choose pickup point"] = "Alege punct de ridicare";
+EM.translations["Favorite pickup point"] = "Punct de ridicare favorit";
+EM.translations["Point unavailable"] = "Punct momentan indisponibil";
+EM.translations["This pickup point is unavailable. Please choose other pickup point."] = "Acest punct de ridicare nu mai este disponibil. Te rugam sa alegi alt punct de ridicare favorit!";
+EM.translations["Change favorite pickup point"] = "Schimba punctul de ridicare favorit";
+EM.translations["Choose favorite pickup point"] = "Alege punct de ridicare favorit";
+EM.translations["choose other pickup point"] = "Alege alt punct de ridicare";
+EM.translations["Use this pick-up point once"] = "Foloseste doar acum";
+EM.translations["Order faster in your favorite pickup point"] = "Comanda usor in punctul de ridicare favorit";
+EM.translations["Choose the nearest pickup point,save it as favorite and you can use it easily for your next orders"] = "Alege cel mai apropiat punct de ridicare, salveaza-l ca favorit si il vei folosi rapid la urmatoarele comenzi!";
+EM.translations["Personal pickup from Recommended pickup point"] = "Vei ridica comanda din punctul recomandat";
+EM.translations["Personal pickup from Favorite pickup point"] = "Vei ridica comanda din punctul favorit";
+EM.translations["Last order pickup point"] = "Punct de ridicare folosit la ultima comanda";
+EM.translations["You choosed to pickup from"] = "Ai ales sa ridici comanda din";
+EM.translations["see point details"] = "vezi detalii punct";
+EM.translations["view all"] = "vezi toate";
+EM.translations["Order delivery estimation:"] = "Estimat livrare:";
+EM.translations["Estimated delivery date will be sent to you after placing the order."] = "va fi comunicat dupa plasarea comenzii.";
+EM.translations["Delivery cost:"] = "Cost livrare si procesare:";
+EM.translations["Delivery estimate"] = "Estimat de livrare";
+EM.translations["Free"] = "Gratuit";
+EM.translations["Promo"] = "Promo";
+EM.translations["Forget the courier. Pick up the order when you want."] = "Scapa de grija curierului. Ridica personal comanda in functie de timpul tau disponibil";
+EM.translations["We found %count% pickup points in the area"] = "Am gasit %count% puncte de ridicare in";
+EM.translations["You must select a delivery point"] = "Alege un punct de ridicare personala";
+EM.translations["bundle-title-prefix-with-discount"] = "Pachet promo";
+EM.translations["delete"] = "sterge";
+EM.translations["Remove navigation history"] = "sterge istoricul de navigare";
+EM.translations["currently unavailable"] = "momentan indisponibil";
+EM.translations["%count% product|%count% products"] = "%count% produs|%count% produse|%count% de produse";
+</script>
+
+<script type="text/javascript">
+    // config vars for autocomplete
+    var translation_config = {
+        "brand.headline"       : "Sugestii brand",
+        "searchTerm.headline"  : "Alţi termeni sugeraţi",
+        "productName.headline" : "Sugestii produse",
+        "category.headline"    : "Categorii sugerate",
+        "category"             : "Categorie",
+        "productName"          : "Produs",
+        "unspecified"          : "Nespecificat",
+        "brand"                : "Brand",
+        "content"              : "Conţinut",
+        "searchTerm"           : "Termen căutat",
+        "inCategory"           : "în",
+        "relevantProducts"     : "produse relevante",
+        "relevantSuggestions"  : "cuvinte/categorii relevante",
+        "numberOfProducts"     : "rezultate"
+    };    
+</script>
+<link rel="stylesheet" type="text/css" href="https://s12emagst.akamaized.net/layout/ro/www/css/assetic/font_ro-beaeaf7.css">
+    <link rel="stylesheet" type="text/css" href="https://s12emagst.akamaized.net/layout/ro/www/css/assetic/general-07fb65a.css">
+
+            <link rel="stylesheet" type="text/css" href="https://s12emagst.akamaized.net/layout/ro/www/css/assetic/login-07d5b93.css">
+    
+            <script type="text/javascript" src="https://s12emagst.akamaized.net/layout/ro/www/js/assetic/login-10ab58d.js"></script>
+    
+
+<script type="text/javascript">
+    var site_url = "https://www.emag.ro/";
+    var currency_code = "RON";
+    var cookie_domain = "emag.ro";
+    var cookie_domain_extended = ".emag.ro";
+    var _sf_perf = (new Date()).getTime();
+</script>
+
+<script type="text/javascript">
+    var CLEAR_LOCAL_STORAGE_COOKIE_NAME = 'clear_local_storage';
+
+    function clearLocalStorageExcept(exceptionsArray){
+        if (!Array.isArray(exceptionsArray)){
+            exceptionsArray = [];
+        }
+        var storageKeys = Object.keys(localStorage);
+        storageKeys.forEach(function(key) {
+            if (exceptionsArray.indexOf(key) >= 0){
+                return;
+            }
+            localStorage.removeItem(key);
+        });
+    }
+
+
+    var clearCookieExceptions = [];
+    if (window.PH && window.PH.cookie && parseInt(PH.cookie.get(CLEAR_LOCAL_STORAGE_COOKIE_NAME))) {
+        clearLocalStorageExcept(clearCookieExceptions);
+        PH.cookie.set(CLEAR_LOCAL_STORAGE_COOKIE_NAME,0,-1,'/',cookie_domain_extended);
+    } else if (window.eCookie && parseInt(eCookie.get(CLEAR_LOCAL_STORAGE_COOKIE_NAME))) {
+        clearLocalStorageExcept(clearCookieExceptions);
+        eCookie.set({ name:CLEAR_LOCAL_STORAGE_COOKIE_NAME, value:0, path: '/', domain: cookie_domain_extended || '' });
+    } else if (parseInt($.cookie(CLEAR_LOCAL_STORAGE_COOKIE_NAME))) {
+        clearLocalStorageExcept(clearCookieExceptions);
+        $.cookie(CLEAR_LOCAL_STORAGE_COOKIE_NAME, 0, { path: '/', domain: cookie_domain_extended || '' })
+    }
+
+    var rcaFormTimestamp = window.localStorage.getItem("rcaFormTimestamp");
+    var hrs72 = 72 * 3600 * 1000;
+    if (rcaFormTimestamp && +rcaFormTimestamp + hrs72 < Date.now()) {
+        // cleanup after 72 hours
+        window.localStorage.removeItem("rcaFormTimestamp");
+        window.localStorage.removeItem("rcaForm");
+        window.localStorage.removeItem("rcaToken");
+    }
+</script>
+<script type="text/javascript">
+    var emagUuidCookie;
+    if (window.PH && window.PH.cookie) {
+        emagUuidCookie = PH.cookie.get('EMAGUUID');
+        if (emagUuidCookie){
+            localStorage.setItem('EMAGUUID', emagUuidCookie);
+        }
+    }else if (window.eCookie) {
+        emagUuidCookie = eCookie.get('EMAGUUID');
+        if (emagUuidCookie){
+            localStorage.setItem('EMAGUUID', emagUuidCookie);
+        }
+    }else{
+        emagUuidCookie = $.cookie('EMAGUUID');
+        if (emagUuidCookie){
+            localStorage.setItem('EMAGUUID', emagUuidCookie);
+        }
+    }
+</script>
+<script type="text/javascript">
+    $(document).ajaxComplete(function() {
+        if (window.PH && EM.dispatcher){
+            PH.trigger(EM.dispatcher, "AjaxFinished");
+        }
+    });
+</script>
+
+
+
+<link rel="shortcut icon" href="https://s12emagst.akamaized.net/layout/ro/favicon2.ico?v=2b">
+
+
+<script type="text/javascript">
+    var siteLocale = 'ro';
+    var is_loggedin = typeof eUserInfo != 'undefined';
+    var is_supermarket = document.location.pathname.indexOf("/supermarket") >= 0;
+
+    function add_to_cart(queryString){
+        varUrl = 'https://www.emag.ro/addtocart--' + queryString;
+        $('#modify_cart').attr("action", varUrl);
+        $('#modify_cart').submit();
+
+        return true;
+    }
+
+    var search_url_prefix = '';
+</script>
+
+<script type="text/javascript" src="/js/general/emag_search_general.js?session_id=&amp;visitor_id=&amp;locale=ro&amp;page_type=login&amp;enable_search_suggestions=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://s12emagst.akamaized.net/layout/ro/www/css/assetic/export-megamenu-2010718.css">
+
+
+
+
+
+
+<script>
+    $.ajaxSetup({
+        beforeSend: function (xhr){
+            var LS_EMAGUUID = localStorage.getItem('EMAGUUID');
+            if (!$.cookie('EMAGUUID') && LS_EMAGUUID){
+                xhr.setRequestHeader("X-UUID",LS_EMAGUUID);
+            }
+        }
+    });
+</script><script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async=""></script></head>
+<body class="auth-body">
+<script id="cookie-consent-render-esi-script">
+var EM = EM || {};
+EM.cookie_group_policy = {"current_status":1,"groups":[{"group_id":1,"acceptance_status":1,"is_mandatory":true,"name":"Functional","description":""},{"group_id":2,"acceptance_status":1,"is_mandatory":false,"name":"Analytics","description":""},{"group_id":3,"acceptance_status":1,"is_mandatory":false,"name":"Advertising","description":""}]};
+EM.cookie_policy = {"cookies":[{"id":5,"is_accepted":true,"is_mandatory":true,"name":"insr","description":"Used for user travel insurance details","type":"Functional"},{"id":6,"is_accepted":true,"is_mandatory":true,"name":"travel_data","description":"Used for user travel insurance details","type":"Functional"},{"id":11,"is_accepted":true,"is_mandatory":true,"name":"emag_click_id","description":"Used for Profitshare.ro affiliation program","type":"Functional"},{"id":12,"is_accepted":true,"is_mandatory":true,"name":"emagi_click_id","description":"Used for Profitshare.ro affiliation program","type":"Functional"},{"id":13,"is_accepted":true,"is_mandatory":true,"name":"campaign_notifications","description":"Used to limit the display of a single notification","type":"Functional"},{"id":14,"is_accepted":true,"is_mandatory":true,"name":"loginTooltipShown","description":"Used to limit the display of login header notification","type":"Functional"},{"id":15,"is_accepted":true,"is_mandatory":true,"name":"EMAGROSESSID","description":"Used to keep the user logged in","type":"Functional"},{"id":16,"is_accepted":true,"is_mandatory":true,"name":"EMAG_VIEW","description":"Differentiates the display between desktop and mobile devices","type":"Functional"},{"id":17,"is_accepted":true,"is_mandatory":true,"name":"EMAGVISITOR","description":"Used to identify a visitor's actions on eMAG website","type":"Functional"},{"id":18,"is_accepted":true,"is_mandatory":true,"name":"cart_summary","description":"Used to store products added by a visitor in shopping cart","type":"Functional"},{"id":19,"is_accepted":true,"is_mandatory":true,"name":"delivery_data","description":"Used to store informations regarding last order's delivery locality","type":"Functional"},{"id":20,"is_accepted":true,"is_mandatory":true,"name":"profile_token","description":"Used to recommend products based on user profile","type":"Functional"},{"id":21,"is_accepted":true,"is_mandatory":true,"name":"sapi-token","description":"Used to authorise user actions","type":"Functional"},{"id":22,"is_accepted":true,"is_mandatory":true,"name":"supermarket_delivery_address","description":"Used to store user's chosen locality for supermarket delivery","type":"Functional"},{"id":23,"is_accepted":true,"is_mandatory":true,"name":"token1","description":"Used to authorise user actions","type":"Functional"},{"id":24,"is_accepted":true,"is_mandatory":true,"name":"user_remember","description":"Used to keep the user logged in after session expired","type":"Functional"},{"id":25,"is_accepted":true,"is_mandatory":true,"name":"user_token","description":"Used to identify user actions","type":"Functional"},{"id":26,"is_accepted":true,"is_mandatory":true,"name":"ltuid","description":"Used as a reference for reporting","type":"Functional"},{"id":27,"is_accepted":true,"is_mandatory":true,"name":"keep_after_logout","description":"Used to store encrypted email address after logout","type":"Functional"},{"id":28,"is_accepted":true,"is_mandatory":true,"name":"web_push_perm","description":"Used to keep user's agreement to browser notifications","type":"Functional"},{"id":29,"is_accepted":true,"is_mandatory":true,"name":"status_special_delivery","description":"Used to store details about the available delivery types","type":"Functional"},{"id":30,"is_accepted":true,"is_mandatory":true,"name":"sk_t_*","description":"Used to store informations regarding website's graphic theme at campaign level","type":"Functional"},{"id":31,"is_accepted":true,"is_mandatory":true,"name":"user_avatar","description":"Used to store user's avatar","type":"Functional"},{"id":32,"is_accepted":true,"is_mandatory":true,"name":"listingPerPage","description":"Used for product listing default number of products displayed","type":"Functional"},{"id":33,"is_accepted":true,"is_mandatory":true,"name":"sr","description":"Used to keep device resolution","type":"Functional"},{"id":34,"is_accepted":true,"is_mandatory":true,"name":"vp","description":"Used to keep visible screens sizes","type":"Functional"},{"id":35,"is_accepted":true,"is_mandatory":true,"name":"customer_fullname","description":"Used for display in site's header area","type":"Functional"},{"id":36,"is_accepted":true,"is_mandatory":true,"name":"customer_has_orders","description":"Used to differentiate an old customer from a new one","type":"Functional"},{"id":37,"is_accepted":true,"is_mandatory":true,"name":"Google Maps API","description":"Used for discovery mode and selection of pick-up points from a map","type":"Functional"},{"id":38,"is_accepted":true,"is_mandatory":true,"name":"Google Analytics","description":"Used to manage users data","type":"Functional"},{"id":39,"is_accepted":true,"is_mandatory":true,"name":"Google Tag Manager","description":"Used to manage user data","type":"Functional"},{"id":40,"is_accepted":true,"is_mandatory":true,"name":"Mapbox","description":"Used for discovery mode and selection of pick-up points from a map","type":"Functional"},{"id":41,"is_accepted":true,"is_mandatory":false,"name":"Hotjar","description":"Web analytics","type":"Analytics"},{"id":42,"is_accepted":true,"is_mandatory":false,"name":"Crazyegg","description":"Web analytics","type":"Analytics"},{"id":43,"is_accepted":true,"is_mandatory":false,"name":"Firebase","description":"App Analytics","type":"Analytics"},{"id":44,"is_accepted":true,"is_mandatory":false,"name":"Appsflyer","description":"Install campaign tracking","type":"Analytics"},{"id":45,"is_accepted":true,"is_mandatory":false,"name":"Facebook","description":"Remarketing","type":"Advertising"},{"id":46,"is_accepted":true,"is_mandatory":false,"name":"RTB House","description":"Remarketing","type":"Advertising"},{"id":47,"is_accepted":true,"is_mandatory":false,"name":"Google Ads","description":"Remarketing","type":"Advertising"},{"id":48,"is_accepted":true,"is_mandatory":false,"name":"Google Doubleclick","description":"Display advertising","type":"Advertising"},{"id":49,"is_accepted":true,"is_mandatory":false,"name":"Gemius","description":"Conversion tracking","type":"Advertising"},{"id":50,"is_accepted":true,"is_mandatory":false,"name":"Profitshare","description":"Remarketing","type":"Advertising"},{"id":51,"is_accepted":true,"is_mandatory":false,"name":"Criteo","description":"Remarketing","type":"Advertising"},{"id":52,"is_accepted":true,"is_mandatory":true,"name":"\ufeffsite_version_11","description":"Differentiates the display between desktop and mobile devices","type":"Functional"},{"id":53,"is_accepted":true,"is_mandatory":true,"name":"clear_local_storage","description":"Used to manage localStorage system","type":"Functional"},{"id":54,"is_accepted":true,"is_mandatory":true,"name":"_ga","description":"Used to manage user data","type":"Functional"},{"id":55,"is_accepted":true,"is_mandatory":true,"name":"Salesforce live agent","description":"Used for managing claims module","type":"Functional"},{"id":56,"is_accepted":true,"is_mandatory":false,"name":"dmo_v_prv1","description":"Used for advertising retargetting module","type":"Advertising"},{"id":57,"is_accepted":true,"is_mandatory":false,"name":"c_dmo","description":"Usd for behaviour analysis module","type":"Analytics"},{"id":58,"is_accepted":true,"is_mandatory":false,"name":"gdp_dm","description":"Used for advertising retargeting module","type":"Advertising"},{"id":59,"is_accepted":true,"is_mandatory":false,"name":"dem_ck2","description":"Usd for behaviour analysis module","type":"Analytics"},{"id":60,"is_accepted":true,"is_mandatory":false,"name":"d_cv1_prv","description":"Used for advertising retargeting module","type":"Advertising"},{"id":61,"is_accepted":true,"is_mandatory":false,"name":"dmck_prv","description":"Used for behaviour analysis module","type":"Analytics"},{"id":62,"is_accepted":true,"is_mandatory":true,"name":"ga_user_id","description":"Used to identify a logged customer","type":"Functional"},{"id":63,"is_accepted":true,"is_mandatory":true,"name":"special_delivery_name","description":"Used for special deliveries service","type":"Functional"},{"id":64,"is_accepted":true,"is_mandatory":true,"name":"ab_*","description":"Used in ab testing module","type":"Functional"},{"id":65,"is_accepted":true,"is_mandatory":true,"name":"aboption","description":"Used in ab testing module","type":"Functional"},{"id":66,"is_accepted":true,"is_mandatory":true,"name":"compara_produse","description":"Used in listing and product pages comparison module","type":"Functional"},{"id":67,"is_accepted":true,"is_mandatory":true,"name":"compara_produse_search","description":"Used in listing and product pages comparison module","type":"Functional"},{"id":68,"is_accepted":true,"is_mandatory":true,"name":"customer_id","description":"Used for customer authentification","type":"Functional"},{"id":69,"is_accepted":true,"is_mandatory":true,"name":"customers_key_new","description":"Used for login process","type":"Functional"},{"id":70,"is_accepted":true,"is_mandatory":true,"name":"EEUH","description":"Used for payments services","type":"Functional"},{"id":71,"is_accepted":true,"is_mandatory":true,"name":"is_new_client","description":"Used to identify new customers","type":"Functional"},{"id":72,"is_accepted":true,"is_mandatory":true,"name":"oh_user_email","description":"Used in order history email manager","type":"Functional"},{"id":73,"is_accepted":true,"is_mandatory":true,"name":"PARTNER","description":"Used for affiliates programs","type":"Functional"},{"id":74,"is_accepted":true,"is_mandatory":true,"name":"post_login_redirect_url","description":"Used to in login redirect process","type":"Functional"},{"id":75,"is_accepted":true,"is_mandatory":true,"name":"post_login_returned_data","description":"Used to in login redirect process","type":"Functional"},{"id":76,"is_accepted":true,"is_mandatory":true,"name":"postlogin","description":"Used to in login redirect process","type":"Functional"},{"id":77,"is_accepted":true,"is_mandatory":true,"name":"sk_c_*","description":"Used to store informations regarding website's graphic theme at campaign level","type":"Functional"},{"id":78,"is_accepted":true,"is_mandatory":true,"name":"TRADEDOUBLER","description":"Used for affiliates programs","type":"Functional"},{"id":79,"is_accepted":true,"is_mandatory":true,"name":"use_cached_avatar","description":"Used to customise customer avatar","type":"Functional"},{"id":80,"is_accepted":true,"is_mandatory":true,"name":"widgets_token","description":"Used for caching mechanism","type":"Functional"},{"id":81,"is_accepted":true,"is_mandatory":true,"name":"current_user_subscribed","description":"Used for Newsletter subscription mangement","type":"Functional"},{"id":82,"is_accepted":true,"is_mandatory":true,"name":"eab*","description":"Used in ab testing module","type":"Functional"},{"id":83,"is_accepted":true,"is_mandatory":true,"name":"eab_allocation","description":"Used in ab testing module","type":"Functional"},{"id":84,"is_accepted":true,"is_mandatory":true,"name":"ribbon_*","description":"Used to display info ribbon campaigns","type":"Functional"},{"id":85,"is_accepted":true,"is_mandatory":true,"name":"smrt42-*","description":"Used for Smart Assistant Miele integration","type":"Functional"},{"id":86,"is_accepted":true,"is_mandatory":true,"name":"list_view_type","description":"Used to display products in product listing","type":"Functional"},{"id":87,"is_accepted":true,"is_mandatory":true,"name":"product_history","description":"Used to display users product history","type":"Functional"},{"id":88,"is_accepted":true,"is_mandatory":true,"name":"product_history_cache","description":"Used to display users product history","type":"Functional"},{"id":89,"is_accepted":true,"is_mandatory":true,"name":"supermarket_delivery_zone","description":"Used in the setup of supermarket delivery area","type":"Functional"},{"id":90,"is_accepted":true,"is_mandatory":true,"name":"unprocessed_fraze","description":"Used to improve search functionality","type":"Functional"},{"id":91,"is_accepted":true,"is_mandatory":true,"name":"EMAGUUID","description":"Used to identify a visitor's actions on eMAG website","type":"Functional"},{"id":92,"is_accepted":true,"is_mandatory":false,"name":"Ceneo","description":"Remarketing","type":"Advertising"},{"id":93,"is_accepted":true,"is_mandatory":true,"name":"show_gdpr_cookie_banner","description":"Used to control visibility of cookie policy banner","type":"Functional"},{"id":94,"is_accepted":true,"is_mandatory":true,"name":"_ga_*","description":"Used to manage users data","type":"Functional"},{"id":95,"is_accepted":true,"is_mandatory":true,"name":"_pdr_internal","description":"Used to manage users data","type":"Functional"},{"id":96,"is_accepted":true,"is_mandatory":true,"name":"_ga_view_id","description":"Used to manage users data","type":"Functional"},{"id":97,"is_accepted":true,"is_mandatory":true,"name":"webview","description":"Used to display web pages in mobile applications","type":"Functional"},{"id":98,"is_accepted":true,"is_mandatory":false,"name":"Bing Ads","description":"Remarketing","type":"Advertising"},{"id":99,"is_accepted":true,"is_mandatory":false,"name":"Yahoo! Ads","description":"Remarketing","type":"Advertising"},{"id":100,"is_accepted":true,"is_mandatory":false,"name":"Pinterst Ads","description":"Remarketing","type":"Advertising"},{"id":101,"is_accepted":true,"is_mandatory":true,"name":"header_notification_closed","description":"Used for remembering that the header notification was closed","type":"Functional"},{"id":102,"is_accepted":true,"is_mandatory":false,"name":"Snapchat","description":"Remarketing","type":"Advertising"},{"id":103,"is_accepted":true,"is_mandatory":true,"name":"insurance_id","description":"Used for user's car insurance details","type":"Functional"},{"id":105,"is_accepted":true,"is_mandatory":true,"name":"MTs8C1Tc-ro-RO-session-id","description":"Used for Smart Assistant Zoovu session tracking","type":"Functional"},{"id":106,"is_accepted":true,"is_mandatory":true,"name":"smartassistant-cid","description":"Used for Smart Assistant Zoovu integration","type":"Functional"},{"id":107,"is_accepted":true,"is_mandatory":true,"name":"zoovu-co-pdp-MTs8C1Tc","description":"Used for Smart Assistant Zoovu product page","type":"Functional"}]};
+</script>
+<script>var EXPERIMENTS = {"data": [{"id":190,"dateStart":"2020-04-01 16:22:04","dateEnd":"2020-06-01 17:00:04","traffic":100,"curtain":true,"serverVariableName":null,"rules":[{"type":"matches","actual":"location.pathname","expected":"(pd|fd)\/[A-Z0-9]+\/?$"},{"type":"is","actual":"EM.vendor_id.toString()","expected":"1"},{"type":"is","actual":"EM.category_id.toString()","expected":"1578"}],"variations":[{"callback":"\/\/","targetAudience":50},{"callback":"var container = PH.createDOM(\"div\", {\n    classList: \"font-size-\" + (EM.mobile ? \"sm\" : \"xs\") + \" text-muted pad-hrz-xs pad-sep-xs mrg-btm-xs text-center\",\n    style: {\n        background: \"#f6fbff\",\n        border: \"1px solid #e5f4ff\",\n        borderRadius: \"4px\",\n    },\n    innerHTML: '\u003Ci class=\"em em-check pull-left\" style=\"color: #3985e0; font-size: ' + (EM.mobile ? \"32px;\" : \"25px; padding-right: 5px;\") + '\"\u003E\u003C\/i\u003E\u003Cdiv class=\"font-size-ms semibold\" style=\"color: #3985e0\"\u003EAi 30 de zile sa te razgandesti\u003C\/div\u003EDescopera confortul noii saltele la tine acasa'\n});\nPH.prependChild(PH.q(\".js-product-page-actions\"), container);","targetAudience":50}],"kpis":[],"exclusions":[]},{"id":206,"dateStart":"2020-04-15 13:00:38","dateEnd":"2020-05-15 13:00:38","traffic":100,"curtain":false,"serverVariableName":null,"rules":[{"type":"matches","actual":"location.pathname","expected":"(pd|fd)\/[A-Z0-9]+\/?$"},{"type":"matches","actual":"EM.locale","expected":"ro"},{"type":"matches","actual":"location.hostname.split('.')[0]","expected":"www"},{"type":"matches","actual":"navigator.userAgent","expected":".*"},{"type":"is","actual":"([23,25,33,34,36,37,38,39,44,49,50,53,54,55,56,57,58,65,70,71,73,74,75,87,88,89,90,91,93,94,95,97,103,107,109,110,111,113,117,118,124,126,127,139,140,141,142,143,151,159,176,177,181,183,185,186,188,190,195,198,199,201,205,245,246,250,251,252,253,254,255,256,257,260,263,268,277,291,292,295,297,301,303,304,305,306,312,313,314,315,318,339,349,350,352,356,368,374,375,378,379,381,382,383,384,385,386,387,390,391,397,399,400,401,402,403,406,409,410,411,413,414,415,416,421,423,424,427,428,429,430,431,432,433,434,437,438,439,440,442,444,447,448,450,451,454,456,457,458,466,467,469,471,472,473,480,482,484,489,492,495,505,507,521,522,523,524,530,532,533,534,535,538,541,548,549,554,565,570,572,579,581,583,584,585,586,588,590,591,597,603,606,607,611,612,618,620,622,626,854,862,865,868,1091,1092,1117,1123,1131,1134,1138,1146,1147,1149,1151,1337,1338,1339,1340,1342,1343,1345,1348,1768,2147,2273,2276,2333,2336,2408,2411,2412,2413,2414,2415,2416,2417,2418,2419,2432,2433,2434,2438,2439,2518,2522,2543,2587,2592,2655,2847,2977,2978,2979,2980,2985,2986,2987,2988,2989,2990,2991,2993,3199,3273,3274,3357,3358,3359,3360,3372,3406,3458,3481,3482,3483,3484,3485,3486,3487,3519].indexOf(EM.category_id) !== -1).toString()","expected":"true"}],"variations":[{"callback":"\/\/","targetAudience":25},{"callback":"EM.loadScript(\"https:\/\/c.la1-c2-frf.salesforceliveagent.com\/content\/g\/js\/48.0\/deployment.js\").then(() =\u003E {\n    EM.loadComponent(\"LiveAgentAnimatedChatButton\").then(() =\u003E {\n        PH.pageLoad(() =\u003E {\n            var btn = PH.createDOM(\"div\");\n            btn.innerHTML = EM.TMPL.exec(\"@Components\/LiveAgentAnimatedChatButton\/button.html.twig\");\n            PH.q(\".main-container\").appendChild(btn);\n            \n            new EM.LiveAgentAnimatedChatButton('#liveagent_animated_chat_button_online',{\n                agentId: '5730Y000000PRjZ',\n                deploymentId: '00D0Y000002IYwU',\n                salesForceUrl: 'https:\/\/d.la1-c2-frf.salesforceliveagent.com\/chat',\n                onShowChatButton: function(){\n                    dataLayer.push({event:'gaEvent',ec:'SF_Chat_tracking', ea:'Impression', el:undefined});\n                },\n                onStartChat: function(){\n                    dataLayer.push({event:'gaEvent',ec:'SF_Chat_tracking', ea:'Click', el:'Accept'});\n                },\n                onCloseChatButton: function(){\n                    dataLayer.push({event:'gaEvent', ec:'SF_Chat_tracking', ea:'Close', el:'Accept'});\n                },\n                showChatButtonDelay: 5000,\n                closeExistingNotifications: true,\n                chatButtonCollapseDelay: 0,\n                expandOnHover: false\n            });\n        });\n    });\n});","targetAudience":25},{"callback":"PH.onceInViewport(PH.q(\"#description-section\"), () =\u003E {\n    EM.loadScript(\"https:\/\/c.la1-c2-frf.salesforceliveagent.com\/content\/g\/js\/48.0\/deployment.js\").then(() =\u003E {\n        EM.loadComponent(\"LiveAgentAnimatedChatButton\").then(() =\u003E {\n            PH.pageLoad(() =\u003E {\n                var btn = PH.createDOM(\"div\");\n                btn.innerHTML = EM.TMPL.exec(\"@Components\/LiveAgentAnimatedChatButton\/button.html.twig\");\n                PH.q(\".main-container\").appendChild(btn);\n                \n                new EM.LiveAgentAnimatedChatButton('#liveagent_animated_chat_button_online',{\n                    agentId: '5730Y000000PRjZ',\n                    deploymentId: '00D0Y000002IYwU',\n                    salesForceUrl: 'https:\/\/d.la1-c2-frf.salesforceliveagent.com\/chat',\n                    onShowChatButton: function(){\n                        dataLayer.push({event:'gaEvent',ec:'SF_Chat_tracking', ea:'Impression', el:undefined});\n                    },\n                    onStartChat: function(){\n                        dataLayer.push({event:'gaEvent',ec:'SF_Chat_tracking', ea:'Click', el:'Accept'});\n                    },\n                    onCloseChatButton: function(){\n                        dataLayer.push({event:'gaEvent', ec:'SF_Chat_tracking', ea:'Close', el:'Accept'});\n                    },\n                    showChatButtonDelay: 0,\n                    closeExistingNotifications: true,\n                    chatButtonCollapseDelay: 0,\n                    expandOnHover: false\n                });\n            });\n        });\n    });\n});","targetAudience":25},{"callback":"EM.loadScript(\"https:\/\/c.la1-c2-frf.salesforceliveagent.com\/content\/g\/js\/48.0\/deployment.js\").then(() =\u003E {\n    EM.loadComponent(\"LiveAgentAnimatedChatButton\").then(() =\u003E {\n        PH.pageLoad(() =\u003E {\n            var btn = PH.createDOM(\"li\", {\n            \tid: \"liveagent_chat_button_online\",\n            \tclassName: \"hidden-sm hidden-xs\",\n            \tinnerHTML: '\u003Ca href=\"#\" style=\"background: #22a7f0; color: #fff;\" class=\"js-start-chat-btn\"\u003E\u003Ci class=\"em em-live-chat mrg-rgt-xs\"\u003E\u003C\/i\u003EHei, te putem ajuta? Suntem LIVE\u003C\/a\u003E',\n            \tstyle: {\"display\": \"none\"}\n            });\n            PH.q(\"#product_navbar_sticky\").appendChild(btn);\n            \n            new EM.LiveAgentAnimatedChatButton('#liveagent_chat_button_online',{\n                agentId: '5730Y000000PRjZ',\n                deploymentId: '00D0Y000002IYwU',\n                salesForceUrl: 'https:\/\/d.la1-c2-frf.salesforceliveagent.com\/chat',\n                onShowChatButton: function(){\n                    dataLayer.push({event:'gaEvent',ec:'SF_Chat_tracking', ea:'Impression', el:undefined});\n                },\n                onStartChat: function(){\n                    dataLayer.push({event:'gaEvent',ec:'SF_Chat_tracking', ea:'Click', el:'Accept'});\n                },\n                onCloseChatButton: function(){\n                    dataLayer.push({event:'gaEvent', ec:'SF_Chat_tracking', ea:'Close', el:'Accept'});\n                },\n                showChatButtonDelay: 0,\n                closeExistingNotifications: false,\n                chatButtonCollapseDelay: 0,\n                expandOnHover: false\n            });\n        });\n    });\n});","targetAudience":25}],"kpis":[],"exclusions":[]},{"id":214,"dateStart":"2020-04-27 00:00:00","dateEnd":"2020-06-01 00:00:00","traffic":100,"curtain":false,"serverVariableName":null,"rules":[{"type":"is","actual":"location.pathname","expected":"\/detergenti-rufe\/c"},{"type":"matches","actual":"navigator.userAgent","expected":".*"},{"type":"matches","actual":"location.hostname.split('.')[0]","expected":".*"},{"type":"matches","actual":"EM.locale","expected":"ro"}],"variations":[{"callback":"\/\/","targetAudience":33},{"callback":"\/\/","targetAudience":33},{"callback":"document.body.className += \" EOSMKP-63587-active\";","targetAudience":33}],"kpis":[],"exclusions":[]},{"id":215,"dateStart":"2020-04-28 12:25:20","dateEnd":"2020-07-28 12:25:20","traffic":100,"curtain":false,"serverVariableName":null,"rules":[{"type":"matches","actual":"location.pathname","expected":"(\\\/search-by-filters-with-redirect(\\?.*)(page_type(\\]|%5D)=search))|(\\\/search-by-url(\\?.*))url=(((\\\/|%2F)search(\\\/|%2F)))|((^\\\/search\\\/).*)"}],"variations":[{"callback":"\/\/","targetAudience":50},{"callback":"\/\/ desktop show similar searches on header\nif(PH.q('.listing-similar-searches-top')){\n    PH.q('.listing-similar-searches-top').classList.remove('hidden');\n}\n\n\/\/ dekstop show similar searches on bottom pagination\nif(PH.q('.listing-similar-searches-bottom')) {\n    PH.q('.listing-similar-searches-bottom').classList.remove('hidden');\n}\n\n\/\/ mobile show similar searches\nif(PH.q('.listing-similar-searches.is-mobile')) {\n    PH.q('.listing-similar-searches.is-mobile').classList.remove('hidden');\n}","targetAudience":50}],"kpis":[],"exclusions":[]},{"id":219,"dateStart":"2020-04-29 17:55:50","dateEnd":"2020-05-29 17:55:50","traffic":100,"curtain":false,"serverVariableName":null,"rules":[{"type":"matches","actual":"location.pathname","expected":"(pd|fd)\/[A-Z0-9]+\/?$"}],"variations":[{"callback":"\/\/","targetAudience":33},{"callback":"\/\/","targetAudience":33},{"callback":"EM.show_voucher_notification_in_page = 1;\nPH.prependChild(PH.q(\"body\"), PH.createDOM(\"style\", {innerHTML: \".product-page-actions .voucher-campaign-container {margin-top: 0} \"}));","targetAudience":33}],"kpis":[],"exclusions":[]},{"id":222,"dateStart":"2020-05-06 11:33:28","dateEnd":"2020-05-21 11:33:28","traffic":100,"curtain":true,"serverVariableName":null,"rules":[{"type":"matches","actual":"EM.locale","expected":"ro"},{"type":"matches","actual":"navigator.userAgent","expected":".*"},{"type":"matches","actual":"location.hostname.split('.')[0]","expected":"m"},{"type":"is","actual":"EM.isListingFashion.toString()","expected":"false"},{"type":"matches","actual":"location.pathname","expected":"(\\\/search-by-filters-with-redirect(\\?.*)((.*)(filters(\\[|%5B)page_type(\\]|%5D)=category))|^\\\/(?!search|brands|resigilate|lichidari|promotii|noutati|label|vendors).*\\\/c($|\\?)|\\\/search-by-url(\\?.*)url=(%2F|\\\/)(?!search|brands|resigilate|lichidari|promotii|noutati|label|vendors).*(%2F|\\\/)c($|%3|&amp;))"}],"variations":[{"callback":"\/\/","targetAudience":33},{"callback":"\/\/","targetAudience":33},{"callback":"PH.prependChild(PH.q(\"body\"), PH.createDOM(\"style\", {innerHTML: \".show-me-a-grid .card-footer.hidden-xs {display: block!important;}\"}));","targetAudience":33}],"kpis":[],"exclusions":[]},{"id":223,"dateStart":"2020-05-07 18:00:17","dateEnd":"2020-06-07 18:00:17","traffic":50,"curtain":false,"serverVariableName":null,"rules":[{"type":"matches","actual":"location.pathname","expected":"(pd|fd)\/[A-Z0-9]+\/?$"},{"type":"matches","actual":"location.hostname.split('.')[0]","expected":"m"},{"type":"matches","actual":"navigator.userAgent","expected":".*"},{"type":"matches","actual":"EM.locale","expected":"ro"}],"variations":[{"callback":"\/\/","targetAudience":33},{"callback":"\/\/","targetAudience":33},{"callback":"var container = PH.q('.compared-similar-products');\nPH.onceInViewport(PH.q('i', container), function() {\nvar p1 = ajax({\nurl: EM.sapi_endpoint + '\/recommendations\/compared-similar-products',\nmethod: 'get',\ntype: 'json',\ndata: {\nsource_id: 7,\nidentifier: EM.product_id,\npage_type: EM.is_fashion ? 'fashion' : (EM.is_supermarket ? 'supermarket' : 'product')\n}\n});\nvar p2 = EM.loadComponent('ComparedSimilarProducts');\nPromise.all([p1, p2]).then(function(responses) {\nif (!responses[0].data || !responses[0].data.product_collection) return;\nvar node = PH.node(EM.TMPL.exec('@PhotonBundle\/product\/sections\/compared-similar-products.html.twig', {\napp: EM.APP,\ncompared_similar_products: responses[0].data,\nIS_MOBILE: EM.mobile,\nvertical_display: true\n}));\ncontainer.replaceWith(node);\nnew EM.CompareTable(node);\nPH.Widget.autoInit(node);\nEM.initFavorites(node);\n});\n});","targetAudience":33}],"kpis":[],"exclusions":[]},{"id":225,"dateStart":"2020-05-11 14:58:28","dateEnd":"2020-06-11 14:58:28","traffic":100,"curtain":false,"serverVariableName":null,"rules":[{"type":"matches","actual":"location.pathname","expected":"(pd|fd)\/[A-Z0-9]+\/?$"},{"type":"matches","actual":"location.hostname.split('.')[0]","expected":"m"},{"type":"matches","actual":"navigator.userAgent","expected":".*"},{"type":"matches","actual":"EM.locale","expected":"ro"}],"variations":[{"callback":"\/\/","targetAudience":33},{"callback":"\/\/","targetAudience":33},{"callback":"if (PH.q(\".js-product-characteristics\")) {\n    PH.removeClass(PH.q(\".js-product-characteristics\"), \"hidden\"); \n    PH.prependChild(PH.q(\"body\"), PH.createDOM(\"style\", {innerHTML: \".product-highlight.product-characteristics {border: 0;} \"}));\n    PH.on(PH.q(\".js-product-characteristics a\"), \"click\", function() {\n        var btn = PH.q(\"[data-ph-target='#specifications-body']\");\n        if (btn) PH.trigger(btn, \"click\");\n    });\n}","targetAudience":33}],"kpis":[],"exclusions":[{"id":223,"variations":["a","b","c","d"]}]}]};!function(t){var e={};function i(n){if(e[n])return e[n].exports;var r=e[n]={i:n,l:!1,exports:{}};return t[n].call(r.exports,r,r.exports,i),r.l=!0,r.exports}i.m=t,i.c=e,i.d=function(t,e,n){i.o(t,e)||Object.defineProperty(t,e,{enumerable:!0,get:n})},i.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},i.t=function(t,e){if(1&e&&(t=i(t)),8&e)return t;if(4&e&&"object"==typeof t&&t&&t.__esModule)return t;var n=Object.create(null);if(i.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:t}),2&e&&"string"!=typeof t)for(var r in t)i.d(n,r,function(e){return t[e]}.bind(null,r));return n},i.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return i.d(e,"a",e),e},i.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},i.p="",i(i.s=5)}([function(module,__webpack_exports__,__webpack_require__){"use strict";__webpack_require__.d(__webpack_exports__,"a",(function(){return Variant}));var _cookie__WEBPACK_IMPORTED_MODULE_0__=__webpack_require__(2);class Variant{constructor(options){this.name=options.name,this.version=options.version,this.cookieName=options.cookieName||"variant",this.cookie=options.cookie||Variant.DEFAULT_COOKIE,this.callback=()=>{try{return eval(options.callback)}catch(t){throw new Error("Invalid callback for variation")}}}getCallback(){return this.cookie.set(this.cookieName,this.version),this.callback}static isValid(t){return void 0!==t&&t.hasOwnProperty("name")&&t.hasOwnProperty("callback")&&void 0!==t.name&&void 0!==t.callback}}Variant.cookieA="a".charCodeAt(0),Variant.DEFAULT_COOKIE=new _cookie__WEBPACK_IMPORTED_MODULE_0__.a},function(t,e,i){"use strict";i.d(e,"a",(function(){return n}));class n{constructor(t=[]){const e=[];for(let i=0;i<t.length;++i)e.push(t[i].run());document.addEventListener("DOMContentLoaded",()=>{for(let t=0;t<e.length;++t)try{e[t].call(this)}catch(t){console.log(t.message)}n.removeCurtain()})}static addCurtain(){if(!n.hasCurtain&&document.body){const t=document.createElement("div");t.id="curtain",t.style.position="absolute",t.style.top=0,t.style.right=0,t.style.bottom=0,t.style.left=0,t.style.background="#FFF",t.style.zIndex=999999,document.body.appendChild(t),n.hasCurtain=!0}}static removeCurtain(){const t=document.querySelector("#curtain");t&&t.parentNode&&(t.parentNode.removeChild(t),n.hasCurtain=!1)}}n.hasCurtain=!1},function(t,e,i){"use strict";i.d(e,"a",(function(){return n}));class n{constructor(t){this.prefix=t}getName(t){return this.prefix?this.prefix+t:t}set(t,e,i,r,a,s){if(!i){let t=new Date;t.setDate(t.getDate()+n.DEFAULT_TTL),i=t.toUTCString()}r=r||"/",document.cookie=this.getName(t)+"="+encodeURI(e)+(i?"; expires="+i:"")+(r?"; path="+r:"")+(a?"; domain="+a:"")+(s?"; secure":"")}get(t){let e=document.cookie.split(";");if(!e.length)return null;for(let i=0;i<e.length;++i){let n=e[i].split("=");if(n[0].trim()===this.getName(t).trim())return n.splice(0,1),n.length>=1?decodeURI(n.join("=").trim()):""}return null}has(t){return null!==this.get(t)}delete(t){document.cookie=this.getName(t)+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"}}n.DEFAULT_TTL=180},function(t,e,i){"use strict";i.d(e,"a",(function(){return _}));var n=i(2);class r{constructor(t={type:r.IS,expected:!0,actual:!0}){this.type=t.type,this.expected=t.expected,this.actual=t.actual}evaluate(){switch(this.type){case r.IS:return this.expected===this.actual;case r.IS_NOT:return this.expected!==this.actual;case r.MATCHES:return new RegExp(this.expected).test(this.actual);case r.STARTS_WITH:return 0===this.actual.indexOf(this.expected);case r.ENDS_WITH:return this.actual.indexOf(this.expected)===this.actual.length-this.expected.length;case r.CONTAINS:return this.actual.indexOf(this.expected)>=0;case r.DOESNT_CONTAIN:return-1===this.actual.indexOf(this.expected);default:return!1}}static isValid(t){return void 0!==t&&t.hasOwnProperty("type")&&t.hasOwnProperty("expected")&&t.hasOwnProperty("actual")&&void 0!==t.type&&void 0!==t.expected&&[r.IS,r.MATCHES,r.STARTS_WITH,r.ENDS_WITH,r.CONTAINS,r.DOESNT_CONTAIN].indexOf(t.type)>=0}static evaluateExpression(t=[],e){return t.reduce((t,i)=>Array.isArray(i)?(void 0===t||t)&&r.evaluateExpression(i,"or"):void 0===t?i.evaluate():"and"===e?t&&i.evaluate():t||i.evaluate(),void 0)}}r.IS="is",r.IS_NOT="isNot",r.MATCHES="matches",r.STARTS_WITH="startsWith",r.ENDS_WITH="endsWith",r.CONTAINS="contains",r.DOESNT_CONTAIN="doesntContain";var a=i(0),s=i(4),o=i.n(s);var c=i(1);class l{constructor(t,e){this.id=t,this.variations=e}allowsAllocation(){return this.variations.indexOf(_.DEFAULT_COOKIE.get(_.PREFIX+this.id))<0}static isValid(t){return void 0!==t&&t.hasOwnProperty("id")&&t.hasOwnProperty("variations")&&void 0!==t.id&&void 0!==t.variations&&Array.isArray(t.variations)&&t.variations.length>0}}class u{constructor(){this.canSendBeacon=!!navigator.sendBeacon}log(t){this._send(t)}_send(t){let e=`${u.URL}${u.toQueryString(t)}`;if(this.canSendBeacon)return void navigator.sendBeacon(e,null);let i=new XMLHttpRequest;i.open("GET",e,!0),i.send()}static toQueryString(t,e){e=void 0===e||e;let i=[];for(let e in t)i.push(u._convertObjectToQueryString(t[e],encodeURIComponent(e)));return(e?"?":"&")+i.join("&")}static _convertObjectToQueryString(t,e){if("object"==typeof t)for(let i in t){let n=encodeURIComponent(i);return u._convertObjectToQueryString(t[i],`${e}[${n}]`)}return e+"="+encodeURIComponent(t)}}u.URL="/ab-logger";class _{constructor(t,e,i,n,r,a){this.name=t,this.config=h.applyConfig(e),this.rules=h.applyRules(i),this.variants=h.applyVariants(n,this),this.exclusions=r,this.reference=a}getName(){return this.name}hasAllocationExclusions(){if(void 0===this.exclusions||0===this.exclusions.length)return!1;for(const t of this.exclusions)if(l.isValid(t)&&!new l(t.id,t.variations).allowsAllocation())return!0;return!1}isAllowed(t){if(this.hasAllocationExclusions())return!1;const e=this.getName();if("na"===this.config.cookie.get(e))return!1;if("na"!==this.config.cookie.get(e)&&null!==this.config.cookie.get(e))return!0;const i=+(100*this.config.randomizer.number()).toFixed(2);return!(this.config.traffic<i)||(t||(this.config.cookie.set(e,"na"),this.addToDataLayer()),!1)}canRun(){return r.evaluateExpression(this.rules,"and")}getVariantName(t){return null==t?"na":this.name.replace(_.PREFIX,"")+String.fromCharCode(a.a.cookieA+t)}addToDataLayer(t){_.sendToDatalayer(this.config.dataLayer,this.name,this.getVariantName(t),this.config.slot)}static sendToDatalayer(t,e,i,n){t.push({event:"AB_testing_platform_allocation",ec:"AB_TEST",ea:e,el:i,CD_SLOT_VALUE:`${e}: ${i}`,CD_SLOT_INDEX:n||0})}static logOtherAllocations(t){const e=_.DEFAULT_COOKIE;e.has(_.OTHER_ALLOCATION)&&(e.get(_.OTHER_ALLOCATION).split("&").forEach(e=>{const i=e.split("=");_.sendToDatalayer(t,i[0],i[0].replace(_.PREFIX,"")+i[1])}),e.delete(_.OTHER_ALLOCATION))}sendToAbLogger(t){let e={tests:{}};e.tests[this.name]=this.getVariantName(t),this.config.logger.log(e)}split(){const t=this.getName();if(this.config.cookie.has(t))return this.variants[this.config.cookie.get(t).replace(this.name,"").charCodeAt(0)-a.a.cookieA];const e=+this.config.randomizer.integer()%this.variants.length;return this.addToDataLayer(e),this.sendToAbLogger(e),this.variants[e]}run(){if(this.canRun()&&this.isAllowed()){const t=this.split();return this.config.curtain&&t.version!==String.fromCharCode(a.a.cookieA)&&c.a.addCurtain(),this.assignDetails(!0),t.getCallback()}return this.assignDetails(),()=>{}}assignDetails(t){this.reference.canRun=t||this.canRun(),this.reference.isAllowed=t||this.isAllowed(!0),this.reference.isExecuted=this.reference.canRun&&this.reference.isAllowed,this.reference.variant=this.config.cookie.get(this.getName()),this.rules.forEach((t,e)=>{this.reference.rules[e].isSatisfied=t.evaluate()})}}_.DEFAULT_TRAFFIC=100,_.DEFAULT_COOKIE=new n.a,_.DEFAULT_RANDOMIZER=new class{constructor(t){this.random=new o.a(t)}number(){return this.random.number()}integer(){return this.random.integer()}}(null),_.DEFAULT_LOGGER=new u,_.DEFAULT_DATALAYER=[],_.PREFIX="eab",_.OTHER_ALLOCATION="eab_allocation";class h{static applyConfig(t={}){return t.randomizer=t.randomizer||_.DEFAULT_RANDOMIZER,t.cookie=t.cookie||_.DEFAULT_COOKIE,t.logger=t.logger||_.DEFAULT_LOGGER,t.traffic=t.traffic||_.DEFAULT_TRAFFIC,t.dataLayer=t.dataLayer||window.dataLayer||_.DEFAULT_DATALAYER,t.slot=t.slot||0,t}static applyRules(t=[]){if(0===t.length)throw new Error("Incorrect rule definition");const e=[];for(const i of t)if(Array.isArray(i))e.push(h.applyRules(i));else{if(!r.isValid(i))throw new Error("Incorrect rule definition");e.push(new r(i))}return e}static applyVariants(t=[],e){if(0===t.length)throw new Error("No variants for experiment");const i=[],r=new n.a;for(let n=0;n<t.length;++n){if(!a.a.isValid(t[n]))throw new Error("Invalid variant definition");t[n].version=String.fromCharCode(a.a.cookieA+n),t[n].cookie=r,t[n].cookieName=e.getName(),i.push(new a.a(t[n]))}return i}}},function(t,e,i){var n=function(){"use strict";function t(t,e,i,n){this.setSeed(t,e,i,n)}t.prototype.setSeed=function(t,e,n,r){return null==e&&null==t?(e=4294967295*Math.random()>>>0,t=0):null==e&&(e=t,t=0),null==r&&null==n?(r=this.state_?this.state_[3]:4150755663,n=this.state_?this.state_[2]:335903614):null==r&&(r=n,n=0),this.state_=new Int32Array([0,0,n>>>0,(1|r)>>>0]),this.next_(),i(this.state_,this.state_[0],this.state_[1],t>>>0,e>>>0),this.next_(),this},t.prototype.getState=function(){return[this.state_[0],this.state_[1],this.state_[2],this.state_[3]]},t.prototype.setState=function(t){this.state_[0]=t[0],this.state_[1]=t[1],this.state_[2]=t[2],this.state_[3]=1|t[3]};var e=Math.imul;function i(t,e,i,n,r){var a=e+n>>>0,s=i+r>>>0;s>>>0<i>>>0&&(a=a+1|0),t[0]=a,t[1]=s}e||(e=function(t,e){var i=65535&t,n=65535&e;return i*n+((t>>>16&65535)*n+i*(e>>>16&65535)<<16>>>0)|0});t.prototype.next_=function(){var t,n,r,a,s,o,c,l,u=this.state_[0]>>>0,_=this.state_[1]>>>0;t=this.state_,n=u,l=((r=_)>>>16)*((a=1284865837)>>>16)+(((o=(65535&r)*(a>>>16)>>>0)>>>16)+((s=(r>>>16)*(65535&a)>>>0)>>>16))>>>0,(c=(c=(65535&r)*(65535&a)>>>0)+(o=o<<16>>>0)>>>0)>>>0<o>>>0&&(l=l+1>>>0),(c=c+(s=s<<16>>>0)>>>0)>>>0<s>>>0&&(l=l+1>>>0),l=(l=l+e(r,1481765933)>>>0)+e(n,a)>>>0,t[0]=l,t[1]=c,i(this.state_,this.state_[0],this.state_[1],this.state_[2],this.state_[3]);var h=u>>>18,d=(_>>>18|u<<14)>>>0,p=((d=(d^_)>>>0)>>>27|(h=(h^u)>>>0)<<5)>>>0,f=u>>>27;return(p>>>f|p<<((-f>>>0&31)>>>0))>>>0},t.prototype.integer=function(t){if(!t)return this.next_();if(0==((t>>>=0)&t-1))return this.next_()&t-1;var e=0,i=(-t>>>0)%t>>>0;for(e=this.next_();e<i;e=this.next_());return e%t};return t.prototype.number=function(){return(134217728*(1*(67108863&this.next_()))+1*(134217727&this.next_()))/9007199254740992},t}();t.exports&&(t.exports=n)},function(t,e,i){t.exports=i(6)},function(module,__webpack_exports__,__webpack_require__){"use strict";__webpack_require__.r(__webpack_exports__);var _runner__WEBPACK_IMPORTED_MODULE_0__=__webpack_require__(1),_experiment__WEBPACK_IMPORTED_MODULE_1__=__webpack_require__(3);((window,EM,Experiments)=>{function sanitizedRules(rules){if(null==rules)return[];const sanitized=[];for(let rule of rules)if(Array.isArray(rule))sanitized.push(sanitizedRules(rule));else{let actual;try{actual=eval(rule.actual),actual=null!==actual?actual:"null"}catch(t){actual="null"}sanitized.push({type:rule.type,expected:rule.expected,actual:actual})}return sanitized}try{if(window.Cookie=_experiment__WEBPACK_IMPORTED_MODULE_1__.a.DEFAULT_COOKIE,_experiment__WEBPACK_IMPORTED_MODULE_1__.a.logOtherAllocations(window.dataLayer),0!==Experiments.data.length){let t=[],e=new Date;for(let i=0;i<Experiments.data.length;++i){let n=Experiments.data[i];if(!(e<new Date(n.dateStart)||e>new Date(n.dateEnd)))try{t.push(new _experiment__WEBPACK_IMPORTED_MODULE_1__.a(`${_experiment__WEBPACK_IMPORTED_MODULE_1__.a.PREFIX}${n.id}`,{curtain:n.curtain,exclusive:n.exclusive,traffic:n.traffic,dataLayer:window.dataLayer},sanitizedRules(n.rules),n.variations.map(t=>({name:"",callback:t.callback})),n.exclusions,n))}catch(t){}}new _runner__WEBPACK_IMPORTED_MODULE_0__.a(t)}}catch(t){_runner__WEBPACK_IMPORTED_MODULE_0__.a.removeCurtain()}})(window,window.EM||{},window.EXPERIMENTS||{data:[]})}]);</script>
+<script type="text/javascript">
+        (function() {
+        dataLayer.push({
+            unique_token: String(Date.now()) + '' + (Math.floor(Math.random()*90000) + 10000)
+        });
+    })();
+
+    if (Emag.DatalayerManager.debug) {
+        console.info('DatalayerManager datalayer.track.html.twig is online');
+    }
+
+    
+    
+    // push default data from datalayer object
+    Emag.DatalayerManager.pushDefaultData({"loc":"4e61d513","pageType_google":"other","pageType":"login","urlDivisions":{"cleanurl":"\/user\/login"}});
+
+    
+    $(document).ready(function () {
+        
+            });
+
+    
+    </script>
+            <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TKS335"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TKS335');</script>
+<!-- End Google Tag Manager -->
+        <div class="auth-logo">
+        <a href="https://www.emag.ro/?ref=ssi_login" title="eMAG - Libertate în fiecare zi">
+            <img src="https://s12emagst.akamaized.net/layout/all/images/logo/logo.svg" alt="eMAG - Libertate în fiecare zi">
+        </a>
+    </div>
+
+    <form class="form-auth -gui-form -form-blocks -wide" method="post" action="/user/loginProcess" data-validate-on-submit="" novalidate="">
+    <input type="hidden" name="action_token" value="c212849f8aa656e36d5309a5d27713804e961f48">
+
+    <div class="step1">
+        <h1 class="auth-title large-margin">Salut!</h1>
+        <div class="gui-form-row">
+            <div class="gui-form-control -wide  medium-margin">
+                <label for="email" class="gui-label medium-margin">Introdu adresa de email</label>
+                <input type="email" id="email" name="username" autocomplete="username" class="gui-input auth-input disable-blur-validation" value="" data-validate="required email" data-validation-error="Camp obligatoriu" data-validation-error-email="Email invalid">
+                                                            </div>
+        </div>
+            </div>
+
+    <div class="stepEmptyExternalLogin secure-login" hidden="">
+        <a href="/user/login" class="user-back">&lt; inapoi</a><br>
+        <p class="auth-title description small-margin color-light">Pentru a crea un cont eMAG avem nevoie de adresa ta de email </p>
+        <div class="gui-form-row">
+            <div class="gui-form-control -wide  medium-margin">
+                <label for="email_external" class="gui-label medium-margin">Introdu adresa de email</label>
+                <input type="email" id="email_external" name="username" autocomplete="username" class="gui-input auth-input disable-blur-validation" value="" data-validate="required email" data-validation-error="Camp obligatoriu" data-validation-error-email="Email invalid">
+                                                            </div>
+        </div>
+    </div>
+
+    <div class="step2 stepUserInfo" hidden="">
+                    <a href="/user/login" class="user-back">&lt; inapoi</a>
+                <h1 class="auth-title">Salut!</h1>
+        <div class="gui-form-row auth-center color-light user-info ">
+            <div class="gui-form-row auth-image">
+                <img src="" class="user-image">
+                <i class="icon-light-i11-user user-icon"></i>
+            </div>
+            <p class="color-light big-margin">
+                <span class="user-name"></span><br>
+                <input type="email" id="step2_email" name="username" class="auth-input-masked" readonly="">
+            </p>
+        </div>
+    </div>
+
+    <div class="step2" hidden="">
+        <div class="gui-form-row">
+            <div class="gui-form-control -wide">
+                <label for="password" class="gui-label">Introdu parola contului tau eMAG</label>
+                <input type="password" id="password" name="password" autocomplete="current-password" class="gui-input disable-blur-validation do-not-show-checkmark auth-input" data-validate="skip required" data-validation-error="Camp obligatoriu">
+            </div>
+        </div>
+                	</div>
+
+    <div class="stepPasswordExpired" hidden="">
+        <p class="main-text">Am observat ca nu ti-ai mai schimbat parola de ceva timp</p>
+        <p>Pentru siguranta contului tau, te rugam sa iti actualizezi parola.</p>
+    </div>
+
+	<div class="gui-form-row">
+        <div class="gui-form-control -wide large-margin">
+            <button type="submit" class="gui-btn auth-btn-primary auth-submit">
+                Continua            </button>
+        </div>
+	</div>
+
+	<div class="step2" hidden="">
+        <p class="gui-form-row auth-center tiny-margin">
+            </p><div class="gui-form-control -wide">
+                <div class="gui-toolbox">
+                    <button class="auth-anchor auth-forgot-password" type="submit">Ai uitat parola?</button>
+                </div>
+                            <input type="checkbox" value="yes" name="keep_email" id="keep_email" class="gui-checkbox" checked="">
+                <label for="keep_email"><span>Tine-ma minte</span></label>
+                     </div>
+        <p></p>
+        	</div>
+
+	<div class="gui-form-row step1">
+                <p>Nu ai cont? Nu-ti face griji!<br>Poti crea unul in pasul urmator. </p>
+        <div class="horizontal-line color-light auth-center"><span class="horizontal-text">sau</span></div>
+<p class="color-light auth-center small-margin">intra in cont cu</p>
+<div class="social-wrapper">
+    <a title="Facebook" href="javascript:void(0);" onclick="loginExternalPopup('https://www.emag.ro/user/facebookauth'); return false;" class="social-facebook linkItem facebookV2Login">
+        <span class="social-icon icon-i32-facebook"></span>
+        <span class="social-name">Facebook</span>
+    </a>
+    <a title="Google" href="javascript:void(0);" onclick="loginExternalPopup('https://www.emag.ro/user/googleauth'); return false;" class="social-google linkItem googleV2Login">
+        <span class="social-icon icon-i34-google"></span>
+        <span class="social-name">Google</span>
+    </a>
+</div>	</div>
+
+</form>
+
+
+            <div class="auth-center large-margin">
+                                <a target="_blank" href="/info/cum-ma-loghez">Ai nevoie de ajutor?</a>
+                    </div>
+                <div class="auth-footer">
+            <div id="links">
+    <a href="http://info.emag.ro/contul-meu-la-emagro/8?ref=ssi_login" target="_blank">Cont client eMAG</a>
+    <span class="auth-separator">|</span>
+    <a href="http://info.emag.ro/despre-noi/32?ref=ssi_login" rel="nofollow" title="Date cu caracter personal" target="_blank">Date cu caracter personal</a>
+    <span class="auth-separator">|</span>
+    <a href="http://www.anpc.gov.ro/?ref=ssi_login" rel="nofollow" title="ANPC" target="_blank">ANPC</a>
+    <span class="auth-separator">|</span>
+    <a href="http://info.emag.ro/despre-noi/1457" rel="nofollow" title="eMAG foloseste cookie–uri" target="_blank">eMAG foloseste cookie–uri</a>
+</div>        </div>
+    
+
+
+<script type="text/javascript" src="https://s12emagst.akamaized.net/layout/ro/www/js/assetic/gui-ccf6cbf.js"></script>
+
+<div class="clear_4g5fea56" style="position:fixed;left:100%"></div><script type="text/javascript">
+(function($) {
+    var $form = $('.form-auth'),
+        $email = $('#email'),
+        $password = $form.find('#password'),
+        initial_email = '',
+        step2 = false,
+        $emailExternal = $('#email_external'),
+        emptyExternalLogin = false;
+
+    var onSubmit = function(event) {
+        if(emptyExternalLogin) {
+            $email.val($emailExternal.val());
+        } else {
+            $emailExternal.val($email.val());
+        }
+
+        if (!$form.guiValidate()) {
+            return false;
+        }
+
+        if (!step2) {
+            event.preventDefault();
+                        $email.attr('name', 'email_address');
+            resetPasswordField();
+            var $btn = $form.find('.auth-submit');
+            $btn.prop('disabled', true);
+            var formData = {
+                email_address: $form.find('#email').val()
+            };
+                        // ajax call to get user additional info or redirect to register
+            var promise = $.ajax({
+                url: '/user/check_email',
+                type: 'post',
+                data: formData
+
+            });
+
+            promise.done(function (data) {
+                step2 = true;
+                                if (data.registered) {
+                    // hide the email field
+                    if(typeof data.no_keep == 'undefined' || !data.no_keep ){
+                        $form.find('.user-info').removeClass('no-keep');
+                    }else if(data.no_keep){
+                        $form.find('.user-info').addClass('no-keep');
+                    }
+                    $form.find('.user-image').attr('src', data.image);
+                    $form.find('.user-name').html(data.name);
+                    $form.find('.user-email').html(data.email);
+
+                    $form.find('#step2_email').attr('value', data.email);
+                    $form.find('#step2_email').val(data.email);
+
+                    if (data.password_expired) {
+                        $form.find('.user-info .big-margin').removeClass('big-margin');
+
+                        $form.find('.step1').hide();
+                        $form.find('.step2').hide();
+                        $form.find('.user-back').remove();
+                        $form.find('.stepUserInfo').show();
+                        $form.find('.stepPasswordExpired').show();
+                        $form.find('.stepEmptyExternalLogin').hide();
+
+                        $form.attr('action', '/user/forgotpassword');
+                        $password.attr('data-validate', '');
+                    } else {
+                        $password.attr('data-validate', 'required');
+                        $form.find('.step1').hide();
+                        $form.find('.stepEmptyExternalLogin').hide();
+                        $form.find('.step2').show();
+                    }
+
+                    if($.cookie('site_version_11') !== 'not_mobile') {
+                        window.scrollTo(0, 0);
+                    }
+
+                                        if ($.cookie('site_version_11') === 'not_mobile'
+                        && (initial_email !== $email.val() || $password.val() == '')
+                    ) {
+                        $password.focus();
+                    }
+
+                    $btn.prop('disabled', false);
+
+                } else {                     $btn.prop('disabled', true);
+                    $form.attr('action', data.redirect);
+                    $password.attr('data-validate', '');
+                    $form.submit();
+                }
+            });
+
+            promise.fail(function (data) {
+                $btn.prop('disabled', false);
+                console.error(data);
+            });
+        } else {
+                        $email.attr('name', 'email_address');
+                        $form.append('<input name="username" style="display:none" value="'+$email.val()+'">');
+            var $btn = $form.find('.auth-submit');
+            $btn.prop('disabled', true);
+        }
+    }
+
+    var changeFormAction = function(event) {
+        event.preventDefault();
+        $form.attr('action', '/user/forgotpassword');
+        $password.attr('data-validate', '');
+        if($(this).hasClass('auth-guest-submit')){
+            $('<input>').attr({ type : 'hidden' , 'name' : 'continue_as_guest'}).appendTo($form);
+        }
+        $form.submit();
+    }
+
+    var backToEmail = function (event){
+        step2 = false;
+        emptyExternalLogin = false;
+        $form.find('.step1').show();
+        $form.find('.stepEmptyExternalLogin').hide();
+        $form.find('.step2').hide();
+        $form.find('.step2').disableValidation();
+        $form.find('.auth-submit').prop('disabled', false);
+        $form.guiValidate();
+        $form.find('.custom_error_message').remove();
+        $email.focus();                return false;
+    }
+    var resetPasswordField = function () {
+        if (initial_email !== $email.val()) {
+            $password.focus().val('');
+                    }
+    }
+    // event listeners
+    $form.on('submit', onSubmit);
+
+        if($.cookie('site_version_11') !== 'not_mobile') {
+        $email.on('click', function() {
+            if ($('.auth-title').offset().top > $(window).scrollTop()) {
+                $('html, body').animate({scrollTop: $('.auth-title').offset().top}, 'slow');
+            }
+        });
+    }
+
+        $email.on('focusout', function(){
+        resetPasswordField();
+    });
+        $form.on('click', '.auth-forgot-password, .auth-guest-submit', changeFormAction);
+    $form.on('click','.user-back',backToEmail);
+
+    $(document).ready(function () {
+                            $email.focus();
+        
+                $email.on('input', function () {
+            if (initial_email == '') {
+                initial_email = $email.val();
+            }
+        }).change();
+    });
+
+})($111);
+if ($('#keep_email').length) {
+        $('label[for=keep_email] span').bubbletip(
+        $('#keep_email_show'), {
+            deltaDirection: 'down',
+            animationDuration: 100,
+            offsetRight: 0,
+            offsetLeft: 32,
+            calculateOnShow: true,
+            delayShow:100,
+            delayHide:100
+        }
+    );
+}
+</script><table class="bubbletip" cellspacing="0" cellpadding="0" style="opacity: 0; width: 721px; height: 81px; position: absolute; top: 0px; left: -328.5px; display: none;"><tbody><tr><td class="bt-topleft"></td><td><table class="bt-top" cellspacing="0" cellpadding="0"><tbody><tr><th></th><td><div></div></td><th></th></tr></tbody></table></td><td class="bt-topright"></td></tr><tr><td class="bt-left"></td><td class="bt-content"><div id="keep_email_show" hidden="" style="display: block;">
+    <div>Pastrati aceasta optiune activa doar pentru dispozitive personale. Pentru dispozitive partajate, debifati optiunea. </div>
+</div></td><td class="bt-right"></td></tr><tr><td class="bt-bottomleft"></td><td class="bt-bottom"></td><td class="bt-bottomright"></td></tr></tbody></table>
+    <script type="text/javascript" src="https://s12emagst.akamaized.net/assets/ro/js/ga_custom_dimensions_script.min.js"></script>
+
+
+<script type="text/javascript" id="">(function(){var c=function(){document.addEventListener("PHMegamenuDepartmentLoaded",function(a){var b=a.data.departmentId;b&&(a=[1696,768,651],-1<a.indexOf(b)||(a=document.getElementById("tpb_megamenu_"+b))&&googletag.cmd.push(function(){var a=googletag.defineSlot("/296121929/Megamenu",["fluid"],"tpb_megamenu_"+b);a.setTargeting("dep_id",b);a.setTargeting("position","megamenu"+b);"undefined"!=typeof google_tag_manager["GTM-TKS335"].macro(119)&&0<google_tag_manager["GTM-TKS335"].macro(121).length&&googletag.pubads().setTargeting("user_labels",
+["undefined"]);a.addService(googletag.pubads());googletag.enableServices();googletag.display("tpb_megamenu_"+b);googletag.pubads().refresh(a)}))})};EM.gptLoaded?c():document.addEventListener("PHGPTLoaded",c)})();</script><script type="text/javascript" id="" src="//t.profitshare.ro/files_shared/tr/9.js?v=2"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","892293880821529",{em:google_tag_manager["GTM-TKS335"].macro(185),ph:google_tag_manager["GTM-TKS335"].macro(186)});fbq("track","PageView");
+"viewproduct"!=google_tag_manager["GTM-TKS335"].macro(187)&&"family"!=google_tag_manager["GTM-TKS335"].macro(188)||fbq("track","ViewContent",{content_type:"product",content_name:google_tag_manager["GTM-TKS335"].macro(196),content_category:google_tag_manager["GTM-TKS335"].macro(204),content_ids:[google_tag_manager["GTM-TKS335"].macro(214)],value:google_tag_manager["GTM-TKS335"].macro(222),currency:"RON"});"cmppg_974_11628_2"==google_tag_manager["GTM-TKS335"].macro(223)&&fbq("trackCustom","Mastercard_buy_now");
+1==google_tag_manager["GTM-TKS335"].macro(225)&&fbq("track","InitiateCheckout",{content_type:"product_group",content_ids:google_tag_manager["GTM-TKS335"].macro(231),num_items:google_tag_manager["GTM-TKS335"].macro(237),content_name:google_tag_manager["GTM-TKS335"].macro(243),content_category:google_tag_manager["GTM-TKS335"].macro(249),value:Number(google_tag_manager["GTM-TKS335"].macro(256).toFixed(2)),currency:"RON"});"category"==google_tag_manager["GTM-TKS335"].macro(257)&&fbq("track","ViewCategory",{content_type:"product_group",content_name:google_tag_manager["GTM-TKS335"].macro(263),content_category:google_tag_manager["GTM-TKS335"].macro(264),content_ids:google_tag_manager["GTM-TKS335"].macro(271),currency:"RON"});
+"search"==google_tag_manager["GTM-TKS335"].macro(272)&&fbq("track","Search",{search_string:google_tag_manager["GTM-TKS335"].macro(274),content_ids:google_tag_manager["GTM-TKS335"].macro(281)});</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=892293880821529&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">(function(){function c(){dataLayer.push({ecommerce:{impressions:void 0}})}function d(){dataLayer.push({event:"impression_bulk",ecommerce:{impressions:b}})}var a=google_tag_manager["GTM-TKS335"].macro(282);if(a&&a.impressions){var b=[];for(i=0;i<a.impressions.length;i++)"category"!=google_tag_manager["GTM-TKS335"].macro(283)&&"subcategory"!=google_tag_manager["GTM-TKS335"].macro(284)?b.push({id:a.impressions[i].id,position:a.impressions[i].position,list:google_tag_manager["GTM-TKS335"].macro(285),category:a.impressions[i].category,dimension39:a.impressions[i].scm_super_category,dimension24:a.impressions[i].vendor_name,
+name:a.impressions[i].product_name,dimension57:a.impressions[i].offer_marking?a.impressions[i].offer_marking.join(","):void 0}):b.push({id:a.impressions[i].id,position:a.impressions[i].position,list:a.impressions[i].list,category:a.impressions[i].category,dimension39:a.impressions[i].scm_super_category,dimension24:a.impressions[i].vendor_name,name:a.impressions[i].product_name,dimension57:a.impressions[i].offer_marking?a.impressions[i].offer_marking.join(","):void 0}),0==i%12&&0!=i&&(c(),d(),b=[]);
+c();0<b.length&&d();b=[];c()}})();</script><script type="text/javascript" id="">(function(){function c(b){var a=localStorage.getItem(b);a&&(a=JSON.parse(a))&&(a=a.filter(function(a){return 864E5>Date.now()-a.timestamp}),a.length?localStorage.setItem(b,JSON.stringify(a)):localStorage.removeItem(b))}c("gtm_gmv_widgets");c("DFP_sas_tracking")})();</script><iframe src="https://creativecdn.com/tags?id=pr_TVsRmmCyMjf9yiQhLDzK&amp;ncm=1" width="1" height="1" scrolling="no" frameborder="0" style="display: none;"></iframe><script type="text/javascript" id="">var ps_cookie_days=2,ps_click_id=0,queryString=window.location.search.substring(1);if(0<queryString.length)for(var pairs=queryString.split("\x26"),i=0;i<pairs.length;i++){var pairs2=pairs[i].split("\x3d");"emag_click_id"==pairs2[0].toLowerCase()&&(ps_click_id=pairs2[1])}0!=ps_click_id&&top.location.href==window.location.href&&SetCookie("emag_click_id",ps_click_id,ps_cookie_days,".emag.ro");
+function WriteCookie(b,d,c){var a=SetCookie.arguments,e=SetCookie.arguments.length,f="/",g=3<e?a[3]:null;a=4<e?a[4]:!1;b=b+"\x3d"+escape(d)+(null==c?"":"; expires\x3d"+c.toGMTString())+(null==f?"":"; path\x3d"+f)+(null==g?"":"; domain\x3d"+g)+(1==a?"; secure":"");document.cookie=b}function SetCookie(b,d,c){var a=new Date;a.setTime(a.getTime()+864E5*c);WriteCookie(b,d,a)};</script><script type="text/javascript" id="">(function(){if("homepage"!==google_tag_manager["GTM-TKS335"].macro(286)){var a=document.createElement("script");a.src="https://securepubads.g.doubleclick.net/tag/js/gpt.js";a.async=!0;a.addEventListener("load",function(){window.googletag=window.googletag||{};window.googletag.cmd=window.googletag.cmd||[];PH.trigger(document,"PHGPTLoaded");EM.gtpLoaded=1});document.head.appendChild(a)}})();</script>
+<script type="text/javascript" id="">!function(b){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var a=window.pintrk;a.queue=[];a.version="3.0";a=document.createElement("script");a.async=!0;a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}("https://s.pinimg.com/ct/core.js");pintrk("load","2613900525986",{em:google_tag_manager["GTM-TKS335"].macro(287)});pintrk("page");</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2613900525986&amp;pd[em]=&lt;hashed_email_address&gt;&amp;noscript=1">
+</noscript>
+<div style="display: none; visibility: hidden;">  
+<script type="text/javascript">(function(a,b,d){if(!a.snaptr){var c=a.snaptr=function(){c.handleRequest?c.handleRequest.apply(c,arguments):c.queue.push(arguments)};c.queue=[];a="script";r=b.createElement(a);r.async=!0;r.src=d;b=b.getElementsByTagName(a)[0];b.parentNode.insertBefore(r,b)}})(window,document,"https://sc-static.net/scevent.min.js");snaptr("init","aece6ebc-ad47-42f7-abc2-31dc1624e6ee",{user_email:"undefined"});snaptr("track","PAGE_VIEW");</script>
+
+  
+  
+  
+</div></body></html>

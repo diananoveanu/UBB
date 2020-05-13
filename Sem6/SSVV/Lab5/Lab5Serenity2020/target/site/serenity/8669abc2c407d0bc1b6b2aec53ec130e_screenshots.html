@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+<![endif]--><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-bdd-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">Demo Project using Serenity and JUnit</span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <a
+                    href="bd150637714b3470bfcc2ecb46bd9c91.html">Search</a>
+                > <a
+                    href="8669abc2c407d0bc1b6b2aec53ec130e.html">Search emag by product </a>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="d782c44557441225cc92a5e35bf4b23b.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 13-05-2020 13:33</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Search </span>
+                                    <span class="badge tag-badge">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                In order to understand a word that I don't know
+As a user
+I want to be able to look up the meaning of the word
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" href="10e66d4f7e5f4872549186eb863a03ae.html">Search By Price Ddt
+                                    (story)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-times-circle failure-icon fa-3x' title='FAILURE'></i></span>
+                            <span class="test-case-title">
+                                <span class="failing-color">Search Emag By Product
+                                    <span class="related-issue-title">(#EMAG-1)</span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+    <div class="story-title">
+        <h3>Scenario:</h3>
+        <div class="scenario">Is the home page<br>Looks for: &lt;Name&gt;<br>Should see price: &lt;Price&gt;</div>
+    </div>
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+                <div class="panel-heading"><span class='error-caption ellipsis'>FAILURE: Assertion error: Expected: a collecti...</span></div>
+                <div class="panel-body">
+                    <a href="pagesource2441941260034986566.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="scaled_b0cc24289ffaf602e03b8ca4615c09f1.png" title="Is the home page" width="960"/>
+                <img src="scaled_af070353f6ddc2de34e8ef3664ff4652.png" title="Looks for: iphone 10" width="960"/>
+                <img src="scaled_4304ef616dd41ad52c92c888c6ee3694.png" title="Looks for: iphone 10" width="960"/>
+                <img src="af070353f6ddc2de34e8ef3664ff4652.png" title="Enters: iphone 10" width="960"/>
+                <img src="scaled_b2c00b4b8d341bfc3f3ff5eb7802a662.png" title="Enters: iphone 10" width="960"/>
+                <img src="scaled_370edafa75864657a2309c989ebf30d5.png" title="Starts search" width="960"/>
+                <img src="scaled_2cfe0f1b46a37eb2b50c5cae24de2b55.png" title="Starts search" width="960"/>
+                <img src="4304ef616dd41ad52c92c888c6ee3694.png" title="Should see price: 3.74999 Lei" width="960"/>
+                <img src="scaled_10024de7468c7d1d06c9e87d3345f4a8.png" title="Is the home page" width="960"/>
+                <img src="scaled_3c8e018c0810288bffafaa12baf9ef91.png" title="Looks for: frigider" width="960"/>
+                <img src="scaled_4d9da362ede8375c2a2c1cc1f82536d0.png" title="Looks for: frigider" width="960"/>
+                <img src="3c8e018c0810288bffafaa12baf9ef91.png" title="Enters: frigider" width="960"/>
+                <img src="scaled_063aad749effde92cb26bc1d6fc96a93.png" title="Enters: frigider" width="960"/>
+                <img src="scaled_0aa53564be629af06b77ce75efdf5916.png" title="Starts search" width="960"/>
+                <img src="scaled_83f2ec529dc87bebd37614af35b536f5.png" title="Starts search" width="960"/>
+                <img src="4d9da362ede8375c2a2c1cc1f82536d0.png" title="Should see price: 8459989 Lei: <span class='failing-color'>FAILURE</span>" width="960"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 1.2.2-rc.1</span>
+</div>
+</body>
+</html>

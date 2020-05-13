@@ -13,7 +13,6 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 
-//import Lab5Serenity2020.serenity.steps.serenity.EndUserSteps;
 import serenity.steps.serenity.EndUserSteps;
 
 @RunWith(SerenityParameterizedRunner.class)
