@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="serenity.features.search.OlxTestUserStories" skipped="0" tests="1" time="0.44" timestamp="2020-05-142 08:28:22"><testcase classname="serenity.features.search.OlxTestUserStories" name="Searching by keyword apple should display the corresponding article"><error type="java.lang.NullPointerException"/><system-err>null
+serenity.features.search.OlxTestUserStories.searching_by_keyword_apple_should_display_the_corresponding_article(OlxTestUserStories.java:22)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</system-err></testcase></testsuite>

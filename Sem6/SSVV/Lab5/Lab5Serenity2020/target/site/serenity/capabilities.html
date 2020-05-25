@@ -38,8 +38,8 @@
                 ['Passing', 0],
                 ['Pending', 0],
                 ['Ignored', 0],
-                ['Failing', 1],
-                ['Errors',  0],
+                ['Failing', 0],
+                ['Errors',  1],
                 ['Compromised',  0],
                 ['Untested',  0],
             ]
@@ -71,8 +71,8 @@
                 {label: '0 requirements tested successfully'},
                 {label: '0 requirements pending'},
                 {label: '0} requirements skipped'},
-                {label: '1} requirements with failures'},
-                {label: '0} requirements with errors'},
+                {label: '0} requirements with failures'},
+                {label: '1} requirements with errors'},
                 {label: '0} requirements compromised'},
                 {label: '0} requirements untested'},
             ]
@@ -196,16 +196,16 @@
                                         <td class="summary-leading-column"><a href="#requirements-tabs">Features</a></td>
                                         <td>1</td>
                                         <td>0</td>
-                                        <td>1</td>
+                                        <td>0</td>
                                         <td>0</td>
                                         <td>0</td>
                                     </tr>
 
                                 <tr>
                                     <td class="summary-leading-column"><a href="#test-results-table">Acceptance Criteria (tests)</a></td>
-                                    <td>10</td>
-                                    <td>8</td>
-                                    <td>1</td>
+                                    <td>24</td>
+                                    <td>14</td>
+                                    <td>7</td>
                                     <td>1</td>
                                     <td>0</td>
                                     <td></td>
@@ -234,10 +234,10 @@
         <body>
         <tr>
             <td class="summary-leading-column">Automated</td>
-            <td>10</td>
-            <td>8 (80%)</td>
-            <td>1 (10%)</td>
-            <td>1 (10%)</td>
+            <td>24</td>
+            <td>14 (58%)</td>
+            <td>7 (29%)</td>
+            <td>1 (4%)</td>
             <td>0 (0%)</td>
         </tr>
         <tr>
@@ -250,15 +250,15 @@
         </tr>
         <tr>
             <td class="summary-leading-column">Total</td>
-            <td>10</td>
-            <td>8 (80%)</td>
-            <td>1 (10%)</td>
-            <td>1 (10%)</td>
+            <td>24</td>
+            <td>14 (58%)</td>
+            <td>7 (17%)</td>
+            <td>1 (4%)</td>
             <td>0 (0%)</td>
         </tr>
         <tr>
             <td class="summary-leading-column">Total Duration</td>
-                <td colspan="5">1 minutes 23 seconds</td>
+                <td colspan="5">5 minutes 27 seconds</td>
         </tr>
         </body>
     </table>
@@ -295,14 +295,14 @@
 
 
 
-                <tr class="test-FAILURE requirementRow">
+                <tr class="test-ERROR requirementRow">
                     <td class="requirementRowCell">
-                        <span class="status_icon"><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></span>
-                        <span style="display:none">3</span>
+                        <span class="status_icon"><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></span>
+                        <span style="display:none">4</span>
                     </td>
                     <td class="cardNumber requirementRowCell"></td>
 
-                    <td class="FAILURE-text requirementRowCell">
+                    <td class="ERROR-text requirementRowCell">
                         <a href="javaScript:void(0)" class="read-more-link">
                             <img src="images/plus.png" height="16"/></a>
                         <span class="requirementName"><a
@@ -314,12 +314,12 @@ I want to be able to look up the meaning of the word</div>
                     </td>
 
 
-                    <td class="greentext highlighted-value requirementRowCell">10</td>
+                    <td class="greentext highlighted-value requirementRowCell">24</td>
 <!--
-                    <td class="greentext requirementRowCell">8</td>
-                    <td class="bluetext requirementRowCell">1</td>
-                    <td class="redtext requirementRowCell">1</td>
-                    <td class="lightorangetext requirementRowCell">0</td>
+                    <td class="greentext requirementRowCell">14</td>
+                    <td class="bluetext requirementRowCell">3</td>
+                    <td class="redtext requirementRowCell">4</td>
+                    <td class="lightorangetext requirementRowCell">3</td>
                     <td class="violettext requirementRowCell">0</td>
 -->
                         <td class="greentext highlighted-value requirementRowCell">0</td>
@@ -336,71 +336,71 @@ I want to be able to look up the meaning of the word</div>
 <table>
     <tr>
         <td width="40px">
-            <div class="small">80%</div>
+            <div class="small">58.3%</div>
         </td>
         <td width="125px">
             <div class="percentagebar"
-                 title="  - Total tests: 10
-  - Passing tests: 8 (80%)
-  - Failing tests: 1 (10%)
-  - Tests with errors: 0 (0%)
+                 title="  - Total tests: 24
+  - Passing tests: 14 (58.3%)
+  - Failing tests: 4 (16.7%)
+  - Tests with errors: 3 (12.5%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (10%)
+  - Pending tests: 1 (4.2%)
   - Ignored or skipped tests: 0 (0%)"
                  style="width: 125px;">
                 <div class="pendingbar"
-                     title="  - Total tests: 10
-  - Passing tests: 8 (80%)
-  - Failing tests: 1 (10%)
-  - Tests with errors: 0 (0%)
+                     title="  - Total tests: 24
+  - Passing tests: 14 (58.3%)
+  - Failing tests: 4 (16.7%)
+  - Tests with errors: 3 (12.5%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (10%)
+  - Pending tests: 1 (4.2%)
   - Ignored or skipped tests: 0 (0%)"
-                     style="width: 125px;">
+                     style="width: 115px;">
                     <div class="ignoredbar"
-                         style="width: 112px;"
-                         title="  - Total tests: 10
-  - Passing tests: 8 (80%)
-  - Failing tests: 1 (10%)
-  - Tests with errors: 0 (0%)
+                         style="width: 109px;"
+                         title="  - Total tests: 24
+  - Passing tests: 14 (58.3%)
+  - Failing tests: 4 (16.7%)
+  - Tests with errors: 3 (12.5%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (10%)
+  - Pending tests: 1 (4.2%)
   - Ignored or skipped tests: 0 (0%)">
                         <div class="compromisedbar"
-                             style="width: 112px;"
-                             title="  - Total tests: 10
-  - Passing tests: 8 (80%)
-  - Failing tests: 1 (10%)
-  - Tests with errors: 0 (0%)
+                             style="width: 109px;"
+                             title="  - Total tests: 24
+  - Passing tests: 14 (58.3%)
+  - Failing tests: 4 (16.7%)
+  - Tests with errors: 3 (12.5%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (10%)
+  - Pending tests: 1 (4.2%)
   - Ignored or skipped tests: 0 (0%)">
                             <div class="errorbar"
-                                 style="width: 112px;"
-                                 title="  - Total tests: 10
-  - Passing tests: 8 (80%)
-  - Failing tests: 1 (10%)
-  - Tests with errors: 0 (0%)
+                                 style="width: 109px;"
+                                 title="  - Total tests: 24
+  - Passing tests: 14 (58.3%)
+  - Failing tests: 4 (16.7%)
+  - Tests with errors: 3 (12.5%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (10%)
+  - Pending tests: 1 (4.2%)
   - Ignored or skipped tests: 0 (0%)">
                                 <div class="failingbar"
-                                     style="width: 112px;"
-                                     title="  - Total tests: 10
-  - Passing tests: 8 (80%)
-  - Failing tests: 1 (10%)
-  - Tests with errors: 0 (0%)
+                                     style="width: 94px;"
+                                     title="  - Total tests: 24
+  - Passing tests: 14 (58.3%)
+  - Failing tests: 4 (16.7%)
+  - Tests with errors: 3 (12.5%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (10%)
+  - Pending tests: 1 (4.2%)
   - Ignored or skipped tests: 0 (0%)">
                                     <div class="passingbar"
-                                         style="width: 100px;"
-                                         title="  - Total tests: 10
-  - Passing tests: 8 (80%)
-  - Failing tests: 1 (10%)
-  - Tests with errors: 0 (0%)
+                                         style="width: 73px;"
+                                         title="  - Total tests: 24
+  - Passing tests: 14 (58.3%)
+  - Failing tests: 4 (16.7%)
+  - Tests with errors: 3 (12.5%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (10%)
+  - Pending tests: 1 (4.2%)
   - Ignored or skipped tests: 0 (0%)">
                                     </div>
                                 </div>
@@ -440,6 +440,86 @@ I want to be able to look up the meaning of the word</div>
                         </thead>
                         <tbody>
 
+                            <tr class="test-ERROR">
+                                <td><span class="summary-icon"><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></span>
+                                    
+                                    <span style="display:none">ERROR</span></td>
+                                <td class="ERROR-text">
+                                    <div class="ellipsis">
+
+                                        <a href="f1ef3c78a9df09b36aa0475839e13cc1.html" class="ellipsis" title="Index out of bounds exception: Index ...">
+                                            Deactivate Prduct
+                                                <span class="related-issue-title">(#DEACTIVATE-1)</span>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <td class="lightgreentext">7</td>
+
+
+                                <td class="lightgreentext">21.43</td>
+                            </tr>
+
+                            <tr class="test-SUCCESS">
+                                <td><span class="summary-icon"><i class='fa fa-check-square-o success-icon ' title='SUCCESS'></i></span>
+                                    
+                                    <span style="display:none">SUCCESS</span></td>
+                                <td class="SUCCESS-text">
+                                    <div class="ellipsis">
+
+                                        <a href="90650f3b0602fbc3b89d6e8b04fa6885.html" class="ellipsis" title="">
+                                            Search Emabg By Product&nbsp;(2  examples)
+                                                <span class="related-issue-title">(#EMAG-1)</span>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <td class="lightgreentext">12</td>
+
+
+                                <td class="lightgreentext">35.39</td>
+                            </tr>
+
+                            <tr class="test-SUCCESS">
+                                <td><span class="summary-icon"><i class='fa fa-check-square-o success-icon ' title='SUCCESS'></i></span>
+                                    
+                                    <span style="display:none">SUCCESS</span></td>
+                                <td class="SUCCESS-text">
+                                    <div class="ellipsis">
+
+                                        <a href="8669abc2c407d0bc1b6b2aec53ec130e.html" class="ellipsis" title="">
+                                            Search Emag By Product&nbsp;(2  examples)
+                                                <span class="related-issue-title">(#EMAG-1)</span>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <td class="lightgreentext">12</td>
+
+
+                                <td class="lightgreentext">47.92</td>
+                            </tr>
+
+                            <tr class="test-ERROR">
+                                <td><span class="summary-icon"><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></span>
+                                    
+                                    <span style="display:none">ERROR</span></td>
+                                <td class="ERROR-text">
+                                    <div class="ellipsis">
+
+                                        <a href="30b3073ff08b98aeff3f62931b547b5c.html" class="ellipsis" title="Assertion error: Expected: a collecti...">
+                                            Search Emag By Product Filter&nbsp;(4  examples)
+                                                <span class="related-issue-title">(#EMAG-2)</span>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <td class="lightgreentext">16</td>
+
+
+                                <td class="lightgreentext">36.25</td>
+                            </tr>
+
                             <tr class="test-SUCCESS">
                                 <td><span class="summary-icon"><i class='fa fa-check-square-o success-icon ' title='SUCCESS'></i></span>
                                     
@@ -457,7 +537,27 @@ I want to be able to look up the meaning of the word</div>
                                 <td class="lightgreentext">12</td>
 
 
-                                <td class="lightgreentext">19.37</td>
+                                <td class="lightgreentext">20.43</td>
+                            </tr>
+
+                            <tr class="test-FAILURE">
+                                <td><span class="summary-icon"><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></span>
+                                    
+                                    <span style="display:none">FAILURE</span></td>
+                                <td class="FAILURE-text">
+                                    <div class="ellipsis">
+
+                                        <a href="6f303fed3c321cecf69ee8ecf378bce5.html" class="ellipsis" title="Element should be visible exception: ...">
+                                            Search Wiki By Keyword Test Ddt&nbsp;(2  examples)
+                                                <span class="related-issue-title">(#WIKI-1)</span>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <td class="lightgreentext">12</td>
+
+
+                                <td class="lightgreentext">46.77</td>
                             </tr>
 
                             <tr class="test-PENDING">
@@ -497,7 +597,27 @@ I want to be able to look up the meaning of the word</div>
                                 <td class="lightgreentext">5</td>
 
 
-                                <td class="lightgreentext">8.37</td>
+                                <td class="lightgreentext">8.2</td>
+                            </tr>
+
+                            <tr class="test-ERROR">
+                                <td><span class="summary-icon"><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></span>
+                                    
+                                    <span style="display:none">ERROR</span></td>
+                                <td class="ERROR-text">
+                                    <div class="ellipsis">
+
+                                        <a href="425a0deca5ba5e06d1669a5154a1a548.html" class="ellipsis" title="">
+                                            Searching By Keyword Apple Should Display The Corresponding Article
+                                                <span class="related-issue-title">(#LOGIN-1)</span>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <td class="lightgreentext">0</td>
+
+
+                                <td class="lightgreentext">0.44</td>
                             </tr>
 
                             <tr class="test-SUCCESS">
@@ -537,7 +657,7 @@ I want to be able to look up the meaning of the word</div>
                                 <td class="lightgreentext">5</td>
 
 
-                                <td class="lightgreentext">8.68</td>
+                                <td class="lightgreentext">8.05</td>
                             </tr>
 
                             <tr class="test-SUCCESS">
@@ -577,7 +697,7 @@ I want to be able to look up the meaning of the word</div>
                                 <td class="lightgreentext">5</td>
 
 
-                                <td class="lightgreentext">7.58</td>
+                                <td class="lightgreentext">8.41</td>
                             </tr>
 
                             <tr class="test-FAILURE">
@@ -617,7 +737,47 @@ I want to be able to look up the meaning of the word</div>
                                 <td class="lightgreentext">5</td>
 
 
-                                <td class="lightgreentext">10.25</td>
+                                <td class="lightgreentext">13.2</td>
+                            </tr>
+
+                            <tr class="test-SUCCESS">
+                                <td><span class="summary-icon"><i class='fa fa-check-square-o success-icon ' title='SUCCESS'></i></span>
+                                    
+                                    <span style="display:none">SUCCESS</span></td>
+                                <td class="SUCCESS-text">
+                                    <div class="ellipsis">
+
+                                        <a href="1d6a7be87230d23010eb2f16154c4335.html" class="ellipsis" title="">
+                                            User Adds Product
+                                                <span class="related-issue-title">(#ADD-1)</span>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <td class="lightgreentext">11</td>
+
+
+                                <td class="lightgreentext">29.66</td>
+                            </tr>
+
+                            <tr class="test-SUCCESS">
+                                <td><span class="summary-icon"><i class='fa fa-check-square-o success-icon ' title='SUCCESS'></i></span>
+                                    
+                                    <span style="display:none">SUCCESS</span></td>
+                                <td class="SUCCESS-text">
+                                    <div class="ellipsis">
+
+                                        <a href="838bae8df29b5228ea9642c42ac33695.html" class="ellipsis" title="">
+                                            User Tries To Login
+                                                <span class="related-issue-title">(#LOGIN-1)</span>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <td class="lightgreentext">5</td>
+
+
+                                <td class="lightgreentext">22.18</td>
                             </tr>
                         </tbody>
                     </table>

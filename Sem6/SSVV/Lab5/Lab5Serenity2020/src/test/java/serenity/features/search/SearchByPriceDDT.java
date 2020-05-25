@@ -26,6 +26,7 @@ public class SearchByPriceDDT {
 
     public String name;
     public String price;
+    public String correct;
 
     @Qualifier
     public String getQualifier() {
@@ -38,24 +39,18 @@ public class SearchByPriceDDT {
     @Issue("#EMAG-1")
     @Test
     public void searchEmagByProduct() {
-        String prodName = getName();
-        if (prodName.equals("iphone 10") || prodName.equals("frigider")) {
+        if (getCorrect().equals("t")) {
+            String prodName = getName();
             endUser.is_the_home_page();
             endUser.looks_for(prodName);
             endUser.should_see_price(getPrice());
+        } else {
+            String prodName = getName();
+            endUser.is_the_home_page();
+            endUser.looks_for(prodName);
+            endUser.should_not_find_requested_price(getPrice());
         }
-    }
 
-    @Issue("#EMAG-2")
-    @Test
-    public void searchEmagByProductFilter(){
-        String prodName = getName();
-        if(prodName.equals("macbook") || prodName.equals("minge")){
-            endUser.is_the_home_page();
-            endUser.looks_for(prodName);
-            endUser.use_recycled_filter();
-            endUser.should_see_price(getPrice());
-        }
     }
 
     public String getName() {
@@ -68,6 +63,10 @@ public class SearchByPriceDDT {
 
     public String getPrice() {
         return price;
+    }
+
+    public String getCorrect() {
+        return correct;
     }
 
     public void setPrice(String price) {

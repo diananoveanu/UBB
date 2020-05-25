@@ -1,0 +1,1376 @@
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script src="https://pagead2.googlesyndication.com/pagead/osd.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="https://io.innertrends.com/itl.js" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MRBBPQS&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P976MC3&amp;l=dataLayer"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.UDX1VIHVzxg.O/m=signin2/rt=j/sv=1/d=1/ed=1/am=wQE/rs=AGLTcCNVdgZXO5ryWBS3EsCbC2rOo1FSyw/cb=gapi.loaded_0" async=""></script><script src="https://securepubads.g.doubleclick.net/static/glade/extra_36.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/7251.js?441678" async="" type="text/javascript"></script><script src="https://cdn.optimizely.com/js/1069071886.js?v=1"></script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Anunturi Gratuite  - Peste 4 milioane anunturi  - OLX.ro</title>
+						<meta name="robots" content="noindex, follow">						    <script type="text/javascript" async="" src="//pa.7w.ro/js/trk.js?r=5843969880590949"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script type="application/javascript">
+        function loadDynamicJS() {
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.src = "/api/internal/v1/categories.js";
+            (document.getElementsByTagName("head")[0] || document.documentElement).appendChild(script);
+        }
+
+        if (window.addEventListener) { // W3C standard
+            window.addEventListener('load', loadDynamicJS(), false); // NB **not** 'onload'
+        } else if (window.attachEvent) { // Microsoft
+            window.attachEvent('onload', loadDynamicJS());
+        }
+    </script><script type="text/javascript" src="/api/internal/v1/categories.js"></script>
+		<meta http-equiv="Content-Language" content="ro">
+		<meta name="description" content="">
+							<meta property="og:title" content="Anunturi Gratuite  - Peste 4 milioane anunturi  - OLX.ro">
+					<meta property="fb:app_id" content="296243223724335">
+					<meta property="og:image" content="https://static-olxeu.akamaized.net/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/img/fb/fb-image_redesign.png?t=20-05-21">
+					<meta property="og:type" content="website">
+					<meta property="og:url" content="https://www.olx.ro">
+					<meta property="og:site_name" content="OLX.ro">
+							<link rel="icon" type="image/x-icon" href="https://static-olxeu.akamaized.net/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/img/redesign/favicon.ico?v=2">
+				
+
+    <script type="text/javascript" src="https://static-olxeu.akamaized.net/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js?v=ed4682e7"></script><script type="text/javascript">
+                    try{
+                       var trackingData = JSON.parse('{"$config":{"siteUrl":"www.olx.ro","region":"cee","environment":"production","setup":{"gtm":{"siteCode":"GTM-K4DX4C6"}}},"pageView":{"platform":"desktop","url":"\/cont\/?ref[0][action]=myaccount&amp;ref[0][method]=ind","event_type":"pv","trackPage":"login_page","action_type":"login_page"}}');
+                    } catch(e) {
+                        throw 'error3'+ '{"$config":{"siteUrl":"www.olx.ro","region":"cee","environment":"production","setup":{"gtm":{"siteCode":"GTM-K4DX4C6"}}},"pageView":{"platform":"desktop","url":"\/cont\/?ref[0][action]=myaccount&amp;ref[0][method]=ind","event_type":"pv","trackPage":"login_page","action_type":"login_page"}}';
+                    }
+              </script>
+    <script type="text/javascript">
+        (function(document, window) {
+            var DOMContentLoaded=function(a){var b=function(){return document.attachEvent&&"undefined"!=typeof document.attachEvent?"ie":"not-ie"};return a=function(a){a&&"function"==typeof a?"ie"!==b()?document.addEventListener("DOMContentLoaded",function(){return a()}):document.attachEvent("onreadystatechange",function(){if("complete"===document.readyState)return a()}):console.error("The callback is not a function!")}}(DOMContentLoaded||{});
+                DOMContentLoaded(function() {
+                    if (typeof NinjaTracker !== "undefined") {
+                        NinjaTracker.initEvents();
+                        if (typeof PaymentHandler === "function") { PaymentHandler(); }
+                    } else {
+                        console.log("NinjaTracker Events is undefined, initialization failed!");
+                    }
+                });
+        })(document, window);
+    </script>
+    <script type="text/javascript">
+        var newrelicLicenseKey = "f1ebd821a6";
+        var newrelicApplicationID = "26117661";
+        var newrelicRandomMax = "15";
+    </script>
+    <script src="https://static-olxeu.akamaized.net/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/newrelic.js?v=ed4682e7" type="text/javascript"></script>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+            <script type="text/javascript">
+            var pbjs = pbjs || {}; pbjs.que = pbjs.que || [];
+            var Baxter = Baxter || {}; Baxter.queue = Baxter.queue || [];
+        </script>
+        <script async="" src="https://baxter-cdn.production.olxssa.com/web/olxro.min.js?v=1.0"></script>
+    
+    
+        <script type="text/javascript">
+        var abp = 0;
+        var AdblockPlus = new function () {
+            this.detect = function (px, callback) {
+                var detected = false;
+                var checksRemain = 2;
+                var error1 = false;
+                var error2 = false;
+                if(typeof callback != "function") {
+                    return;
+                }
+                px += "?ch=*&rn=*";
+                function beforeCheck(callback, timeout) {
+                    if (checksRemain == 0 || timeout > 1E3) {
+                        callback(checksRemain == 0 && detected);
+                    } else {
+                        setTimeout(function () {
+                            beforeCheck(callback, timeout * 2)
+                        }, timeout * 2)
+                    }
+                }
+                function checkImages() {
+                    if (--checksRemain) {
+                        return;
+                    }
+                    detected = !error1 && error2
+                }
+                var random = Math.random() * 11;
+
+                var img1 = new Image;
+                img1.onload = checkImages;
+
+                img1.onerror = function () {
+                    error1 = true;
+                    checkImages()
+                };
+                img1.src = px.replace(/\*/, 1).replace(/\*/, random);
+
+                var img2 = new Image;
+                img2.onload = checkImages;
+
+                img2.onerror = function () {
+                    error2 = true;
+                    checkImages()
+                };
+                img2.src = px.replace(/\*/, 2).replace(/\*/, random);
+
+                beforeCheck(callback, 500)
+            }
+        };
+
+        var initAdblock = true;
+        var adblockPixel = 'https://static.criteo.net/images/pixel.gif';
+    </script>
+
+    <script type="text/javascript">
+        var Baxter = Baxter || {}; Baxter.queue = Baxter.queue || [];
+        var showDidomi = 1;
+        var vendor = [91,69,10,76,16,45,50,511,32,52,25,8,12,28,27,26,1,6,30,24,29,39,11,15,4,7,2,37,13,34,57,63,51,49,71,79,85,86,94,73,33,20,55,53,98,62,19,43,36,80,81,23,75,17,61,40,89,46,66,105,41,82,60,70,48,100,21,110,42,112,77,109,120,93,132,22,102,108,18,68,122,97,74,138,72,127,136,111,56,124,154,38,101,149,151,153,159,157,145,131,158,147,130,129,128,168,164,144,163,173,88,78,59,114,175,133,14,180,183,58,140,90,141,142,209,195,190,84,65,210,200,188,217,156,194,226,198,227,225,205,179,31,92,155,115,126,193,245,213,244,224,174,192,232,256,234,246,241,254,215,167,240,235,185,258,169,208,211,229,273,104,162,249,125,170,160,189,279,269,276,87,182,255,203,260,237,274,280,239,177,201,150,252,248,161,285,228,299,277,259,289,272,230,253,304,314,257,317,278,291,295,315,165,47,134,325,316,318,199,236,294,143,297,319,290,323,119,302,212,264,44,282,238,284,148,64,301,275,310,139,326,262,331,345,308,270,333,202,328,281,354,320,359,265,349,288,266,339,303,261,83,343,330,231,216,360,361,311,358,152,251,371,344,347,218,350,351,341,380,378,369,184,368,373,214,388,250,223,384,387,312,178,377,382,206,403,385,404,242,376,402,413,400,171,398,415,263,329,389,337,422,421,426,394,287,243,113,338,405,416,434,435,409,321,436,442,362,418,449,443,429,335,407,427,374,438,450,452,444,412,454,455,298,423,397,381,425,365,447,410,137,395,462,466,340,431,336,430,346,469,440,375,196,268,475,474,448,428,461,476,480,366,392,357,486,468,458,489,484,493,495,496,424,408,473,467,488,490,464,491,499,502,465,497,492,508,512,471,494,516,507,482,505,517,518,479,513,509,521,487,515,520,524,529,528,527,506,534,535,514,522,530,539,501,519,523,537,531,536,542,525,544,543,334,551,540,547,546,541,545,439,553,556,550,560,554,498,565,118,572,571,568,570,559,548,569,577,590,587,578,580,593,574,581,598,596,576,592,549,597,584,601,599,604,606,608,602,612,591,614,615,607,609,617,620,610,621,624,623,95,618,619,625,628,630,626,631,627,638,644,639,635,579,645,653,613,573,652,646,648,647,654,659,656,504,"google"];
+        var newVendor = {"11":8,"12":12,"13":28,"14":27,"15":26,"16":1,"17":6,"18":30,"19":24,"20":29,"21":39,"22":11,"23":15,"24":4,"25":7,"26":2,"27":37,"28":13,"29":34,"30":57,"31":63,"32":51,"33":49,"34":71,"35":79,"36":85,"37":86,"38":94,"39":73,"40":33,"41":20,"42":55,"43":53,"44":98,"45":62,"46":19,"47":43,"48":36,"49":80,"50":81,"51":23,"52":75,"53":17,"54":61,"55":40,"56":89,"57":46,"58":66,"59":105,"60":41,"61":82,"62":60,"63":70,"64":48,"65":100,"66":21,"67":110,"68":42,"69":112,"70":77,"71":109,"72":120,"73":93,"74":132,"75":22,"76":102,"77":108,"78":18,"79":68,"80":122,"81":97,"82":74,"83":138,"84":72,"85":127,"86":136,"87":111,"88":56,"89":124,"90":154,"91":38,"92":101,"93":149,"94":151,"95":153,"96":159,"97":157,"98":145,"99":131,"100":158,"101":147,"102":130,"103":129,"104":128,"105":168,"106":164,"107":144,"108":163,"109":173,"110":88,"111":78,"112":59,"113":114,"114":175,"115":133,"116":14,"117":180,"118":183,"119":58,"120":140,"121":90,"122":141,"123":142,"124":209,"125":195,"126":190,"127":84,"128":65,"129":210,"130":200,"131":188,"132":217,"133":156,"134":194,"135":226,"136":198,"137":227,"138":225,"139":205,"140":179,"141":31,"142":92,"143":155,"144":115,"145":126,"146":193,"147":245,"148":213,"149":244,"150":224,"151":174,"152":192,"153":232,"154":256,"155":234,"156":246,"157":241,"158":254,"159":215,"160":167,"161":240,"162":235,"163":185,"164":258,"165":169,"166":208,"167":211,"168":229,"169":273,"170":104,"171":162,"172":249,"173":125,"174":170,"175":160,"176":189,"177":279,"178":269,"179":276,"180":87,"181":182,"182":255,"183":203,"184":260,"185":237,"186":274,"187":280,"188":239,"189":177,"190":201,"191":150,"192":252,"193":248,"194":161,"195":285,"196":228,"197":299,"198":277,"199":259,"200":289,"201":272,"202":230,"203":253,"204":304,"205":314,"206":257,"207":317,"208":278,"209":291,"210":295,"211":315,"212":165,"213":47,"214":134,"215":325,"216":316,"217":318,"218":199,"219":236,"220":294,"221":143,"222":297,"223":319,"224":290,"225":323,"226":119,"227":302,"228":212,"229":264,"230":44,"231":282,"232":238,"233":284,"234":148,"235":64,"236":301,"237":275,"238":310,"239":139,"240":326,"241":262,"242":331,"243":345,"244":308,"245":270,"246":333,"247":202,"248":328,"249":281,"250":354,"251":320,"252":359,"253":265,"254":349,"255":288,"256":266,"257":339,"258":303,"259":261,"260":83,"261":343,"262":330,"263":231,"264":216,"265":360,"266":361,"267":311,"268":358,"269":152,"270":251,"271":371,"272":344,"273":347,"274":218,"275":350,"276":351,"277":341,"278":380,"279":378,"280":369,"281":184,"282":368,"283":373,"284":214,"285":388,"286":250,"287":223,"288":384,"289":387,"290":312,"291":178,"292":377,"293":382,"294":206,"295":403,"296":385,"297":404,"298":242,"299":376,"300":402,"301":413,"302":400,"303":171,"304":398,"305":415,"306":263,"307":329,"308":389,"309":337,"310":422,"311":421,"312":426,"313":394,"314":287,"315":243,"316":113,"317":338,"318":405,"319":416,"320":434,"321":435,"322":409,"323":321,"324":436,"325":442,"326":362,"327":418,"328":449,"329":443,"330":429,"331":335,"332":407,"333":427,"334":374,"335":438,"336":450,"337":452,"338":444,"340":454,"341":455,"342":298,"343":423,"344":397,"345":381,"346":425,"347":365,"348":447,"349":410,"350":137,"351":395,"352":462,"353":466,"354":340,"355":431,"356":336,"357":430,"358":346,"359":469,"360":440,"361":375,"362":196,"363":268,"364":475,"365":474,"366":448,"367":428,"368":461,"369":476,"370":480,"371":366,"372":392,"373":357,"374":486,"375":468,"376":458,"377":489,"378":484,"379":493,"380":495,"381":496,"382":424,"383":408,"384":473,"385":467,"386":488,"387":490,"388":464,"389":491,"390":499,"391":502,"392":465,"393":497,"394":492,"395":508,"396":512,"397":471,"398":494,"399":516,"400":507,"401":482,"402":505,"403":517,"404":518,"405":479,"406":513,"407":509,"408":521,"409":487,"410":515,"411":520,"412":524,"413":529,"414":528,"415":527,"416":506,"417":534,"418":535,"419":514,"420":522,"421":530,"422":539,"423":501,"424":519,"425":523,"426":537,"427":531,"428":536,"429":542,"430":525,"431":544,"432":543,"433":334,"434":551,"435":540,"436":547,"437":546,"438":541,"439":545,"440":439,"441":553,"442":556,"443":550,"444":560,"445":554,"446":498,"447":565,"448":118,"449":572,"450":571,"451":568,"452":570,"453":559,"454":548,"455":569,"456":577,"457":590,"458":587,"459":578,"460":580,"461":593,"462":574,"463":581,"464":598,"465":596,"466":576,"467":592,"468":549,"469":597,"470":584,"471":601,"472":599,"473":604,"474":606,"475":608,"476":602,"477":612,"478":591,"479":614,"480":615,"481":607,"482":609,"483":617,"484":620,"485":610,"486":621,"487":624,"488":623,"489":95,"490":618,"491":619,"492":625,"493":628,"494":630,"495":626,"496":631,"497":627,"498":638,"499":644,"500":639,"501":635,"502":579,"503":645,"504":653,"505":613,"506":573,"507":652,"508":646,"509":648,"510":647,"511":654,"512":659,"513":656,"514":504,"515":"google"};
+        var hasGoogleIntegration = true;
+        var vendorVersion = 4;
+        window.didomiConfig = {
+            website: {
+                apiKey: 'ee8f2b48-6e6d-4657-af88-8521d468880e',
+                name: 'OLX',
+                vendors: {
+                    iab: {
+                        include: window.vendor
+                    }
+                },
+                privacyPolicyURL: 'https://ajutor.olx.ro/hc/ro/articles/360000012640'
+            },
+            languages: {
+                enabled: ["ro"],
+                default: "ro"
+            },
+            theme: {
+                color: '#0098d0'
+            },
+            notice: {
+                enable: false
+            },
+            preferences : {
+                defaultChoice : true,
+                content : {
+                    text : {
+                        'pl' : 'Na swoich stronach Grupa OLX sp. z o.o. wraz z partnerami używają plików cookies i podobnych technologii do ulepszania i dostosowywania treści, analizy ruchu, dostarczania reklam oraz ochrony przed spamem, złośliwym oprogramowaniem i nieuprawnionym dostępem. Możesz dowiedzieć się więcej o tym jak my i nasi partnerzy używamy plików cookies i podobnych technologii <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">tutaj</a>. Możesz wyłączyć pliki cookies naszych partenerów używane na tej stronie internetowej zmianiając swoje ustawienia <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">tutaj</a>.',
+                        'ro' : 'Pe acest website, noi și partenerii noștri folosim cookie-uri și tehnologii similare in scopul imbunatatirii si personalizarii continutului nostru, pentru analizarea traficului, pentru a va furniza publicitate și pentru a ne proteja sistemele împotriva malware-ului și a accesului neautorizat. Puteți afla mai multe despre modul în care noi și partenerii noștri folosim cookie-uri și tehnologii similare <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">aici</a>. Puteți dezactiva modulele cookie ale partenerilor noștri pe acest website prin modificarea setărilor <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">aici</a>',
+                        'pt' : 'Neste website, nós e os nossos parceiros usamos cookies e tecnologias afins para melhorar e personalizar o conteúdo, analisar o tráfego, enviar publicidade e proteger os nossos sistemas contra malware e acessos não autorizados. Se quiser, pode obter mais informação sobre como nós e os nossos parceiros usamos cookies e tecnologias afins <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">aqui</a>. Pode desativar, neste website, os cookies dos nossos parceiros, alterando as suas configurações <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">aqui</a>.',
+                        'bg' : 'В този уебсайт, ние и нашите партньори, използваме „бисквитки” ("cookies") и подобни технологии с цел подобряване и персонализиране на съдържанието, анализиране на трафика, предоставяне на реклама и осигуряване на защита за нашите системи от злонамерен софтуер и непозволен достъп. <br/>Можете да научите повече за това как ние и нашите партньори използваме „бисквитки” и подобни технологии <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" target="_blank">тук</a><br/>Можете да деактивирате „бисквитките” на нашите партньори в този уебсайт, като промените настройките си <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" target="_blank">тук</a>',
+                        'ru' : '«На этом веб-сайте мы и наши партнеры используем файлы cookies и аналогичные технологии для улучшения и настройки контента, анализа трафика, предоставления рекламы и защиты наших систем от вредоносных программ и несанкционированного доступа. Вы можете узнать больше о том, как мы и наши партнеры используем файлы cookies и аналогичные технологии <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">здесь</a>. Вы можете отключить файлы cookies наших партнеров на этом веб-сайте, изменив настройки <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">здесь</a>. <br/>ЗАМЕНИТЬ кнопку X в текущем баннере кнопкой «Я принимаю».',
+                        'uk' : 'На нашому веб-сайті ми і наші партнери використовуємо файли cookies та подібні технології для покращення та налаштування контенту, аналізу трафіку, реклами та захисту наших систем від шкідливого та несанкціонованого доступу. Ви можете деактивувати файли cookies наших партнерів на цьому веб-сайті, змінюючи налаштування <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">тут</a>. <br/>ЗАМЕНИТИ кнопку X у теперешньому банері  кнопкою "Я приймаю".'
+                    },
+                    textVendors : {
+                        'pl' : 'Podczas korzystania z naszych usług na Twoim urządzeniu umieszczane są pliki cookies Grupy OLX sp. z o.o. oraz naszych partnerów. W celu ulepszenia i dostosowywania treści oraz dostarczania i ulepszania reklam, pliki cookies mogą mieć dostęp do danych osobowych oraz innych informacji znajdujących się na Twoim urządzeniu. Możesz zaakceptować wszystkie albo część plików cookies korzystając z ustawień poniżej. Pamiętaj jednak, że ustawienia te dotyczą wyłącznie plików cookies naszych partnerów. Grupa OLX sp. z o.o. w związku z korzystaniem z naszych usług, wciąż będzie umieszczać własne pliki cookies na Twoim urządzeniu. Aby dowiedzieć się więcej o plikach cookies, naszych partnerach oraz o tym jak kontrolować przetwarzania swoich danych osobowych odwiedź naszą <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">Politykę prywatności</a> oraz nasza <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" target="_blank">Politykę dotyczącą Cookies i podobnych technologii</a>.',
+                        'ro' : 'Pe lângă propriile cookie-uri, partenerii noștri plasează cookie-uri pe dispozitivul dumneavoastra atunci când vizitați serviciile noastre. Aceste cookie-uri pot accesa și utiliza informații personale și non-personale de pe dispozitivul dumneavoastra in scopul îmbunătățirii serviciilor noastre și pentru personalizarea anunțurilor și a conținutului oferit în cadrul serviciului nostru. Puteți accepta aceste procese, in totalitate sau partial, prin ajustarea setărilor de mai jos. Rețineți că aceste setări se referă doar la modulele cookie ale partenerilor noștri. Vom continua sa plasam cookie-uri pentru analiza vizitatorilor pe dispozitivul dumneavoastra. Pentru a afla mai multe despre cookie-uri, partenerii nostri și cum să controlați utilizarea datelor, vizitați <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">Politica noastră de confidențialitate</a> și <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" target="_blank">Politica noastră de cookie-uri</a>.',
+                        'pt' : 'Além dos nossos próprios cookies, os nossos parceiros também colocam cookies no seu dispositivo quando visita os nossos serviços. Esses cookies podem aceder e usar dados pessoais ou não pessoais, no ou a partir do seu dispositivo, para melhorar os nossos serviços, assim como para personalizar anúncios e outros conteúdos através do nosso serviço. Pode aceitar a totalidade ou apenas partes destes sistemas, ajustando as configurações abaixo. Tenha em atenção que estas definições referem-se apenas a cookies dos nossos parceiros. Colocamos ainda cookies próprios no seu dispositivo. <br/>Para saber mais sobre cookies, os nossos parceiros, e como controlar o uso de seus dados, visite a nossa <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">Política de Privacidade</a> e a nossa <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" target="_blank">Política de Cookies</a>.',
+                        'bg' : 'Освен нашите собствени „бисквитки” ("cookies"), нашите партньори също така поставят „бисквитки” във вашето устройство, когато използвате нашите услуги. <br/>Тези "бисквитки" могат да имат достъп и да използват персонална и неперсонална  информация от вашето устройство, за да подобрят предоставяните от нас услуги и да персонализират рекламите и друг вид съдържание от нашите услуги. <br/>Можете да приемете всички или части от тези процеси като промените настройките по-долу. <br/>Моля, имайте предвид, че тези настройки се отнасят само за „бисквитките” на нашите партньори. Ние ще продължаваме да поставяме собствени „бисквитки” в устройството ви.<br/> За да научите повече за „бисквитките”, нашите партньори и как да контролирате използването на вашите данни, посетете нашите <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">Политика за поверителност</a> <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" target="_blank">Политика за използване на „бисквитки”.</a>',
+                        'ru' : 'Помимо наших собственных файлов cookies, наши партнеры также размещают файлы cookies на вашем устройстве, когда вы посещаете наши сервисы. Эти файлы cookies могут получать доступ и использовать персональную и не персональную информацию с вашего устройства для улучшения наших услуг и персонализации рекламы и другого содержимого в рамках всего нашего сервиса. Вы можете принять все или часть этих процессов, изменив настройки ниже. Помните, что эти настройки относятся только к файлам cookies наших партнеров. Мы по-прежнему будем размещать собственные cookies на вашем устройстве. Чтобы узнать больше о файлах cookies, партнерах и о том, как контролировать использование ваших данных, посетите наши <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">Политика конфиденциальности</a> и <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">Политика использования файлов cookies</a>',
+                        'uk' : 'Крім наших власних файлів cookies, наші партнери також розміщують файли cookies  на вашому пристрої під час відвідування наших сервісів. Ці файли cookies  можуть отримувати доступ до персональної та не персональної інформації з вашого пристрою та використовувати її для покращення наших послуг та персоналізації оголошень та іншого контенту на нашому сервісі. Ви можете прийняти всі чи частину цих процесів, налаштувавши наведені нижче параметри. Майте на увазі, що ці налаштування стосуються лише файлів cookies наших партнерів. Ми як і раніше розміщуватимемо власні файли cookies на вашому пристрої. Щоб дізнатися більше про файли cookies партнерів і як контролювати використання ваших даних, перейдіть до нашої <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">Політика конфіденційності</a> та нашої <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" target="_blank">Політика використання файлів cookies]</a>.'
+                    }
+                }
+            }
+        };
+
+        window.canRefreshDFPAds = true;
+        window.didomiEventListeners = window.didomiEventListeners || [];
+        window.didomiOnReady = window.didomiOnReady  || [];
+        window.didomiOnReady.push(function () {
+            function getCookie(name) {
+                var cookiePattern = '(^| )' + name + '=([^;]+)';
+                var match = document.cookie.match(new RegExp(cookiePattern));
+                if (match) {
+                    return match[2];
+                }
+
+                return null
+            }
+            var VENDORS_VERSION_WITH_ENABLED_RESET = 3;
+            if (!getCookie('cmpreset') && getCookie('cmpvendors') <= VENDORS_VERSION_WITH_ENABLED_RESET) {
+                Didomi.reset();
+            }
+            if (getCookie('euconsent') && window.newVendor.length) {
+                var transaction = Didomi.openTransaction();
+                for (var index in window.newVendor) {
+                    transaction.enableVendor(window.newVendor[index]);
+                }
+                transaction.commit();
+            }
+        });
+
+        if (hasGoogleIntegration) {
+            window.canRefreshDFPAds = false;
+            window.didomiConfig.website.vendors.didomi = ['google'];
+            window.didomiConfig.integrations = {
+                vendors: {
+                    google: {
+                        enable: true,
+                        eprivacy: false,
+                        refresh: false
+                    }
+                }
+            };
+            window.didomiEventListeners.push({
+                event: 'integrations.consentpassedtodfp',
+                listener: function (data) {
+                    window.Baxter.queue.push(function() {
+                        if (window.Baxter.didomi) {
+                            window.Baxter.didomi.setUserConsentInformation();
+                        } else if (window.Baxter.features && window.Baxter.features.didomi) {
+                            window.Baxter.features.didomi.setUserConsentInformation();
+                        }
+                    });
+                    window.canRefreshDFPAds = true;
+                }
+            });
+        } else {
+            window.Baxter.queue.push(function() {
+                if (window.Baxter.didomi) {
+                    window.Baxter.didomi.setUserConsentInformation();
+                } else if (window.Baxter.features && window.Baxter.features.didomi) {
+                    window.Baxter.features.didomi.setUserConsentInformation();
+                }
+            })
+        }
+    </script>
+    <script type="text/javascript">
+        window.gdprAppliesGlobally = true;
+        (function () { function n() { if (!window.frames.__cmpLocator) { if (document.body && document.body.firstChild) { var e = document.body; var t = document.createElement("iframe"); t.style.display = "none"; t.name = "__cmpLocator"; e.insertBefore(t, e.firstChild) } else { setTimeout(n, 5) } } } function e(e, t, n) { if (typeof n !== "function") { return } if (!window.__cmpBuffer) { window.__cmpBuffer = [] } if (e === "ping") { n({ gdprAppliesGlobally: window.gdprAppliesGlobally, cmpLoaded: false }, true) } else { window.__cmpBuffer.push({ command: e, parameter: t, callback: n }) } } e.stub = true; function t(a) { if (!window.__cmp || window.__cmp.stub !== true) { return } if (!a.data) { return } var r = typeof a.data === "string"; var e; try { e = r ? JSON.parse(a.data) : a.data } catch (t) { return } if (e.__cmpCall) { var i = e.__cmpCall; window.__cmp(i.command, i.parameter, function (e, t) { var n = { __cmpReturn: { returnValue: e, success: t, callId: i.callId } }; a.source.postMessage(r ? JSON.stringify(n) : n, "*") }) } } if (typeof window.__cmp !== "function") { window.__cmp = e; if (window.addEventListener) { window.addEventListener("message", t, false) } else { window.attachEvent("onmessage", t) } } n() })();
+    </script>
+    <script type="text/javascript" id="spcloader" src="https://sdk.privacy-center.org/loader.js" async=""></script>
+
+				<!-- HEAD CONTRIB -->
+
+            <script type="text/javascript">
+            var trackingData = trackingData || {}; 
+                                try{
+                    trackingData.$data = JSON.parse('{"pageView":{"user_status":"unlogged","traffic_source":"direct"},"delayedEvents":[]}');
+                    } catch(e) {
+                       throw 'error4' + '{"pageView":{"user_status":"unlogged","traffic_source":"direct"},"delayedEvents":[]}';
+                    }
+                    
+            if (typeof NinjaTracker !== "undefined") {
+    
+                NinjaTracker.init();
+            } else {
+                console.log("NinjaTracker is undefined, initialization failed!");
+            }
+            </script><script type="text/javascript" async="" src="https://ninja.data.olxcdn.com/ninja-cee.js"></script><noscript><img width="1" height="1" src="https://tracking.olx-st.com/h/v2/it-cee?cou=RO&cisoid=642&cid=175&pid=8&cC=RO&bR=olx&rE=h&trackPage=login_page&eN=login_page&tN=p&platformType=desktop&extra=%7B%22url%22%3A%22%5C%2Fcont%5C%2F%3Fref%5B0%5D%5Baction%5D%3Dmyaccount%26amp%3Bref%5B0%5D%5Bmethod%5D%3Dind%22%7D&event_type=pv&action_type=login_page&user_status=unlogged&traffic_source=direct&pageName=cont%2F&cP=cont%2F&mv=1.0.67&t=1590041424&host=www.olx.ro&referrer=https%3A%2F%2Fwww.olx.ro%2F&ivd=olx-ro_organic&source=noscript&js=0"/>
+</noscript>
+
+
+
+
+
+
+														<script type="text/javascript">
+						var _adblock = true;
+					</script>
+					<script type="text/javascript" src="https://static-olxeu.akamaized.net/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js?v=ed4682e7"></script>
+								    	    																		<link rel="stylesheet" type="text/css" href="https://static-olxeu.akamaized.net/static/olxro/packed/sw281c1ba3293b8ffec6b1f935933d77c3.css">
+																										<!--[if lte IE 8]>						<link rel="stylesheet" type="text/css" href="https://static-olxeu.akamaized.net/static/olxro/packed/swe752d0567ad5619d060cc2970e4552eb.css">
+					<![endif]-->									
+		
+					<script type="text/javascript">
+				window.suggestmeyes_loaded = true;
+			    						var action='account';
+			    						var method='index';
+			    						var user_logged=0;
+			    						var urls_config={"CMT_PROMO_CATEGORIES":"https:\/\/categories.stg.olxtech.pl\/promo\/categories\/active"};
+			    						var www_base='https://www.olx.ro';
+			    						var www_base_no_namespace='https://www.olx.ro';
+			    						var www_base_ajax='https://www.olx.ro/ajax';
+			    						var static_files_www_base='https://static-olxeu.akamaized.net/static/olxro/';
+			    						var external_static_files_www_base='https://static-olxeu.akamaized.net/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/';
+			    						var external_static_files_www_base_main='https://static-olxeu.akamaized.net/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/';
+			    						var session_domain='olx.ro';
+			    						var site_domain='www.olx.ro';
+			    						var decimal_separator=',';
+			    						var thousands_separator=' ';
+			    						var sitecode='olxro';
+			    						var defaultCurrency='EUR';
+			    						var config_currency='€';
+			    						var useExternalScripts=1;
+			    						var lang='ro';
+			    						var hasRwd=0;
+			    						var module_ad_discount_push=1;
+			    						var module_rodo=1;
+			    						var module_invoice_dropdowns=1;
+			    						var module_landing_page_courier=1;
+			    						var module_choose_delivery=1;
+			    						var module_facebook_login=1;
+			    						var module_newmoderation=1;
+			    						var module_currencies=1;
+			    						var module_currencies_new=1;
+			    						var module_solr_currency_sorting_index=1;
+			    						var module_solr_currency_sorting_on_query=1;
+			    						var module_paidads=1;
+			    						var module_extend_ad=1;
+			    						var module_new_search_filters=1;
+			    						var module_new_myaccount=1;
+			    						var module_block_partners_ads_management=1;
+			    						var module_mobile_app=1;
+			    						var module_courier=1;
+			    						var module_antispam_email=1;
+			    						var module_contact_as_image=1;
+			    						var module_courier_mother_promotion=1;
+			    						var module_googleplus=1;
+			    						var module_contest_june=1;
+			    						var module_disable_free_refresh_categories=1;
+			    						var module_fraud_detection=1;
+			    						var module_mareapromotie=1;
+			    						var module_ap_staticfiles=1;
+			    						var module_november_campaign=1;
+			    						var module_fraud_detector_queue=1;
+			    						var module_i2_payment=1;
+			    						var module_multiacc=1;
+			    						var module_redis_hash=1;
+			    						var module_ab_new_design=1;
+			    						var module_anonymous_chat_app=1;
+			    						var module_phone_in_desc=1;
+			    						var module_ads_no_results=1;
+			    						var module_remarketing_datalayer=1;
+			    						var module_new_at=1;
+			    						var module_bonus_credits=1;
+			    						var module_hermes_new_api=1;
+			    						var module_topupaccount_wallet=1;
+			    						var module_payu_topup_module=1;
+			    						var module_paid_limits=1;
+			    						var module_mweb_shops=1;
+			    						var module_new_tracking=1;
+			    						var module_new_tracking_i2=1;
+			    						var module_ninja_m_legacy=1;
+			    						var module_clm=1;
+			    						var module_user_online_status=1;
+			    						var module_gpt_banners=1;
+			    						var module_gpt_banners_i2=1;
+			    						var module_pushup_new=1;
+			    						var module_topupaccount_newemail=1;
+			    						var module_show_limits_price_on_posting_form=1;
+			    						var module_pushup_automatic=1;
+			    						var module_rest_api=1;
+			    						var module_adsense_new=1;
+			    						var module_crm=1;
+			    						var module_payment_card_info=1;
+			    						var module_observed_new=1;
+			    						var module_ap_ldap_login=1;
+			    						var module_criteo=1;
+			    						var module_vas_config_wallet_before=1;
+			    						var module_vas_config_invoice_before=1;
+			    						var module_vas_config_wallet=1;
+			    						var module_new_safety_tips=1;
+			    						var module_vas_config_invoice=1;
+			    						var module_vas_config_tariff_bonus_points=1;
+			    						var module_vas_config_topads=1;
+			    						var module_vas_config_nnl_business_limits=1;
+			    						var module_new_dfp=1;
+			    						var module_observed_anonymous=1;
+			    						var module_new_controllers=1;
+			    						var module_afs_query=1;
+			    						var module_user_sms_verification=1;
+			    						var module_afs_on_empty_search_i2=1;
+			    						var module_vas_config_nnl_limits=1;
+			    						var module_new_jobs=1;
+			    						var module_user_photo=1;
+			    						var module_enable_premium_account=1;
+			    						var module_group_activation_of_limited_ads=1;
+			    						var module_mandatory_login=1;
+			    						var module_flagged_ads=1;
+			    						var module_shop_filters=1;
+			    						var module_dfp_user_groups=1;
+			    						var module_multipay_ati_new_report=1;
+			    						var module_users_without_password_detector=1;
+			    						var module_remove_emailanswers_on_posting=1;
+			    						var module_test_abc_contact_phone=1;
+			    						var module_paid_feature_expires=1;
+			    						var module_nps_survey=1;
+			    						var module_mandatory_login_for_chat=1;
+			    						var module_treatments=1;
+			    						var module_app_homescreen=1;
+			    						var module_app_homescreen_tiles=1;
+			    						var module_log_sent_emails=1;
+			    						var module_phone_views_logs=1;
+			    						var module_invoiceform=1;
+			    						var module_atlasorm=1;
+			    						var module_postpaid=1;
+			    						var module_track_features=1;
+			    						var module_bundles=1;
+			    						var module_bundles_vas=1;
+			    						var module_bundles_packet=1;
+			    						var module_bundles_frontend_variant_3=1;
+			    						var module_bundles_infolayer=1;
+			    						var module_discount_tool=1;
+			    						var module_new_gallery_i2=1;
+			    						var module_payment_click_tracking=1;
+			    						var module_pricing_test_group_assignment=1;
+			    						var module_vas_valid_to_date=1;
+			    						var module_change_localisation_label=1;
+			    						var module_users_extra_data=1;
+			    						var module_tradus=1;
+			    						var module_delivery=1;
+			    						var module_nps_jobs_survey_db_tables=1;
+			    						var module_vas_logo=1;
+			    						var module_ad_paid_features=1;
+			    						var module_mass_tests=1;
+			    						var module_storia_redirect_tab=1;
+			    						var module_wallet_always_active_backend=1;
+			    						var module_cv_upload=1;
+			    						var module_tracking_fix=1;
+			    						var module_jobs_message_prefill=1;
+			    						var module_last_messages_in_conversations=1;
+			    						var module_new_category_suggester=1;
+			    						var module_afs_refactor=1;
+			    						var module_test_afc_afs_slots_listing=1;
+			    						var module_dmp_sati=1;
+			    						var module_adblock_targeting=1;
+			    						var module_adblock_targeting_new=1;
+			    						var module_disable_ads_output_cache=1;
+			    						var module_disable_ad_output_cache=1;
+			    						var module_race_test_prediction=1;
+			    						var module_b2c_business_page=1;
+			    						var module_premium_banner=1;
+			    						var module_medical_category=1;
+			    						var module_vas_config_refresh_for_packages=1;
+			    						var module_sms_verification_phone_search=1;
+			    						var module_vas_logo_link=1;
+			    						var module_payment_providers_configurable=1;
+			    						var module_answers_with_phone=1;
+			    						var module_messages_recaptcha=1;
+			    						var module_rabbit_mq=1;
+			    						var module_ab_tests=1;
+			    						var module_register_restrict_email=1;
+			    						var module_async_event_bus=1;
+			    						var module_wallet_history=1;
+			    						var module_promo_points=1;
+			    						var module_highlight_salary_parameter_in_edit=1;
+			    						var module_gdpr_default_settings=1;
+			    						var module_advertising_test_token=1;
+			    						var module_new_free_connection=1;
+			    						var module_skip_free_mysql_connection=1;
+			    						var module_disable_say_hello=1;
+			    						var module_skip_session_cache_country_prefix=1;
+			    						var module_messages_spammers=1;
+			    						var module_db_aurora=1;
+			    						var module_laquesis=1;
+			    						var module_tariff_basket=1;
+			    						var module_new_friendly_links_category_repository=1;
+			    						var module_disable_slash_m=1;
+			    						var module_user_extended_in_ad_card=1;
+			    						var module_api_session_in_memory=1;
+			    						var module_payment_session_status_changes=1;
+			    						var module_periodic_phone_blocking=1;
+			    						var module_session_eviction_recovery=1;
+			    						var module_invoice_limit_info=1;
+			    						var module_app_control_akamai_bot_manager=1;
+			    						var module_comms=1;
+			    						var module_vas_validity_message=1;
+			    						var module_ad_discount=1;
+			    						var module_hide_adverts_slots=1;
+			    						var module_delete_secure=1;
+			    						var module_new_sidebar=1;
+			    						var module_show_photo_setting=1;
+			    						var module_recaptcha=1;
+			    						var module_ads_efficiency=1;
+			    						var module_phone_views_block_scammers=1;
+			    						var module_appleAllowLongPushes=1;
+			    						var module_seo_storia=1;
+			    						var module_remove_old_ati=1;
+			    						var module_invoicedata_posting=1;
+			    						var module_myaccount_courier_activation=1;
+			    						var module_sns_events=1;
+			    						var module_dfp_refactor=1;
+			    						var module_new_dfp_segment=1;
+			    						var module_apollo_stage0=1;
+			    						var module_apollo_stage1=1;
+			    						var module_apollo_stage2=1;
+			    						var module_apollo_stage3=1;
+			    						var module_dfp_segment_mysql=1;
+			    						var module_gdpr_amnesia=1;
+			    						var module_wallet_as_a_service=1;
+			    						var module_exchange_rate=1;
+			    						var module_didomi_cmp=1;
+			    						var module_user_activity_tracker=1;
+			    						var module_price_project_price_manager_prerequisite=1;
+			    						var module_adscreen_recommendations_experiment_enabled=1;
+			    						var module_measure_request_to_cognito=1;
+			    						var module_telegraph_moderation=1;
+			    						var module_ad_cache_with_apollo_images_from_master_db=1;
+			    						var module_cmt_dynamicjs=1;
+			    						var module_password_leak_usage_metric=1;
+			    						var module_solr_cloud=1;
+			    						var module_accurate_location=1;
+			    						var module_password_hashing=1;
+			    						var module_history_extra_info=1;
+			    						var module_packet_validity_date=1;
+			    						var module_observed_push=1;
+			    						var module_mobile_slot_manager=1;
+			    						var module_apps_disable_alog=1;
+			    						var module_wp_nativemode=1;
+			    						var module_hermes_comments_synchronization=1;
+			    						var module_ab_force_login_posting=1;
+			    						var module_db_query_time_monitoring=1;
+			    						var module_force_login_posting=1;
+			    						var module_use_www_subdomain=1;
+			    						var module_flagged_ads_alter=1;
+			    						var module_ssl_only=1;
+			    						var module_staticpage_rules=1;
+			    						var module_newrelic_api_app=1;
+			    						var module_hermes_messages=1;
+			    						var module_new_hermes_executor=1;
+			    						var module_vas_treatments_thresholds_test_log=1;
+			    						var module_dmp_uuid=1;
+			    						var module_statistics_i2=1;
+			    						var module_ignore_sub_region_in_searches=1;
+			    						var module_multipay_touchpoints=1;
+			    						var module_eventbus_publisher=1;
+			    						var module_fair_expiration=1;
+			    						var module_fair_expiration_moderated_end=1;
+			    						var module_log_erec_emails=1;
+			    						var module_use_tokens_for_login=1;
+			    						var module_S3FileStorage=1;
+			    						var module_mweb_ad=1;
+			    						var module_mweb_listing=1;
+			    						var module_mweb_menu=1;
+			    						var module_mweb_home=1;
+			    						var module_mweb_alternate_links=1;
+			    						var module_mweb_login=1;
+			    						var module_mweb_chat=1;
+			    						var module_mweb_ads_management=1;
+			    						var module_tariff_tester_prerequisite=1;
+			    						var module_tariff_tester=1;
+			    						var module_price_project_data_service=1;
+			    						var module_cmp=1;
+			    						var module_disable_banned_ips=1;
+			    						var module_control_engine=1;
+			    						var module_sqs_queue=1;
+			    						var module_redis_cluster=1;
+			    						var module_send_saved_searches_tracking_to_hydra=1;
+			    						var module_price_project_discount_dealer=1;
+			    						var module_redis_backend_disabled=1;
+			    						var module_redis_frontend_disabled=1;
+			    						var module_redis_observed_disabled=1;
+			    						var module_redis_cluster_observed=1;
+			    						var module_password_crack_time=1;
+			    						var module_browser_fingerprint=1;
+			    						var module_gdpr_amnesia_sns=1;
+			    						var module_statsd=1;
+			    						var module_redis_cluster_migration_finished=1;
+			    						var module_redis_cluster_observed_migration_finished=1;
+			    						var module_send_user_moderation_events_to_karma=1;
+			    						var module_price_project_price_manager=1;
+			    						var module_cognito_user_pool=1;
+			    						var module_cmt_tree=1;
+			    						var module_cmt_category_icon=1;
+			    						var module_cmt_category_type=1;
+			    						var module_disable_notifications_settings_for_device_users=1;
+			    						var module_debug_notifications_settings=1;
+			    						var module_disable_verification_targeting=1;
+			    						var module_olx_redesign=1;
+			    						var isTestServer=0;
+			    						var sms_verified=0;
+			    						var user_sms_verified=1;
+			    						var mobileNumberPatternJs='^(?:\\+?(4))?((?:070|071|072|073|074|075|076|077|078|079)[0-9]{7})$';
+			    						var dmp_sati=1;
+			    						var referrer='https://www.olx.ro/myaccount/';
+			    						var featurePasswordValidationStrong='1';
+			    						var google_client_id='951778777232-p9s5tcfiqvtkq6dei0kfa1hea8223brg.apps.googleusercontent.com';
+			    						var csrfAddAdToObserved='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTAwNDMyMjN9.YBmpQeJzWceYq6LL7z1IkLKRntJFdvdKLXoyFJYLeZk';
+			    						var csrfRemoveAdFromObserved='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTAwNDMyMjN9.nhy7h7sVYIapyNCbDdCPMaM7ksmP4O9dtGRpgLdOtYo';
+			    			    function __(txt) {
+				if (typeof translations == 'object') {
+							if (translations[txt] == undefined) {
+								return txt;
+							} else {
+								return translations[txt];
+							}
+				}
+				return txt;
+			    }
+			</script><script type="text/javascript" async="" src="https://sdk.privacy-center.org/sdk.5bed71644401d3d993c717a474c48972ecdaa39a.js" charset="utf-8"></script><script src="https://www.google.com/adsense/search/ads.js" type="text/javascript" async=""></script><script src="https://static.criteo.net/js/ld/publishertag.js" type="text/javascript" async=""></script><script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript" async=""></script><script src="https://www.googletagservices.com/tag/js/gpt.js" type="text/javascript" async=""></script><script src="//code3.adtlgc.com/js/sati_init.js" type="text/javascript" async=""></script><link id="baxter-style-id-olxro.css" rel="stylesheet" type="text/css" href="https://baxter-cdn.production.olxssa.com/web/olxro.css" media="all">
+		        <!--[if lt IE 9]>
+        	<script type="text/javascript" src="https://static-olxeu.akamaized.net/static/olxro/js/scripts/html5shiv.min.js"></script>
+		<![endif]-->
+		<meta name="google-site-verification" content="jKFIAeuSVGEwL2vWTBTbpDtiU0D_DYhluaScAF4lV0k">
+    <meta name="cXenseParse:pageclass" content="frontpage">
+<meta name="cXenseParse:url" content="https://www.olx.ro">
+    <!-- Cxense SATI script begin -->
+    <!-- Cxense SATI script 2.1 begin -->
+    <script type="text/javascript" async="" src="//code3.adtlgc.com/js/sati_init.js"></script>
+    <script type="text/javascript">
+        var cX = cX || { options: { consent: true } };
+        cX.callQueue = cX.callQueue || [];
+        cX.callQueue.push(['requireConsent']);
+        cX.callQueue.push(['setSiteId', '1135102062960807751']);
+        cX.callQueue.push(['sendPageViewEvent']);
+        cX.callQueue.push(['invoke', setConsentforSATI]);
+        function setConsentforSATI() {
+            cX.callQueue.push(['setConsent', { pv: true, segment: true, ad: true }]);
+        }
+    </script>
+    <script type="text/javascript">
+        (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+            e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+            t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);}
+        )(document,'script');
+    </script>
+    <!-- Cxense SATI script end -->
+    <!-- Cxense SATI script ajax begin -->
+    <script type="text/javascript">
+        function SATI_TrackView(locationURL, referrerURL) {
+            if(locationURL === referrerURL) {return;}
+            window.cX = window.cX || {};
+            cX.callQueue = cX.callQueue || [];
+            cX.callQueue.push(['initializePage']);
+            cX.callQueue.push(['setSiteId', '1135102062960807751']);
+            cX.callQueue.push(['sendPageViewEvent', { 'location': locationURL, 'referrer':referrerURL}]);
+        };
+    </script>
+    <!-- Cxense SATI script ajax end -->
+
+<script async="async" src="https://securepubads.g.doubleclick.net/static/glade.js"></script>
+
+	<meta name="google-signin-client_id" content="951778777232-p9s5tcfiqvtkq6dei0kfa1hea8223brg.apps.googleusercontent.com"><link rel="preload" href="https://adservice.google.ro/adsid/integrator.js?domain=www.olx.ro" as="script"><script type="text/javascript" src="https://adservice.google.ro/adsid/integrator.js?domain=www.olx.ro"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.olx.ro" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.olx.ro"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K4DX4C6"></script><script type="text/javascript" async="" id="ga-script-tag" src="https://www.google-analytics.com/analytics.js"></script><script charset="utf-8" src="https://sdk.privacy-center.org/ui-gdpr-ro.5bed71644401d3d993c717a474c48972ecdaa39a.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020050602.js?21066231" async=""></script><script type="text/javascript" src="//pa.7w.ro/js/jquery.min.js"></script><link rel="prefetch" href="https://5330502dbcdabb6c31b7e94e91c9d099.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html"><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style> .abcRioButton{-webkit-border-radius:1px;border-radius:1px;-webkit-box-shadow 0 2px 4px 0px rgba(0,0,0,.25);box-shadow:0 2px 4px 0 rgba(0,0,0,.25);-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-transition:background-color .218s,border-color .218s,box-shadow .218s;transition:background-color .218s,border-color .218s,box-shadow .218s;-webkit-user-select:none;-webkit-appearance:none;background-color:#fff;background-image:none;color:#262626;cursor:pointer;outline:none;overflow:hidden;position:relative;text-align:center;vertical-align:middle;white-space:nowrap;width:auto}.abcRioButton:hover{-webkit-box-shadow:0 0 3px 3px rgba(66,133,244,.3);box-shadow:0 0 3px 3px rgba(66,133,244,.3)}.abcRioButtonBlue{background-color:#4285f4;border:none;color:#fff}.abcRioButtonBlue:hover{background-color:#4285f4}.abcRioButtonBlue:active{background-color:#3367d6}.abcRioButtonLightBlue{background-color:#fff;color:#757575}.abcRioButtonLightBlue:active{background-color:#eee;color:#6d6d6d}.abcRioButtonIcon{float:left}.abcRioButtonBlue .abcRioButtonIcon{background-color:#fff;-webkit-border-radius:1px;border-radius:1px}.abcRioButtonSvg{display:block}.abcRioButtonContents{font-family:Roboto,arial,sans-serif;font-size:14px;font-weight:500;letter-spacing:.21px;margin-left:6px;margin-right:6px;vertical-align:top}.abcRioButtonContentWrapper{height:100%;width:100%}.abcRioButtonBlue .abcRioButtonContentWrapper{border:1px solid transparent}.abcRioButtonErrorWrapper,.abcRioButtonWorkingWrapper{display:none;height:100%;width:100%}.abcRioButtonErrorIcon,.abcRioButtonWorkingIcon{margin-left:auto;margin-right:auto}.abcRioButtonErrorState,.abcRioButtonWorkingState{border:1px solid #d5d5d5;border:1px solid rgba(0,0,0,.17);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.05);box-shadow:0 1px 0 rgba(0,0,0,.05);color:#262626}.abcRioButtonErrorState:hover,.abcRioButtonWorkingState:hover{border:1px solid #aaa;border:1px solid rgba(0,0,0,.25);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);box-shadow:0 1px 0 rgba(0,0,0,.1)}.abcRioButtonErrorState:active,.abcRioButtonWorkingState:active{border:1px solid #aaa;border:1px solid rgba(0,0,0,.25);-webkit-box-shadow:inset 0 1px 0 #ddd;box-shadow:inset 0 1px 0 #ddd;color:#262626}.abcRioButtonWorkingState,.abcRioButtonWorkingState:hover{background-color:#f5f5f5}.abcRioButtonWorkingState:active{background-color:#e5e5e5}.abcRioButtonErrorState,.abcRioButtonErrorState:hover{background-color:#fff}.abcRioButtonErrorState:active{background-color:#e5e5e5}.abcRioButtonWorkingState .abcRioButtonWorkingWrapper,.abcRioButtonErrorState .abcRioButtonErrorWrapper{display:block}.abcRioButtonErrorState .abcRioButtonContentWrapper,.abcRioButtonWorkingState .abcRioButtonContentWrapper,.abcRioButtonErrorState .abcRioButtonWorkingWrapper{display:none}.-webkit-keyframes abcRioButtonWorkingIconPathSpinKeyframes{0%{-webkit-transform:rotate(0)}}</style><script type="text/javascript" language="JavaScript" async="true" src="https://innertrends.s3.amazonaws.com/3c255777915734884241690.js?cexp=1204219"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943364295/?random=1590041425684&amp;cv=9&amp;fst=1590041425684&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=800&amp;u_w=1280&amp;u_ah=713&amp;u_aw=1280&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg5e1&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.olx.ro%2Fcont%2F%3Fref%255B0%255D%255Baction%255D%3Dmyaccount%26ref%255B0%255D%255Bmethod%255D%3Dindex&amp;ref=https%3A%2F%2Fwww.olx.ro%2F&amp;tiba=Anunturi%20Gratuite%20-%20Peste%204%20milioane%20anunturi%20-%20OLX.ro&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/995384316/?random=1590041425686&amp;cv=9&amp;fst=1590041425686&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=800&amp;u_w=1280&amp;u_ah=713&amp;u_aw=1280&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg5e1&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.olx.ro%2Fcont%2F%3Fref%255B0%255D%255Baction%255D%3Dmyaccount%26ref%255B0%255D%255Bmethod%255D%3Dindex&amp;ref=https%3A%2F%2Fwww.olx.ro%2F&amp;tiba=Anunturi%20Gratuite%20-%20Peste%204%20milioane%20anunturi%20-%20OLX.ro&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+	<body class="accountview hasHiddenHeader"><style type="text/css" scoped="true">#didomi-host .didomi-components-button{cursor:pointer;display:block;height:38px;padding:0 20px;font-size:16px;line-height:18px;font-weight:700;text-align:center;color:#666;background-color:#eee;border:1px solid rgba(34,34,34,.2)}#didomi-host .didomi-components-button:disabled{opacity:.4;cursor:auto}#didomi-host .didomi-components-button span{background:transparent}#didomi-host .didomi-mobile .didomi-components-button{font-size:14px}#didomi-host .didomi-screen-xsmall .didomi-components-button{padding:0 10px}#didomi-host .didomi-components-radio{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-moz-box-pack:justify;-webkit-flex-pack:justify;-ms-flex-pack:justify;-moz-justify-content:space-between;-webkit-justify-content:space-between;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}#didomi-host .didomi-components-radio__option{margin-right:5px;cursor:pointer;height:25px;box-shadow:1px 1px 0 0 rgba(0,0,0,.1);background-color:#fff;border:1px solid #eee;padding:0 20px;line-height:12px;font-size:12px;color:#b3b3b3;font-weight:700;transition:background-color .5s,border-color .5s;transition-timing-function:ease}#didomi-host .didomi-components-radio__option:hover{color:gray;border-color:#bbb}#didomi-host .didomi-components-radio__option:last-child{margin-right:0}#didomi-host .didomi-components-radio__option>svg{margin-right:5px}#didomi-host .didomi-components-radio__option span{background:transparent}#didomi-host .didomi-components-radio__option.didomi-components-radio__option--agree{background-color:#69ba73;color:#fff;border:1px solid rgba(0,0,0,.3);padding:0 11.5px}#didomi-host .didomi-components-radio__option.didomi-components-radio__option--agree>svg{vertical-align:middle}#didomi-host .didomi-components-radio__option.didomi-components-radio__option--disagree{background-color:#f55;color:#fff;border:1px solid rgba(0,0,0,.3);padding:0 13.5px}#didomi-host .didomi-components-accordion{flex:5}#didomi-host .didomi-components-accordion .label-click{cursor:pointer}#didomi-host .didomi-components-accordion .trigger-icon{width:15px;font-size:16px;display:inline-block;text-align:center}#didomi-host .didomi-components-accordion .didomi-content{overflow:hidden;max-height:0;opacity:0;visibility:hidden;font-weight:300;text-align:justify;-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;transition:all .5s ease-in-out;transition-property:opacity,max-height,transform,visibility,padding-bottom}#didomi-host .didomi-components-accordion .didomi-content.active{max-height:3000px;opacity:1;visibility:visible;padding-bottom:10px;transition-property:opacity,max-height,transform,visibility}#didomi-host .didomi-components-accordion .didomi-components-accordion-label-container{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-moz-box-pack:justify;-webkit-flex-pack:justify;-ms-flex-pack:justify;-moz-justify-content:space-between;-webkit-justify-content:space-between;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}#didomi-host .didomi-mobile .didomi-components-accordion{width:100%;flex:1 auto}#didomi-host .didomi-mobile .didomi-components-accordion .didomi-components-accordion-label-container{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-moz-box-pack:start;-webkit-flex-pack:start;-ms-flex-pack:start;-moz-justify-content:flex-start;-webkit-justify-content:flex-start;justify-content:flex-start;-webkit-box-align:start;-ms-flex-align:start;-webkit-align-items:flex-start;-moz-align-items:flex-start;align-items:flex-start}#didomi-host .lds-ellipsis-container{display:flex;align-items:center;justify-content:center;height:100%}#didomi-host .lds-ellipsis-container .lds-ellipsis{display:inline-block;position:relative;width:64px;height:64px}#didomi-host .lds-ellipsis-container .lds-ellipsis div{position:absolute;top:27px;width:11px;height:11px;border-radius:50%;background:#dcdcdc;animation-timing-function:cubic-bezier(0,1,1,0)}#didomi-host .lds-ellipsis-container .lds-ellipsis div:first-child{left:6px;animation:lds-ellipsis1 .6s infinite}#didomi-host .lds-ellipsis-container .lds-ellipsis div:nth-child(2){left:6px;animation:lds-ellipsis2 .6s infinite}#didomi-host .lds-ellipsis-container .lds-ellipsis div:nth-child(3){left:26px;animation:lds-ellipsis2 .6s infinite}#didomi-host .lds-ellipsis-container .lds-ellipsis div:nth-child(4){left:45px;animation:lds-ellipsis3 .6s infinite}@keyframes lds-ellipsis1{0%{transform:scale(0)}to{transform:scale(1)}}@keyframes lds-ellipsis3{0%{transform:scale(1)}to{transform:scale(0)}}@keyframes lds-ellipsis2{0%{transform:translate(0)}to{transform:translate(19px)}}#didomi-host .didomi-components-skip-link{position:absolute;top:-100px;left:-100px;margin-bottom:16px;display:block}#didomi-host .didomi-components-skip-link:focus{position:relative;top:0;left:0}#didomi-host .didomi-popup-backdrop{position:fixed;top:0;left:0;width:100%;height:100%;background-color:hsla(0,0%,100%,.8);z-index:11000002;overflow:auto;display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;align-items:flex-start}#didomi-host .didomi-exterior-border{border-style:solid;border-radius:5px;border-width:1px;padding:1px;margin:auto}#didomi-host .didomi-popup-container{background-color:#fff;opacity:1;max-width:650px;border-style:solid;border-radius:3px;border-width:1px;-webkit-overflow-scrolling:touch}#didomi-host .didomi-popup-header{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-moz-box-pack:justify;-webkit-flex-pack:justify;-ms-flex-pack:justify;-moz-justify-content:space-between;-webkit-justify-content:space-between;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;padding:30px 20px 0;font-weight:700;font-family:Arial}#didomi-host .didomi-popup-body{padding:30px 20px}#didomi-host .didomi-popup-body .didomi-popup-body-section{margin-bottom:22px}#didomi-host .didomi-popup-body .didomi-popup-body-section:last-child{margin-bottom:0}#didomi-host .didomi-popup-footer{-webkit-box-pack:justify;-moz-box-pack:justify;-webkit-flex-pack:justify;-ms-flex-pack:justify;-moz-justify-content:space-between;-webkit-justify-content:space-between;justify-content:space-between;background-color:hsla(0,0%,93%,.4);height:58px}#didomi-host .didomi-popup-footer,#didomi-host .didomi-popup-footer .didomi-popup-actions{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}#didomi-host .didomi-popup-footer .didomi-popup-actions{-webkit-box-pack:end;-moz-box-pack:end;-webkit-flex-pack:end;-ms-flex-pack:end;-moz-justify-content:flex-end;-webkit-justify-content:flex-end;justify-content:flex-end}#didomi-host .didomi-popup-footer .didomi-popup-actions button,#didomi-host .didomi-popup-footer .didomi-popup-actions div{margin-right:10px}#didomi-host .didomi-popup-close{font-family:Arial;opacity:.5;font-size:30px;font-weight:500;line-height:30px;color:#000;text-shadow:0 1px 0 #fff;transition:.5s}#didomi-host .didomi-popup-close:hover{opacity:.7}#didomi-host .didomi-mobile .didomi-popup{width:100%;height:100%;max-width:none}body.didomi-popup-open{overflow:hidden!important}body.didomi-popup-open-ios{position:fixed;width:100%}#didomi-host .didomi-notice-data-processing-container{padding-top:15px;text-align:left}#didomi-host .didomi-notice-data-processing-container .didomi-notice-data-processing-title{color:#333;font-size:14px;font-weight:700}#didomi-host .didomi-notice-data-processing-container .didomi-notice-data-processing-list{font-weight:700;font-size:14px;color:#999}#didomi-host .didomi-notice-data-processing-container .didomi-notice-data-processing-list .didomi-notice-data-processing-item{padding-top:5px}#didomi-host .didomi-notice-data-processing-container .didomi-notice-data-processing-list .didomi-notice-data-processing-item div{display:inline-block}#didomi-host .didomi-notice-data-processing-container.didomi-regular-notice-data-processing-list .didomi-notice-data-processing-list,#didomi-host .didomi-notice-data-processing-container.didomi-regular-notice-data-processing-list .didomi-notice-data-processing-title{font-size:12px}#didomi-host .didomi-mobile .didomi-notice-data-processing-container.didomi-regular-notice-data-processing-list .didomi-notice-data-processing-list,#didomi-host .didomi-mobile .didomi-notice-data-processing-container.didomi-regular-notice-data-processing-list .didomi-notice-data-processing-title{font-size:11px}@namespace svg "http://www.w3.org/2000/svg";#didomi-host{all:initial;-ms-overflow-style:auto;-moz-appearance:none;-moz-binding:none;-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;-moz-context-properties:none;-moz-float-edge:content-box;-moz-force-broken-image-icon:0;-moz-image-region:auto;-moz-orient:inline;-moz-outline-radius-bottomleft:0;-moz-outline-radius-bottomright:0;-moz-outline-radius-topleft:0;-moz-outline-radius-topright:0;-moz-stack-sizing:stretch-to-fit;-moz-text-blink:none;-moz-user-focus:none;-moz-user-input:auto;-moz-user-modify:read-only;-moz-window-shadow:default;-webkit-border-before-color:currentcolor;-webkit-border-before-style:none;-webkit-border-before-width:medium;-webkit-box-reflect:none;-webkit-mask-attachment:scroll;-webkit-mask-clip:border;-webkit-mask-composite:source-over;-webkit-mask-image:none;-webkit-mask-origin:padding;-webkit-mask-position:0 0;-webkit-mask-position-x:0;-webkit-mask-position-y:0;-webkit-mask-repeat:repeat;-webkit-mask-repeat-x:repeat;-webkit-mask-repeat-y:repeat;-webkit-tap-highlight-color:black;-webkit-text-stroke-color:currentcolor;-webkit-text-stroke-width:0;-webkit-touch-callout:default;align-content:stretch;align-items:stretch;align-self:auto;animation-delay:0s;animation-direction:normal;animation-duration:0s;animation-fill-mode:none;animation-iteration-count:1;animation-name:none;animation-play-state:running;animation-timing-function:ease;azimuth:center;backface-visibility:visible;background-attachment:scroll;background-blend-mode:normal;background-clip:border-box;background-color:transparent;background-image:none;background-origin:padding-box;background-position:0 0;background-repeat:repeat;background-size:auto auto;block-size:auto;border-block-end-color:currentcolor;border-block-end-style:none;border-block-end-width:medium;border-block-start-color:currentcolor;border-block-start-style:none;border-block-start-width:medium;border-bottom-color:currentcolor;border-bottom-left-radius:0;border-bottom-right-radius:0;border-bottom-style:none;border-collapse:separate;border-image-outset:0s;border-image-repeat:stretch;border-image-slice:100%;border-image-source:none;border-image-width:1;border-inline-end-color:currentcolor;border-inline-end-style:none;border-inline-end-width:medium;border-inline-start-color:currentcolor;border-inline-start-style:none;border-inline-start-width:medium;border-left-color:currentcolor;border-left-style:none;border:medium;border-right-color:currentcolor;border-right-style:none;border-spacing:0;border-top-color:currentcolor;border-top-left-radius:0;border-top-right-radius:0;border-top-style:none;bottom:auto;box-align:stretch;box-decoration-break:slice;box-direction:normal;box-flex:0;box-flex-group:1;box-lines:single;box-ordinal-group:1;box-orient:initial;box-pack:start;box-shadow:none;box-sizing:content-box;break-after:auto;break-before:auto;break-inside:auto;caption-side:top;caret-color:auto;clear:none;clip:auto;clip-path:none;color:initial;column-count:auto;column-fill:balance;column-gap:normal;column-rule-color:currentcolor;column-rule-style:none;column-rule-width:medium;column-span:none;column-width:auto;content:normal;counter-increment:none;counter-reset:none;cursor:auto;empty-cells:show;filter:none;flex-basis:auto;flex-direction:row;flex-grow:0;flex-shrink:1;flex-wrap:nowrap;float:none;font-family:initial;font-feature-settings:normal;font-kerning:auto;font-language-override:normal;font-size:medium;font-size-adjust:none;font-stretch:normal;font-style:normal;font-synthesis:weight style;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:400;grid-auto-columns:auto;grid-auto-flow:row;grid-auto-rows:auto;grid-column-end:auto;grid-column-gap:0;grid-column-start:auto;grid-row-end:auto;grid-row-gap:0;grid-row-start:auto;grid-template-areas:none;grid-template-columns:none;grid-template-rows:none;height:auto;hyphens:manual;image-orientation:0deg;image-rendering:auto;image-resolution:1dppx;ime-mode:auto;inline-size:auto;isolation:auto;justify-content:flex-start;left:auto;letter-spacing:normal;line-break:auto;line-height:normal;list-style-image:none;list-style-position:outside;list-style-type:disc;margin-block-end:0;margin-block-start:0;margin-inline-end:0;margin-inline-start:0;margin:0;marker-offset:auto;mask-clip:border-box;mask-composite:add;mask-image:none;mask-mode:match-source;mask-origin:border-box;mask-position:0 0;mask-repeat:repeat;mask-size:auto;mask-type:luminance;max-height:none;max-width:none;min-block-size:0;min-height:0;min-inline-size:0;min-width:0;mix-blend-mode:normal;object-fit:fill;object-position:50% 50%;offset-block-end:auto;offset-block-start:auto;offset-inline-end:auto;offset-inline-start:auto;opacity:1;order:0;orphans:2;outline-color:initial;outline-offset:0;outline-style:none;outline-width:medium;overflow:visible;overflow-clip-box:padding-box;overflow-wrap:normal;overflow-x:visible;overflow-y:visible;padding-block-end:0;padding-block-start:0;padding-inline-end:0;padding-inline-start:0;padding:0;page-break-after:auto;page-break-before:auto;page-break-inside:auto;perspective:none;perspective-origin:50% 50%;pointer-events:auto;position:static;quotes:initial;resize:none;right:auto;ruby-align:space-around;ruby-merge:separate;ruby-position:over;scroll-behavior:auto;scroll-snap-coordinate:none;scroll-snap-destination:0 0;scroll-snap-points-x:none;scroll-snap-points-y:none;scroll-snap-type:none;scroll-snap-type-x:none;scroll-snap-type-y:none;shape-image-threshold:0;shape-margin:0;shape-outside:none;tab-size:8;table-layout:auto;text-align:initial;text-align-last:auto;text-combine-upright:none;text-decoration-color:currentcolor;text-decoration-line:none;text-decoration-style:solid;text-emphasis-color:currentcolor;text-emphasis-position:over right;text-emphasis-style:none;text-indent:0;text-justify:auto;text-orientation:mixed;text-overflow:clip;text-rendering:auto;text-shadow:none;text-transform:none;text-underline-position:auto;top:auto;touch-action:auto;transform:none;transform-box:border-box;transform-origin:50% 50% 0;transform-style:flat;transition-delay:0s;transition-duration:0s;transition-property:all;transition-timing-function:ease;user-select:auto;vertical-align:baseline;visibility:visible;white-space:normal;widows:2;width:auto;will-change:auto;word-break:normal;word-spacing:normal;word-wrap:normal;writing-mode:horizontal-tb;z-index:auto;-webkit-appearance:none;-ms-appearance:none;appearance:none}#didomi-host :not(svg|*){all:unset;-webkit-text-fill-color:initial}button{line-height:normal}button span{padding:0;background:initial;height:auto}#didomi-host{display:block;width:0;height:0;font-size:15px;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;line-height:1.5em}#didomi-host .pad{padding:16px}#didomi-host .pad-xxl{padding:56px}#didomi-host .pad-xl{padding:48px}#didomi-host .pad-lg{padding:32px}#didomi-host .pad-md{padding:24px}#didomi-host .pad-sm{padding:8px}#didomi-host .pad-xs{padding:4px}#didomi-host .pad-none{padding:0}#didomi-host .pad-bottom{padding-bottom:16px}#didomi-host .pad-bottom-xxl{padding-bottom:56px}#didomi-host .pad-bottom-xl{padding-bottom:48px}#didomi-host .pad-bottom-lg{padding-bottom:32px}#didomi-host .pad-bottom-md{padding-bottom:24px}#didomi-host .pad-bottom-sm{padding-bottom:8px}#didomi-host .pad-bottom-xs{padding-bottom:4px}#didomi-host .pad-bottom-none{padding-bottom:0}#didomi-host .pad-top{padding-top:16px}#didomi-host .pad-top-xxl{padding-top:56px}#didomi-host .pad-top-xl{padding-top:48px}#didomi-host .pad-top-lg{padding-top:32px}#didomi-host .pad-top-md{padding-top:24px}#didomi-host .pad-top-sm{padding-top:8px}#didomi-host .pad-top-xs{padding-top:4px}#didomi-host .pad-top-none{padding-top:0}#didomi-host .pad-left{padding-left:16px}#didomi-host .pad-left-xxl{padding-left:56px}#didomi-host .pad-left-xl{padding-left:48px}#didomi-host .pad-left-lg{padding-left:32px}#didomi-host .pad-left-md{padding-left:24px}#didomi-host .pad-left-sm{padding-left:8px}#didomi-host .pad-left-xs{padding-left:4px}#didomi-host .pad-left-none{padding-left:0}#didomi-host .pad-right{padding-right:16px}#didomi-host .pad-right-xxl{padding-right:56px}#didomi-host .pad-right-xl{padding-right:48px}#didomi-host .pad-right-lg{padding-right:32px}#didomi-host .pad-right-md{padding-right:24px}#didomi-host .pad-right-sm{padding-right:8px}#didomi-host .pad-right-xs{padding-right:4px}#didomi-host .pad-right-none{padding-right:0}#didomi-host .pull-xxl{margin:-56px}#didomi-host .pull-xl{margin:-48px}#didomi-host .pull-lg{margin:-32px}#didomi-host .pull-md{margin:-24px}#didomi-host .pull{margin:-16px}#didomi-host .pull-sm{margin:-8px}#didomi-host .pull-xs{margin:-4px}#didomi-host .pull-none{margin:0}#didomi-host .pull-bottom-xxl{margin-bottom:-56px}#didomi-host .pull-bottom-xl{margin-bottom:-48px}#didomi-host .pull-bottom-lg{margin-bottom:-32px}#didomi-host .pull-bottom-md{margin-bottom:-24px}#didomi-host .pull-bottom{margin-bottom:-16px}#didomi-host .pull-bottom-sm{margin-bottom:-8px}#didomi-host .pull-bottom-xs{margin-bottom:-4px}#didomi-host .pull-bottom-none{margin-bottom:0}#didomi-host .pull-top-xxl{margin-top:-56px}#didomi-host .pull-top-xl{margin-top:-48px}#didomi-host .pull-top-lg{margin-top:-32px}#didomi-host .pull-top-md{margin-top:-24px}#didomi-host .pull-top{margin-top:-16px}#didomi-host .pull-top-sm{margin-top:-8px}#didomi-host .pull-top-xs{margin-top:-4px}#didomi-host .pull-top-none{margin-top:0}#didomi-host .pull-left-xxl{margin-left:-56px}#didomi-host .pull-left-xl{margin-left:-48px}#didomi-host .pull-left-lg{margin-left:-32px}#didomi-host .pull-left-md{margin-left:-24px}#didomi-host .pull-left{margin-left:-16px}#didomi-host .pull-left-sm{margin-left:-8px}#didomi-host .pull-left-xs{margin-left:-4px}#didomi-host .pull-left-none{margin-left:0}#didomi-host .pull-right-xxl{margin-right:-56px}#didomi-host .pull-right-xl{margin-right:-48px}#didomi-host .pull-right-lg{margin-right:-32px}#didomi-host .pull-right-md{margin-right:-24px}#didomi-host .pull-right{margin-right:-16px}#didomi-host .pull-right-sm{margin-right:-8px}#didomi-host .pull-right-xs{margin-right:-4px}#didomi-host .pull-right-none{margin-right:0}#didomi-host .push{margin:16px}#didomi-host .push-xxl{margin:56px}#didomi-host .push-xl{margin:48px}#didomi-host .push-lg{margin:32px}#didomi-host .push-md{margin:24px}#didomi-host .push-sm{margin:8px}#didomi-host .push-xs{margin:4px}#didomi-host .push-none{margin:0}#didomi-host .push-bottom{margin-bottom:16px}#didomi-host .push-bottom-xxl{margin-bottom:56px}#didomi-host .push-bottom-xl{margin-bottom:48px}#didomi-host .push-bottom-lg{margin-bottom:32px}#didomi-host .push-bottom-md{margin-bottom:24px}#didomi-host .push-bottom-sm{margin-bottom:8px}#didomi-host .push-bottom-xs{margin-bottom:4px}#didomi-host .push-bottom-none{margin-bottom:0}#didomi-host .push-top{margin-top:16px}#didomi-host .push-top-xxl{margin-top:56px}#didomi-host .push-top-xl{margin-top:48px}#didomi-host .push-top-lg{margin-top:32px}#didomi-host .push-top-md{margin-top:24px}#didomi-host .push-top-sm{margin-top:8px}#didomi-host .push-top-xs{margin-top:4px}#didomi-host .push-top-none{margin-top:0}#didomi-host .push-left{margin-left:16px}#didomi-host .push-left-xxl{margin-left:56px}#didomi-host .push-left-xl{margin-left:48px}#didomi-host .push-left-lg{margin-left:32px}#didomi-host .push-left-md{margin-left:24px}#didomi-host .push-left-sm{margin-left:8px}#didomi-host .push-left-xs{margin-left:4px}#didomi-host .push-left-none{margin-left:0}#didomi-host .push-right{margin-right:16px}#didomi-host .push-right-xxl{margin-right:56px}#didomi-host .push-right-xl{margin-right:48px}#didomi-host .push-right-lg{margin-right:32px}#didomi-host .push-right-md{margin-right:24px}#didomi-host .push-right-sm{margin-right:8px}#didomi-host .push-right-xs{margin-right:4px}#didomi-host .push-right-none{margin-right:0}#didomi-host a,#didomi-host p,#didomi-host span{font-size:inherit;color:inherit;font-weight:inherit;line-height:inherit;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}#didomi-host .didomi-icon{vertical-align:middle}#didomi-host .didomi-logo-icon{margin-left:10px}#didomi-host div{display:block}#didomi-host p{display:block;margin-bottom:16px}#didomi-host .p-title{font-weight:700;font-size:1.1em;display:block;letter-spacing:.005em}#didomi-host ul{display:block;margin-bottom:16px}#didomi-host li{display:list-item;margin-left:20px}#didomi-host ol{display:block;list-style-type:decimal;margin-bottom:16px}#didomi-host table{box-sizing:border-box;display:table;width:100%;max-width:100%;border-collapse:separate;border-spacing:2px}#didomi-host table tbody,#didomi-host table thead{display:table-header-group}#didomi-host table tr{display:table-row}#didomi-host table td,#didomi-host table th{display:table-cell}#didomi-host a{cursor:pointer}#didomi-host a.didomi-no-link-style{text-decoration:none;color:#000}#didomi-host style{display:none}#didomi-host .text-bold{font-weight:700}#didomi-host h1{font-size:2em}#didomi-host h1,#didomi-host h2{display:block;font-weight:700;margin-bottom:16px}#didomi-host h2{font-size:1.5em}#didomi-host h3{font-size:1.17em}#didomi-host h3,#didomi-host h4,#didomi-host h5{display:block;font-weight:700;margin-bottom:16px}#didomi-host h5{font-size:.83em}#didomi-host h6{display:block;font-size:.67em;font-weight:700;margin-bottom:16px}#didomi-host b,#didomi-host strong{font-weight:700}#didomi-host cite,#didomi-host dfn,#didomi-host em,#didomi-host i,#didomi-host var{font-style:italic}#didomi-host ins,#didomi-host u{text-decoration:underline}#didomi-host del,#didomi-host s,#didomi-host strike{text-decoration:line-through}#didomi-host sub{vertical-align:sub}#didomi-host sub,#didomi-host sup{font-size:smaller;line-height:normal}#didomi-host sup{vertical-align:super}#didomi-host nobr{white-space:nowrap}#didomi-host hr{display:block;border:1px inset;margin:16px 0;color:gray;box-sizing:content-box}#didomi-host :focus{outline:1px auto #4d90fe}#didomi-host li[title] span,#didomi-host span[title]{cursor:help;border-bottom:1px dashed #000}#didomi-host #didomi-notice{background-color:#fff}#didomi-host #didomi-notice.didomi-regular-notice{position:fixed;font-size:13px;line-height:1.5em;z-index:11000000}#didomi-host #didomi-notice.didomi-regular-notice.didomi-regular-notice-with-data-processing .didomi-notice-text{margin-right:40px}#didomi-host #didomi-notice.didomi-regular-notice a{color:inherit;text-decoration:underline}#didomi-host #didomi-notice.didomi-regular-notice .didomi-notice-view-partners-link{text-decoration:underline}#didomi-host #didomi-notice.didomi-regular-notice.shape-box{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-moz-box-pack:justify;-webkit-flex-pack:justify;-ms-flex-pack:justify;-moz-justify-content:space-between;-webkit-justify-content:space-between;justify-content:space-between;padding:32px;max-width:310px}#didomi-host #didomi-notice.didomi-regular-notice.shape-box #buttons{margin-top:20px}#didomi-host #didomi-notice.didomi-regular-notice.shape-box #buttons.multiple,#didomi-host #didomi-notice.didomi-regular-notice.shape-box #buttons.single,#didomi-host #didomi-notice.didomi-regular-notice.shape-box #buttons.single button{width:100%}#didomi-host #didomi-notice.didomi-regular-notice.shape-box #buttons.multiple button{padding-right:.8em;width:100%}#didomi-host #didomi-notice.didomi-regular-notice.shape-box.top.left{margin:1em 0 0 1em}#didomi-host #didomi-notice.didomi-regular-notice.shape-box.top.right{margin:1em 1em 0 0}#didomi-host #didomi-notice.didomi-regular-notice.shape-box.bottom.left{margin:0 0 1em 1em}#didomi-host #didomi-notice.didomi-regular-notice.shape-box.bottom.right{margin:0 1em 1em 0}#didomi-host #didomi-notice.didomi-regular-notice.shape-banner{padding:1em 1.8em;left:0;right:0}#didomi-host #didomi-notice.didomi-regular-notice.shape-banner .didomi-notice__interior-border{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-moz-box-pack:justify;-webkit-flex-pack:justify;-ms-flex-pack:justify;-moz-justify-content:space-between;-webkit-justify-content:space-between;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}#didomi-host #didomi-notice.didomi-regular-notice.shape-banner #buttons.multiple{-ms-flex:0 0 auto}#didomi-host #didomi-notice.didomi-regular-notice.shape-banner #buttons.multiple button{margin-right:10px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel{max-width:600px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel.right{right:100px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel.left{left:100px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel.bottom{padding:1px;border-top-width:1px;border-top-style:solid;border-right-width:1px;border-right-style:solid;border-left-width:1px;border-left-style:solid;border-top-left-radius:5px;border-top-right-radius:5px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel.bottom .didomi-notice__interior-border{border-top-width:1px;border-top-style:solid;border-right-width:1px;border-right-style:solid;border-left-width:1px;border-left-style:solid;border-top-left-radius:3px;border-top-right-radius:3px;padding:10px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel.top{padding:1px;border-bottom-width:1px;border-bottom-style:solid;border-right-width:1px;border-right-style:solid;border-left-width:1px;border-left-style:solid;border-bottom-left-radius:5px;border-bottom-right-radius:5px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel.top .didomi-notice__interior-border{border-bottom-width:1px;border-bottom-style:solid;border-right-width:1px;border-right-style:solid;border-left-width:1px;border-left-style:solid;border-bottom-left-radius:3px;border-bottom-right-radius:3px;padding:10px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel #buttons.multiple{margin-top:20px}#didomi-host #didomi-notice.didomi-regular-notice.shape-panel #buttons.multiple button{margin-right:10px}#didomi-host #didomi-notice.didomi-regular-notice.top{top:0}#didomi-host #didomi-notice.didomi-regular-notice.bottom{bottom:0}#didomi-host #didomi-notice.didomi-regular-notice.left{left:0}#didomi-host #didomi-notice.didomi-regular-notice.right{right:0}#didomi-host #didomi-notice.didomi-regular-notice #buttons{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-moz-box-pack:center;-webkit-flex-pack:center;-ms-flex-pack:center;-moz-justify-content:center;-webkit-justify-content:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}#didomi-host #didomi-notice.didomi-regular-notice #buttons button{display:block;padding:.4em .8em;font-size:.9em;font-weight:700;border-width:1px;border-style:solid;text-align:center;white-space:nowrap;min-width:140px;cursor:pointer;text-decoration:none}#didomi-host #didomi-notice.didomi-regular-notice #buttons button.didomi-button-standard{background-color:#eee;border:1px solid rgba(34,34,34,.2);color:#555}#didomi-host .didomi-screen-large #didomi-notice.didomi-regular-notice.didomi-regular-notice-with-data-processing .didomi-notice-text{max-width:1200px}#didomi-host .didomi-screen-xlarge #didomi-notice.didomi-regular-notice.didomi-regular-notice-with-data-processing .didomi-notice-text{max-width:1500px}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.didomi-support-full-height{box-sizing:border-box;height:auto}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.didomi-support-full-height.didomi-max-height-reached #buttons{box-shadow:0 -3px 10px -2px rgba(0,0,0,.1)}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.didomi-support-full-height .didomi-notice__interior-border{padding:0;width:100%;flex:1 0 auto;max-height:100vh;max-height:-webkit-fill-available;height:100%}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.didomi-support-full-height .didomi-notice__interior-border .didomi-notice-text{padding:1em 1.8em;margin:0;height:100%;overflow-y:auto;box-sizing:border-box}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.didomi-support-full-height .didomi-notice__interior-border .didomi-notice-text>:last-child{margin-bottom:20px}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.didomi-support-full-height .didomi-notice__interior-border #buttons{flex:1 0 auto;box-sizing:border-box;padding:1em 1.8em;margin-top:0}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice{left:0;right:0;font-size:11px;padding:1px}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.didomi-regular-notice-with-data-processing{font-size:12px}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.didomi-regular-notice-with-data-processing .didomi-notice-text{margin-right:0}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice .didomi-notice__interior-border{padding:1em 1.8em;display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.bottom,#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.bottom .didomi-notice__interior-border{border-top-width:1px;border-top-style:solid}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.top,#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice.top .didomi-notice__interior-border{border-bottom-width:1px;border-bottom-style:solid}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice #text{width:100%}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice #buttons{margin-top:20px}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice #buttons.multiple,#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice #buttons.single,#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice #buttons.single button{width:100%}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice #buttons.multiple button{margin-right:0;padding-right:.8em;width:100%}#didomi-host .didomi-mobile #didomi-notice.didomi-regular-notice #buttons.multiple button:last-child{margin-right:0}#didomi-host .didomi-screen-xsmall #didomi-notice.didomi-regular-notice #buttons.multiple{-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column}#didomi-host .didomi-screen-xsmall #didomi-notice.didomi-regular-notice #buttons.multiple button{margin-bottom:10px;margin-right:0;padding-right:0;width:100%}#didomi-host .didomi-screen-xsmall #didomi-notice.didomi-regular-notice #buttons.multiple button:last-child{margin-bottom:0}#didomi-host .didomi-popup__backdrop{z-index:11000001}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height{box-sizing:border-box;display:flex;align-items:center;justify-content:center;-ms-flex-direction:column;max-height:100vh;max-height:-webkit-fill-available;height:100%}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height.didomi-max-height-reached .didomi-exterior-border,#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height.didomi-max-height-reached .didomi-popup-container{border-top-width:0;border-bottom-width:0;border-radius:0}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height.didomi-max-height-reached .didomi-popup-notice-logo-container{box-shadow:0 3px 10px -2px rgba(0,0,0,.1)}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height.didomi-max-height-reached #buttons{box-shadow:0 -3px 10px -2px rgba(0,0,0,.1)}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border{display:inherit;box-sizing:border-box;margin:0 auto;z-index:11000001;padding:0!important}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container{height:auto;height:fit-content;height:-webkit-fit-content;box-sizing:border-box;margin:auto;padding:0!important}@media (-ms-high-contrast:none){#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view,#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container ::-ms-backdrop{height:auto!important;overflow-y:auto}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-exterior-border,#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container ::-ms-backdrop{display:block!important}}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view{max-height:100vh;max-height:-webkit-fill-available;height:100%;width:100%;padding:0;flex:1 0 auto;display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-moz-box-pack:start;-webkit-flex-pack:start;-ms-flex-pack:start;-moz-justify-content:flex-start;-webkit-justify-content:flex-start;justify-content:flex-start}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-logo-container{box-sizing:border-box;flex:1 0 auto;z-index:11000000;margin-top:20px}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-logo-container .didomi-popup-notice-logo{margin-bottom:20px}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-text-container{height:100%;overflow-y:auto;padding:0 25px;box-sizing:border-box}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-text-container>:first-child{margin-top:25px}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-text-container>:last-child{margin-bottom:20px}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view #buttons{box-sizing:border-box;padding:20px 25px;margin-top:0;flex:1 0 auto}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view #buttons button:first-child{margin-top:0!important}@media (-ms-high-contrast:none){#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-logo-container,#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view ::-ms-backdrop{flex:1 0 0}#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view #buttons,#didomi-host .didomi-popup__backdrop.didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view ::-ms-backdrop{flex:1 0 0}}#didomi-host .didomi-popup-notice{position:relative;display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;align-items:center;box-sizing:content-box;flex:1;max-width:600px;padding:50px}#didomi-host .didomi-popup-notice.didomi-popup-notice-with-data-processing{max-width:500px;padding:45px 25px!important;color:#333}#didomi-host .didomi-popup-notice.didomi-popup-notice-with-data-processing h1{text-align:left;margin-top:0;margin-bottom:25px}#didomi-host .didomi-popup-notice.didomi-popup-notice-with-data-processing p{font-size:14px;margin-top:0;margin-bottom:10px}#didomi-host .didomi-popup-notice.didomi-popup-notice-with-data-processing .didomi-popup-notice-subtext,#didomi-host .didomi-popup-notice.didomi-popup-notice-with-data-processing .didomi-popup-notice-text{max-width:500px}#didomi-host .didomi-popup-notice h1{text-align:center;margin-bottom:50px}#didomi-host .didomi-popup-notice .didomi-popup-notice-logo{width:200px;margin-bottom:30px}#didomi-host .didomi-popup-notice .didomi-popup-notice-subtext,#didomi-host .didomi-popup-notice .didomi-popup-notice-text{max-width:600px;width:100%;flex:0 auto}#didomi-host .didomi-popup-notice .didomi-notice-view-partners-link{display:block;text-align:center;margin-top:20px}#didomi-host .didomi-popup-notice .didomi-popup-notice-buttons{margin-top:30px;display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;justify-content:center;align-items:center}#didomi-host .didomi-popup-notice .didomi-popup-notice-buttons .didomi-components-button{padding:2px 25px}#didomi-host .didomi-popup-notice .didomi-popup-notice-buttons a{text-decoration:underline}#didomi-host .didomi-popup-notice .didomi-popup-notice-buttons .didomi-button{min-width:200px;margin-right:10px}#didomi-host .didomi-popup-notice .didomi-popup-notice-buttons .didomi-button:last-child{margin-right:0}#didomi-host .didomi-popup-notice .didomi-popup-notice-subtext{margin-top:30px}#didomi-host .didomi-popup-notice .didomi-popup-close{position:absolute;right:30px;top:30px}#didomi-host .didomi-mobile #didomi-popup .didomi-popup-notice{padding:30px}#didomi-host .didomi-mobile #didomi-popup .didomi-popup-notice h1{margin-bottom:35px}#didomi-host .didomi-mobile #didomi-popup .didomi-popup-notice p{text-align:justify}#didomi-host .didomi-screen-xsmall .didomi-popup-notice-buttons{-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin-top:15px}#didomi-host .didomi-screen-xsmall .didomi-popup-notice-buttons .didomi-components-button{margin:10px 0 0!important}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-logo-container{margin-top:15px}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-logo-container .didomi-popup-notice-logo{margin-bottom:15px}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-text-container{padding:0 15px}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-text-container>:first-child{margin-top:20px}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-text-container>:last-child{margin-bottom:15px}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-text-container~.didomi-popup-notice-logo-container{padding:0 15px}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view #buttons{padding:15px}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view #buttons button:first-child{margin-top:0!important}#didomi-host .didomi-screen-xsmall .didomi-notice-popup.didomi-support-full-height .didomi-exterior-border .didomi-popup-container .didomi-popup-view .didomi-popup-notice-subtext{margin-bottom:15px}#didomi-host #didomi-notice.didomi-custom-notice-html{position:fixed;z-index:11000000}#didomi-host #didomi-notice.didomi-custom-notice-html.shape-box{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-moz-box-pack:justify;-webkit-flex-pack:justify;-ms-flex-pack:justify;-moz-justify-content:space-between;-webkit-justify-content:space-between;justify-content:space-between}#didomi-host #didomi-notice.didomi-custom-notice-html.shape-banner{left:0;right:0}#didomi-host #didomi-notice.didomi-custom-notice-html.top{top:0}#didomi-host #didomi-notice.didomi-custom-notice-html.bottom{bottom:0}#didomi-host #didomi-notice.didomi-custom-notice-html.left{left:0}#didomi-host #didomi-notice.didomi-custom-notice-html.right{right:0}#didomi-host .didomi-mobile #didomi-notice.didomi-custom-notice-html{left:0;right:0}#didomi-host .didomi-consent-popup-body{padding:30px 20px}#didomi-host .didomi-consent-popup-body .didomi-consent-popup-body__title{font-size:12px;color:#999;text-transform:uppercase;margin-bottom:8px;display:block;font-weight:700;font-family:Arial}#didomi-host .didomi-consent-popup-body .didomi-consent-popup-body__subtext{margin-bottom:22px}#didomi-host .didomi-consent-popup-body .didomi-consent-popup-body__explanation a{font-weight:700;text-decoration:underline}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height{box-sizing:border-box;display:flex;align-items:center;justify-content:center;-ms-flex-direction:column}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height.didomi-max-height-reached .didomi-exterior-border,#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height.didomi-max-height-reached .didomi-popup-container{border-top-width:0;border-bottom-width:0;border-radius:0}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border{box-sizing:border-box;margin:0 auto;z-index:11000001;padding:0!important}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-popup-container{box-sizing:border-box;margin:auto;padding:0!important;height:auto;height:fit-content;height:-webkit-fit-content}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences{padding:0}@media (-ms-high-contrast:none){#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view,#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences ::-ms-backdrop{height:auto!important;overflow-y:auto}}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view{max-height:100vh;max-height:-webkit-fill-available;height:100%;width:100%;padding:0;flex:1;display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-moz-box-pack:start;-webkit-flex-pack:start;-ms-flex-pack:start;-moz-justify-content:flex-start;-webkit-justify-content:flex-start;justify-content:flex-start}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-body{overflow-y:auto;padding:10px 20px 0}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-body>:last-child{margin-bottom:20px}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-header{box-sizing:border-box;box-shadow:0 3px 10px -2px rgba(0,0,0,.1);flex:1 0 auto;z-index:11000000;padding:15px 20px}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-footer{box-sizing:border-box;box-shadow:0 -3px 10px -2px rgba(0,0,0,.1);flex:1 0 auto;z-index:11000000;padding:10px 20px}#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-footer .didomi-logo-icon{margin-left:0}@media (-ms-high-contrast:none){#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-footer,#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-header,#didomi-host .didomi-consent-popup__backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view ::-ms-backdrop{flex:1 0 0}}#didomi-host .didomi-mobile .didomi-popup-backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-body{padding:15px 15px 0}#didomi-host .didomi-mobile .didomi-popup-backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-body>:last-child{margin-bottom:15px}#didomi-host .didomi-mobile .didomi-popup-backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-footer,#didomi-host .didomi-mobile .didomi-popup-backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-header{padding:10px 15px}#didomi-host .didomi-mobile .didomi-popup-backdrop.didomi-support-full-height .didomi-exterior-border .didomi-consent-popup-preferences .didomi-popup-view .didomi-popup-footer .didomi-consent-popup-actions{padding:0}#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-data-processing__buttons{-webkit-flex-shrink:0;-webkit-box-flex:0;-moz-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;margin-left:15px}#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-data-processing__buttons_tcf_v2{align-self:flex-start}#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-data-processing,#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-vendor{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-moz-box-pack:justify;-webkit-flex-pack:justify;-ms-flex-pack:justify;-moz-justify-content:space-between;-webkit-justify-content:space-between;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;margin-bottom:8px}#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-vendor{flex-wrap:wrap}#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-vendor .didomi-consent-popup-vendor__buttons{-webkit-flex-shrink:0;-webkit-box-flex:0;-moz-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;margin-left:15px}#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-vendor .didomi-consent-popup-vendor__right_aligned_buttons{float:right;margin-top:-2px}#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-partner{display:inline-block;margin-right:15px;margin-bottom:5px}#didomi-host .didomi-consent-popup-preferences .didomi-consent-popup-partner a{border-bottom:1px dashed #000}#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-preferences .didomi-consent-popup-vendor{-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-ms-flex-align:start;-webkit-align-items:flex-start;-moz-align-items:flex-start;align-items:flex-start;margin-bottom:8px}#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-preferences .didomi-consent-popup-vendor .didomi-consent-popup-vendor__buttons{-webkit-flex-shrink:0;-webkit-box-flex:0;-moz-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;margin-left:0;margin-top:10px}#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-preferences .didomi-consent-popup-data-processing{display:-webkit-box;display:-moz-box;display:-webkit-flexbox;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-moz-box-pack:start;-webkit-flex-pack:start;-ms-flex-pack:start;-moz-justify-content:flex-start;-webkit-justify-content:flex-start;justify-content:flex-start;-webkit-box-align:start;-ms-flex-align:start;-webkit-align-items:flex-start;-moz-align-items:flex-start;align-items:flex-start}#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-preferences .didomi-consent-popup-data-processing .didomi-consent-popup-category__name,#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-preferences .didomi-consent-popup-data-processing .didomi-consent-popup-data-processing__purpose{margin-bottom:6px}#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-preferences .didomi-consent-popup-data-processing .didomi-consent-popup-category__description,#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-preferences .didomi-consent-popup-data-processing .didomi-consent-popup-data-processing__description{font-size:12px}#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-category__description{margin-bottom:20px;font-size:12px}#didomi-host .didomi-mobile #didomi-consent-popup .didomi-consent-popup-data-processing__buttons{margin-left:0}#didomi-host .didomi-consent-popup-information .didomi-consent-popup-body{max-height:300px;overflow:auto}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-consent-popup-body_vendors-list{height:280px;overflow:auto;border:2px solid rgba(0,0,0,.05);padding:12px}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-consent-popup-body{padding:20px}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-vendors-details-title{font-weight:700}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-consent-popup-container-click-all{font-weight:700;background:rgba(0,0,0,.05);padding:8px 12px;margin:0!important}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-popup-title{cursor:pointer}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-user-information-container{word-break:break-all;border:2px solid rgba(0,0,0,.05);padding:12px}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-user-information-trigger{font-size:12px;color:#b3b3b3;font-weight:700}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-user-information-trigger>.trigger-icon{font-size:12px!important}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-vendors-iab-label{display:inline-block;margin-left:5px;padding:1px 4px;border-radius:2px;background:hsla(0,0%,60%,.1);font-weight:800;font-size:12px;color:#999;line-height:100%}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-vendors-disclaimer,#didomi-host .didomi-consent-popup-preferences-vendors .didomi-vendors-iab-disclaimer{font-size:14px;color:#999;font-weight:700;margin-bottom:10px}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-vendors-disclaimer p,#didomi-host .didomi-consent-popup-preferences-vendors .didomi-vendors-iab-disclaimer p{margin:0}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-vendors-disclaimer a,#didomi-host .didomi-consent-popup-preferences-vendors .didomi-vendors-iab-disclaimer a{color:#999}#didomi-host .didomi-consent-popup-preferences-vendors .didomi-consent-popup-vendor__description{padding-top:3px}#didomi-host .didomi-mobile .didomi-consent-popup-preferences-vendors .didomi-vendors-disclaimer,#didomi-host .didomi-mobile .didomi-consent-popup-preferences-vendors .didomi-vendors-iab-disclaimer{margin-top:15px!important}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category{padding:0;margin:12px 0 0}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .label-click{font-weight:700}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__children{border-left:1px solid #e7e2d6;padding:0 0 5px 15px;margin-left:15px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__name{font-weight:700;font-size:15px;margin-bottom:8px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__description{font-size:14px;font-weight:300}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__children{margin-top:12px;padding-bottom:0}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__children .didomi-consent-popup-category{padding:0}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__children .didomi-consent-popup-category__name{font-size:14px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__children .didomi-consent-popup-data-processing{border:none;padding:0}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__children .didomi-consent-popup-data-processing .didomi-consent-popup-data-processing__purpose{font-size:14px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__children .didomi-consent-popup-data-processing__description{padding:0}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-category .didomi-consent-popup-category__children .didomi-consent-popup-preferences-purposes-features{font-size:14px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing{font-weight:700}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__description{font-size:14px;color:#333}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__essential_purpose{display:flex;flex:2;justify-content:center;margin:5px 0 5px 15px;text-transform:uppercase;font-size:14px;line-height:17px;color:#999}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__essential_purpose_explanation{margin:0;padding:0;font-size:14px;font-weight:700;color:#999}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__description_legal_icon{border-bottom:none}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__description_legal_icon svg{margin-top:-5px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__purpose_actions{background-color:#fafafa;border-radius:1px;padding:15px;margin-bottom:15px;margin-top:8px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__purpose_actions .didomi-consent-popup-data-processing__purpose_actions_title{font-weight:700;color:#333}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__purpose_actions .didomi-consent-popup-data-processing__purpose_action_buttons{float:right}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-categories-nested .didomi-consent-popup-data-processing{padding:0;margin:12px 0 0}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-categories-nested .didomi-consent-popup-data-processing__purpose{font-size:15px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-view-vendors-list{display:flex;justify-content:space-between;align-items:center;text-align:center;margin-bottom:16px}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-view-vendors-list .didomi-consent-popup-body__title{margin-bottom:0}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-view-vendors-list .didomi-consent-popup-view-vendors-list-link{cursor:pointer;box-shadow:1px 1px 0 0 rgba(0,0,0,.1);background-color:#fff;border:1px solid #eee;font-size:12px;color:#b3b3b3;font-weight:700;padding:5px 15px;text-transform:none}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-view-vendors-list .didomi-consent-popup-view-vendors-list-link span{background:transparent}#didomi-host .didomi-consent-popup-preferences-purposes .didomi-consent-popup-footer .didomi-consent-popup-actions .didomi-consent-popup-information-save{margin-right:15px;font-style:italic;color:#9b9b9b;font-size:14px}#didomi-host .didomi-mobile .didomi-consent-popup-preferences-purposes .didomi-consent-popup-data-processing__essential_purpose{display:inline-block;margin-left:0!important}#didomi-host .didomi-mobile .didomi-consent-popup-preferences-purposes .didomi-consent-popup-footer{height:auto!important}#didomi-host .didomi-mobile .didomi-consent-popup-preferences-purposes .didomi-consent-popup-footer .didomi-consent-popup-actions{padding:8px 0}#didomi-host .didomi-mobile .didomi-consent-popup-preferences-purposes .didomi-consent-popup-footer .didomi-consent-popup-actions:not(.didomi-buttons-all){flex-direction:row}#didomi-host .didomi-mobile .didomi-consent-popup-preferences-purposes .didomi-consent-popup-footer .didomi-consent-popup-actions .didomi-consent-popup-information-save{text-align:center;margin-top:5px}#didomi-host .didomi-consent-popup__3e6e3e05-9201-4614-a13e-b9649d1fa0e4 .didomi-components-accordion-label-container .didomi-consent-popup-data-processing__purpose{font-size:15px!important}#didomi-host .didomi-consent-popup-category__children .didomi-consent-popup-preferences-purposes-features,#didomi-host .didomi-consent-popup__3e6e3e05-9201-4614-a13e-b9649d1fa0e4 .didomi-consent-popup-category__children .didomi-consent-popup-categories .didomi-consent-popup-data-processing .didomi-components-accordion .didomi-components-accordion-label-container .didomi-consent-popup-data-processing__purpose{font-size:14px!important}#didomi-host .didomi-consent-popup-preferences-purposes-features{margin-top:22px}#didomi-host .didomi-consent-popup-preferences-purposes-features div{display:inline} 
+    #didomi-host {
+      font-family: Arial;
+    }
+    #didomi-host a:not(.didomi-no-link-style) {
+      text-decoration: underline;
+      color: rgba(0,152,208,1)
+    }
+    
+  </style><div id="didomi-host"><div class="notranslate didomi-screen-medium didomi-consent-popup__ee8f2b48-6e6d-4657-af88-8521d468880e"></div></div><iframe name="__cmpLocator" style="display: none;"></iframe>
+	    	    	    <script>
+        window.dataLayer = window.dataLayer || [];
+    </script>
+
+<!-- End Google Tag Manager -->
+	    	            <div id="div-gpt-ad-test"></div>
+    <script type="text/javascript">
+        var checkDivElement = true;
+    </script>
+<script>
+    var advertisingAbTest = {"controlEngineTestGroups":[[1,100]],"controlEngineTestGroupsMweb":[[1,100]],"StandardPlacementFrameTest_paused":"c044f91b-84c2-4c5f-91f3-c3f70ea7b42f","BaxterTest":[[1,100]],"BaxterTestMweb":[[1,100]],"BaxterAfsTest":[[1,100]]};
+</script>
+    <script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+    <script>
+        window.Criteo = window.Criteo || {};
+        window.Criteo.events = window.Criteo.events || [];
+        window.criteoSlotsData = [{"abTest":[[1,100]],"container":{"dfpId":"div-gpt-ad-1449145277489-2","criteoId":"Crt-1389019","dataAdFormat":"fluid","dataAdLayoutKey":"-7g+ed+2w-11-82","dataAdClient":"ca-pub-1638918916433497","dataAdSlot":1560319483,"style":{"width":"300px","height":"250px"},"size":[250,300]},"slot":{"zoneId":1389019,"overrideZoneFloor":false}},{"abTest":[[1,100]],"container":{"dfpId":"div-gpt-ad-1449145220381-0","criteoId":"Crt-1389020","dataAdFormat":"fluid","dataAdLayoutKey":"-hi+u+5f-2o-1x","dataAdClient":"ca-pub-1638918916433497","dataAdSlot":7269822066,"size":[90,728],"style":{"margin":"auto","padding":"10px","max-height":"90px"}},"slot":{"zoneId":1389020,"overrideZoneFloor":false}},{"abTest":[[1,100]],"container":{"dfpId":"div-gpt-ad-1449145277489-0","criteoId":"Crt-1389020","dataAdFormat":"fluid","dataAdLayoutKey":"-he+h+43-24+52","dataAdClient":"ca-pub-1638918916433497","dataAdSlot":7527317256,"size":[90,728],"style":{"margin":"auto","padding":"10px","max-height":"90px"}},"slot":{"zoneId":1389020,"overrideZoneFloor":false}},{"abTest":[[1,100]],"container":{"dfpId":"div-gpt-ad-1449145220381-4","dataAdFormat":"car","dataAdClient":"ca-pub-1638918916433497","dataAdSlot":6178576566,"criteoId":"Crt-1389021","style":{"width":"160px","height":"600px"},"size":[600,160]},"slot":{"zoneId":1389021,"overrideZoneFloor":false}},{"abTest":[[1,100]],"container":{"dfpId":"div-gpt-ad-1452768499011-0","criteoId":"Crt-1389022","size":[165,890]},"slot":{"zoneId":1389022,"overrideZoneFloor":false}},{"abTest":[[1,100]],"container":{"dfpId":"div-gpt-ad-1462865728332-0","criteoId":"Crt-1389022-1","size":[165,890]},"slot":{"zoneId":1389022,"overrideZoneFloor":false}}];
+    </script>
+<script type="text/javascript">
+    if (typeof window.CustomEvent !== "function") {
+        function CustomEvent(event, params) {
+            params = params || {bubbles: false, cancelable: false, detail: undefined};
+            var evt = document.createEvent('CustomEvent');
+            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+            return evt;
+        }
+        CustomEvent.prototype = window.Event.prototype;
+        window.CustomEvent = CustomEvent;
+    }
+</script>
+    <script type="text/javascript">
+        var GPT = GPT || {};
+        GPT.targeting = {"dfp_user_id":"af1aaddb-2513-f9f4-b12e-a21f8a7512e1-ver2","segment":[],"dfp_segment_test":"36","dfp_segment_test_v2":"3","dfp_segment_test_v3":"3","dfp_segment_test_v4":"4","dfp_segment_test_oa":"89","lister_lifecycle":"1","last_pv_imps":"0","user-ad-fq":"0","ses_pv_seq":"0","user-ad-dens":"0","listingview_test":"1","env":"production","url_action":"account","lang":"ro","action_name":"account","atlas_action":"account","rebranding":"yes","con_inf":"00xx00xx3"};
+        var baxterSlots = [{"divId":"div-gpt-ad-1476099363895-0","adUnitPath":"olxro_dsk\/account\/background_lop","adUnitSizes":"[[1,1],[1520,525]]","outOfPage":"0","targeting":[],"isCollapsing":false,"exclusion":false,"openxBidder":"0","criteoZoneId":"","showActionAdblock":"1","sticky":false,"setClass":"0","isRefreshed":false,"secondDivId":"","secondAdUnitPath":"","secondAdUnitSizes":"[]","order":"1","position":"","container_config":"","showOnlyOnAction":""}];
+        var baxterTargeting = {"dfp_user_id":"af1aaddb-2513-f9f4-b12e-a21f8a7512e1-ver2","segment":[],"dfp_segment_test":"36","dfp_segment_test_v2":"3","dfp_segment_test_v3":"3","dfp_segment_test_v4":"4","dfp_segment_test_oa":"89","lister_lifecycle":"1","last_pv_imps":"0","user-ad-fq":"0","ses_pv_seq":"0","user-ad-dens":"0","listingview_test":"1","env":"production","url_action":"account","lang":"ro","action_name":"account","atlas_action":"account","rebranding":"yes","con_inf":"00xx00xx3"};
+        var controlEngineSetting = {"div-gpt-ad-1449145220381-2":{"name":"ud16","active":"true","cpm_id":"ud16","cpm":{"ud16p1":0,"ud16p2":0.01,"ud16p3":0.02,"ud16p4":0.03,"ud16p5":0.04,"ud16p6":0.05,"ud16p7":0.06,"ud16p8":0.07,"ud16p9":0.08,"ud16p10":0.09,"ud16p11":0.1,"ud16p12":0.11,"ud16p13":0.12,"ud16p14":0.13,"ud16p15":0.14,"ud16p16":0.15,"ud16p17":0.16,"ud16p18":0.17,"ud16p19":0.18,"ud16p20":0.19,"ud16p21":0.2,"ud16p22":0.21,"ud16p23":0.22,"ud16p24":0.23,"ud16p25":0.24,"ud16p26":0.25,"ud16p27":0.26,"ud16p28":0.27,"ud16p29":0.28,"ud16p30":0.29,"ud16p31":0.3,"ud16p32":0.32,"ud16p33":0.34,"ud16p34":0.36,"ud16p35":0.38,"ud16p36":0.4,"ud16p37":0.42,"ud16p38":0.44,"ud16p39":0.46,"ud16p40":0.48,"ud16p41":0.5,"ud16p42":0.55,"ud16p43":0.6,"ud16p44":0.65,"ud16p45":0.7,"ud16p46":0.75,"ud16p47":0.8,"ud16p48":0.85,"ud16p49":0.9,"ud16p50":0.95,"ud16p51":1,"ud16p52":1.1,"ud16p53":1.2,"ud16p54":1.3,"ud16p55":1.4,"ud16p56":1.5,"ud16p57":1.6,"ud16p58":1.7,"ud16p59":1.8,"ud16p60":1.9,"ud16p61":2}},"div-gpt-ad-1536839943385-0":{"name":"ud21","active":"true","cpm_id":"ud21","cpm":{"ud21p1":0,"ud21p2":0.01,"ud21p3":0.02,"ud21p4":0.03,"ud21p5":0.04,"ud21p6":0.05,"ud21p7":0.06,"ud21p8":0.07,"ud21p9":0.08,"ud21p10":0.09,"ud21p11":0.1,"ud21p12":0.11,"ud21p13":0.12,"ud21p14":0.13,"ud21p15":0.14,"ud21p16":0.15,"ud21p17":0.16,"ud21p18":0.17,"ud21p19":0.18,"ud21p20":0.19,"ud21p21":0.2,"ud21p22":0.21,"ud21p23":0.22,"ud21p24":0.23,"ud21p25":0.24,"ud21p26":0.25,"ud21p27":0.26,"ud21p28":0.27,"ud21p29":0.28,"ud21p30":0.29,"ud21p31":0.3,"ud21p32":0.32,"ud21p33":0.34,"ud21p34":0.36,"ud21p35":0.38,"ud21p36":0.4,"ud21p37":0.42,"ud21p38":0.44,"ud21p39":0.46,"ud21p40":0.48,"ud21p41":0.5,"ud21p42":0.55,"ud21p43":0.6,"ud21p44":0.65,"ud21p45":0.7,"ud21p46":0.75,"ud21p47":0.8,"ud21p48":0.85,"ud21p49":0.9,"ud21p50":0.95,"ud21p51":1,"ud21p52":1.1,"ud21p53":1.2,"ud21p54":1.3,"ud21p55":1.4,"ud21p56":1.5,"ud21p57":1.6,"ud21p58":1.7,"ud21p59":1.8,"ud21p60":1.9,"ud21p61":2}},"div-gpt-ad-1449145153968-2":{"name":"ud18","active":"true","cpm_id":"ud18","cpm":{"ud18p1":0,"ud18p2":0.01,"ud18p3":0.02,"ud18p4":0.03,"ud18p5":0.04,"ud18p6":0.05,"ud18p7":0.06,"ud18p8":0.07,"ud18p9":0.08,"ud18p10":0.09,"ud18p11":0.1,"ud18p12":0.11,"ud18p13":0.12,"ud18p14":0.13,"ud18p15":0.14,"ud18p16":0.15,"ud18p17":0.16,"ud18p18":0.17,"ud18p19":0.18,"ud18p20":0.19,"ud18p21":0.2,"ud18p22":0.21,"ud18p23":0.22,"ud18p24":0.23,"ud18p25":0.24,"ud18p26":0.25,"ud18p27":0.26,"ud18p28":0.27,"ud18p29":0.28,"ud18p30":0.29,"ud18p31":0.3,"ud18p32":0.32,"ud18p33":0.34,"ud18p34":0.36,"ud18p35":0.38,"ud18p36":0.4,"ud18p37":0.42,"ud18p38":0.44,"ud18p39":0.46,"ud18p40":0.48,"ud18p41":0.5,"ud18p42":0.55,"ud18p43":0.6,"ud18p44":0.65,"ud18p45":0.7,"ud18p46":0.75,"ud18p47":0.8,"ud18p48":0.85,"ud18p49":0.9,"ud18p50":0.95,"ud18p51":1,"ud18p52":1.1,"ud18p53":1.2,"ud18p54":1.3,"ud18p55":1.4,"ud18p56":1.5,"ud18p57":1.6,"ud18p58":1.7,"ud18p59":1.8,"ud18p60":1.9,"ud18p61":2}},"div-gpt-ad-1458032128565-0":{"name":"ud10","active":"true","cpm_id":"ud10","cpm":{"ud10p1":0,"ud10p2":0.01,"ud10p3":0.02,"ud10p4":0.03,"ud10p5":0.04,"ud10p6":0.05,"ud10p7":0.06,"ud10p8":0.07,"ud10p9":0.08,"ud10p10":0.09,"ud10p11":0.1,"ud10p12":0.11,"ud10p13":0.12,"ud10p14":0.13,"ud10p15":0.14,"ud10p16":0.15,"ud10p17":0.16,"ud10p18":0.17,"ud10p19":0.18,"ud10p20":0.19,"ud10p21":0.2,"ud10p22":0.21,"ud10p23":0.22,"ud10p24":0.23,"ud10p25":0.24,"ud10p26":0.25,"ud10p27":0.26,"ud10p28":0.27,"ud10p29":0.28,"ud10p30":0.29,"ud10p31":0.3,"ud10p32":0.32,"ud10p33":0.34,"ud10p34":0.36,"ud10p35":0.38,"ud10p36":0.4,"ud10p37":0.42,"ud10p38":0.44,"ud10p39":0.46,"ud10p40":0.48,"ud10p41":0.5,"ud10p42":0.55,"ud10p43":0.6,"ud10p44":0.65,"ud10p45":0.7,"ud10p46":0.75,"ud10p47":0.8,"ud10p48":0.85,"ud10p49":0.9,"ud10p50":0.95,"ud10p51":1,"ud10p52":1.1,"ud10p53":1.2,"ud10p54":1.3,"ud10p55":1.4,"ud10p56":1.5,"ud10p57":1.6,"ud10p58":1.7,"ud10p59":1.8,"ud10p60":1.9,"ud10p61":2}},"div-gpt-ad-1476188998057-0":{"name":"ud5","active":"true","cpm_id":"ud5","cpm":{"ud5p1":0,"ud5p2":0.01,"ud5p3":0.02,"ud5p4":0.03,"ud5p5":0.04,"ud5p6":0.05,"ud5p7":0.06,"ud5p8":0.07,"ud5p9":0.08,"ud5p10":0.09,"ud5p11":0.1,"ud5p12":0.11,"ud5p13":0.12,"ud5p14":0.13,"ud5p15":0.14,"ud5p16":0.15,"ud5p17":0.16,"ud5p18":0.17,"ud5p19":0.18,"ud5p20":0.19,"ud5p21":0.2,"ud5p22":0.21,"ud5p23":0.22,"ud5p24":0.23,"ud5p25":0.24,"ud5p26":0.25,"ud5p27":0.26,"ud5p28":0.27,"ud5p29":0.28,"ud5p30":0.29,"ud5p31":0.3,"ud5p32":0.32,"ud5p33":0.34,"ud5p34":0.36,"ud5p35":0.38,"ud5p36":0.4,"ud5p37":0.42,"ud5p38":0.44,"ud5p39":0.46,"ud5p40":0.48,"ud5p41":0.5,"ud5p42":0.55,"ud5p43":0.6,"ud5p44":0.65,"ud5p45":0.7,"ud5p46":0.75,"ud5p47":0.8,"ud5p48":0.85,"ud5p49":0.9,"ud5p50":0.95,"ud5p51":1,"ud5p52":1.1,"ud5p53":1.2,"ud5p54":1.3,"ud5p55":1.4,"ud5p56":1.5,"ud5p57":1.6,"ud5p58":1.7,"ud5p59":1.8,"ud5p60":1.9,"ud5p61":2}},"div-gpt-ad-1458213093376-0":{"name":"ud3","active":"true","cpm_id":"ud3","cpm":{"ud3p1":0,"ud3p2":0.01,"ud3p3":0.02,"ud3p4":0.03,"ud3p5":0.04,"ud3p6":0.05,"ud3p7":0.06,"ud3p8":0.07,"ud3p9":0.08,"ud3p10":0.09,"ud3p11":0.1,"ud3p12":0.11,"ud3p13":0.12,"ud3p14":0.13,"ud3p15":0.14,"ud3p16":0.15,"ud3p17":0.16,"ud3p18":0.17,"ud3p19":0.18,"ud3p20":0.19,"ud3p21":0.2,"ud3p22":0.21,"ud3p23":0.22,"ud3p24":0.23,"ud3p25":0.24,"ud3p26":0.25,"ud3p27":0.26,"ud3p28":0.27,"ud3p29":0.28,"ud3p30":0.29,"ud3p31":0.3,"ud3p32":0.32,"ud3p33":0.34,"ud3p34":0.36,"ud3p35":0.38,"ud3p36":0.4,"ud3p37":0.42,"ud3p38":0.44,"ud3p39":0.46,"ud3p40":0.48,"ud3p41":0.5,"ud3p42":0.55,"ud3p43":0.6,"ud3p44":0.65,"ud3p45":0.7,"ud3p46":0.75,"ud3p47":0.8,"ud3p48":0.85,"ud3p49":0.9,"ud3p50":0.95,"ud3p51":1,"ud3p52":1.1,"ud3p53":1.2,"ud3p54":1.3,"ud3p55":1.4,"ud3p56":1.5,"ud3p57":1.6,"ud3p58":1.7,"ud3p59":1.8,"ud3p60":1.9,"ud3p61":2}},"div-gpt-ad-1449679098210-0":{"name":"ud15","active":"true","cpm_id":"ud15","cpm":{"ud15p1":0,"ud15p2":0.01,"ud15p3":0.02,"ud15p4":0.03,"ud15p5":0.04,"ud15p6":0.05,"ud15p7":0.06,"ud15p8":0.07,"ud15p9":0.08,"ud15p10":0.09,"ud15p11":0.1,"ud15p12":0.11,"ud15p13":0.12,"ud15p14":0.13,"ud15p15":0.14,"ud15p16":0.15,"ud15p17":0.16,"ud15p18":0.17,"ud15p19":0.18,"ud15p20":0.19,"ud15p21":0.2,"ud15p22":0.21,"ud15p23":0.22,"ud15p24":0.23,"ud15p25":0.24,"ud15p26":0.25,"ud15p27":0.26,"ud15p28":0.27,"ud15p29":0.28,"ud15p30":0.29,"ud15p31":0.3,"ud15p32":0.32,"ud15p33":0.34,"ud15p34":0.36,"ud15p35":0.38,"ud15p36":0.4,"ud15p37":0.42,"ud15p38":0.44,"ud15p39":0.46,"ud15p40":0.48,"ud15p41":0.5,"ud15p42":0.55,"ud15p43":0.6,"ud15p44":0.65,"ud15p45":0.7,"ud15p46":0.75,"ud15p47":0.8,"ud15p48":0.85,"ud15p49":0.9,"ud15p50":0.95,"ud15p51":1,"ud15p52":1.1,"ud15p53":1.2,"ud15p54":1.3,"ud15p55":1.4,"ud15p56":1.5,"ud15p57":1.6,"ud15p58":1.7,"ud15p59":1.8,"ud15p60":1.9,"ud15p61":2}},"div-gpt-ad-1449145277489-0":{"name":"ud1","active":"true","cpm_id":"ud1","cpm":{"ud1p1":0,"ud1p2":0.01,"ud1p3":0.02,"ud1p4":0.03,"ud1p5":0.04,"ud1p6":0.05,"ud1p7":0.06,"ud1p8":0.07,"ud1p9":0.08,"ud1p10":0.09,"ud1p11":0.1,"ud1p12":0.11,"ud1p13":0.12,"ud1p14":0.13,"ud1p15":0.14,"ud1p16":0.15,"ud1p17":0.16,"ud1p18":0.17,"ud1p19":0.18,"ud1p20":0.19,"ud1p21":0.2,"ud1p22":0.21,"ud1p23":0.22,"ud1p24":0.23,"ud1p25":0.24,"ud1p26":0.25,"ud1p27":0.26,"ud1p28":0.27,"ud1p29":0.28,"ud1p30":0.29,"ud1p31":0.3,"ud1p32":0.32,"ud1p33":0.34,"ud1p34":0.36,"ud1p35":0.38,"ud1p36":0.4,"ud1p37":0.42,"ud1p38":0.44,"ud1p39":0.46,"ud1p40":0.48,"ud1p41":0.5,"ud1p42":0.55,"ud1p43":0.6,"ud1p44":0.65,"ud1p45":0.7,"ud1p46":0.75,"ud1p47":0.8,"ud1p48":0.85,"ud1p49":0.9,"ud1p50":0.95,"ud1p51":1,"ud1p52":1.1,"ud1p53":1.2,"ud1p54":1.3,"ud1p55":1.4,"ud1p56":1.5,"ud1p57":1.6,"ud1p58":1.7,"ud1p59":1.8,"ud1p60":1.9,"ud1p61":2}},"div-gpt-ad-1449145153968-0":{"name":"ud6","active":"true","cpm_id":"ud6","cpm":{"ud6p1":0,"ud6p2":0.01,"ud6p3":0.02,"ud6p4":0.03,"ud6p5":0.04,"ud6p6":0.05,"ud6p7":0.06,"ud6p8":0.07,"ud6p9":0.08,"ud6p10":0.09,"ud6p11":0.1,"ud6p12":0.11,"ud6p13":0.12,"ud6p14":0.13,"ud6p15":0.14,"ud6p16":0.15,"ud6p17":0.16,"ud6p18":0.17,"ud6p19":0.18,"ud6p20":0.19,"ud6p21":0.2,"ud6p22":0.21,"ud6p23":0.22,"ud6p24":0.23,"ud6p25":0.24,"ud6p26":0.25,"ud6p27":0.26,"ud6p28":0.27,"ud6p29":0.28,"ud6p30":0.29,"ud6p31":0.3,"ud6p32":0.32,"ud6p33":0.34,"ud6p34":0.36,"ud6p35":0.38,"ud6p36":0.4,"ud6p37":0.42,"ud6p38":0.44,"ud6p39":0.46,"ud6p40":0.48,"ud6p41":0.5,"ud6p42":0.55,"ud6p43":0.6,"ud6p44":0.65,"ud6p45":0.7,"ud6p46":0.75,"ud6p47":0.8,"ud6p48":0.85,"ud6p49":0.9,"ud6p50":0.95,"ud6p51":1,"ud6p52":1.1,"ud6p53":1.2,"ud6p54":1.3,"ud6p55":1.4,"ud6p56":1.5,"ud6p57":1.6,"ud6p58":1.7,"ud6p59":1.8,"ud6p60":1.9,"ud6p61":2}},"div-gpt-ad-1449145220381-0":{"name":"ud2","active":"true","cpm_id":"ud2","cpm":{"ud2p1":0,"ud2p2":0.01,"ud2p3":0.02,"ud2p4":0.03,"ud2p5":0.04,"ud2p6":0.05,"ud2p7":0.06,"ud2p8":0.07,"ud2p9":0.08,"ud2p10":0.09,"ud2p11":0.1,"ud2p12":0.11,"ud2p13":0.12,"ud2p14":0.13,"ud2p15":0.14,"ud2p16":0.15,"ud2p17":0.16,"ud2p18":0.17,"ud2p19":0.18,"ud2p20":0.19,"ud2p21":0.2,"ud2p22":0.21,"ud2p23":0.22,"ud2p24":0.23,"ud2p25":0.24,"ud2p26":0.25,"ud2p27":0.26,"ud2p28":0.27,"ud2p29":0.28,"ud2p30":0.29,"ud2p31":0.3,"ud2p32":0.32,"ud2p33":0.34,"ud2p34":0.36,"ud2p35":0.38,"ud2p36":0.4,"ud2p37":0.42,"ud2p38":0.44,"ud2p39":0.46,"ud2p40":0.48,"ud2p41":0.5,"ud2p42":0.55,"ud2p43":0.6,"ud2p44":0.65,"ud2p45":0.7,"ud2p46":0.75,"ud2p47":0.8,"ud2p48":0.85,"ud2p49":0.9,"ud2p50":0.95,"ud2p51":1,"ud2p52":1.1,"ud2p53":1.2,"ud2p54":1.3,"ud2p55":1.4,"ud2p56":1.5,"ud2p57":1.6,"ud2p58":1.7,"ud2p59":1.8,"ud2p60":1.9,"ud2p61":2}},"div-gpt-ad-1536840134538-0":{"name":"ud13","active":"true","cpm_id":"ud13","cpm":{"ud13p1":0,"ud13p2":0.01,"ud13p3":0.02,"ud13p4":0.03,"ud13p5":0.04,"ud13p6":0.05,"ud13p7":0.06,"ud13p8":0.07,"ud13p9":0.08,"ud13p10":0.09,"ud13p11":0.1,"ud13p12":0.11,"ud13p13":0.12,"ud13p14":0.13,"ud13p15":0.14,"ud13p16":0.15,"ud13p17":0.16,"ud13p18":0.17,"ud13p19":0.18,"ud13p20":0.19,"ud13p21":0.2,"ud13p22":0.21,"ud13p23":0.22,"ud13p24":0.23,"ud13p25":0.24,"ud13p26":0.25,"ud13p27":0.26,"ud13p28":0.27,"ud13p29":0.28,"ud13p30":0.29,"ud13p31":0.3,"ud13p32":0.32,"ud13p33":0.34,"ud13p34":0.36,"ud13p35":0.38,"ud13p36":0.4,"ud13p37":0.42,"ud13p38":0.44,"ud13p39":0.46,"ud13p40":0.48,"ud13p41":0.5,"ud13p42":0.55,"ud13p43":0.6,"ud13p44":0.65,"ud13p45":0.7,"ud13p46":0.75,"ud13p47":0.8,"ud13p48":0.85,"ud13p49":0.9,"ud13p50":0.95,"ud13p51":1,"ud13p52":1.1,"ud13p53":1.2,"ud13p54":1.3,"ud13p55":1.4,"ud13p56":1.5,"ud13p57":1.6,"ud13p58":1.7,"ud13p59":1.8,"ud13p60":1.9,"ud13p61":2}},"div-gpt-ad-1538668237787-0":{"name":"ud20","active":"true","cpm_id":"ud20","cpm":{"ud20p1":0,"ud20p2":0.01,"ud20p3":0.02,"ud20p4":0.03,"ud20p5":0.04,"ud20p6":0.05,"ud20p7":0.06,"ud20p8":0.07,"ud20p9":0.08,"ud20p10":0.09,"ud20p11":0.1,"ud20p12":0.11,"ud20p13":0.12,"ud20p14":0.13,"ud20p15":0.14,"ud20p16":0.15,"ud20p17":0.16,"ud20p18":0.17,"ud20p19":0.18,"ud20p20":0.19,"ud20p21":0.2,"ud20p22":0.21,"ud20p23":0.22,"ud20p24":0.23,"ud20p25":0.24,"ud20p26":0.25,"ud20p27":0.26,"ud20p28":0.27,"ud20p29":0.28,"ud20p30":0.29,"ud20p31":0.3,"ud20p32":0.32,"ud20p33":0.34,"ud20p34":0.36,"ud20p35":0.38,"ud20p36":0.4,"ud20p37":0.42,"ud20p38":0.44,"ud20p39":0.46,"ud20p40":0.48,"ud20p41":0.5,"ud20p42":0.55,"ud20p43":0.6,"ud20p44":0.65,"ud20p45":0.7,"ud20p46":0.75,"ud20p47":0.8,"ud20p48":0.85,"ud20p49":0.9,"ud20p50":0.95,"ud20p51":1,"ud20p52":1.1,"ud20p53":1.2,"ud20p54":1.3,"ud20p55":1.4,"ud20p56":1.5,"ud20p57":1.6,"ud20p58":1.7,"ud20p59":1.8,"ud20p60":1.9,"ud20p61":2}},"div-gpt-ad-1494315780343-0":{"name":"ud25","active":"true","cpm_id":"ud25","cpm":{"ud25p1":0,"ud25p2":0.01,"ud25p3":0.02,"ud25p4":0.03,"ud25p5":0.04,"ud25p6":0.05,"ud25p7":0.06,"ud25p8":0.07,"ud25p9":0.08,"ud25p10":0.09,"ud25p11":0.1,"ud25p12":0.11,"ud25p13":0.12,"ud25p14":0.13,"ud25p15":0.14,"ud25p16":0.15,"ud25p17":0.16,"ud25p18":0.17,"ud25p19":0.18,"ud25p20":0.19,"ud25p21":0.2,"ud25p22":0.21,"ud25p23":0.22,"ud25p24":0.23,"ud25p25":0.24,"ud25p26":0.25,"ud25p27":0.26,"ud25p28":0.27,"ud25p29":0.28,"ud25p30":0.29,"ud25p31":0.3,"ud25p32":0.32,"ud25p33":0.34,"ud25p34":0.36,"ud25p35":0.38,"ud25p36":0.4,"ud25p37":0.42,"ud25p38":0.44,"ud25p39":0.46,"ud25p40":0.48,"ud25p41":0.5,"ud25p42":0.55,"ud25p43":0.6,"ud25p44":0.65,"ud25p45":0.7,"ud25p46":0.75,"ud25p47":0.8,"ud25p48":0.85,"ud25p49":0.9,"ud25p50":0.95,"ud25p51":1,"ud25p52":1.1,"ud25p53":1.2,"ud25p54":1.3,"ud25p55":1.4,"ud25p56":1.5,"ud25p57":1.6,"ud25p58":1.7,"ud25p59":1.8,"ud25p60":1.9,"ud25p61":2}},"div-gpt-ad-1494315780343-3":{"name":"ud22","active":"true","cpm_id":"ud22","cpm":{"ud22p1":0,"ud22p2":0.01,"ud22p3":0.02,"ud22p4":0.03,"ud22p5":0.04,"ud22p6":0.05,"ud22p7":0.06,"ud22p8":0.07,"ud22p9":0.08,"ud22p10":0.09,"ud22p11":0.1,"ud22p12":0.11,"ud22p13":0.12,"ud22p14":0.13,"ud22p15":0.14,"ud22p16":0.15,"ud22p17":0.16,"ud22p18":0.17,"ud22p19":0.18,"ud22p20":0.19,"ud22p21":0.2,"ud22p22":0.21,"ud22p23":0.22,"ud22p24":0.23,"ud22p25":0.24,"ud22p26":0.25,"ud22p27":0.26,"ud22p28":0.27,"ud22p29":0.28,"ud22p30":0.29,"ud22p31":0.3,"ud22p32":0.32,"ud22p33":0.34,"ud22p34":0.36,"ud22p35":0.38,"ud22p36":0.4,"ud22p37":0.42,"ud22p38":0.44,"ud22p39":0.46,"ud22p40":0.48,"ud22p41":0.5,"ud22p42":0.55,"ud22p43":0.6,"ud22p44":0.65,"ud22p45":0.7,"ud22p46":0.75,"ud22p47":0.8,"ud22p48":0.85,"ud22p49":0.9,"ud22p50":0.95,"ud22p51":1,"ud22p52":1.1,"ud22p53":1.2,"ud22p54":1.3,"ud22p55":1.4,"ud22p56":1.5,"ud22p57":1.6,"ud22p58":1.7,"ud22p59":1.8,"ud22p60":1.9,"ud22p61":2}},"div-gpt-ad-1494315780343-1":{"name":"ud27","active":"true","cpm_id":"ud27","cpm":{"ud27p1":0,"ud27p2":0.01,"ud27p3":0.02,"ud27p4":0.03,"ud27p5":0.04,"ud27p6":0.05,"ud27p7":0.06,"ud27p8":0.07,"ud27p9":0.08,"ud27p10":0.09,"ud27p11":0.1,"ud27p12":0.11,"ud27p13":0.12,"ud27p14":0.13,"ud27p15":0.14,"ud27p16":0.15,"ud27p17":0.16,"ud27p18":0.17,"ud27p19":0.18,"ud27p20":0.19,"ud27p21":0.2,"ud27p22":0.21,"ud27p23":0.22,"ud27p24":0.23,"ud27p25":0.24,"ud27p26":0.25,"ud27p27":0.26,"ud27p28":0.27,"ud27p29":0.28,"ud27p30":0.29,"ud27p31":0.3,"ud27p32":0.32,"ud27p33":0.34,"ud27p34":0.36,"ud27p35":0.38,"ud27p36":0.4,"ud27p37":0.42,"ud27p38":0.44,"ud27p39":0.46,"ud27p40":0.48,"ud27p41":0.5,"ud27p42":0.55,"ud27p43":0.6,"ud27p44":0.65,"ud27p45":0.7,"ud27p46":0.75,"ud27p47":0.8,"ud27p48":0.85,"ud27p49":0.9,"ud27p50":0.95,"ud27p51":1,"ud27p52":1.1,"ud27p53":1.2,"ud27p54":1.3,"ud27p55":1.4,"ud27p56":1.5,"ud27p57":1.6,"ud27p58":1.7,"ud27p59":1.8,"ud27p60":1.9,"ud27p61":2}},"div-gpt-ad-1494315780343-4":{"name":"ud23","active":"true","cpm_id":"ud23","cpm":{"ud23p1":0,"ud23p2":0.01,"ud23p3":0.02,"ud23p4":0.03,"ud23p5":0.04,"ud23p6":0.05,"ud23p7":0.06,"ud23p8":0.07,"ud23p9":0.08,"ud23p10":0.09,"ud23p11":0.1,"ud23p12":0.11,"ud23p13":0.12,"ud23p14":0.13,"ud23p15":0.14,"ud23p16":0.15,"ud23p17":0.16,"ud23p18":0.17,"ud23p19":0.18,"ud23p20":0.19,"ud23p21":0.2,"ud23p22":0.21,"ud23p23":0.22,"ud23p24":0.23,"ud23p25":0.24,"ud23p26":0.25,"ud23p27":0.26,"ud23p28":0.27,"ud23p29":0.28,"ud23p30":0.29,"ud23p31":0.3,"ud23p32":0.32,"ud23p33":0.34,"ud23p34":0.36,"ud23p35":0.38,"ud23p36":0.4,"ud23p37":0.42,"ud23p38":0.44,"ud23p39":0.46,"ud23p40":0.48,"ud23p41":0.5,"ud23p42":0.55,"ud23p43":0.6,"ud23p44":0.65,"ud23p45":0.7,"ud23p46":0.75,"ud23p47":0.8,"ud23p48":0.85,"ud23p49":0.9,"ud23p50":0.95,"ud23p51":1,"ud23p52":1.1,"ud23p53":1.2,"ud23p54":1.3,"ud23p55":1.4,"ud23p56":1.5,"ud23p57":1.6,"ud23p58":1.7,"ud23p59":1.8,"ud23p60":1.9,"ud23p61":2}},"div-gpt-ad-1494315780343-2":{"name":"ud26","active":"true","cpm_id":"ud26","cpm":{"ud26p1":0,"ud26p2":0.01,"ud26p3":0.02,"ud26p4":0.03,"ud26p5":0.04,"ud26p6":0.05,"ud26p7":0.06,"ud26p8":0.07,"ud26p9":0.08,"ud26p10":0.09,"ud26p11":0.1,"ud26p12":0.11,"ud26p13":0.12,"ud26p14":0.13,"ud26p15":0.14,"ud26p16":0.15,"ud26p17":0.16,"ud26p18":0.17,"ud26p19":0.18,"ud26p20":0.19,"ud26p21":0.2,"ud26p22":0.21,"ud26p23":0.22,"ud26p24":0.23,"ud26p25":0.24,"ud26p26":0.25,"ud26p27":0.26,"ud26p28":0.27,"ud26p29":0.28,"ud26p30":0.29,"ud26p31":0.3,"ud26p32":0.32,"ud26p33":0.34,"ud26p34":0.36,"ud26p35":0.38,"ud26p36":0.4,"ud26p37":0.42,"ud26p38":0.44,"ud26p39":0.46,"ud26p40":0.48,"ud26p41":0.5,"ud26p42":0.55,"ud26p43":0.6,"ud26p44":0.65,"ud26p45":0.7,"ud26p46":0.75,"ud26p47":0.8,"ud26p48":0.85,"ud26p49":0.9,"ud26p50":0.95,"ud26p51":1,"ud26p52":1.1,"ud26p53":1.2,"ud26p54":1.3,"ud26p55":1.4,"ud26p56":1.5,"ud26p57":1.6,"ud26p58":1.7,"ud26p59":1.8,"ud26p60":1.9,"ud26p61":2}},"div-gpt-ad-1494315780343-5":{"name":"ud24","active":"true","cpm_id":"ud24","cpm":{"ud24p1":0,"ud24p2":0.01,"ud24p3":0.02,"ud24p4":0.03,"ud24p5":0.04,"ud24p6":0.05,"ud24p7":0.06,"ud24p8":0.07,"ud24p9":0.08,"ud24p10":0.09,"ud24p11":0.1,"ud24p12":0.11,"ud24p13":0.12,"ud24p14":0.13,"ud24p15":0.14,"ud24p16":0.15,"ud24p17":0.16,"ud24p18":0.17,"ud24p19":0.18,"ud24p20":0.19,"ud24p21":0.2,"ud24p22":0.21,"ud24p23":0.22,"ud24p24":0.23,"ud24p25":0.24,"ud24p26":0.25,"ud24p27":0.26,"ud24p28":0.27,"ud24p29":0.28,"ud24p30":0.29,"ud24p31":0.3,"ud24p32":0.32,"ud24p33":0.34,"ud24p34":0.36,"ud24p35":0.38,"ud24p36":0.4,"ud24p37":0.42,"ud24p38":0.44,"ud24p39":0.46,"ud24p40":0.48,"ud24p41":0.5,"ud24p42":0.55,"ud24p43":0.6,"ud24p44":0.65,"ud24p45":0.7,"ud24p46":0.75,"ud24p47":0.8,"ud24p48":0.85,"ud24p49":0.9,"ud24p50":0.95,"ud24p51":1,"ud24p52":1.1,"ud24p53":1.2,"ud24p54":1.3,"ud24p55":1.4,"ud24p56":1.5,"ud24p57":1.6,"ud24p58":1.7,"ud24p59":1.8,"ud24p60":1.9,"ud24p61":2}},"div-gpt-ad-1462865728332-0":{"name":"ud7","active":"true","cpm_id":"ud7","cpm":{"ud7p1":0,"ud7p2":0.01,"ud7p3":0.02,"ud7p4":0.03,"ud7p5":0.04,"ud7p6":0.05,"ud7p7":0.06,"ud7p8":0.07,"ud7p9":0.08,"ud7p10":0.09,"ud7p11":0.1,"ud7p12":0.11,"ud7p13":0.12,"ud7p14":0.13,"ud7p15":0.14,"ud7p16":0.15,"ud7p17":0.16,"ud7p18":0.17,"ud7p19":0.18,"ud7p20":0.19,"ud7p21":0.2,"ud7p22":0.21,"ud7p23":0.22,"ud7p24":0.23,"ud7p25":0.24,"ud7p26":0.25,"ud7p27":0.26,"ud7p28":0.27,"ud7p29":0.28,"ud7p30":0.29,"ud7p31":0.3,"ud7p32":0.32,"ud7p33":0.34,"ud7p34":0.36,"ud7p35":0.38,"ud7p36":0.4,"ud7p37":0.42,"ud7p38":0.44,"ud7p39":0.46,"ud7p40":0.48,"ud7p41":0.5,"ud7p42":0.55,"ud7p43":0.6,"ud7p44":0.65,"ud7p45":0.7,"ud7p46":0.75,"ud7p47":0.8,"ud7p48":0.85,"ud7p49":0.9,"ud7p50":0.95,"ud7p51":1,"ud7p52":1.1,"ud7p53":1.2,"ud7p54":1.3,"ud7p55":1.4,"ud7p56":1.5,"ud7p57":1.6,"ud7p58":1.7,"ud7p59":1.8,"ud7p60":1.9,"ud7p61":2}},"div-gpt-ad-1452768499011-0":{"name":"ud17","active":"true","cpm_id":"ud17","cpm":{"ud17p1":0,"ud17p2":0.01,"ud17p3":0.02,"ud17p4":0.03,"ud17p5":0.04,"ud17p6":0.05,"ud17p7":0.06,"ud17p8":0.07,"ud17p9":0.08,"ud17p10":0.09,"ud17p11":0.1,"ud17p12":0.11,"ud17p13":0.12,"ud17p14":0.13,"ud17p15":0.14,"ud17p16":0.15,"ud17p17":0.16,"ud17p18":0.17,"ud17p19":0.18,"ud17p20":0.19,"ud17p21":0.2,"ud17p22":0.21,"ud17p23":0.22,"ud17p24":0.23,"ud17p25":0.24,"ud17p26":0.25,"ud17p27":0.26,"ud17p28":0.27,"ud17p29":0.28,"ud17p30":0.29,"ud17p31":0.3,"ud17p32":0.32,"ud17p33":0.34,"ud17p34":0.36,"ud17p35":0.38,"ud17p36":0.4,"ud17p37":0.42,"ud17p38":0.44,"ud17p39":0.46,"ud17p40":0.48,"ud17p41":0.5,"ud17p42":0.55,"ud17p43":0.6,"ud17p44":0.65,"ud17p45":0.7,"ud17p46":0.75,"ud17p47":0.8,"ud17p48":0.85,"ud17p49":0.9,"ud17p50":0.95,"ud17p51":1,"ud17p52":1.1,"ud17p53":1.2,"ud17p54":1.3,"ud17p55":1.4,"ud17p56":1.5,"ud17p57":1.6,"ud17p58":1.7,"ud17p59":1.8,"ud17p60":1.9,"ud17p61":2}},"div-gpt-ad-1511165628755-0":{"name":"ud12","active":"true","cpm_id":"ud12","cpm":{"ud12p1":0,"ud12p2":0.01,"ud12p3":0.02,"ud12p4":0.03,"ud12p5":0.04,"ud12p6":0.05,"ud12p7":0.06,"ud12p8":0.07,"ud12p9":0.08,"ud12p10":0.09,"ud12p11":0.1,"ud12p12":0.11,"ud12p13":0.12,"ud12p14":0.13,"ud12p15":0.14,"ud12p16":0.15,"ud12p17":0.16,"ud12p18":0.17,"ud12p19":0.18,"ud12p20":0.19,"ud12p21":0.2,"ud12p22":0.21,"ud12p23":0.22,"ud12p24":0.23,"ud12p25":0.24,"ud12p26":0.25,"ud12p27":0.26,"ud12p28":0.27,"ud12p29":0.28,"ud12p30":0.29,"ud12p31":0.3,"ud12p32":0.32,"ud12p33":0.34,"ud12p34":0.36,"ud12p35":0.38,"ud12p36":0.4,"ud12p37":0.42,"ud12p38":0.44,"ud12p39":0.46,"ud12p40":0.48,"ud12p41":0.5,"ud12p42":0.55,"ud12p43":0.6,"ud12p44":0.65,"ud12p45":0.7,"ud12p46":0.75,"ud12p47":0.8,"ud12p48":0.85,"ud12p49":0.9,"ud12p50":0.95,"ud12p51":1,"ud12p52":1.1,"ud12p53":1.2,"ud12p54":1.3,"ud12p55":1.4,"ud12p56":1.5,"ud12p57":1.6,"ud12p58":1.7,"ud12p59":1.8,"ud12p60":1.9,"ud12p61":2}},"div-gpt-ad-1509696608893-0":{"name":"ud14","active":"true","cpm_id":"ud14","cpm":{"ud14p1":0,"ud14p2":0.01,"ud14p3":0.02,"ud14p4":0.03,"ud14p5":0.04,"ud14p6":0.05,"ud14p7":0.06,"ud14p8":0.07,"ud14p9":0.08,"ud14p10":0.09,"ud14p11":0.1,"ud14p12":0.11,"ud14p13":0.12,"ud14p14":0.13,"ud14p15":0.14,"ud14p16":0.15,"ud14p17":0.16,"ud14p18":0.17,"ud14p19":0.18,"ud14p20":0.19,"ud14p21":0.2,"ud14p22":0.21,"ud14p23":0.22,"ud14p24":0.23,"ud14p25":0.24,"ud14p26":0.25,"ud14p27":0.26,"ud14p28":0.27,"ud14p29":0.28,"ud14p30":0.29,"ud14p31":0.3,"ud14p32":0.32,"ud14p33":0.34,"ud14p34":0.36,"ud14p35":0.38,"ud14p36":0.4,"ud14p37":0.42,"ud14p38":0.44,"ud14p39":0.46,"ud14p40":0.48,"ud14p41":0.5,"ud14p42":0.55,"ud14p43":0.6,"ud14p44":0.65,"ud14p45":0.7,"ud14p46":0.75,"ud14p47":0.8,"ud14p48":0.85,"ud14p49":0.9,"ud14p50":0.95,"ud14p51":1,"ud14p52":1.1,"ud14p53":1.2,"ud14p54":1.3,"ud14p55":1.4,"ud14p56":1.5,"ud14p57":1.6,"ud14p58":1.7,"ud14p59":1.8,"ud14p60":1.9,"ud14p61":2}},"div-gpt-ad-1449145277489-2":{"name":"ud4","active":"true","cpm_id":"ud4","cpm":{"ud4p1":0,"ud4p2":0.01,"ud4p3":0.02,"ud4p4":0.03,"ud4p5":0.04,"ud4p6":0.05,"ud4p7":0.06,"ud4p8":0.07,"ud4p9":0.08,"ud4p10":0.09,"ud4p11":0.1,"ud4p12":0.11,"ud4p13":0.12,"ud4p14":0.13,"ud4p15":0.14,"ud4p16":0.15,"ud4p17":0.16,"ud4p18":0.17,"ud4p19":0.18,"ud4p20":0.19,"ud4p21":0.2,"ud4p22":0.21,"ud4p23":0.22,"ud4p24":0.23,"ud4p25":0.24,"ud4p26":0.25,"ud4p27":0.26,"ud4p28":0.27,"ud4p29":0.28,"ud4p30":0.29,"ud4p31":0.3,"ud4p32":0.32,"ud4p33":0.34,"ud4p34":0.36,"ud4p35":0.38,"ud4p36":0.4,"ud4p37":0.42,"ud4p38":0.44,"ud4p39":0.46,"ud4p40":0.48,"ud4p41":0.5,"ud4p42":0.55,"ud4p43":0.6,"ud4p44":0.65,"ud4p45":0.7,"ud4p46":0.75,"ud4p47":0.8,"ud4p48":0.85,"ud4p49":0.9,"ud4p50":0.95,"ud4p51":1,"ud4p52":1.1,"ud4p53":1.2,"ud4p54":1.3,"ud4p55":1.4,"ud4p56":1.5,"ud4p57":1.6,"ud4p58":1.7,"ud4p59":1.8,"ud4p60":1.9,"ud4p61":2}},"div-gpt-ad-1517413767493-1":{"name":"ud19","active":"true","cpm_id":"ud19","cpm":{"ud19p1":0,"ud19p2":0.01,"ud19p3":0.02,"ud19p4":0.03,"ud19p5":0.04,"ud19p6":0.05,"ud19p7":0.06,"ud19p8":0.07,"ud19p9":0.08,"ud19p10":0.09,"ud19p11":0.1,"ud19p12":0.11,"ud19p13":0.12,"ud19p14":0.13,"ud19p15":0.14,"ud19p16":0.15,"ud19p17":0.16,"ud19p18":0.17,"ud19p19":0.18,"ud19p20":0.19,"ud19p21":0.2,"ud19p22":0.21,"ud19p23":0.22,"ud19p24":0.23,"ud19p25":0.24,"ud19p26":0.25,"ud19p27":0.26,"ud19p28":0.27,"ud19p29":0.28,"ud19p30":0.29,"ud19p31":0.3,"ud19p32":0.32,"ud19p33":0.34,"ud19p34":0.36,"ud19p35":0.38,"ud19p36":0.4,"ud19p37":0.42,"ud19p38":0.44,"ud19p39":0.46,"ud19p40":0.48,"ud19p41":0.5,"ud19p42":0.55,"ud19p43":0.6,"ud19p44":0.65,"ud19p45":0.7,"ud19p46":0.75,"ud19p47":0.8,"ud19p48":0.85,"ud19p49":0.9,"ud19p50":0.95,"ud19p51":1,"ud19p52":1.1,"ud19p53":1.2,"ud19p54":1.3,"ud19p55":1.4,"ud19p56":1.5,"ud19p57":1.6,"ud19p58":1.7,"ud19p59":1.8,"ud19p60":1.9,"ud19p61":2}},"div-gpt-ad-1449145277489-4":{"name":"ud9","active":"true","cpm_id":"ud9","cpm":{"ud9p1":0,"ud9p2":0.01,"ud9p3":0.02,"ud9p4":0.03,"ud9p5":0.04,"ud9p6":0.05,"ud9p7":0.06,"ud9p8":0.07,"ud9p9":0.08,"ud9p10":0.09,"ud9p11":0.1,"ud9p12":0.11,"ud9p13":0.12,"ud9p14":0.13,"ud9p15":0.14,"ud9p16":0.15,"ud9p17":0.16,"ud9p18":0.17,"ud9p19":0.18,"ud9p20":0.19,"ud9p21":0.2,"ud9p22":0.21,"ud9p23":0.22,"ud9p24":0.23,"ud9p25":0.24,"ud9p26":0.25,"ud9p27":0.26,"ud9p28":0.27,"ud9p29":0.28,"ud9p30":0.29,"ud9p31":0.3,"ud9p32":0.32,"ud9p33":0.34,"ud9p34":0.36,"ud9p35":0.38,"ud9p36":0.4,"ud9p37":0.42,"ud9p38":0.44,"ud9p39":0.46,"ud9p40":0.48,"ud9p41":0.5,"ud9p42":0.55,"ud9p43":0.6,"ud9p44":0.65,"ud9p45":0.7,"ud9p46":0.75,"ud9p47":0.8,"ud9p48":0.85,"ud9p49":0.9,"ud9p50":0.95,"ud9p51":1,"ud9p52":1.1,"ud9p53":1.2,"ud9p54":1.3,"ud9p55":1.4,"ud9p56":1.5,"ud9p57":1.6,"ud9p58":1.7,"ud9p59":1.8,"ud9p60":1.9,"ud9p61":2}},"div-gpt-ad-1449145220381-4":{"name":"ud8","active":"true","cpm_id":"ud8","cpm":{"ud8p1":0,"ud8p2":0.01,"ud8p3":0.02,"ud8p4":0.03,"ud8p5":0.04,"ud8p6":0.05,"ud8p7":0.06,"ud8p8":0.07,"ud8p9":0.08,"ud8p10":0.09,"ud8p11":0.1,"ud8p12":0.11,"ud8p13":0.12,"ud8p14":0.13,"ud8p15":0.14,"ud8p16":0.15,"ud8p17":0.16,"ud8p18":0.17,"ud8p19":0.18,"ud8p20":0.19,"ud8p21":0.2,"ud8p22":0.21,"ud8p23":0.22,"ud8p24":0.23,"ud8p25":0.24,"ud8p26":0.25,"ud8p27":0.26,"ud8p28":0.27,"ud8p29":0.28,"ud8p30":0.29,"ud8p31":0.3,"ud8p32":0.32,"ud8p33":0.34,"ud8p34":0.36,"ud8p35":0.38,"ud8p36":0.4,"ud8p37":0.42,"ud8p38":0.44,"ud8p39":0.46,"ud8p40":0.48,"ud8p41":0.5,"ud8p42":0.55,"ud8p43":0.6,"ud8p44":0.65,"ud8p45":0.7,"ud8p46":0.75,"ud8p47":0.8,"ud8p48":0.85,"ud8p49":0.9,"ud8p50":0.95,"ud8p51":1,"ud8p52":1.1,"ud8p53":1.2,"ud8p54":1.3,"ud8p55":1.4,"ud8p56":1.5,"ud8p57":1.6,"ud8p58":1.7,"ud8p59":1.8,"ud8p60":1.9,"ud8p61":2}},"div-gpt-ad-1517413767493-3":{"name":"ud11","active":"true","cpm_id":"ud11","cpm":{"ud11p1":0,"ud11p2":0.01,"ud11p3":0.02,"ud11p4":0.03,"ud11p5":0.04,"ud11p6":0.05,"ud11p7":0.06,"ud11p8":0.07,"ud11p9":0.08,"ud11p10":0.09,"ud11p11":0.1,"ud11p12":0.11,"ud11p13":0.12,"ud11p14":0.13,"ud11p15":0.14,"ud11p16":0.15,"ud11p17":0.16,"ud11p18":0.17,"ud11p19":0.18,"ud11p20":0.19,"ud11p21":0.2,"ud11p22":0.21,"ud11p23":0.22,"ud11p24":0.23,"ud11p25":0.24,"ud11p26":0.25,"ud11p27":0.26,"ud11p28":0.27,"ud11p29":0.28,"ud11p30":0.29,"ud11p31":0.3,"ud11p32":0.32,"ud11p33":0.34,"ud11p34":0.36,"ud11p35":0.38,"ud11p36":0.4,"ud11p37":0.42,"ud11p38":0.44,"ud11p39":0.46,"ud11p40":0.48,"ud11p41":0.5,"ud11p42":0.55,"ud11p43":0.6,"ud11p44":0.65,"ud11p45":0.7,"ud11p46":0.75,"ud11p47":0.8,"ud11p48":0.85,"ud11p49":0.9,"ud11p50":0.95,"ud11p51":1,"ud11p52":1.1,"ud11p53":1.2,"ud11p54":1.3,"ud11p55":1.4,"ud11p56":1.5,"ud11p57":1.6,"ud11p58":1.7,"ud11p59":1.8,"ud11p60":1.9,"ud11p61":2}},"ad_page_gallery":{"name":"um6","active":"true","cpm_id":"um6","cpm":{"um6p1":0,"um6p2":0.01,"um6p3":0.02,"um6p4":0.03,"um6p5":0.04,"um6p6":0.05,"um6p7":0.06,"um6p8":0.07,"um6p9":0.08,"um6p10":0.09,"um6p11":0.1,"um6p12":0.11,"um6p13":0.12,"um6p14":0.13,"um6p15":0.14,"um6p16":0.15,"um6p17":0.16,"um6p18":0.17,"um6p19":0.18,"um6p20":0.19,"um6p21":0.2,"um6p22":0.21,"um6p23":0.22,"um6p24":0.23,"um6p25":0.24,"um6p26":0.25,"um6p27":0.26,"um6p28":0.27,"um6p29":0.28,"um6p30":0.29,"um6p31":0.3,"um6p32":0.32,"um6p33":0.34,"um6p34":0.36,"um6p35":0.38,"um6p36":0.4,"um6p37":0.42,"um6p38":0.44,"um6p39":0.46,"um6p40":0.48,"um6p41":0.5,"um6p42":0.55,"um6p43":0.6,"um6p44":0.65,"um6p45":0.7,"um6p46":0.75,"um6p47":0.8,"um6p48":0.85,"um6p49":0.9,"um6p50":0.95,"um6p51":1,"um6p52":1.1,"um6p53":1.2,"um6p54":1.3,"um6p55":1.4,"um6p56":1.5,"um6p57":1.6,"um6p58":1.7,"um6p59":1.8,"um6p60":1.9,"um6p61":2}},"ad_page_bottom":{"name":"um5","active":"true","cpm_id":"um5","cpm":{"um5p1":0,"um5p2":0.01,"um5p3":0.02,"um5p4":0.03,"um5p5":0.04,"um5p6":0.05,"um5p7":0.06,"um5p8":0.07,"um5p9":0.08,"um5p10":0.09,"um5p11":0.1,"um5p12":0.11,"um5p13":0.12,"um5p14":0.13,"um5p15":0.14,"um5p16":0.15,"um5p17":0.16,"um5p18":0.17,"um5p19":0.18,"um5p20":0.19,"um5p21":0.2,"um5p22":0.21,"um5p23":0.22,"um5p24":0.23,"um5p25":0.24,"um5p26":0.25,"um5p27":0.26,"um5p28":0.27,"um5p29":0.28,"um5p30":0.29,"um5p31":0.3,"um5p32":0.32,"um5p33":0.34,"um5p34":0.36,"um5p35":0.38,"um5p36":0.4,"um5p37":0.42,"um5p38":0.44,"um5p39":0.46,"um5p40":0.48,"um5p41":0.5,"um5p42":0.55,"um5p43":0.6,"um5p44":0.65,"um5p45":0.7,"um5p46":0.75,"um5p47":0.8,"um5p48":0.85,"um5p49":0.9,"um5p50":0.95,"um5p51":1,"um5p52":1.1,"um5p53":1.2,"um5p54":1.3,"um5p55":1.4,"um5p56":1.5,"um5p57":1.6,"um5p58":1.7,"um5p59":1.8,"um5p60":1.9,"um5p61":2}},"homepage_top":{"name":"um7","active":"true","cpm_id":"um7","cpm":{"um7p1":0,"um7p2":0.01,"um7p3":0.02,"um7p4":0.03,"um7p5":0.04,"um7p6":0.05,"um7p7":0.06,"um7p8":0.07,"um7p9":0.08,"um7p10":0.09,"um7p11":0.1,"um7p12":0.11,"um7p13":0.12,"um7p14":0.13,"um7p15":0.14,"um7p16":0.15,"um7p17":0.16,"um7p18":0.17,"um7p19":0.18,"um7p20":0.19,"um7p21":0.2,"um7p22":0.21,"um7p23":0.22,"um7p24":0.23,"um7p25":0.24,"um7p26":0.25,"um7p27":0.26,"um7p28":0.27,"um7p29":0.28,"um7p30":0.29,"um7p31":0.3,"um7p32":0.32,"um7p33":0.34,"um7p34":0.36,"um7p35":0.38,"um7p36":0.4,"um7p37":0.42,"um7p38":0.44,"um7p39":0.46,"um7p40":0.48,"um7p41":0.5,"um7p42":0.55,"um7p43":0.6,"um7p44":0.65,"um7p45":0.7,"um7p46":0.75,"um7p47":0.8,"um7p48":0.85,"um7p49":0.9,"um7p50":0.95,"um7p51":1,"um7p52":1.1,"um7p53":1.2,"um7p54":1.3,"um7p55":1.4,"um7p56":1.5,"um7p57":1.6,"um7p58":1.7,"um7p59":1.8,"um7p60":1.9,"um7p61":2}},"homepage_bottom":{"name":"um8","active":"true","cpm_id":"um8","cpm":{"um8p1":0,"um8p2":0.01,"um8p3":0.02,"um8p4":0.03,"um8p5":0.04,"um8p6":0.05,"um8p7":0.06,"um8p8":0.07,"um8p9":0.08,"um8p10":0.09,"um8p11":0.1,"um8p12":0.11,"um8p13":0.12,"um8p14":0.13,"um8p15":0.14,"um8p16":0.15,"um8p17":0.16,"um8p18":0.17,"um8p19":0.18,"um8p20":0.19,"um8p21":0.2,"um8p22":0.21,"um8p23":0.22,"um8p24":0.23,"um8p25":0.24,"um8p26":0.25,"um8p27":0.26,"um8p28":0.27,"um8p29":0.28,"um8p30":0.29,"um8p31":0.3,"um8p32":0.32,"um8p33":0.34,"um8p34":0.36,"um8p35":0.38,"um8p36":0.4,"um8p37":0.42,"um8p38":0.44,"um8p39":0.46,"um8p40":0.48,"um8p41":0.5,"um8p42":0.55,"um8p43":0.6,"um8p44":0.65,"um8p45":0.7,"um8p46":0.75,"um8p47":0.8,"um8p48":0.85,"um8p49":0.9,"um8p50":0.95,"um8p51":1,"um8p52":1.1,"um8p53":1.2,"um8p54":1.3,"um8p55":1.4,"um8p56":1.5,"um8p57":1.6,"um8p58":1.7,"um8p59":1.8,"um8p60":1.9,"um8p61":2}},"listing_nonstandard":{"name":"um3","active":"true","cpm_id":"um3","cpm":{"um3p1":0,"um3p2":0.01,"um3p3":0.02,"um3p4":0.03,"um3p5":0.04,"um3p6":0.05,"um3p7":0.06,"um3p8":0.07,"um3p9":0.08,"um3p10":0.09,"um3p11":0.1,"um3p12":0.11,"um3p13":0.12,"um3p14":0.13,"um3p15":0.14,"um3p16":0.15,"um3p17":0.16,"um3p18":0.17,"um3p19":0.18,"um3p20":0.19,"um3p21":0.2,"um3p22":0.21,"um3p23":0.22,"um3p24":0.23,"um3p25":0.24,"um3p26":0.25,"um3p27":0.26,"um3p28":0.27,"um3p29":0.28,"um3p30":0.29,"um3p31":0.3,"um3p32":0.32,"um3p33":0.34,"um3p34":0.36,"um3p35":0.38,"um3p36":0.4,"um3p37":0.42,"um3p38":0.44,"um3p39":0.46,"um3p40":0.48,"um3p41":0.5,"um3p42":0.55,"um3p43":0.6,"um3p44":0.65,"um3p45":0.7,"um3p46":0.75,"um3p47":0.8,"um3p48":0.85,"um3p49":0.9,"um3p50":0.95,"um3p51":1,"um3p52":1.1,"um3p53":1.2,"um3p54":1.3,"um3p55":1.4,"um3p56":1.5,"um3p57":1.6,"um3p58":1.7,"um3p59":1.8,"um3p60":1.9,"um3p61":2}},"listing_bottom":{"name":"um1","active":"true","cpm_id":"um1","cpm":{"um1p1":0,"um1p2":0.01,"um1p3":0.02,"um1p4":0.03,"um1p5":0.04,"um1p6":0.05,"um1p7":0.06,"um1p8":0.07,"um1p9":0.08,"um1p10":0.09,"um1p11":0.1,"um1p12":0.11,"um1p13":0.12,"um1p14":0.13,"um1p15":0.14,"um1p16":0.15,"um1p17":0.16,"um1p18":0.17,"um1p19":0.18,"um1p20":0.19,"um1p21":0.2,"um1p22":0.21,"um1p23":0.22,"um1p24":0.23,"um1p25":0.24,"um1p26":0.25,"um1p27":0.26,"um1p28":0.27,"um1p29":0.28,"um1p30":0.29,"um1p31":0.3,"um1p32":0.32,"um1p33":0.34,"um1p34":0.36,"um1p35":0.38,"um1p36":0.4,"um1p37":0.42,"um1p38":0.44,"um1p39":0.46,"um1p40":0.48,"um1p41":0.5,"um1p42":0.55,"um1p43":0.6,"um1p44":0.65,"um1p45":0.7,"um1p46":0.75,"um1p47":0.8,"um1p48":0.85,"um1p49":0.9,"um1p50":0.95,"um1p51":1,"um1p52":1.1,"um1p53":1.2,"um1p54":1.3,"um1p55":1.4,"um1p56":1.5,"um1p57":1.6,"um1p58":1.7,"um1p59":1.8,"um1p60":1.9,"um1p61":2}},"listing_middle_4":{"name":"um2","active":"true","cpm_id":"um2","cpm":{"um2p1":0,"um2p2":0.01,"um2p3":0.02,"um2p4":0.03,"um2p5":0.04,"um2p6":0.05,"um2p7":0.06,"um2p8":0.07,"um2p9":0.08,"um2p10":0.09,"um2p11":0.1,"um2p12":0.11,"um2p13":0.12,"um2p14":0.13,"um2p15":0.14,"um2p16":0.15,"um2p17":0.16,"um2p18":0.17,"um2p19":0.18,"um2p20":0.19,"um2p21":0.2,"um2p22":0.21,"um2p23":0.22,"um2p24":0.23,"um2p25":0.24,"um2p26":0.25,"um2p27":0.26,"um2p28":0.27,"um2p29":0.28,"um2p30":0.29,"um2p31":0.3,"um2p32":0.32,"um2p33":0.34,"um2p34":0.36,"um2p35":0.38,"um2p36":0.4,"um2p37":0.42,"um2p38":0.44,"um2p39":0.46,"um2p40":0.48,"um2p41":0.5,"um2p42":0.55,"um2p43":0.6,"um2p44":0.65,"um2p45":0.7,"um2p46":0.75,"um2p47":0.8,"um2p48":0.85,"um2p49":0.9,"um2p50":0.95,"um2p51":1,"um2p52":1.1,"um2p53":1.2,"um2p54":1.3,"um2p55":1.4,"um2p56":1.5,"um2p57":1.6,"um2p58":1.7,"um2p59":1.8,"um2p60":1.9,"um2p61":2}},"listing_middle_7":{"name":"um4","active":"true","cpm_id":"um4","cpm":{"um4p1":0,"um4p2":0.01,"um4p3":0.02,"um4p4":0.03,"um4p5":0.04,"um4p6":0.05,"um4p7":0.06,"um4p8":0.07,"um4p9":0.08,"um4p10":0.09,"um4p11":0.1,"um4p12":0.11,"um4p13":0.12,"um4p14":0.13,"um4p15":0.14,"um4p16":0.15,"um4p17":0.16,"um4p18":0.17,"um4p19":0.18,"um4p20":0.19,"um4p21":0.2,"um4p22":0.21,"um4p23":0.22,"um4p24":0.23,"um4p25":0.24,"um4p26":0.25,"um4p27":0.26,"um4p28":0.27,"um4p29":0.28,"um4p30":0.29,"um4p31":0.3,"um4p32":0.32,"um4p33":0.34,"um4p34":0.36,"um4p35":0.38,"um4p36":0.4,"um4p37":0.42,"um4p38":0.44,"um4p39":0.46,"um4p40":0.48,"um4p41":0.5,"um4p42":0.55,"um4p43":0.6,"um4p44":0.65,"um4p45":0.7,"um4p46":0.75,"um4p47":0.8,"um4p48":0.85,"um4p49":0.9,"um4p50":0.95,"um4p51":1,"um4p52":1.1,"um4p53":1.2,"um4p54":1.3,"um4p55":1.4,"um4p56":1.5,"um4p57":1.6,"um4p58":1.7,"um4p59":1.8,"um4p60":1.9,"um4p61":2}}};
+        var baxterLoadByContent = false;
+        var prebidCurrencyConfig = {"adServerCurrency":"RON","granularityMultiplier":1,"bidderCurrencyDefault":{"openx":"EUR"},"rates":{"USD":{"RON":4.42},"EUR":{"RON":4.84}}};
+            </script>
+    
+
+	    	    <div id="innerLayout">
+            <script type="text/javascript">
+        setTimeout(function(){
+            typeof window.IndexObj == 'object'
+            && typeof window.IndexObj.initScreening == 'function'
+            && window.IndexObj.initScreening();
+        }, 2500);
+    </script>
+
+
+
+<header id="header-container">
+	<div class="navi">
+		<div class="wrapper clr rel">
+												<a href="https://www.olx.ro" id="headerLogo" class="olx-website-rebranded" title="Anunturi pe OLX.ro">
+						<span class="olx-website-rebranded__o"></span>
+						<span class="olx-website-rebranded__l"></span>
+						<span class="olx-website-rebranded__x"></span>
+						Anunturi pe OLX.ro					</a>
+											
+			
+							<a id="postNewAdLink" data-cy="common_link_header_postnewad" class="postnewlink fbold tdnone" href="https://www.olx.ro/adauga-anunt/?bs=">
+					<span>Adauga anunt nou</span>
+				</a>
+										<script type="text/javascript">
+    observedNC = [];
+    observedNC['ads'] = [];
+    observedNC['searches'] = [];
+    observedNC['toSynchronize'] = '';
+    var loggedUserId="";
+    var showPasswordBlock=0;
+    var showPasswordBlockLevel=2;
+</script>
+<ul class="userbox fright marginleft10">
+    
+	        <li class="inlblk nowrap rel vtop" id="observed-counter">
+            <a href="https://www.olx.ro/anunturi-salvate/" class="tdnone inlblk hidden" id="observed-ads-link" title="Salvate ca favorite">
+                <i data-icon="star"></i>
+                <strong class="counter hidden" data-cy="common_text_header_observed_ads_counter">0</strong>
+            </a>
+            <a href="https://www.olx.ro/anunturi-salvate/search/" class="tdnone inlblk " id="observed-search-link" title="Salvate ca favorite" data-cy="common_button_observed_searches">
+                <i data-icon="star"></i>
+                <strong class="counter hidden">0</strong>
+            </a>
+        </li>
+    	<li class="inlblk nowrap vtop noslash" id="my-account-link">
+		<div class="inlblk rel">
+            <a href="https://www.olx.ro/myaccount/" class="userbox-login tdnone" id="topLoginLink">
+    <i data-icon="account"></i>
+    <span class="link inlblk" data-cy="common_link_header_myaccount">
+        <strong>Contul meu</strong>
+    </span>
+</a>
+
+            		</div>
+	</li>
+</ul>
+
+								</div>
+	</div>
+		</header>
+    <section class="login-page has-animation" style="background: white;">
+	    <div id="div-gpt-ad-1476099363895-0" data-cy="dfp_slot" class=" baxter-style-dfp-default-default" style="text-align: center; height: 790px;" data-google-query-id="CL2q1vKlxOkCFQOTdwodcZAGXA"><div id="google_ads_iframe_/71406437/olxro_dsk/account/background_lop_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/71406437/olxro_dsk/account/background_lop_0" title="3rd party ad content" name="google_ads_iframe_/71406437/olxro_dsk/account/background_lop_0" width="1920" height="790" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="1" data-load-complete="true"></iframe></div></div><div id="div-gpt-ad-1476099363895-0-after"></div>
+	<div class="login-box" style="box-shadow: rgb(0, 47, 52) 0px 0px 0px 2px;">
+    <div class="login-tabs">
+        <nav class="login-tabs__navigation">
+            <ul>
+                <li><a id="login_tab" class="active" href="" data-content="login">Intra in cont</a></li>
+                <li><a id="register_tab" href="" data-content="register">Creeaza un cont</a></li>
+            </ul>
+        </nav>
+        <ul class="login-tabs__content">
+            <li class="active" data-content="login">
+                <div class="login-form">
+    <form id="loginForm" class="default" action="https://www.olx.ro/cont/?ref%5B0%5D%5Baction%5D=myaccount&amp;ref%5B0%5D%5Bmethod%5D=index#login" method="post" novalidate="novalidate">
+                                    <a id="fblogin" class="login-button login-button--facebook" href="https://www.olx.ro/cont/facebooklogin/?ref%5B0%5D%5Baction%5D=myaccount&amp;ref%5B0%5D%5Bmethod%5D=index&amp;ref%5B1%5D%5Bparams%5D%5Bref%5D%5B0%5D%5Baction%5D=myaccount&amp;ref%5B1%5D%5Bparams%5D%5Bref%5D%5B0%5D%5Bmethod%5D=index&amp;ref%5B1%5D%5Baction%5D=account&amp;ref%5B1%5D%5Bmethod%5D=index">Continua cu contul Facebook</a>
+                                        <div id="signinButton" class="login-button login-button--google">
+                                    <div class="g-signin2" data-onsuccess="onGoogleSignIn" data-onfailure="onGoogleSignInFailure" data-width="336" data-height="44" data-longtitle="true" data-gapiscan="true" data-onload="true"><div style="height:44px;width:336px;" class="abcRioButton abcRioButtonLightBlue"><div class="abcRioButtonContentWrapper"><div class="abcRioButtonIcon" style="padding:12px"><div style="width:18px;height:18px;" class="abcRioButtonSvgImageWithFallback abcRioButtonIconImage abcRioButtonIconImage18"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 48 48" class="abcRioButtonSvg"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div></div><span style="font-size:15px;line-height:42px;" class="abcRioButtonContents"><span id="not_signed_in4ojlhlswvnyk">Sign in with Google</span><span id="connected4ojlhlswvnyk" style="display:none">Signed in with Google</span></span></div></div></div>
+                                            </div>
+                <fieldset class="standard-login-box">
+                            <span class="login-form__or"><span>sau</span></span>
+                        <div class="fblock">
+                                    <div class="label">
+                        <label for="userEmail">
+                                                            E-mail (din contul OLX)
+                                                                                </label>
+                    </div>
+                                <div class="focusbox">
+                                            <input id="userEmail" class="light required" type="text" name="login[email]" value="" placeholder="E-mail (din contul OLX)" title="E-mail (din contul OLX)">
+                                                        </div>
+            </div>
+            <div class="fblock active">
+                                    <div class="label">
+                        <label for="userPass">Parola</label>
+                    </div>
+                                <div class="focusbox">
+                    <input id="userPass" class="zxcvbn-password-check light required" type="password" name="login[password]" value="" placeholder="Parola" title="Parola" data-cy="login_input_password" autocomplete="off">
+                    <input name="login[zxcvbn-password-strength]" class="zxcvbn-password-strength" type="hidden" value="1.0000000001">
+                    <input name="login[zxcvbn-score-strength]" class="zxcvbn-score-strength" type="hidden" value="3">
+                </div>
+            </div>
+                                    <div class="login-form__bottom">
+                <a class="login-form__lostpassword" href="https://www.olx.ro/cont/forgotpassword/?bs=login_page_forgot_password_button">Ai uitat parola? </a>
+            </div>
+            <button id="se_userLogin" class="login-button login-button--submit">Intra in cont</button>
+
+        </fieldset>
+    </form>
+    <p class="login-form__terms">
+               Prin accesarea contului, esti de acord cu <a href="https://www.olx.ro/termeni-de-utilizare/" target="_blank">Termenii si Conditiile site-ului</a>      </p>
+
+</div>
+
+            </li>
+            <li data-content="register">
+                <form id="registerForm" class="login-form default" action="https://www.olx.ro/cont/?ref%5B0%5D%5Baction%5D=myaccount&amp;ref%5B0%5D%5Bmethod%5D=index#register" method="post" novalidate="novalidate">
+    
+
+                        <a class="login-button login-button--facebook" href="https://www.olx.ro/cont/facebooklogin/?ref%5B0%5D%5Baction%5D=myaccount&amp;ref%5B0%5D%5Bmethod%5D=index&amp;ref%5B1%5D%5Bparams%5D%5Bref%5D%5B0%5D%5Baction%5D=myaccount&amp;ref%5B1%5D%5Bparams%5D%5Bref%5D%5B0%5D%5Bmethod%5D=index&amp;ref%5B1%5D%5Baction%5D=account&amp;ref%5B1%5D%5Bmethod%5D=index" data-ref="register">Continua cu contul Facebook</a>
+                        <span class="login-form__or"><span>sau</span></span>
+                    <div class="fblock active">
+                            <div class="label">
+                    <label for="userEmailRegister">E-mail (din contul OLX)</label>
+                </div>
+                        <div class="focusbox">
+                <input id="userEmailRegister" class="light required" type="text" value="" name="register[email]" placeholder="E-mail (din contul OLX)" title="E-mail (din contul OLX)">
+            </div>
+        </div>
+                    <div class="fblock">
+                            <div class="label">
+                    <label for="userPassRegister">Alege o parola. </label>
+                </div>
+                        <div class="focusbox">
+                <input id="userPassRegister" class="zxcvbn-password-check light required" type="password" value="" name="register[password]" placeholder="Parola" title="Parola" autocomplete="off">
+                <i data-icon="eye" class=""></i>
+                <input name="register[zxcvbn-password-strength]" class="zxcvbn-password-strength" type="hidden" value="1.0000000001">
+                <input name="register[zxcvbn-score-strength]" class="zxcvbn-score-strength" type="hidden" value="3">
+            </div>
+        </div>
+    
+    <div class="fblock">
+        <div class="login-form__checkbox">
+                                        <p class="login-form__rodo marginbott20">
+                                                                Prin clic pe butonul Inregistreaza-te, accept  <a href="https://www.olx.ro/termeni-de-utilizare/" title="Termenii de utilizare" target="_blank">Termenii de utilizare</a>.
+                        <br><br>
+                        Am înțeles că S.C. OLX Online Services S.R.L.  îmi folosește datele personale în conformitate cu
+                        <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" title="Declarația de confidențialitate" target="_blank">Declarația de confidențialitate</a> și
+                        <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" title="Politica privind modulele cookie și alte tehnologii similare" target="_blank">Politica privind modulele cookie și alte tehnologii similare</a>. S.C. OLX Online Services S.R.L.
+                        recurge la sisteme automate și la parteneri care analizează modul în care utilizez serviciile, pentru a oferi o funcționalitate a produsului și
+                        un conținut relevant, materiale publicitare personalizate, precum și protecție împotriva mesajelor nesolicitate, software-ului rău intenționat și utilizării neautorizate.
+                                                                            </p>
+                <div style="display: none!important;visibility: hidden;opacity: 0;">
+                    <span class="abs" style="width:0px; height:0px; overflow:hidden; font-size:0px; zoom:1;"><span class="abs" style="width:0px; height:0px; overflow:hidden; font-size:0px; zoom:1;"><input id="checkbox_accept-terms" type="checkbox" name="register[rules]" checked="checked"></span><label for="checkbox_accept-terms" class="icon f_checkbox inlblk vtop selected" relname="register[rules]">&nbsp;</label></span><label for="checkbox_accept-terms" class="icon f_checkbox inlblk vtop selected" relname="register[rules]">&nbsp;</label>
+                </div>
+                    </div>
+    </div>
+            <div class="fblock">
+            <div class="focusbox">
+                <div class="login-form__checkbox">
+                    <span class="abs" style="width:0px; height:0px; overflow:hidden; font-size:0px; zoom:1;"><span class="abs" style="width:0px; height:0px; overflow:hidden; font-size:0px; zoom:1;"><input id="checkbox_accept-newsletter" type="checkbox" name="register[newsletter]" value="1"></span><label for="checkbox_accept-newsletter" class="icon f_checkbox inlblk vtop" relname="register[newsletter]">&nbsp;</label></span><label for="checkbox_accept-newsletter" class="icon f_checkbox inlblk vtop" relname="register[newsletter]">&nbsp;</label>
+                    <label for="checkbox_accept-newsletter">
+                        Sunt de acord cu folosirea mijloacelor de comunicare electronica si a echipamentelor de telecomunicatii in scopul trimiterii de informatii de natura comerciala (de ex. buletine informative, mesaje SMS) privind OLX Online Services S.R.L., afliliatii sau partenerii sai.</label>
+                </div>
+            </div>
+        </div>
+            <button id="button_register" class="login-button login-button--submit">Inregistreaza-te</button>
+</form>
+
+            </li>
+        </ul>
+    </div>
+</div>
+</section>
+    <script>
+	var newJobsTestConfig = {
+		spotCandidateOnboardingEnabled: false,
+		userId: null	};
+</script>
+<footer id="footer-container">
+	    <div class="footer-bottom" id="lastwrapper">
+        <div class="wrapper small">
+        <div class="margintop15 clr rel">
+            <div class="fleft">
+                                    <p>
+                        <a href="https://www.olx.ro" class="tdnone" title="OLX.ro">
+                            <span class="websitegray inlblk vtop">&nbsp;</span>
+                        </a>
+                    </p>
+                            </div>
+            <div class="boxindent">
+                <div class="clr">
+                    <div class="static box fleft">
+	<ul class="small lheight16">
+		<li class="block">
+			<a id="helpLinkFooter" href="https://ajutor.olx.ro/hc/ro" class="link gray" target="_blank">
+				<span>Ajutor si contact</span>
+			</a>
+		</li>
+					<li class="block">
+				<a href="https://www.olx.ro/popular/" class="link gray" title="Cautari frecvente" target="_blank">
+					<span>Cautari frecvente</span>
+				</a>
+			</li>
+				    <li class="block">
+        <a href="https://ajutor.olx.ro/hc/ro/articles/360000011300" class="link gray inlblk rel" target="_blank" title="Conditii de utilizare" data-cy="terms-and-conditions">
+            <span>Conditii de utilizare</span>
+                    </a>
+    </li>
+            <li class="block">
+            <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" class="link gray inlblk rel" target="_blank" title="Politica de confidentialitate">
+                <span>Politica de confidentialitate</span>
+            </a>
+        </li>
+            
+					<li class="block">
+				<a href="#" class="link gray" id="advertising-preferences-link" title="Setări publicitate" target="_blank">
+					<span>Setari Cookies</span>
+				</a>
+			</li>
+				<li class="block">
+			<a href="https://www.olx.ro/sitemap/" class="link gray" title="Harta site" target="_blank">
+				<span>Harta site</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olx.ro/sitemap/regions/" class="link gray" title="Harta judetelor" target="_blank">
+				<span>Harta judetelor</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olxgroup.com/careers" class="link gray" title="Cariere in OLX" target="_blank">
+				<span>Cariere in OLX</span>
+			</a>
+		</li>
+					<a href="http://www.anpc.gov.ro/" class="link gray" target="_blank" title="ANPC">
+				<span>ANPC</span>
+			</a>
+				<li class="block">
+			<a href="#" class="tdnone link spoiler graydot footer-partners" id="footerPartners" target="_blank">
+				<span class="inlblk">Parteneri</span>
+			</a>
+		</li>
+	</ul>
+</div>
+<div class="static box fleft">
+	<ul class="small lheight16">
+		<li class="block">
+			<a id="footerLinkMobileApps" class="link gray" title="Aplicatii mobile OLX.ro" href="https://www.olx.ro/mobil/" target="_blank">
+				<span>Aplicatii mobile</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olx.ro/cum-functioneaza/" class="link gray nowrap" title="Descopera OLX.ro" target="_blank">
+				<span>Cum functioneaza</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="http://premium.olx.ro/pachete-profesionisti/?utm_source=footer-link&amp;utm_medium=link&amp;utm_campaign=profesionisti&amp;utm_term=profesionisti&amp;utm_content=link" class="link gray nowrap" title="OLX pentru afacerea ta" target="_blank">
+				<span>OLX pentru afacerea ta</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olx.ro/lp/livrare-cu-verificare/" class="link gray" title="Livrare cu verificare" target="_blank">
+				<span>Livrare cu verificare</span>
+			</a>
+		</li>
+					<li class="block">
+				<a class="link gray" title="Promovarea anunturilor" href="https://www.olx.ro/payment/whypromote/" target="_blank">
+					<span>Promovarea anunturilor</span>
+				</a>
+			</li>
+				<li class="block">
+			<a class="link gray" title="Blog OLX" href="https://blog.olx.ro/" target="_blank">
+				<span>Blog OLX</span>
+			</a>
+		</li>
+		<li class="block">
+			<a class="link gray" title="Sfaturi de siguranta" href="https://ajutor.olx.ro/hc/ro/categories/200850619-Siguranta-ta-pe-OLX-ro-" target="_blank">
+				<span>Sfaturi de siguranta</span>
+			</a>
+		</li>
+		<li class="block">
+			<a class="link gray" title="How to OLX" href="https://howto.olx.ro/" target="_blank">
+				<span>How to OLX</span>
+			</a>
+		</li>
+		<li class="block">
+			<a class="link gray" title="Publicitate pe OLX" href="https://publicitate.olx.ro/" target="_blank">
+				<span>Publicitate pe OLX</span>
+			</a>
+		</li>
+		<li class="block">
+			<a class="link gray" title="Bun de angajat" href="https://bundeangajat.olx.ro/" target="_blank">
+				<span>Bun de angajat</span>
+			</a>
+		</li>
+	</ul>
+</div>
+
+                    <div class="footerexternals fleft">
+	<div class="footerexternals__headline">Urmareste-ne pe</div>
+	<ul class="footerexternals__links">
+		<li>
+			<a href="https://www.facebook.com/OLXro/" target="_blank">
+				<span class="icon block fbcircle"></span>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.instagram.com/olx_romania/" target="_blank">
+				<span class="icon block instagramcircle"></span>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/channel/UCA1rfelLXvNPcEEJgAGmVjg" target="_blank">
+				<span class="icon block youtubecircle"></span>
+			</a>
+		</li>
+	</ul>
+	<div class="footerexternals__headline">Descarca aplicatia pentru telefon din</div>
+	<ul class="footerexternals__links">
+		<li>
+			<a href="https://itunes.apple.com/ro/app/olx.ro/id653399343?l=ro&amp;ls=1&amp;mt=8" id="footerAppIphone" target="_blank">
+				<span class="icon block appstore"></span>
+			</a>
+		</li>
+		<li>
+			<a href="https://play.google.com/store/apps/details?id=ro.mercador&amp;referrer=utm_source%3Dolx.ro%26utm_medium%3Dcpc%26utm_campaign%3Dandroid-app-footer" id="footerAppAndroid" target="_blank">
+				<span class="icon block googleplay"></span>
+			</a>
+		</li>
+		<li>
+			<a href="https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C101915443" target="_blank">
+				<span class="icon block appgallery"></span>
+			</a>
+		</li>
+	</ul>
+	</div>
+
+                </div>
+                <div class="partners box margin10_0 hidden" id="footerPartnersContainer">
+	<ul class="clr">
+						<li class="part25 fleft">
+				<a href="https://www.olx.bg" target="_blank" class="link gray">
+					<span class="icon fleft flag olxbg"></span><span>OLX.bg</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="https://www.olx.pl" target="_blank" class="link gray">
+					<span class="icon fleft flag olxpl"></span><span>OLX.pl</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="https://www.olx.ua/" target="_blank" class="link gray">
+					<span class="icon fleft flag olxua"></span><span>OLX.ua</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="https://www.tradus.com/ro" target="_blank" class="link gray">
+					<span class="icon fleft flag tradus"></span><span>tradus.com</span>
+				</a>
+			</li>
+			
+	</ul>
+
+			<ul class="clr">
+			<li class="part25 fleft">
+				<a href="http://autovit.ro/" target="_blank" class="link gray">
+					<span class="icon fleft flag olxro"></span><span>Autovit.ro</span>
+				</a>
+			</li>
+			<li class="part25 fleft">
+				<a href="https://storia.ro/" target="_blank" class="link gray">
+					<span class="icon fleft flag olxro"></span><span>Storia.ro</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+
+            </div>
+            
+                    </div>
+        </div>
+    </div>
+	</footer>
+<div id="message_system" style="display: none">
+	<div class="inner">
+		<div class="tleft x-normal lheight20 rel messagesystem ">
+			<p>
+				<i class="fleft status"></i>
+				<span class="msg block overh"></span>
+			</p>
+		</div>
+	</div>
+</div>
+<div id="dialogMessage" class="hidden">
+	<div class="inner"></div>
+</div>
+<div id="saveFavDiv" class="hidden">
+	<div class="inner tcenter">
+		<div class="large lheight18">
+			<p class="marginbott15 margintop10 typeSearch hidden">
+				<strong>Cautarea a fost salvata</strong>
+			</p>
+			<p class="marginbott15 margintop10 typeOffer hidden">
+				<strong>Bravo. Anuntul este acum salvat in in lista ta de favorite</strong>
+			</p>
+			<p class="margin5_0"><strong>Important si util:</strong> Pentru a salva permanent anuntul trebuie sa fii logat in contul tau OLX.</p>
+			<p class="margintop25 marginbott25">
+				<a class="button big3 br3 circleshadow" href="https://www.olx.ro/cont/?origin=observepopup" data-cy="common_button_save_favourites">
+					<span class="cfff large">Intra in cont</span>
+				</a>
+			</p>
+			<p class="margin5_0">sau <a href="https://www.olx.ro/cont/creare-parola/" class="link">
+					<span>Creeaza cont</span>
+				</a>
+			</p>
+		</div>
+	</div>
+	<div class="tcenter brtop-1 clr pding10">
+		<p class="margin20_0 large lheight18">
+			<a href="#" class="link" data-cy="search_results_button_close_observed_search_info_message" onclick="$.fancybox.close(); return false;">
+				<span>Nu, multumesc</span>
+			</a>
+		</p>
+	</div>
+</div>
+<div id="synchroFavDiv" class="hidden">
+	<div class="inner"></div>
+	<div class="tcenter brtop-1 clr pding10">
+		<p class="margin10_0">
+			<a class="button big br3" href="#" id="synchronizeObservedConfirm" data-cy="common_button_synchronize_observed">
+				<span class="cfff large">Salveaza ca favorit</span>
+			</a>
+		</p>
+		<p class="margin5_0">
+			<a href="#" class="link" id="synchronizeObservedCancel">
+				<span>Nu, multumesc</span>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div class="topinfo rel" id="cookiesBar">
+    <button class="cookie-close abs cookiesBarClose">Acceptă &amp; Închide</button>
+    <div class="cookie-notification">
+        <p>
+            Prin utilizarea serviciilor noastre, îți exprimi acordul cu privire la faptul că folosim module cookie și alte tehnologii similare în scopul îmbunătățirii și al personalizării conținutului nostru,<br> în vederea analizării traficului, a furnizării de publicitate și a protecției anti-spam și anti-malware, precum și împotriva utilizării neautorizate.&nbsp;
+            <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" target="_blank"><strong>Afla mai multe detalii</strong></a>
+        </p>
+                    <p>
+                <b><a href="#" id="advertPreference" target="_blank" class="link tdnone">Click aici</a></b> pentru a modifica setările în ceea ce privește partenerii de publicitate ai OLX
+            </p>
+            </div>
+</div>
+
+<div id="layer-apps" class="layer-apps  hidden">
+    <div class="layer-content">
+        <a onclick="_gaq.push(['_trackEvent', 'AppPromo', 'MyOLX', 'Close']);" class="layerapps-close icon close abs" href="#"></a>
+        <span class="header iblblk abs"></span>
+        <div class="buttons-box">
+            <a onclick="_gaq.push(['_trackEvent', 'AppPromo', 'MyOLX', 'AppStore']);" class="inlblk icon appstore" href="http://bit.ly/OLXIos" target="_blank">OLX.ro AppStore</a>
+            <a onclick="_gaq.push(['_trackEvent', 'AppPromo', 'MyOLX', 'GooglePlay']);" class="inlblk icon googleplay" href="http://bit.ly/OLXAndroid" target="_blank">OLX.ro GooglePlay</a>
+            <a onclick="_gaq.push(['_trackEvent', 'AppPromo', 'MyOLX', 'WindowsStore']);" class="inlblk icon windowsstore" href="http://bit.ly/OLXWindows" target="_blank">OLX.ro WindowsStore</a>
+        </div>
+    </div>
+</div>
+
+    <div class="badge-jobcategory js-badge-jobcategory hidden">
+        <a href="https://www.olx.ro/locuri-de-munca/?utm_source=olx&amp;utm_medium=floating_banner&amp;utm_campaign=jobs" target="_blank">
+            <span class="icon"></span>
+
+            <span class="badge-title">
+                Cauti un loc de munca?
+            </span>
+            <span class="badge-text">
+                Gaseste-l aici in peste 45.000 oferte de pe OLX
+            </span>
+        </a>
+        <div class="js-badge-jobcategory-close" data-icon="close"></div>
+    </div>
+
+<div id="div-gpt-ad-1496911542897-0" data-cy="dfp_slot"></div><div id="div-gpt-ad-1496911542897-0-after"></div>
+	<div id="createPasswordPopup" class="create-password__overlay hidden">
+		<div class="create-password__inner">
+			<h4>Seteaza o parola pentru contul tau</h4>
+			<p>Care sunt beneficiile unui cont pe OLX? </p>
+			<ul>
+				<li>Poti adauga anunturi rapid, fara confirmare pe email,</li>
+				<li>Poti accesa usor contul si anunturile tale oricand,</li>
+				<li>Poti modifica rapid setarile contului sau anunturilor tale</li>
+			</ul>
+
+			<a class="login-button login-button--facebook" href="https://www.olx.ro/cont/facebookmerge/">Continua cu contul Facebook</a>
+			<a class="login-button" href="https://www.olx.ro/myaccount/settings/#password">Seteaza parola</a>
+		</div>
+	</div>
+
+
+    <div id="mandatoryLoginDiv" class="hidden">
+        <div class="mandatory-login clr">
+            <div class="mandatory-login__why">
+                <h3 class="create-password__title">Beneficiile crearii unui cont pe OLX:</h3>
+                <ul class="create-password__list">
+                    <li>Poti trimite rapid mesaje catre orice anunt</li>
+                    <li>Ai toate conversatiile salvate intr-un singur loc</li>
+                    <li>Ai acces la toate functiile contului OLX</li>
+                </ul>
+            </div>
+            <div class="mandatory-login__login">
+                <div class="login-box">
+    <div class="login-tabs">
+        <nav class="login-tabs__navigation">
+            <ul>
+                <li><a id="login_tab" class="active" href="" data-content="login">Intra in cont</a></li>
+                <li><a id="register_tab" href="" data-content="register">Creeaza un cont</a></li>
+            </ul>
+        </nav>
+        <ul class="login-tabs__content">
+            <li class="active" data-content="login">
+                <div class="login-form">
+    <form id="loginForm" class="default" action="https://www.olx.ro/cont/?ref%5B0%5D%5Baction%5D=myaccount&amp;ref%5B0%5D%5Bmethod%5D=index#login" method="post">
+                                    <a id="fblogin" class="login-button login-button--facebook" href="https://www.olx.ro/cont/facebooklogin/?ref%5B0%5D%5Baction%5D=myaccount&amp;ref%5B0%5D%5Bmethod%5D=index&amp;ref%5B1%5D%5Bparams%5D%5Bref%5D%5B0%5D%5Baction%5D=myaccount&amp;ref%5B1%5D%5Bparams%5D%5Bref%5D%5B0%5D%5Bmethod%5D=index&amp;ref%5B1%5D%5Baction%5D=account&amp;ref%5B1%5D%5Bmethod%5D=index">Continua cu contul Facebook</a>
+                                        <div id="signinButton" class="login-button login-button--google">
+                                    <div class="g-signin2" data-onsuccess="onGoogleSignIn" data-onfailure="onGoogleSignInFailure" data-width="336" data-height="44" data-longtitle="true" data-gapiscan="true" data-onload="true"><div style="height:44px;width:336px;" class="abcRioButton abcRioButtonLightBlue"><div class="abcRioButtonContentWrapper"><div class="abcRioButtonIcon" style="padding:12px"><div style="width:18px;height:18px;" class="abcRioButtonSvgImageWithFallback abcRioButtonIconImage abcRioButtonIconImage18"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 48 48" class="abcRioButtonSvg"><g><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path><path fill="none" d="M0 0h48v48H0z"></path></g></svg></div></div><span style="font-size:15px;line-height:42px;" class="abcRioButtonContents"><span id="not_signed_inqh3zfohh5zho">Sign in with Google</span><span id="connectedqh3zfohh5zho" style="display:none">Signed in with Google</span></span></div></div></div>
+                                            </div>
+                <fieldset class="standard-login-box">
+                            <span class="login-form__or"><span>sau</span></span>
+                        <div class="fblock">
+                                    <div class="label">
+                        <label for="userEmail">
+                                                            E-mail (din contul OLX)
+                                                                                </label>
+                    </div>
+                                <div class="focusbox">
+                                            <input id="userEmail" class="light required" type="text" name="login[email]" value="" placeholder="E-mail (din contul OLX)" title="E-mail (din contul OLX)">
+                                                        </div>
+            </div>
+            <div class="fblock ">
+                                    <div class="label">
+                        <label for="userPass">Parola</label>
+                    </div>
+                                <div class="focusbox">
+                    <input id="userPass" class="zxcvbn-password-check light required" type="password" name="login[password]" value="" placeholder="Parola" title="Parola" data-cy="login_input_password" autocomplete="off">
+                    <input name="login[zxcvbn-password-strength]" class="zxcvbn-password-strength" type="hidden" value="1.0000000001">
+                    <input name="login[zxcvbn-score-strength]" class="zxcvbn-score-strength" type="hidden" value="3">
+                </div>
+            </div>
+                                    <div class="login-form__bottom">
+                <a class="login-form__lostpassword" href="https://www.olx.ro/cont/forgotpassword/?bs=login_page_forgot_password_button">Ai uitat parola? </a>
+            </div>
+            <button id="se_userLogin" class="login-button login-button--submit">Intra in cont</button>
+
+        </fieldset>
+    </form>
+    <p class="login-form__terms">
+               Prin accesarea contului, esti de acord cu <a href="https://www.olx.ro/termeni-de-utilizare/" target="_blank">Termenii si Conditiile site-ului</a>      </p>
+
+</div>
+
+            </li>
+            <li data-content="register">
+                <form id="registerForm" class="login-form default" action="https://www.olx.ro/cont/?ref%5B0%5D%5Baction%5D=myaccount&amp;ref%5B0%5D%5Bmethod%5D=index#register" method="post">
+    
+
+                        <a class="login-button login-button--facebook" href="https://www.olx.ro/cont/facebooklogin/?ref%5B0%5D%5Baction%5D=myaccount&amp;ref%5B0%5D%5Bmethod%5D=index&amp;ref%5B1%5D%5Bparams%5D%5Bref%5D%5B0%5D%5Baction%5D=myaccount&amp;ref%5B1%5D%5Bparams%5D%5Bref%5D%5B0%5D%5Bmethod%5D=index&amp;ref%5B1%5D%5Baction%5D=account&amp;ref%5B1%5D%5Bmethod%5D=index" data-ref="register">Continua cu contul Facebook</a>
+                        <span class="login-form__or"><span>sau</span></span>
+                    <div class="fblock">
+                            <div class="label">
+                    <label for="userEmailRegister">E-mail (din contul OLX)</label>
+                </div>
+                        <div class="focusbox">
+                <input id="userEmailRegister" class="light required" type="text" value="" name="register[email]" placeholder="E-mail (din contul OLX)" title="E-mail (din contul OLX)">
+            </div>
+        </div>
+                    <div class="fblock">
+                            <div class="label">
+                    <label for="userPassRegister">Alege o parola. </label>
+                </div>
+                        <div class="focusbox">
+                <input id="userPassRegister" class="zxcvbn-password-check light required" type="password" value="" name="register[password]" placeholder="Parola" title="Parola" autocomplete="off">
+                <i data-icon="eye" class=""></i>
+                <input name="register[zxcvbn-password-strength]" class="zxcvbn-password-strength" type="hidden" value="1.0000000001">
+                <input name="register[zxcvbn-score-strength]" class="zxcvbn-score-strength" type="hidden" value="3">
+            </div>
+        </div>
+    
+    <div class="fblock">
+        <div class="login-form__checkbox">
+                                        <p class="login-form__rodo marginbott20">
+                                                                Prin clic pe butonul Inregistreaza-te, accept  <a href="https://ajutor.olx.ro/hc/ro/articles/360000011300" title="Termenii de utilizare" target="_blank">Termenii de utilizare</a>.
+                        <br><br>
+                        Am înțeles că S.C. OLX Online Services S.R.L.  îmi folosește datele personale în conformitate cu
+                        <a href="https://ajutor.olx.ro/hc/ro/articles/360000012640" title="Declarația de confidențialitate" target="_blank">Declarația de confidențialitate</a> și
+                        <a href="https://ajutor.olx.ro/hc/ro/articles/360000013839" title="Politica privind modulele cookie și alte tehnologii similare" target="_blank">Politica privind modulele cookie și alte tehnologii similare</a>. S.C. OLX Online Services S.R.L.
+                        recurge la sisteme automate și la parteneri care analizează modul în care utilizez serviciile, pentru a oferi o funcționalitate a produsului și
+                        un conținut relevant, materiale publicitare personalizate, precum și protecție împotriva mesajelor nesolicitate, software-ului rău intenționat și utilizării neautorizate.
+                                                                            </p>
+                <div style="display: none!important;visibility: hidden;opacity: 0;">
+                    <input id="checkbox_accept-terms" type="checkbox" name="register[rules]" checked="checked">
+                </div>
+                    </div>
+    </div>
+            <div class="fblock">
+            <div class="focusbox">
+                <div class="login-form__checkbox">
+                    <input id="checkbox_accept-newsletter" type="checkbox" name="register[newsletter]" value="1">
+                    <label for="checkbox_accept-newsletter">
+                        Sunt de acord cu folosirea mijloacelor de comunicare electronica si a echipamentelor de telecomunicatii in scopul trimiterii de informatii de natura comerciala (de ex. buletine informative, mesaje SMS) privind OLX Online Services S.R.L., afliliatii sau partenerii sai.</label>
+                </div>
+            </div>
+        </div>
+            <button id="button_register" class="login-button login-button--submit">Inregistreaza-te</button>
+</form>
+
+            </li>
+        </ul>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>		<!-- BODY CONTRIB -->
+	    
+	    <script type="text/javascript">
+	<!--
+	xtcustom = {"platform":"desktop","page_name":"myaccount","action_type":"myolx_ads","ab_mode":"old"};
+	//-->
+</script>
+		<!-- TRACKING CONTRIB --><script type="text/javascript">
+	<!-- 
+ if (typeof xtcustom !== 'undefined') {
+	xtcustom["user_status"] = "unlogged";
+	}
+ //-->
+</script>
+
+	    							<script type="text/javascript" src="https://static-olxeu.akamaized.net/static/olxro/packed/sw3b5268274796f0fe0c5d796123a85e17.js"></script>
+												<script type="text/javascript" src="https://static-olxeu.akamaized.net/static/olxro/packed/swf26a00dfc95455a1ea74ce549d4bdb30.js"></script>
+										<script type="text/javascript">
+				$LAB
+								.script('https://cdn.optimizely.com/js/1069071886.js?v=1')
+							</script>
+					
+	        <script type="text/javascript">
+        var _gaq = _gaq || [];
+                </script>
+		
+		
+	
+			    			<script type="text/javascript">
+			$(function(){
+				if(typeof GoogleObj != 'undefined') {
+					setTimeout(function() {
+						var adsDetails = GoogleObj.getAdsDetails();
+						if(typeof adsDetails[0] != 'undefined') {
+							GoogleObj.loadGoogleAds(adsDetails[0]);
+						}
+					}, 100);
+				}
+			});
+		</script>
+			    
+	<!-- WHITEIMAGE -->
+			 <script type="text/javascript">var _wpak = { "Account":"8wp2208" };(function() {var wpa=document.createElement('script');wpa.type='text/javascript';wpa.async=1;wpa.src='//pa.7w.ro/js/trk.js?r='+Math.random().toString().substring(2);var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(wpa, s);})();</script>
+		<!-- /WHITEIMAGE -->
+	
+	<!-- CRAZY EGG CODE -->
+			<script type="text/javascript">
+			setTimeout(function(){var a=document.createElement("script");
+			var b=document.getElementsByTagName("script")[0];
+			a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/7251.js?"+Math.floor(new Date().getTime()/3600000);
+			a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+		</script>
+		<!-- /CRAZY EGG CODE -->
+	
+	<!-- Google Code for Remarketing tag -->
+		<!-- /Google Code for Remarketing tag -->
+	
+	<!-- Facebook remarketing code -->
+                	<!-- /Facebook remarketing code -->
+	
+
+<script type="text/javascript">
+    tocmaiUser = 0;
+</script>
+
+		    <!--APP R3NDR www.olx.ro--><!--B4CK3ND OK-->
+	    <!-- BOTTOM CONTRIB --><script type="text/javascript">window.dataLayer = window.dataLayer || [];window.dataLayer.push({"call": "samurai"});</script>
+
+
+	
+
+<!-- 517a4a7d352c -->
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap" class="fancybox-container"><div id="fancybox-outer"><div id="fancybox-content"></div><a id="fancybox-close" alt="Inchide fereastra" title="Inchide fereastra"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><iframe name="GoogleSetNPA" id="GoogleSetNPA" style="display:none;position:fixed;left:-999px;top:-999px;width:0px;height:0px;"></iframe><script type="text/javascript" id="" src="//cdn.cxense.com/cx.js"></script>
+<link rel="dns-prefetch" href="//app.omniconvert.com">
+<script type="text/javascript" id="" src="//cdn.omniconvert.com/js/a17287.js"></script><script type="text/javascript" id="">(function(){if(0<document.querySelectorAll(".errorbox").length||0<document.querySelectorAll(".errorform").length)window.dataLayer=window.dataLayer||[],window.dataLayer.push({trackEvent:["registration_error"],action_type:"registration_error"})})();</script><script type="text/javascript" id="">(function(b,a,c,d){b._itlk="3c255777915734884241690";b._itlt=[];b._itlq=[];b._itld=d;b[a]=b[a]||{log:function(a,c,d){b._itlt.push([a,c,d])},stream:function(a){b._itlq.push([a])}};a=c.createElement("script");d=c.getElementsByTagName("script")[0];c="https:"==c.location.protocol?"https://":"http://";a.async=1;a.src=c+"io.innertrends.com/itl.js";a.type="text/javascript";d.parentNode.insertBefore(a,d)})(window,"_itl",document,"");</script><iframe id="ssIFrame_google" sandbox="allow-scripts allow-same-origin" aria-hidden="true" frame-border="0" style="position: absolute; width: 1px; height: 1px; left: -9999px; top: -9999px; right: -9999px; bottom: -9999px; display: none;" src="https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.olx.ro&amp;rpcToken=742574107.9705875&amp;clearCache=1"></iframe>
+<script type="text/javascript" id="">cX.sync("ddp");</script>
+<iframe id="google_osd_static_frame_2861744557362" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body></html>

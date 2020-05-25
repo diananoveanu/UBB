@@ -1,2 +1,6 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
+"Olx test user stories","Deactivate prduct","ERROR","2020-05-22T10:18:37.521+03:00","0.0","21.43"
+"Search by price DDT","Search emag by product filter","ERROR","2020-05-21T08:13:54.061+03:00","0.0","36.25"
+"Search by price DDT","Search wiki by keyword test DDT","FAILURE","2020-05-12T21:57:36.403+03:00","0.0","46.77"
+"Olx test user stories","Searching by keyword apple should display the corresponding article","ERROR","2020-05-21T08:28:22.248+03:00","0.0","0.44"
 "Search by keyword story","Searching by keyword pen should display the corresponding article","FAILURE","2020-04-29T13:32:15.145+03:00","0.0","8.66"

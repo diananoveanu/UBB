@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="serenity.features.search.OlxTestUserStories" skipped="0" tests="3" time="73.27" timestamp="2020-05-143 10:18:15"><testcase classname="serenity.features.search.OlxTestUserStories" name="User tries to login"/><testcase classname="serenity.features.search.OlxTestUserStories" name="Deactivate prduct"><error message="Index 0 out of bounds for length 0" type="java.lang.IndexOutOfBoundsException">Index 0 out of bounds for length 0</error><system-err>Index 0 out of bounds for length 0
+java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+serenity.pages.OlxPage.deactivate_product_click(OlxPage.java:67)
+serenity.steps.serenity.OlxEndUserSteps.deactivate_product_click(OlxEndUserSteps.java:85)
+serenity.features.search.OlxTestUserStories.deactivate_prduct(OlxTestUserStories.java:61)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</system-err></testcase><testcase classname="serenity.features.search.OlxTestUserStories" name="User adds product"/></testsuite>

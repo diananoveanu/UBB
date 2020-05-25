@@ -1,2 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
+"Search by price DDT","Search wiki by keyword test DDT","FAILURE","2020-05-12T21:57:36.403+03:00","0.0","46.77"
 "Search by keyword story","Searching by keyword pen should display the corresponding article","FAILURE","2020-04-29T13:32:15.145+03:00","0.0","8.66"

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by price DDT","Search emabg by product","SUCCESS","2020-05-12T23:09:14.740+03:00","0.0","35.39"
+"Search by price DDT","Search emag by product","SUCCESS","2020-05-22T10:51:57.632+03:00","0.0","47.92"
+"Search by price DDT","Search emag by product filter","ERROR","2020-05-21T08:13:54.061+03:00","0.0","36.25"
+"Search by price DDT","Search wiki by keyword test DDT","FAILURE","2020-05-12T21:57:36.403+03:00","0.0","46.77"

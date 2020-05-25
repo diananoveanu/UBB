@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+<![endif]--><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-bdd-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">Demo Project using Serenity and JUnit</span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <a
+                    href="bd150637714b3470bfcc2ecb46bd9c91.html">Search</a>
+                > <a
+                    href="1d6a7be87230d23010eb2f16154c4335.html">User adds product </a>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="d782c44557441225cc92a5e35bf4b23b.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 22-05-2020 10:18</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Search </span>
+                                    <span class="badge tag-badge">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                In order to understand a word that I don't know
+As a user
+I want to be able to look up the meaning of the word
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" href="4014854b0d04b6d336f3e9f14ab3d338.html">Olx Test User Stories
+                                    (story)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-check-square-o success-icon fa-3x' title='SUCCESS'></i></span>
+                            <span class="test-case-title">
+                                <span class="success-color">User Adds Product
+                                    <span class="related-issue-title">(#ADD-1)</span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="scaled_17aabb20cbd1e456da6c2dde655b95e0.png" title="User opens home page" width="960"/>
+                <img src="scaled_1775fdea61c72c13cdc78cee3f36d00f.png" title="Goes to login" width="960"/>
+                <img src="scaled_c661dbdd83be04a56b617973d2a74e55.png" title="Type credentials: geo.badita@gmail.com, Vvss-olx?1" width="960"/>
+                <img src="scaled_da7da4ab76b9206d3c01de999fb87821.png" title="Type credentials: geo.badita@gmail.com, Vvss-olx?1" width="960"/>
+                <img src="scaled_c3c6b1efb021a868fe619575b729f152.png" title="Login" width="960"/>
+                <img src="0e616bb22634d960328c87c5b3bfbe7b.png" title="Login" width="960"/>
+                <img src="25e7dd2d4231e1ed0bd8d00249aaf76a.png" title="Click add button" width="960"/>
+                <img src="f42d118becd01e6b99fefb7d5100d671.png" title="Click add button" width="960"/>
+                <img src="4294dde548cb5d04ea9e3b5afcfe31cb.png" title="Add title: Vand tractor" width="960"/>
+                <img src="e62e9ac40f1de77acaaba7675ea5c0d7.png" title="Select category" width="960"/>
+                <img src="scaled_ea9d1c9639b7c314d887fa66c2b0e7f7.png" title="Select category" width="960"/>
+                <img src="091b011fa157f98a63445409e136389e.png" title="Add description: Cel mai bun anunt, descrierea trebuie sa contina 20 de caractere" width="960"/>
+                <img src="f5d7afdcbf68d59771d2295d39c44b2f.png" title="Add description: Cel mai bun anunt, descrierea trebuie sa contina 20 de caractere" width="960"/>
+                <img src="8f19b91c69fc3ea598a3f81778c5988f.png" title="Input price: 12000" width="960"/>
+                <img src="scaled_745639972d3c7433977fa5949bc221e9.png" title="Input price: 12000" width="960"/>
+                <img src="scaled_aeefdaffa7a586a47bbb23937eed1766.png" title="Select vendor type" width="960"/>
+                <img src="d025c8654d424759851ea8cff51b2a55.png" title="Select vendor type" width="960"/>
+                <img src="c786b36ddc4bedee42407d7ac715dbe7.png" title="Submit" width="960"/>
+                <img src="2a19e822c8639245e8df839617a1e27d.png" title="Submit: <span class='success-color'>SUCCESS</span>" width="960"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 1.2.2-rc.1</span>
+</div>
+</body>
+</html>

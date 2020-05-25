@@ -27,6 +27,11 @@ public class EmagEndUserSteps {
     }
 
     @Step
+    public void should_not_find_requested_price(String price){
+        assertThat(emagPage.getProductPrice(), not(hasItem(containsString(price))));
+    }
+
+    @Step
     public void is_the_home_page() {
         emagPage.open();
     }
@@ -41,4 +46,6 @@ public class EmagEndUserSteps {
     public void use_recycled_filter(){
         emagPage.use_recycled_filter();
     }
+
+
 }
